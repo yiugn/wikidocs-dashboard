@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+public/
+data/*.png
+data/*.log
+data/server.*.log
