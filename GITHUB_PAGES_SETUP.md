@@ -49,6 +49,16 @@ schedule:
 
 GitHub Actions의 cron은 UTC 기준입니다. 정확히 정각에 실행된다는 보장은 없지만, 무료로 주기적 수집과 Pages 배포를 하기에는 가장 단순한 방식입니다.
 
+## GitHub-hosted Actions가 위키독스 수집을 막는 경우
+
+위키독스 공개 HTML이 GitHub-hosted runner IP에서 `403`으로 막힐 수 있습니다. 이 경우 workflow는 실패하지 않고 마지막으로 저장소에 커밋된 데이터를 Pages에 게시합니다.
+
+실시간 데이터를 계속 갱신하려면 로컬 PC에서 아래 스크립트를 1시간마다 실행해 데이터를 GitHub에 push합니다. push가 발생하면 Pages workflow가 자동으로 다시 배포됩니다.
+
+```powershell
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\scripts\publish_latest.ps1"
+```
+
 ## 주의
 
 - GitHub Pages는 기본적으로 공개 사이트입니다.
