@@ -34,7 +34,11 @@ jobs:
         env:
           WIKIDOCS_TOKENS: ${{ secrets.WIKIDOCS_TOKENS }}
           WIKIDOCS_MAX_PAGES: "0"
-        run: python export_static.py --collect
+        run: |
+          if ! python export_static.py --collect; then
+            echo "::warning::Live Wikidocs collection failed. Publishing the latest committed dashboard data instead."
+            python export_static.py
+          fi
 
       - name: Commit updated history
         run: |

@@ -255,7 +255,7 @@ def scrape_blog_views(slug: str, max_pages: int = 0, delay: float = 0.12) -> dic
     discovered_pages = 1
 
     while True:
-        url = f"{WIKIDOCS_BLOG}/%40{quote(slug)}/?page={page_no}&sort=recent"
+        url = f"{WIKIDOCS_BLOG}/@{quote(slug)}/?page={page_no}&sort=recent"
         response = None
         last_error: Exception | None = None
         for attempt in range(1, 5):
