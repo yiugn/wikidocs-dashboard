@@ -89,11 +89,14 @@ function metricCard(label, value, hint) {
 
 function renderMetrics(data) {
   const totals = data.totals || {};
+  const monthSummary = data.month_summary || {};
+  const monthHint = `${monthSummary.current_month || "이번 달"} ${monthSummary.is_realtime ? "실시간 누적" : "저장 기준"}`;
   $("metrics").innerHTML = [
     metricCard("블로그", formatNumber(totals.blogs), `토큰 ${formatNumber(data.config?.token_count)}개 연결`),
     metricCard("글 수", formatNumber(totals.posts), `수집 성공 ${formatNumber(totals.captured_posts)}개`),
     metricCard("누적 조회수", formatNumber(totals.total_views), "최근 스냅샷 합계"),
     metricCard("오늘 조회수", formatNumber(totals.daily_views), "직전 저장일 대비"),
+    metricCard("당월 조회수", formatNumber(monthSummary.current_month_views), monthHint),
     metricCard("스냅샷", formatNumber(data.daily_snapshot_count), "일별 저장 행"),
   ].join("");
 }
@@ -189,6 +192,35 @@ function renderTables(data) {
     : `<tr><td colspan="4" class="empty">오늘 증가분은 직전 저장일 이후 조회수 증가가 있을 때 표시됩니다.</td></tr>`;
 }
 
+function renderMonthly(data) {
+  const monthSummary = data.month_summary || {};
+  const month = monthSummary.current_month || "이번 달";
+  const monthNote = $("monthNote");
+  if (monthNote) {
+    const freshness = monthSummary.is_realtime ? "오늘 실시간 스냅샷 포함" : "마지막 저장 스냅샷 기준";
+    monthNote.textContent = `${month} 누적 ${formatNumber(monthSummary.current_month_views)}회 · ${freshness}`;
+  }
+
+  const monthRows = $("currentMonthRows");
+  if (!monthRows) return;
+
+  const rows = (monthSummary.current_month_blog_views || []).slice(0, 20);
+  monthRows.innerHTML = rows.length
+    ? rows
+        .map((row) => {
+          const blogUrl = row.blog_slug ? `https://wikidocs.net/blog/@${encodeURIComponent(row.blog_slug)}/` : "#";
+          return `
+          <tr>
+            <td class="clip-cell"><a href="${blogUrl}" target="_blank" rel="noreferrer">${row.blog_name}</a></td>
+            <td class="num">${formatNumber(row.views)}</td>
+            <td class="num">${formatNumber(row.total_views)}</td>
+          </tr>
+        `;
+        })
+        .join("")
+    : `<tr><td colspan="3" class="empty">당월 조회수 데이터가 없습니다.</td></tr>`;
+}
+
 function prepareCanvas(canvas) {
   const ratio = window.devicePixelRatio || 1;
   const rect = canvas.getBoundingClientRect();
@@ -227,7 +259,7 @@ function drawAxes(ctx, width, height, margin, maxValue) {
 
 function drawBarChart(canvas, labels, values, options = {}) {
   if (!values.length || Math.max(...values) <= 0) {
-    drawEmpty(canvas, "표시할 조회수 데이터가 없습니다.");
+    drawEmpty(canvas, options.emptyMessage || "표시할 조회수 데이터가 없습니다.");
     return;
   }
   const { ctx, width, height } = prepareCanvas(canvas);
@@ -400,6 +432,9 @@ function drawLineChart(canvas, series) {
 
 function renderCharts(data) {
   const blogs = data.blogs || [];
+  const monthSummary = data.month_summary || {};
+  const monthlySeries = monthSummary.monthly_series || [];
+  const currentMonthBlogs = (monthSummary.current_month_blog_views || []).slice(0, 10);
   drawBarChart(
     $("blogBarChart"),
     blogs.slice(0, 10).map((blog) => blog.name),
@@ -410,6 +445,18 @@ function renderCharts(data) {
   drawHorizontalBarChart($("topDailyPostsChart"), data.top_daily_posts || [], "daily_views", "오늘 조회수 증가분 데이터가 없습니다.");
   drawMultiLineChart($("dailyViewsByBlogChart"), data.daily_series || [], "daily_views", "두 날짜 이상의 스냅샷이 저장되면 일단위 조회수가 표시됩니다.");
   drawMultiLineChart($("cumulativeViewsByBlogChart"), data.daily_series || [], "total_views", "누적 조회수 스냅샷이 없습니다.");
+  drawBarChart(
+    $("monthlyViewsChart"),
+    monthlySeries.map((row) => row.month),
+    monthlySeries.map((row) => row.views),
+    { labelLimit: 7, emptyMessage: "월별 조회수 데이터가 없습니다." },
+  );
+  drawBarChart(
+    $("currentMonthBlogChart"),
+    currentMonthBlogs.map((row) => row.blog_name),
+    currentMonthBlogs.map((row) => row.views),
+    { labelLimit: 10, emptyMessage: "당월 조회수 데이터가 없습니다." },
+  );
 }
 
 function setActiveTab(tabId) {
@@ -442,6 +489,7 @@ async function loadDashboard() {
   renderNotes(data);
   renderBlogs(data);
   renderTables(data);
+  renderMonthly(data);
   renderCharts(data);
 
   if (!state.staticMode && data.needs_today_collect && !data.job?.running && !state.autoCollectStarted) {

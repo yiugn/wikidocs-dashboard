@@ -500,6 +500,7 @@ def build_dashboard() -> dict[str, Any]:
     active_blog_ids = {str(blog["id"]) for blog in catalog.get("blogs", [])}
     latest_snapshot_date_value = latest.get("date") if latest else None
     observed_start_date = daily_snapshots[0].get("date") if daily_snapshots else None
+    today_date = now_kst().date().isoformat()
     for snapshot in daily_snapshots:
         for blog in snapshot.get("blogs", []):
             blog_id = str(blog["id"])
@@ -515,7 +516,7 @@ def build_dashboard() -> dict[str, Any]:
                     "blog_slug": blog.get("slug", ""),
                     "total_views": total,
                     "daily_views": max(0, total - prior),
-                    "is_realtime_today": snapshot.get("date") == now_kst().date().isoformat(),
+                    "is_realtime_today": snapshot.get("date") == today_date,
                 }
             )
             previous_total_by_blog[blog_id] = total
@@ -527,12 +528,56 @@ def build_dashboard() -> dict[str, Any]:
         reverse=True,
     )
 
+    current_month = today_date[:7]
+    catalog_blog_lookup = {str(blog["id"]): blog for blog in catalog.get("blogs", [])}
+    latest_blog_lookup = {str(blog["id"]): blog for blog in blogs}
+    monthly_totals: dict[str, int] = {}
+    monthly_by_blog: dict[str, dict[str, int]] = {}
+    for row in daily_series:
+        row_date = str(row.get("date") or "")
+        if len(row_date) < 7:
+            continue
+        month = row_date[:7]
+        views = int(row.get("daily_views") or 0)
+        monthly_totals[month] = monthly_totals.get(month, 0) + views
+
+        blog_id = str(row.get("blog_id"))
+        blog_month = monthly_by_blog.setdefault(month, {})
+        blog_month[blog_id] = blog_month.get(blog_id, 0) + views
+
+    monthly_series = [
+        {"month": month, "views": views, "is_current_month": month == current_month}
+        for month, views in sorted(monthly_totals.items())
+    ]
+    current_month_blog_views = []
+    for blog_id, views in monthly_by_blog.get(current_month, {}).items():
+        latest_blog = latest_blog_lookup.get(blog_id, {})
+        catalog_blog = catalog_blog_lookup.get(blog_id, {})
+        current_month_blog_views.append(
+            {
+                "blog_id": latest_blog.get("id") or catalog_blog.get("id") or blog_id,
+                "blog_name": latest_blog.get("name") or catalog_blog.get("name") or "",
+                "blog_slug": latest_blog.get("slug") or catalog_blog.get("slug") or "",
+                "views": views,
+                "total_views": int(latest_blog.get("total_views") or 0),
+            }
+        )
+    current_month_blog_views.sort(key=lambda item: item["views"], reverse=True)
+    month_summary = {
+        "current_month": current_month,
+        "current_month_views": monthly_totals.get(current_month, 0),
+        "current_month_blog_views": current_month_blog_views,
+        "monthly_series": monthly_series,
+        "is_realtime": latest_snapshot_date_value == today_date,
+    }
+
     totals = {
         "blogs": len(catalog.get("blogs", [])),
         "posts": sum(int(blog.get("post_count") or 0) for blog in catalog.get("blogs", [])),
         "captured_posts": sum(blog["captured_posts"] for blog in blogs),
         "total_views": sum(blog["total_views"] for blog in blogs),
         "daily_views": sum(blog["daily_views"] for blog in blogs),
+        "current_month_views": month_summary["current_month_views"],
     }
 
     return {
@@ -543,6 +588,7 @@ def build_dashboard() -> dict[str, Any]:
         "snapshot_count": len(snapshots),
         "daily_snapshot_count": len(daily_snapshots),
         "totals": totals,
+        "month_summary": month_summary,
         "blogs": sorted(blogs, key=lambda item: item["total_views"], reverse=True),
         "daily_series": daily_series,
         "observed_start_date": observed_start_date,

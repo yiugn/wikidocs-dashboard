@@ -42,6 +42,7 @@
       <nav class="tabs" aria-label="대시보드 보기">
         <button class="tab-button active" type="button" data-tab="overviewTab">요약</button>
         <button class="tab-button" type="button" data-tab="dailyTab">일별 추이</button>
+        <button class="tab-button" type="button" data-tab="monthlyTab">월별 추이</button>
       </nav>
 
       <section id="overviewTab" class="tab-panel active">
@@ -168,6 +169,56 @@
             </div>
           </div>
           <canvas id="cumulativeViewsByBlogChart" height="430"></canvas>
+        </section>
+      </section>
+
+      <section id="monthlyTab" class="tab-panel">
+        <section class="notice">
+          <strong>당월 누적 조회수</strong>
+          <p id="monthNote">이번 달 누적 조회수는 오늘 실시간 스냅샷까지 포함합니다.</p>
+        </section>
+
+        <section class="panel-grid">
+          <article class="panel wide">
+            <div class="panel-head">
+              <div>
+                <h2>월별 조회수</h2>
+                <p>x축 날짜(월), y축 조회수</p>
+              </div>
+            </div>
+            <canvas id="monthlyViewsChart" height="320"></canvas>
+          </article>
+
+          <article class="panel">
+            <div class="panel-head">
+              <div>
+                <h2>당월 블로그별 조회수</h2>
+                <p>이번 달 증가분 기준</p>
+              </div>
+            </div>
+            <canvas id="currentMonthBlogChart" height="320"></canvas>
+          </article>
+        </section>
+
+        <section class="panel">
+          <div class="panel-head">
+            <div>
+              <h2>당월 블로그별 순위</h2>
+              <p>실시간 기준 월 누적 조회수</p>
+            </div>
+          </div>
+          <div class="table-wrap">
+            <table class="compact-table month-table">
+              <thead>
+                <tr>
+                  <th>블로그</th>
+                  <th>당월</th>
+                  <th>누적</th>
+                </tr>
+              </thead>
+              <tbody id="currentMonthRows"></tbody>
+            </table>
+          </div>
         </section>
       </section>
     </main>
