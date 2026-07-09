@@ -6,7 +6,7 @@ Set-Location $ProjectRoot
 $Python = (Get-Command python).Source
 & $Python export_static.py --collect
 
-git add data/catalog.json data/snapshots.jsonl data/daily_blog_views.csv data/daily_cumulative_views.csv
+git add data/catalog.json data/snapshots.jsonl data/intraday_snapshots.jsonl data/daily_blog_views.csv data/daily_cumulative_views.csv
 $diff = git diff --cached --name-only
 if (-not $diff) {
   Write-Host "No dashboard data changes to publish."

@@ -47,7 +47,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/catalog.json data/snapshots.jsonl data/daily_blog_views.csv data/daily_cumulative_views.csv
+          git add data/catalog.json data/snapshots.jsonl data/intraday_snapshots.jsonl data/daily_blog_views.csv data/daily_cumulative_views.csv
           git diff --cached --quiet || git commit -m "Update Wikidocs dashboard data"
           git push
 

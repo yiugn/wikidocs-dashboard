@@ -25,6 +25,7 @@ STATIC_DIR = ROOT / "static"
 ENV_FILE = ROOT / ".env"
 CATALOG_FILE = DATA_DIR / "catalog.json"
 SNAPSHOTS_FILE = DATA_DIR / "snapshots.jsonl"
+INTRADAY_SNAPSHOTS_FILE = DATA_DIR / "intraday_snapshots.jsonl"
 DAILY_VIEWS_CSV = DATA_DIR / "daily_blog_views.csv"
 CUMULATIVE_VIEWS_CSV = DATA_DIR / "daily_cumulative_views.csv"
 COLLECT_INTERVAL_SECONDS = 30 * 60
@@ -94,6 +95,7 @@ def read_json(path: Path, default: Any) -> Any:
 
 def append_snapshot(snapshot: dict[str, Any]) -> None:
     ensure_data_dir()
+    append_intraday_snapshot(snapshot)
     snapshots = read_snapshots()
     by_date: dict[str, dict[str, Any]] = {}
     for item in snapshots:
@@ -125,6 +127,66 @@ def read_snapshots() -> list[dict[str, Any]]:
             except json.JSONDecodeError:
                 continue
     return snapshots
+
+
+def compact_intraday_snapshot(snapshot: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "date": snapshot.get("date") or str(snapshot.get("collected_at", ""))[:10],
+        "collected_at": snapshot.get("collected_at"),
+        "source": snapshot.get("source"),
+        "blogs": [
+            {
+                "id": blog.get("id"),
+                "slug": blog.get("slug", ""),
+                "name": blog.get("name", ""),
+                "total_views": int(blog.get("total_views") or 0),
+                "captured_posts": int(blog.get("captured_posts") or 0),
+            }
+            for blog in snapshot.get("blogs", [])
+        ],
+    }
+
+
+def read_intraday_snapshots() -> list[dict[str, Any]]:
+    if not INTRADAY_SNAPSHOTS_FILE.exists():
+        return []
+    snapshots: list[dict[str, Any]] = []
+    with INTRADAY_SNAPSHOTS_FILE.open("r", encoding="utf-8") as fp:
+        for line in fp:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                snapshots.append(json.loads(line))
+            except json.JSONDecodeError:
+                continue
+    return snapshots
+
+
+def append_intraday_snapshot(snapshot: dict[str, Any]) -> None:
+    ensure_data_dir()
+    compact = compact_intraday_snapshot(snapshot)
+    snapshot_date = compact.get("date")
+    entries = [
+        item
+        for item in read_intraday_snapshots()
+        if (item.get("date") or str(item.get("collected_at", ""))[:10]) == snapshot_date
+        and item.get("collected_at") != compact.get("collected_at")
+    ]
+    entries.append(compact)
+    entries.sort(key=lambda item: item.get("collected_at") or "")
+    with INTRADAY_SNAPSHOTS_FILE.open("w", encoding="utf-8") as fp:
+        for item in entries:
+            fp.write(json.dumps(item, ensure_ascii=False) + "\n")
+
+
+def intraday_time_label(snapshot: dict[str, Any]) -> str:
+    collected_at = str(snapshot.get("collected_at") or "")
+    if "T" in collected_at:
+        return collected_at.split("T", 1)[1][:5]
+    if len(collected_at) >= 16:
+        return collected_at[11:16]
+    return collected_at or "00:00"
 
 
 def log_job(message: str) -> None:
@@ -521,6 +583,62 @@ def build_dashboard() -> dict[str, Any]:
             )
             previous_total_by_blog[blog_id] = total
 
+    baseline_snapshot = None
+    for snapshot in daily_snapshots:
+        snapshot_date = snapshot.get("date") or str(snapshot.get("collected_at", ""))[:10]
+        if snapshot_date and snapshot_date < today_date:
+            baseline_snapshot = snapshot
+    baseline_blogs = snapshot_blog_map(baseline_snapshot or {})
+
+    intraday_snapshots = [
+        snapshot
+        for snapshot in read_intraday_snapshots()
+        if (snapshot.get("date") or str(snapshot.get("collected_at", ""))[:10]) == today_date
+    ]
+    if latest and (latest.get("date") or str(latest.get("collected_at", ""))[:10]) == today_date:
+        latest_collected_at = latest.get("collected_at")
+        if latest_collected_at and latest_collected_at not in {snapshot.get("collected_at") for snapshot in intraday_snapshots}:
+            intraday_snapshots.append(compact_intraday_snapshot(latest))
+    intraday_snapshots.sort(key=lambda item: item.get("collected_at") or "")
+
+    intraday_series = []
+    previous_intraday_total_by_blog: dict[str, int] = {}
+    for snapshot in intraday_snapshots:
+        time_label = intraday_time_label(snapshot)
+        for blog in snapshot.get("blogs", []):
+            blog_id = str(blog["id"])
+            if active_blog_ids and blog_id not in active_blog_ids:
+                continue
+            total = int(blog.get("total_views") or 0)
+            baseline_blog = baseline_blogs.get(blog_id)
+            baseline_total = int(baseline_blog.get("total_views") or 0) if baseline_blog else total
+            prior_total = previous_intraday_total_by_blog.get(blog_id)
+            interval_views = max(0, total - prior_total) if prior_total is not None else 0
+            intraday_series.append(
+                {
+                    "date": time_label,
+                    "snapshot_date": snapshot.get("date") or today_date,
+                    "collected_at": snapshot.get("collected_at"),
+                    "blog_id": blog["id"],
+                    "blog_name": blog["name"],
+                    "blog_slug": blog.get("slug", ""),
+                    "total_views": total,
+                    "daily_views": max(0, total - baseline_total),
+                    "interval_views": interval_views,
+                    "is_realtime_today": snapshot.get("collected_at") == latest.get("collected_at") if latest else False,
+                }
+            )
+            previous_intraday_total_by_blog[blog_id] = total
+
+    intraday_summary = {
+        "date": today_date,
+        "interval_minutes": COLLECT_INTERVAL_SECONDS // 60,
+        "snapshot_count": len(intraday_snapshots),
+        "first_collected_at": intraday_snapshots[0].get("collected_at") if intraday_snapshots else None,
+        "last_collected_at": intraday_snapshots[-1].get("collected_at") if intraday_snapshots else None,
+        "is_realtime": latest_snapshot_date_value == today_date,
+    }
+
     all_top_posts.sort(key=lambda item: item["views"], reverse=True)
     top_daily_posts = sorted(
         [post for post in all_top_posts if int(post.get("daily_views") or 0) > 0],
@@ -591,6 +709,8 @@ def build_dashboard() -> dict[str, Any]:
         "month_summary": month_summary,
         "blogs": sorted(blogs, key=lambda item: item["total_views"], reverse=True),
         "daily_series": daily_series,
+        "intraday_series": intraday_series,
+        "intraday_summary": intraday_summary,
         "observed_start_date": observed_start_date,
         "history_mode": "observed_snapshots_only",
         "history_note": "위키독스는 과거 일별 조회수 원본을 API로 제공하지 않아, 이 대시보드는 저장된 스냅샷 날짜부터 실제 일별 증가분을 누적합니다. 저장된 날짜는 CSV/JSONL에서 재사용하고 오늘 데이터만 실시간으로 갱신합니다.",

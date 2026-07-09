@@ -221,6 +221,18 @@ function renderMonthly(data) {
     : `<tr><td colspan="3" class="empty">당월 조회수 데이터가 없습니다.</td></tr>`;
 }
 
+function renderIntraday(data) {
+  const summary = data.intraday_summary || {};
+  const note = $("todayTrendNote");
+  if (!note) return;
+
+  const interval = summary.interval_minutes || 30;
+  const count = formatNumber(summary.snapshot_count);
+  const lastUpdated = summary.last_collected_at ? formatDateTime(summary.last_collected_at) : "없음";
+  const freshness = summary.is_realtime ? "실시간 기준" : "마지막 저장 기준";
+  note.textContent = `${summary.date || "오늘"} · ${interval}분 단위 스냅샷 ${count}개 · 최근 ${lastUpdated} · ${freshness}`;
+}
+
 function prepareCanvas(canvas) {
   const ratio = window.devicePixelRatio || 1;
   const rect = canvas.getBoundingClientRect();
@@ -258,6 +270,7 @@ function drawAxes(ctx, width, height, margin, maxValue) {
 }
 
 function drawBarChart(canvas, labels, values, options = {}) {
+  if (!canvas) return;
   if (!values.length || Math.max(...values) <= 0) {
     drawEmpty(canvas, options.emptyMessage || "표시할 조회수 데이터가 없습니다.");
     return;
@@ -291,6 +304,7 @@ function drawBarChart(canvas, labels, values, options = {}) {
 }
 
 function drawHorizontalBarChart(canvas, posts, metric = "views", emptyMessage = "상위 포스팅 데이터가 없습니다.") {
+  if (!canvas) return;
   const rows = posts.slice(0, 8);
   if (!rows.length || Math.max(...rows.map((post) => Number(post[metric] || 0))) <= 0) {
     drawEmpty(canvas, emptyMessage);
@@ -361,6 +375,7 @@ function buildMultiSeries(series, metric) {
 }
 
 function drawMultiLineChart(canvas, series, metric, emptyMessage) {
+  if (!canvas) return;
   const { dates, rows } = buildMultiSeries(series, metric);
   const maxValue = Math.max(...rows.flatMap((row) => row.points), 0);
   if (!dates.length || maxValue <= 0) {
@@ -411,7 +426,8 @@ function drawMultiLineChart(canvas, series, metric, emptyMessage) {
   const labelStep = Math.max(1, Math.ceil(dates.length / 8));
   dates.forEach((date, index) => {
     if (index % labelStep === 0 || index === dates.length - 1) {
-      ctx.fillText(date.slice(5), xFor(index), height - 16);
+      const label = date.length > 7 ? date.slice(5) : date;
+      ctx.fillText(label, xFor(index), height - 16);
     }
   });
 
@@ -443,6 +459,8 @@ function renderCharts(data) {
   drawLineChart($("dailyLineChart"), data.daily_series || []);
   drawHorizontalBarChart($("topPostsChart"), data.top_posts || []);
   drawHorizontalBarChart($("topDailyPostsChart"), data.top_daily_posts || [], "daily_views", "오늘 조회수 증가분 데이터가 없습니다.");
+  drawMultiLineChart($("todayViewsByBlogChart"), data.intraday_series || [], "daily_views", "당일 30분 단위 스냅샷이 쌓이면 조회수 추이가 표시됩니다.");
+  drawMultiLineChart($("todayIntervalViewsByBlogChart"), data.intraday_series || [], "interval_views", "두 번 이상의 당일 스냅샷이 저장되면 30분 구간 증가분이 표시됩니다.");
   drawMultiLineChart($("dailyViewsByBlogChart"), data.daily_series || [], "daily_views", "두 날짜 이상의 스냅샷이 저장되면 일단위 조회수가 표시됩니다.");
   drawMultiLineChart($("cumulativeViewsByBlogChart"), data.daily_series || [], "total_views", "누적 조회수 스냅샷이 없습니다.");
   drawBarChart(
@@ -489,6 +507,7 @@ async function loadDashboard() {
   renderNotes(data);
   renderBlogs(data);
   renderTables(data);
+  renderIntraday(data);
   renderMonthly(data);
   renderCharts(data);
 

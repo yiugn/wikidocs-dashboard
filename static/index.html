@@ -41,6 +41,7 @@
 
       <nav class="tabs" aria-label="대시보드 보기">
         <button class="tab-button active" type="button" data-tab="overviewTab">요약</button>
+        <button class="tab-button" type="button" data-tab="todayTab">당일 추이</button>
         <button class="tab-button" type="button" data-tab="dailyTab">일별 추이</button>
         <button class="tab-button" type="button" data-tab="monthlyTab">월별 추이</button>
       </nav>
@@ -141,6 +142,33 @@
               <tbody id="topRows"></tbody>
             </table>
           </div>
+        </section>
+      </section>
+
+      <section id="todayTab" class="tab-panel">
+        <section class="notice">
+          <strong>당일 30분 단위 추이</strong>
+          <p id="todayTrendNote">오늘 수집된 30분 단위 스냅샷을 기준으로 표시합니다.</p>
+        </section>
+
+        <section class="panel full">
+          <div class="panel-head">
+            <div>
+              <h2>블로그별 당일 조회수 추이</h2>
+              <p>x축 수집 시각, y축 당일 조회수. 굵은 선은 전체 블로그 합계입니다.</p>
+            </div>
+          </div>
+          <canvas id="todayViewsByBlogChart" height="430"></canvas>
+        </section>
+
+        <section class="panel full">
+          <div class="panel-head">
+            <div>
+              <h2>블로그별 30분 구간 증가분</h2>
+              <p>x축 수집 시각, y축 직전 스냅샷 대비 증가분입니다.</p>
+            </div>
+          </div>
+          <canvas id="todayIntervalViewsByBlogChart" height="430"></canvas>
         </section>
       </section>
 
