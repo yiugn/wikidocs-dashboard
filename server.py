@@ -27,7 +27,7 @@ CATALOG_FILE = DATA_DIR / "catalog.json"
 SNAPSHOTS_FILE = DATA_DIR / "snapshots.jsonl"
 DAILY_VIEWS_CSV = DATA_DIR / "daily_blog_views.csv"
 CUMULATIVE_VIEWS_CSV = DATA_DIR / "daily_cumulative_views.csv"
-COLLECT_INTERVAL_SECONDS = 60 * 60
+COLLECT_INTERVAL_SECONDS = 30 * 60
 
 WIKIDOCS_API = "https://wikidocs.net/napi"
 WIKIDOCS_BLOG = "https://wikidocs.net/blog"
