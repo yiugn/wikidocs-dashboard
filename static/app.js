@@ -96,6 +96,7 @@ function renderMetrics(data) {
     metricCard("글 수", formatNumber(totals.posts), `수집 성공 ${formatNumber(totals.captured_posts)}개`),
     metricCard("누적 조회수", formatNumber(totals.total_views), "최근 스냅샷 합계"),
     metricCard("오늘 조회수", formatNumber(totals.daily_views), "직전 저장일 대비"),
+    metricCard("전일 조회수", formatNumber(totals.previous_day_views), `${totals.previous_day_date || "어제"} 기준`),
     metricCard("당월 조회수", formatNumber(monthSummary.current_month_views), monthHint),
     metricCard("스냅샷", formatNumber(data.daily_snapshot_count), "일별 저장 행"),
   ].join("");

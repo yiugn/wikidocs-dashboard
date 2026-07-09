@@ -647,6 +647,12 @@ def build_dashboard() -> dict[str, Any]:
     )
 
     current_month = today_date[:7]
+    previous_day_date = (now_kst().date() - dt.timedelta(days=1)).isoformat()
+    previous_day_views = sum(
+        int(row.get("daily_views") or 0)
+        for row in daily_series
+        if row.get("date") == previous_day_date
+    )
     catalog_blog_lookup = {str(blog["id"]): blog for blog in catalog.get("blogs", [])}
     latest_blog_lookup = {str(blog["id"]): blog for blog in blogs}
     monthly_totals: dict[str, int] = {}
@@ -695,6 +701,8 @@ def build_dashboard() -> dict[str, Any]:
         "captured_posts": sum(blog["captured_posts"] for blog in blogs),
         "total_views": sum(blog["total_views"] for blog in blogs),
         "daily_views": sum(blog["daily_views"] for blog in blogs),
+        "previous_day_views": previous_day_views,
+        "previous_day_date": previous_day_date,
         "current_month_views": month_summary["current_month_views"],
     }
 
