@@ -52,6 +52,11 @@ def export_public(public_dir: Path) -> None:
         "error": None,
     }
     write_json(public_dir / "data" / "dashboard.json", dashboard)
+
+    review_note = server.build_review_note_dashboard()
+    review_note["static_generated_at"] = dashboard["static_generated_at"]
+    write_json(public_dir / "data" / "review-note.json", review_note)
+
     copy_if_exists(server.DAILY_VIEWS_CSV, public_dir / "data" / "daily_blog_views.csv")
     copy_if_exists(server.CUMULATIVE_VIEWS_CSV, public_dir / "data" / "daily_cumulative_views.csv")
 

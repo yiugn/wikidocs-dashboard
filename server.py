@@ -11,7 +11,7 @@ import time
 import webbrowser
 from pathlib import Path
 from typing import Any
-from urllib.parse import quote
+from urllib.parse import quote, urljoin
 
 import requests
 from bs4 import BeautifulSoup
@@ -32,6 +32,12 @@ COLLECT_INTERVAL_SECONDS = 30 * 60
 
 WIKIDOCS_API = "https://wikidocs.net/napi"
 WIKIDOCS_BLOG = "https://wikidocs.net/blog"
+REVIEW_NOTE_SLUGS = ("smartliving", "cartemlab", "petpicknote")
+REVIEW_NOTE_BLOG_LABELS = {
+    "smartliving": "스마트 리빙",
+    "cartemlab": "카템랩",
+    "petpicknote": "펫픽 노트",
+}
 
 app = Flask(__name__, static_folder=str(STATIC_DIR), static_url_path="")
 job_lock = threading.Lock()
@@ -298,9 +304,20 @@ def parse_public_blog_page(html: str, slug: str, page_no: int) -> tuple[int, lis
             continue
         post_id = int(match.group(1))
         views, likes, comments = numbers[-3:]
+        title_el = card.select_one("h2")
+        excerpt_el = card.select_one("p")
+        image_el = card.select_one("img")
+        published_el = meta.find("span") if meta else None
+        thumbnail_url = ""
+        if image_el:
+            thumbnail_url = image_el.get("src") or image_el.get("data-src") or ""
         posts.append(
             {
                 "id": post_id,
+                "title": title_el.get_text(" ", strip=True) if title_el else "",
+                "excerpt": excerpt_el.get_text(" ", strip=True) if excerpt_el else "",
+                "thumbnail_url": urljoin("https://wikidocs.net", thumbnail_url) if thumbnail_url else "",
+                "published_label": published_el.get_text(" ", strip=True) if published_el else "",
                 "views": views,
                 "likes": likes,
                 "comments": comments,
@@ -366,8 +383,11 @@ def collect_snapshot(max_pages: int = 0, refresh_catalog: bool = False) -> dict[
             posts.append(
                 {
                     "id": int(post_id),
-                    "title": meta.get("title") or f"Post {post_id}",
+                    "title": meta.get("title") or view_data.get("title") or f"Post {post_id}",
                     "url": meta.get("url") or f"{WIKIDOCS_BLOG}/@{blog['slug']}/{post_id}/",
+                    "excerpt": view_data.get("excerpt") or meta.get("excerpt", ""),
+                    "thumbnail_url": view_data.get("thumbnail_url") or meta.get("thumbnail_url", ""),
+                    "published_label": view_data.get("published_label", ""),
                     "views": int(view_data["views"]),
                     "likes": int(view_data["likes"]),
                     "comments": int(view_data["comments"]),
@@ -732,6 +752,125 @@ def build_dashboard() -> dict[str, Any]:
     }
 
 
+def review_blog_name(blog: dict[str, Any]) -> str:
+    slug = str(blog.get("slug") or "")
+    return REVIEW_NOTE_BLOG_LABELS.get(slug, blog.get("name") or slug)
+
+
+def build_review_note_dashboard() -> dict[str, Any]:
+    catalog = read_json(CATALOG_FILE, {"updated_at": None, "blogs": []})
+    snapshots = read_snapshots()
+    daily_snapshots = latest_snapshot_per_day(snapshots)
+    latest = daily_snapshots[-1] if daily_snapshots else None
+    previous = daily_snapshots[-2] if len(daily_snapshots) >= 2 else None
+    previous_posts = snapshot_post_map(previous or {})
+    latest_snapshot_date_value = latest.get("date") if latest else None
+    today_date = now_kst().date().isoformat()
+
+    target_slugs = set(REVIEW_NOTE_SLUGS)
+    catalog_lookup = {str(blog.get("slug")): blog for blog in catalog.get("blogs", [])}
+    blogs = []
+    posts = []
+
+    for blog in (latest or {}).get("blogs", []):
+        slug = str(blog.get("slug") or "")
+        if slug not in target_slugs:
+            continue
+        blog_id = str(blog.get("id"))
+        catalog_blog = catalog_lookup.get(slug, {})
+        blog_name = REVIEW_NOTE_BLOG_LABELS.get(slug, blog.get("name") or catalog_blog.get("name") or slug)
+        blog_posts = []
+
+        for post in blog.get("posts", []):
+            prev_post = previous_posts.get(blog_id, {}).get(str(post.get("id")), {})
+            views = int(post.get("views") or 0)
+            daily_views = max(0, views - int(prev_post.get("views") or views))
+            item = {
+                "id": post.get("id"),
+                "title": post.get("title") or f"Post {post.get('id')}",
+                "url": post.get("url") or f"{WIKIDOCS_BLOG}/@{slug}/{post.get('id')}/",
+                "excerpt": post.get("excerpt", ""),
+                "thumbnail_url": post.get("thumbnail_url", ""),
+                "published_label": post.get("published_label", ""),
+                "views": views,
+                "daily_views": daily_views,
+                "likes": int(post.get("likes") or 0),
+                "comments": int(post.get("comments") or 0),
+                "blog_id": blog.get("id"),
+                "blog_slug": slug,
+                "blog_name": blog_name,
+            }
+            posts.append(item)
+            blog_posts.append(item)
+
+        blog_posts.sort(key=lambda item: item["views"], reverse=True)
+        blogs.append(
+            {
+                "id": blog.get("id"),
+                "slug": slug,
+                "name": blog_name,
+                "post_count": blog.get("post_count") or catalog_blog.get("post_count") or len(blog_posts),
+                "captured_posts": len(blog_posts),
+                "total_views": int(blog.get("total_views") or sum(post["views"] for post in blog_posts)),
+                "daily_views": sum(post["daily_views"] for post in blog_posts),
+                "top_post": blog_posts[0] if blog_posts else None,
+            }
+        )
+
+    posts_by_total = sorted(posts, key=lambda item: item["views"], reverse=True)
+    posts_by_daily = sorted(posts, key=lambda item: (item["daily_views"], item["views"]), reverse=True)
+    blogs.sort(key=lambda item: item["total_views"], reverse=True)
+
+    daily_totals: dict[str, int] = {}
+    previous_total_by_blog: dict[str, int] = {}
+    for snapshot in daily_snapshots:
+        snapshot_date = snapshot.get("date") or str(snapshot.get("collected_at", ""))[:10]
+        date_total = 0
+        for blog in snapshot.get("blogs", []):
+            slug = str(blog.get("slug") or "")
+            if slug not in target_slugs:
+                continue
+            blog_id = str(blog.get("id"))
+            total = int(blog.get("total_views") or 0)
+            prior = previous_total_by_blog.get(blog_id, total)
+            date_total += max(0, total - prior)
+            previous_total_by_blog[blog_id] = total
+        if snapshot_date:
+            daily_totals[snapshot_date] = date_total
+
+    current_month = today_date[:7]
+    current_month_views = sum(value for date, value in daily_totals.items() if date.startswith(current_month))
+    previous_day_date = (now_kst().date() - dt.timedelta(days=1)).isoformat()
+
+    totals = {
+        "blogs": len(blogs),
+        "posts": len(posts),
+        "total_views": sum(blog["total_views"] for blog in blogs),
+        "daily_views": sum(blog["daily_views"] for blog in blogs),
+        "previous_day_views": daily_totals.get(previous_day_date, 0),
+        "previous_day_date": previous_day_date,
+        "current_month_views": current_month_views,
+        "days_recorded": len(daily_totals),
+    }
+
+    return {
+        "title": "에코칩의 리뷰 노트",
+        "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
+        "latest_snapshot_at": latest.get("collected_at") if latest else None,
+        "latest_snapshot_date": latest_snapshot_date_value,
+        "catalog_updated_at": catalog.get("updated_at"),
+        "is_today_realtime": latest_snapshot_date_value == today_date,
+        "refresh_minutes": COLLECT_INTERVAL_SECONDS // 60,
+        "tracked_slugs": list(REVIEW_NOTE_SLUGS),
+        "totals": totals,
+        "blogs": blogs,
+        "posts": posts_by_total,
+        "top_posts": posts_by_total[:18],
+        "rising_posts": posts_by_daily[:18],
+        "daily_totals": [{"date": date, "views": views} for date, views in sorted(daily_totals.items())],
+    }
+
+
 def run_background_collect(max_pages: int, refresh_catalog: bool) -> None:
     with job_lock:
         job_state.update(
@@ -779,9 +918,19 @@ def index() -> Any:
     return send_from_directory(STATIC_DIR, "index.html")
 
 
+@app.get("/review-note/")
+def review_note_index() -> Any:
+    return send_from_directory(STATIC_DIR / "review-note", "index.html")
+
+
 @app.get("/api/dashboard")
 def api_dashboard() -> Any:
     return jsonify(build_dashboard())
+
+
+@app.get("/api/review-note")
+def api_review_note() -> Any:
+    return jsonify(build_review_note_dashboard())
 
 
 @app.get("/api/job")

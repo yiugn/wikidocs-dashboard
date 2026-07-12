@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>에코칩의 리뷰 노트</title>
+    <meta name="description" content="스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 큐레이션" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="top-frame">
+      <div class="brand-row">
+        <a class="return-link" href="../">조회수 대시보드</a>
+        <div>
+          <p class="eyebrow">Echochip Review Note</p>
+          <h1>에코칩의 리뷰 노트</h1>
+          <p class="brand-copy">생활, 차량, 반려동물 리뷰를 실제 조회 흐름으로 큐레이션합니다.</p>
+        </div>
+      </div>
+
+      <div class="nav-row">
+        <nav class="view-tabs" aria-label="리뷰 보기">
+          <button class="tab-button active" type="button" data-view="popular">누적 인기순</button>
+          <button class="tab-button" type="button" data-view="rising">당일 급상승</button>
+          <button class="tab-button" type="button" data-view="blogs">블로그별</button>
+        </nav>
+        <button class="search-toggle" id="searchToggle" type="button" aria-expanded="false">검색</button>
+      </div>
+
+      <div class="search-panel" id="searchPanel">
+        <input id="searchInput" type="search" autocomplete="off" placeholder="제품명, 상황, 블로그 검색" />
+        <button id="clearSearch" type="button">지우기</button>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="stat-grid" id="statGrid"></section>
+
+      <section class="feature-grid">
+        <article class="spotlight" id="spotlight"></article>
+        <aside class="rising-panel">
+          <div class="section-head">
+            <p>오늘 많이 오른 리뷰</p>
+            <strong id="risingCount">0개</strong>
+          </div>
+          <div class="rising-list" id="risingList"></div>
+        </aside>
+      </section>
+
+      <section class="content-head">
+        <div>
+          <p class="eyebrow" id="modeEyebrow">Most Read</p>
+          <h2 id="modeTitle">누적 조회수 상위 리뷰</h2>
+        </div>
+        <p id="resultCount"></p>
+      </section>
+
+      <section id="contentArea" class="tile-grid"></section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
