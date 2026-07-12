@@ -73,9 +73,9 @@ input {
 .eyebrow {
   margin: 0 0 7px;
   color: var(--teal);
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 900;
-  letter-spacing: 0.06em;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 
@@ -87,14 +87,15 @@ p {
 }
 
 h1 {
-  font-size: clamp(30px, 4vw, 54px);
-  line-height: 1;
+  font-size: 40px;
+  line-height: 1.08;
 }
 
 .brand-copy {
   margin-top: 10px;
   color: var(--muted);
-  font-size: 15px;
+  font-size: 14px;
+  line-height: 1.55;
 }
 
 .nav-row {
@@ -199,7 +200,7 @@ h1 {
 
 .stat-card strong {
   display: block;
-  font-size: clamp(22px, 2.6vw, 34px);
+  font-size: 28px;
   line-height: 1;
 }
 
@@ -284,13 +285,14 @@ h1 {
 
 .spotlight h2 {
   margin-top: 13px;
-  font-size: clamp(25px, 3vw, 42px);
-  line-height: 1.08;
+  font-size: 30px;
+  line-height: 1.18;
 }
 
 .spotlight p {
   color: var(--muted);
-  line-height: 1.65;
+  font-size: 14px;
+  line-height: 1.62;
 }
 
 .metric-row {
@@ -403,7 +405,8 @@ h1 {
 }
 
 .content-head h2 {
-  font-size: clamp(22px, 3vw, 34px);
+  font-size: 27px;
+  line-height: 1.22;
 }
 
 #resultCount {
@@ -461,11 +464,11 @@ h1 {
 
 .tile-body h3 {
   display: -webkit-box;
-  min-height: 54px;
+  min-height: 50px;
   overflow: hidden;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;
-  font-size: 18px;
+  font-size: 17px;
   line-height: 1.45;
 }
 
@@ -506,7 +509,42 @@ h1 {
 
 .blog-view {
   display: grid;
-  gap: 20px;
+  gap: 14px;
+}
+
+.blog-tab-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.blog-tab-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 42px;
+  padding: 0 13px;
+  border: 1px solid var(--line);
+  border-radius: 7px;
+  background: var(--panel);
+  color: var(--muted);
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.blog-tab-button strong {
+  color: var(--ink);
+  font-size: 12px;
+}
+
+.blog-tab-button.active {
+  border-color: var(--ink);
+  background: var(--ink);
+  color: #fff;
+}
+
+.blog-tab-button.active strong {
+  color: #fff;
 }
 
 .blog-section {
@@ -574,6 +612,19 @@ h1 {
   .stat-grid,
   .tile-grid {
     grid-template-columns: 1fr;
+  }
+
+  h1 {
+    font-size: 31px;
+  }
+
+  .spotlight h2,
+  .content-head h2 {
+    font-size: 24px;
+  }
+
+  .stat-card strong {
+    font-size: 25px;
   }
 
   .spotlight-media,

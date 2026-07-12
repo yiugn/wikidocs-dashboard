@@ -1,6 +1,7 @@
 const state = {
   data: null,
   view: "popular",
+  blogSlug: "",
   query: "",
   staticMode:
     new URLSearchParams(window.location.search).has("static") ||
@@ -191,33 +192,48 @@ function renderFlatView() {
 function renderBlogView() {
   const data = state.data || {};
   const blogs = data.blogs || [];
+  if (!state.blogSlug || !blogs.some((blog) => blog.slug === state.blogSlug)) {
+    state.blogSlug = blogs[0]?.slug || "";
+  }
+  const selectedBlog = blogs.find((blog) => blog.slug === state.blogSlug) || blogs[0];
   const posts = (data.posts || []).filter(postMatches);
-  $("contentArea").className = "blog-view";
-  $("contentArea").innerHTML = blogs
+  const blogPosts = posts
+    .filter((post) => post.blog_slug === selectedBlog?.slug)
+    .sort((a, b) => Number(b.views || 0) - Number(a.views || 0));
+  const tabMarkup = blogs
     .map((blog) => {
-      const blogPosts = posts.filter((post) => post.blog_slug === blog.slug).sort((a, b) => Number(b.views || 0) - Number(a.views || 0));
-      if (!blogPosts.length) return "";
+      const count = posts.filter((post) => post.blog_slug === blog.slug).length;
       return `
-        <section class="blog-section">
-          <div class="blog-section-head">
-            <div>
-              <p>${escapeHtml(blog.name)}</p>
-              <h2>${formatNumber(blogPosts.length)}개 리뷰</h2>
-            </div>
-            <div class="metric-row">
-              <span class="metric-pill">누적 ${formatNumber(blog.total_views)}</span>
-              <span class="metric-pill">오늘 ${formatNumber(blog.daily_views)}</span>
-            </div>
-          </div>
-          <div class="tile-grid">
-            ${blogPosts.map(cardMarkup).join("")}
-          </div>
-        </section>
+        <button class="blog-tab-button ${blog.slug === selectedBlog?.slug ? "active" : ""}" type="button" data-blog-slug="${escapeHtml(blog.slug)}">
+          <span>${escapeHtml(blog.name)}</span>
+          <strong>${formatNumber(count)}</strong>
+        </button>
       `;
     })
     .join("");
-  if (!$("contentArea").innerHTML.trim()) $("contentArea").innerHTML = `<div class="empty">검색 결과가 없습니다.</div>`;
-  $("resultCount").textContent = `${formatNumber(posts.length)}개 리뷰`;
+
+  $("contentArea").className = "blog-view";
+  $("contentArea").innerHTML = `
+    <div class="blog-tab-row" aria-label="블로그별 리뷰">
+      ${tabMarkup}
+    </div>
+    <section class="blog-section">
+      <div class="blog-section-head">
+        <div>
+          <p>${escapeHtml(selectedBlog?.name || "블로그")}</p>
+          <h2>${formatNumber(blogPosts.length)}개 리뷰</h2>
+        </div>
+        <div class="metric-row">
+          <span class="metric-pill">누적 ${formatNumber(selectedBlog?.total_views)}</span>
+          <span class="metric-pill">오늘 ${formatNumber(selectedBlog?.daily_views)}</span>
+        </div>
+      </div>
+      <div class="tile-grid">
+        ${blogPosts.length ? blogPosts.map(cardMarkup).join("") : `<div class="empty">검색 결과가 없습니다.</div>`}
+      </div>
+    </section>
+  `;
+  $("resultCount").textContent = `${formatNumber(blogPosts.length)}개 리뷰`;
 }
 
 function renderContent() {
@@ -262,6 +278,13 @@ function bindEvents() {
     $("searchInput").value = "";
     renderContent();
     $("searchInput").focus();
+  });
+
+  $("contentArea").addEventListener("click", (event) => {
+    const button = event.target.closest(".blog-tab-button");
+    if (!button) return;
+    state.blogSlug = button.dataset.blogSlug;
+    renderBlogView();
   });
 }
 
