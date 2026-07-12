@@ -24,6 +24,22 @@ function formatDateTime(value) {
   return new Intl.DateTimeFormat("ko-KR", { dateStyle: "medium", timeStyle: "short" }).format(date);
 }
 
+function formatDateOnly(value) {
+  if (!value) return "없음";
+  const isoDate = String(value).match(/^(\d{4}-\d{2}-\d{2})/);
+  if (isoDate) return isoDate[1];
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return value;
+  const parts = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Seoul",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).formatToParts(date);
+  const valueByType = Object.fromEntries(parts.map((part) => [part.type, part.value]));
+  return `${valueByType.year}-${valueByType.month}-${valueByType.day}`;
+}
+
 function escapeHtml(value) {
   return String(value || "")
     .replaceAll("&", "&amp;")
@@ -81,7 +97,7 @@ function renderStats(data) {
     statCard("전일 조회수", formatNumber(totals.previous_day_views), `${totals.previous_day_date || "전일"} 기준`),
     statCard("리뷰 수", formatNumber(totals.posts), `${formatNumber(totals.blogs)}개 블로그 수집`),
     statCard("당월 조회수", formatNumber(totals.current_month_views), "저장 로그 이후 월 누적"),
-    statCard("최근 갱신", formatDateTime(data.latest_snapshot_at), `${data.refresh_minutes || 30}분 단위`),
+    statCard("최근 갱신", formatDateOnly(data.latest_snapshot_at), `${data.refresh_minutes || 30}분 단위`),
   ].join("");
 }
 
