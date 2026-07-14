@@ -1,13 +1,83 @@
 {
-  "updated_at": "2026-07-14T00:21:59+09:00",
+  "updated_at": "2026-07-15T00:21:59+09:00",
   "blogs": [
     {
       "id": 1795,
       "slug": "aitechnote",
       "name": "AI 테크 최신 정보 매거진",
-      "api_pages": 2,
-      "post_count": 60,
+      "api_pages": 3,
+      "post_count": 70,
       "posts": [
+        {
+          "id": 23898,
+          "profile_id": 1795,
+          "title": "셀프 정비 즐기시는 분이라면, 임팩트렌치 하나로 타이어 탈부착 시간 확 줄었다는 후기가 많습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/23898/"
+        },
+        {
+          "id": 23897,
+          "profile_id": 1795,
+          "title": "차박 다니시는 분들을 위한, 딱딱한 바닥에 앉아 불편했다면 접이식 의자 TOP3로 정리해봤습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/23897/"
+        },
+        {
+          "id": 23896,
+          "profile_id": 1795,
+          "title": "장거리 휴가 떠나기 전 챙겨야 할 엔진 카본 클리너 3가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/23896/"
+        },
+        {
+          "id": 23895,
+          "profile_id": 1795,
+          "title": "장거리 통근족을 위한, 안마 방석 깔고 나서 어깨 뭉침이 확 풀렸다는 후기가 많습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/23895/"
+        },
+        {
+          "id": 23894,
+          "profile_id": 1795,
+          "title": "혹시 아직도 배터리 상태 모른 채 전자기기 여러 개 한꺼번에 꽂아 쓰고 계신가요?",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/23894/"
+        },
+        {
+          "id": 23893,
+          "profile_id": 1795,
+          "title": "휠 디자인에 신경 쓰시는 분이라면, 휠캡 바꾸고 나서 차 인상이 확 달라졌다는 후기가 많습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/23893/"
+        },
+        {
+          "id": 23892,
+          "profile_id": 1795,
+          "title": "후방 주차센서 살 때 다들 놓치는 체크포인트 한 가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/23892/"
+        },
+        {
+          "id": 23891,
+          "profile_id": 1795,
+          "title": "직접 손세차 하시는 분들이라면, 디테일링 브러쉬로 틈새 먼지까지 싹 닦였다는 후기가 많습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/23891/"
+        },
+        {
+          "id": 23890,
+          "profile_id": 1795,
+          "title": "고속도로 자주 다니시는 분이라면, 돌튐 자국 방치했다가 녹슨 뒤에야 알게 된 카페인트 붓펜 고르는 법",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/23890/"
+        },
+        {
+          "id": 23889,
+          "profile_id": 1795,
+          "title": "매일 지하주차장 이용하시는 분이라면, 도어 엣지 가드 안 붙이면 문 열 때마다 흠집 나는 손해로 돌아옵니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/23889/"
+        },
         {
           "id": 19195,
           "profile_id": 1795,
@@ -16903,9 +16973,79 @@
       "id": 1978,
       "slug": "cartemlab",
       "name": "카템 연구소",
-      "api_pages": 3,
-      "post_count": 90,
+      "api_pages": 4,
+      "post_count": 100,
       "posts": [
+        {
+          "id": 23768,
+          "profile_id": 1978,
+          "title": "배터리 방전 두 번 겪고 나서야 알게 된 충전기 고르는 법",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@cartemlab/23768/"
+        },
+        {
+          "id": 23767,
+          "profile_id": 1978,
+          "title": "차박 다니시는 분들을 위한, 무릎 위에 음식 올려놓고 불편하게 먹던 차박이 이렇게 바뀌기까지 접이식 테이블 TOP3",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@cartemlab/23767/"
+        },
+        {
+          "id": 23766,
+          "profile_id": 1978,
+          "title": "무더위 절정 오기 전에 챙겨야 할 냉각수 누수 관리 3가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@cartemlab/23766/"
+        },
+        {
+          "id": 23765,
+          "profile_id": 1978,
+          "title": "장거리 통근족을 위한, 넥쿨링패드 하나로 차 안 폭염 체감이 확 줄었다는 후기가 많습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@cartemlab/23765/"
+        },
+        {
+          "id": 23764,
+          "profile_id": 1978,
+          "title": "요즘 다들 삭막한 실내등 대신 이걸로 바꾼다는 차량용 무드등, 이유가 있었습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@cartemlab/23764/"
+        },
+        {
+          "id": 23763,
+          "profile_id": 1978,
+          "title": "장거리 앞두신 분이라면, TPMS 센서 달고 타이어 공기압 미리 확인했다는 후기가 많습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@cartemlab/23763/"
+        },
+        {
+          "id": 23762,
+          "profile_id": 1978,
+          "title": "블랙박스 살 때 다들 놓치는 체크포인트 한 가지, 상시전원 케이블입니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@cartemlab/23762/"
+        },
+        {
+          "id": 23761,
+          "profile_id": 1978,
+          "title": "직접 손세차 하시는 분들이라면, 거품건 하나로 세차 시간 확 줄었다는 후기가 많습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@cartemlab/23761/"
+        },
+        {
+          "id": 23760,
+          "profile_id": 1978,
+          "title": "장마철 사이드미러 김서림 안 챙기면, 차선 변경할 때 시야 확보 못해 아찔한 순간으로 돌아옵니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@cartemlab/23760/"
+        },
+        {
+          "id": 23759,
+          "profile_id": 1978,
+          "title": "장거리 운전 잦으신 분이라면, 차량용 수납함 하나로 잡동사니 정리 확실히 됐다는 후기가 많습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@cartemlab/23759/"
+        },
         {
           "id": 23560,
           "profile_id": 1978,
@@ -17543,8 +17683,78 @@
       "slug": "petpicknote",
       "name": "펫 픽 노트",
       "api_pages": 3,
-      "post_count": 68,
+      "post_count": 78,
       "posts": [
+        {
+          "id": 23827,
+          "profile_id": 1986,
+          "title": "장마 끝나기 전에 챙겨야 할 제습기 세 가지를 정리해봤습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@petpicknote/23827/"
+        },
+        {
+          "id": 23826,
+          "profile_id": 1986,
+          "title": "덧바르기 귀찮던 선크림, 쿨링 선크림으로 바꾸니 훨씬 편해졌습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@petpicknote/23826/"
+        },
+        {
+          "id": 23825,
+          "profile_id": 1986,
+          "title": "여름휴가 캐리어 고민이셨다면, 기내용 캐리어 TOP3로 정리해봤습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@petpicknote/23825/"
+        },
+        {
+          "id": 23824,
+          "profile_id": 1986,
+          "title": "여름철 쉽게 지치는 분이라면, 초복 전 단백질보충제 안 챙기면 손해입니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@petpicknote/23824/"
+        },
+        {
+          "id": 23823,
+          "profile_id": 1986,
+          "title": "한여름 새벽 러닝족이라면, 냉감 조끼로 체감온도가 달라졌다는 후기가 많습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@petpicknote/23823/"
+        },
+        {
+          "id": 23821,
+          "profile_id": 1986,
+          "title": "혹시 아직도 캐디 없이 거리 감으로만 치고 계신가요?",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@petpicknote/23821/"
+        },
+        {
+          "id": 23820,
+          "profile_id": 1986,
+          "title": "차박 처음이라면, 트렁크 정리함 하나로 짐이 싹 정리됐다는 후기가 많습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@petpicknote/23820/"
+        },
+        {
+          "id": 23819,
+          "profile_id": 1986,
+          "title": "캠핑 초보시라면, 요즘 다들 캠프닉으로 떠난다는데 이유가 있었습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@petpicknote/23819/"
+        },
+        {
+          "id": 23818,
+          "profile_id": 1986,
+          "title": "산책 후 유독 헥헥댔던 아이라면, 냉감 티셔츠 TOP3로 정리해봤습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@petpicknote/23818/"
+        },
+        {
+          "id": 23817,
+          "profile_id": 1986,
+          "title": "장마 끝난 뒤 입맛 없는 아이라면, 습식캔에 밥그릇을 싹 비웠다는 후기가 많습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@petpicknote/23817/"
+        },
         {
           "id": 23635,
           "profile_id": 1986,
@@ -18027,9 +18237,79 @@
       "id": 1977,
       "slug": "smartliving",
       "name": "스마트 리빙",
-      "api_pages": 3,
-      "post_count": 86,
+      "api_pages": 4,
+      "post_count": 96,
       "posts": [
+        {
+          "id": 23735,
+          "profile_id": 1977,
+          "title": "부모님 혈압 걱정하는 자녀를 위한, 뒤늦게 알게 된 가정용 혈압계 고르는 법",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/23735/"
+        },
+        {
+          "id": 23734,
+          "profile_id": 1977,
+          "title": "프로틴 파우더 고를 때 다들 놓치기 쉬운 체크포인트 한 가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/23734/"
+        },
+        {
+          "id": 23733,
+          "profile_id": 1977,
+          "title": "여름 외출 앞둔 신생아 부모를 위한, 유모차 땀참 확 줄여주는 쿨매트 이렇게 골랐습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/23733/"
+        },
+        {
+          "id": 23732,
+          "profile_id": 1977,
+          "title": "캠핑장 밤에 랜턴 하나 없어 당황했다면, 무선 캠핑랜턴 TOP3로 정리해봤습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/23732/"
+        },
+        {
+          "id": 23731,
+          "profile_id": 1977,
+          "title": "자취생을 위한, 밋밋한 거실이 확 살아나는 라탄 러그 이렇게 골랐습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/23731/"
+        },
+        {
+          "id": 23526,
+          "profile_id": 1977,
+          "title": "출근 전 옷 구겨짐 걱정하는 직장인이라면, 미니 스타일러 추천 TOP3",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/23526/"
+        },
+        {
+          "id": 23525,
+          "profile_id": 1977,
+          "title": "주말 홈시네마 즐기고 싶은 자취생·신혼부부를 위한 미니 빔프로젝터",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/23525/"
+        },
+        {
+          "id": 23524,
+          "profile_id": 1977,
+          "title": "다들 두께만 본다지만, 규조토 발매트는 이 기준부터 봐야 합니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/23524/"
+        },
+        {
+          "id": 23523,
+          "profile_id": 1977,
+          "title": "매장에서 하루 종일 서서 일하다 알게 된 무선 종아리 마사지기 고르는 법",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/23523/"
+        },
+        {
+          "id": 23522,
+          "profile_id": 1977,
+          "title": "장시간 모니터 보는 사무직을 위한, 목·어깨 결림 줄여주는 모니터 받침대",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/23522/"
+        },
         {
           "id": 23521,
           "profile_id": 1977,
