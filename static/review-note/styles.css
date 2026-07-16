@@ -170,26 +170,26 @@ h1 {
 }
 
 .page-shell {
-  display: grid;
-  grid-template-columns: 180px minmax(0, 1fr) 180px;
-  gap: 18px;
-  width: min(100% - 32px, 1680px);
+  position: relative;
+  width: min(100% - 36px, 1480px);
   margin: 0 auto;
+  padding: 24px 0 44px;
 }
 
 .layout {
   min-width: 0;
-  padding: 24px 0 44px;
+  padding: 0;
 }
 
 .ad-rail {
-  min-width: 0;
-  padding-top: 24px;
+  display: none;
+  position: fixed;
+  top: 188px;
+  z-index: 8;
+  width: 180px;
 }
 
 .ad-rail-inner {
-  position: sticky;
-  top: 148px;
   display: grid;
   gap: 14px;
 }
@@ -653,12 +653,7 @@ h1 {
 
 @media (max-width: 1240px) {
   .page-shell {
-    display: block;
     width: min(100% - 36px, 1180px);
-  }
-
-  .ad-rail {
-    display: none;
   }
 
   .stat-grid {
@@ -672,6 +667,20 @@ h1 {
 
   .tile-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1880px) {
+  .ad-rail {
+    display: block;
+  }
+
+  .ad-rail--left {
+    left: max(18px, calc((100vw - 1480px) / 2 - 198px));
+  }
+
+  .ad-rail--right {
+    right: max(18px, calc((100vw - 1480px) / 2 - 198px));
   }
 }
 

@@ -115,7 +115,9 @@ function loadCoupangScript() {
 
 function renderCoupangSlot(slot) {
   if (slot.dataset.rendered === "1") return;
-  if (window.getComputedStyle(slot).display === "none" || !slot.offsetParent) return;
+  const style = window.getComputedStyle(slot);
+  const rect = slot.getBoundingClientRect();
+  if (style.display === "none" || style.visibility === "hidden" || rect.width === 0 || rect.height === 0) return;
   const frame = slot.querySelector(".coupang-ad-frame");
   if (!frame || !window.PartnersCoupang?.G) return;
   const placement = slot.dataset.placement || "rail";
