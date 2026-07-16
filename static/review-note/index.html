@@ -33,50 +33,54 @@
       </div>
     </header>
 
-    <main class="layout">
-      <section class="stat-grid" id="statGrid"></section>
-
-      <section class="partner-disclosure" aria-label="광고 안내">
-        이 페이지는 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-      </section>
-
-      <aside class="coupang-ad coupang-ad--wide" data-coupang-ad data-placement="top" data-ad-index="0" aria-label="쿠팡 파트너스 광고">
-        <span class="ad-label">광고</span>
-        <div class="coupang-ad-frame"></div>
-        <p class="ad-disclosure">쿠팡 파트너스 활동으로 일정액의 수수료를 제공받습니다.</p>
-      </aside>
-
-      <section class="feature-grid">
-        <article class="spotlight" id="spotlight"></article>
-        <aside class="rising-panel">
-          <div class="section-head">
-            <p>오늘 많이 오른 리뷰</p>
-            <strong id="risingCount">0개</strong>
-          </div>
-          <div class="rising-list" id="risingList"></div>
-        </aside>
-      </section>
-
-      <aside class="coupang-ad coupang-ad--leaderboard" data-coupang-ad data-placement="leaderboard" data-ad-index="1" aria-label="쿠팡 파트너스 광고">
-        <span class="ad-label">광고</span>
-        <div class="coupang-ad-frame"></div>
-        <p class="ad-disclosure">쿠팡 파트너스 활동으로 일정액의 수수료를 제공받습니다.</p>
-      </aside>
-
-      <section class="content-head">
-        <div>
-          <p class="eyebrow" id="modeEyebrow">Most Read</p>
-          <h2 id="modeTitle">누적 조회수 상위 리뷰</h2>
+    <main class="page-shell">
+      <aside class="ad-rail ad-rail--left" aria-label="왼쪽 광고 영역">
+        <div class="ad-rail-inner">
+          <aside class="coupang-ad coupang-ad--rail" data-coupang-ad data-placement="rail" data-ad-index="0" aria-label="쿠팡 파트너스 광고">
+            <span class="ad-label">광고</span>
+            <div class="coupang-ad-frame"></div>
+            <p class="ad-disclosure">쿠팡 파트너스 활동으로 일정액의 수수료를 제공받습니다.</p>
+          </aside>
         </div>
-        <p id="resultCount"></p>
+      </aside>
+
+      <section class="layout">
+        <section class="stat-grid" id="statGrid"></section>
+
+        <section class="partner-disclosure" aria-label="광고 안내">
+          이 페이지는 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
+        </section>
+
+        <section class="feature-grid">
+          <article class="spotlight" id="spotlight"></article>
+          <aside class="rising-panel">
+            <div class="section-head">
+              <p>오늘 많이 오른 리뷰</p>
+              <strong id="risingCount">0개</strong>
+            </div>
+            <div class="rising-list" id="risingList"></div>
+          </aside>
+        </section>
+
+        <section class="content-head">
+          <div>
+            <p class="eyebrow" id="modeEyebrow">Most Read</p>
+            <h2 id="modeTitle">누적 조회수 상위 리뷰</h2>
+          </div>
+          <p id="resultCount"></p>
+        </section>
+
+        <section id="contentArea" class="tile-grid"></section>
       </section>
 
-      <section id="contentArea" class="tile-grid"></section>
-
-      <aside class="coupang-ad coupang-ad--footer" data-coupang-ad data-placement="footer" data-ad-index="0" aria-label="쿠팡 파트너스 광고">
-        <span class="ad-label">광고</span>
-        <div class="coupang-ad-frame"></div>
-        <p class="ad-disclosure">쿠팡 파트너스 활동으로 일정액의 수수료를 제공받습니다.</p>
+      <aside class="ad-rail ad-rail--right" aria-label="오른쪽 광고 영역">
+        <div class="ad-rail-inner">
+          <aside class="coupang-ad coupang-ad--rail" data-coupang-ad data-placement="rail" data-ad-index="1" aria-label="쿠팡 파트너스 광고">
+            <span class="ad-label">광고</span>
+            <div class="coupang-ad-frame"></div>
+            <p class="ad-disclosure">쿠팡 파트너스 활동으로 일정액의 수수료를 제공받습니다.</p>
+          </aside>
+        </div>
       </aside>
     </main>
 

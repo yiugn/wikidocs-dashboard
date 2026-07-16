@@ -15,34 +15,11 @@ const $ = (id) => document.getElementById(id);
 const COUPANG_SCRIPT_URL = "https://ads-partners.coupang.com/g.js";
 const COUPANG_TRACKING_CODE = "AF3742148";
 const COUPANG_WIDGET_IDS = [1007218, 1007221];
-const COUPANG_INLINE_START = 4;
-const COUPANG_INLINE_INTERVAL = 8;
-const COUPANG_INLINE_LIMIT = 10;
 const COUPANG_AD_SIZES = {
-  top: {
-    desktop: [970, 90],
-    tablet: [728, 90],
+  rail: {
+    desktop: [160, 600],
+    tablet: [160, 600],
     mobile: [320, 100],
-  },
-  leaderboard: {
-    desktop: [728, 90],
-    tablet: [728, 90],
-    mobile: [320, 100],
-  },
-  inline: {
-    desktop: [300, 250],
-    tablet: [300, 250],
-    mobile: [300, 250],
-  },
-  blog: {
-    desktop: [728, 90],
-    tablet: [728, 90],
-    mobile: [320, 100],
-  },
-  footer: {
-    desktop: [970, 90],
-    tablet: [728, 90],
-    mobile: [320, 50],
   },
 };
 
@@ -111,39 +88,12 @@ function imageMarkup(post, className = "") {
   return `<div class="fallback-media">${fallbackLabel(post)}</div>`;
 }
 
-function coupangAdSlotMarkup(placement, index = 0, modifier = "") {
-  return `
-    <aside class="coupang-ad ${modifier}" data-coupang-ad data-placement="${placement}" data-ad-index="${index}" aria-label="쿠팡 파트너스 광고">
-      <span class="ad-label">광고</span>
-      <div class="coupang-ad-frame"></div>
-      <p class="ad-disclosure">쿠팡 파트너스 활동으로 일정액의 수수료를 제공받습니다.</p>
-    </aside>
-  `;
-}
-
-function shouldInsertInlineAd(index, insertedCount) {
-  return (
-    index >= COUPANG_INLINE_START &&
-    (index - COUPANG_INLINE_START) % COUPANG_INLINE_INTERVAL === 0 &&
-    insertedCount < COUPANG_INLINE_LIMIT
-  );
-}
-
 function tileGridMarkup(posts) {
-  let insertedAds = 0;
-  const items = [];
-  posts.forEach((post, index) => {
-    if (shouldInsertInlineAd(index, insertedAds)) {
-      items.push(coupangAdSlotMarkup("inline", index + insertedAds, "coupang-ad--inline"));
-      insertedAds += 1;
-    }
-    items.push(cardMarkup(post, index));
-  });
-  return items.join("");
+  return posts.map(cardMarkup).join("");
 }
 
 function getCoupangAdSize(placement) {
-  const sizeSet = COUPANG_AD_SIZES[placement] || COUPANG_AD_SIZES.inline;
+  const sizeSet = COUPANG_AD_SIZES[placement] || COUPANG_AD_SIZES.rail;
   if (window.innerWidth <= 560) return sizeSet.mobile;
   if (window.innerWidth <= 1040) return sizeSet.tablet;
   return sizeSet.desktop;
@@ -165,9 +115,10 @@ function loadCoupangScript() {
 
 function renderCoupangSlot(slot) {
   if (slot.dataset.rendered === "1") return;
+  if (window.getComputedStyle(slot).display === "none" || !slot.offsetParent) return;
   const frame = slot.querySelector(".coupang-ad-frame");
   if (!frame || !window.PartnersCoupang?.G) return;
-  const placement = slot.dataset.placement || "inline";
+  const placement = slot.dataset.placement || "rail";
   const [width, height] = getCoupangAdSize(placement);
   const adIndex = Number(slot.dataset.adIndex || 0);
   const widgetId = COUPANG_WIDGET_IDS[Math.abs(adIndex) % COUPANG_WIDGET_IDS.length];
@@ -386,7 +337,6 @@ function renderBlogView() {
           <span class="metric-pill">오늘 ${formatNumber(selectedBlog?.daily_views)}</span>
         </div>
       </div>
-      ${coupangAdSlotMarkup("blog", 1, "coupang-ad--blog")}
       <div class="tile-grid">
         ${blogPosts.length ? tileGridMarkup(blogPosts) : `<div class="empty">검색 결과가 없습니다.</div>`}
       </div>

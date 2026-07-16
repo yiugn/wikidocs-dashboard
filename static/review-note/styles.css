@@ -45,7 +45,7 @@ input {
 
 .brand-row,
 .nav-row,
-.layout {
+.search-panel {
   width: min(100% - 36px, 1480px);
   margin: 0 auto;
 }
@@ -140,8 +140,6 @@ h1 {
 
 .search-panel {
   display: none;
-  width: min(100% - 36px, 1480px);
-  margin: 0 auto;
   padding: 0 0 16px;
   gap: 8px;
 }
@@ -171,8 +169,29 @@ h1 {
   padding: 0 12px;
 }
 
+.page-shell {
+  display: grid;
+  grid-template-columns: 180px minmax(0, 1fr) 180px;
+  gap: 18px;
+  width: min(100% - 32px, 1680px);
+  margin: 0 auto;
+}
+
 .layout {
+  min-width: 0;
   padding: 24px 0 44px;
+}
+
+.ad-rail {
+  min-width: 0;
+  padding-top: 24px;
+}
+
+.ad-rail-inner {
+  position: sticky;
+  top: 148px;
+  display: grid;
+  gap: 14px;
 }
 
 .partner-disclosure {
@@ -202,21 +221,9 @@ h1 {
   background: #fbfcfe;
 }
 
-.coupang-ad--wide,
-.coupang-ad--leaderboard {
-  margin-bottom: 18px;
-}
-
-.coupang-ad--footer {
-  margin-top: 20px;
-}
-
-.coupang-ad--blog {
-  margin-top: 14px;
-}
-
-.coupang-ad--inline {
-  min-height: 390px;
+.coupang-ad--rail {
+  min-height: 650px;
+  padding: 10px 9px;
 }
 
 .coupang-ad-frame {
@@ -645,6 +652,15 @@ h1 {
 }
 
 @media (max-width: 1240px) {
+  .page-shell {
+    display: block;
+    width: min(100% - 36px, 1180px);
+  }
+
+  .ad-rail {
+    display: none;
+  }
+
   .stat-grid {
     grid-template-columns: repeat(3, minmax(150px, 1fr));
   }
