@@ -140,7 +140,7 @@ function renderCoupangSlot(slot) {
   const rect = slot.getBoundingClientRect();
   if (style.display === "none" || style.visibility === "hidden" || rect.width === 0 || rect.height === 0) return;
   const frame = slot.querySelector(".coupang-ad-frame");
-  if (!frame || !window.PartnersCoupang?.G) return;
+  if (!frame) return;
   const placement = slot.dataset.placement || "rail";
   const [width, height] = getCoupangAdSize(placement);
   const adIndex = Number(slot.dataset.adIndex || 0);
