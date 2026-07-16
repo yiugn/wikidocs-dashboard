@@ -46,7 +46,7 @@ input {
 .brand-row,
 .nav-row,
 .search-panel {
-  width: min(100% - 36px, 1480px);
+  width: min(100% - 36px, 1360px);
   margin: 0 auto;
 }
 
@@ -185,7 +185,7 @@ h1 {
 }
 
 .page-shell {
-  width: min(100% - 36px, 1480px);
+  width: min(100% - 36px, 1360px);
   margin: 0 auto;
   padding: 24px 0 44px;
 }
@@ -660,12 +660,12 @@ h1 {
   }
 }
 
-@media (min-width: 1880px) {
+@media (min-width: 1760px) {
   .page-shell {
     display: grid;
-    grid-template-columns: 160px minmax(0, 1480px) 160px;
+    grid-template-columns: 160px minmax(0, 1360px) 160px;
     gap: 16px;
-    width: min(100% - 36px, 1832px);
+    width: min(100% - 36px, 1712px);
     align-items: start;
   }
 
