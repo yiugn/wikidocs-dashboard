@@ -17,8 +17,8 @@ const COUPANG_TRACKING_CODE = "AF3742148";
 const COUPANG_WIDGET_IDS = [1007218, 1007221];
 const COUPANG_AD_SIZES = {
   rail: {
-    desktop: [160, 600],
-    tablet: [160, 600],
+    desktop: [160, 760],
+    tablet: [160, 760],
     mobile: [320, 100],
   },
 };
@@ -65,8 +65,10 @@ function escapeHtml(value) {
 
 function cleanExcerpt(value, title = "") {
   let text = String(value || "")
-    .replace(/>?\s*🔔[\s\S]*?수수료를 제공받습니다\.?/u, "")
-    .replace(/^>?\s*\S?\s*이 게시물은 쿠팡 파트너스 활동의 일환으로,\s*이에 따른 일정액의 수수료를 제공받습니다\.?\s*/u, "")
+    .replace(/^---[\s\S]*?---\s*/u, "")
+    .replace(/(?:>|&gt;)?\s*[^\s가-힣A-Za-z0-9]?\s*이 게시물은 쿠팡 파트너스 활동의 일환으로,\s*이에 따른 일정액의 수수료를 제공받습니다\.?\s*/u, "")
+    .replace(/(?:>|&gt;)?\s*[^\s가-힣A-Za-z0-9]?\s*이 게시물은 쿠팡 파트너스 활동의 일환으로[\s\S]*$/u, "")
+    .replace(/(?:>|&gt;)?\s*🔔[\s\S]*?수수료를 제공받습니다\.?/u, "")
     .replace(/\s+/g, " ")
     .trim();
   if (title && text.startsWith(title)) {

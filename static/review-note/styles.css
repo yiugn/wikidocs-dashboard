@@ -194,18 +194,6 @@ h1 {
   gap: 14px;
 }
 
-.partner-disclosure {
-  margin: 0 0 12px;
-  padding: 10px 12px;
-  border: 1px solid rgba(15, 118, 110, 0.22);
-  border-radius: 8px;
-  background: #ecfdf5;
-  color: #0f766e;
-  font-size: 12px;
-  font-weight: 800;
-  line-height: 1.5;
-}
-
 .coupang-ad {
   --ad-width: 680px;
   --ad-height: 140px;
@@ -222,7 +210,7 @@ h1 {
 }
 
 .coupang-ad--rail {
-  min-height: 650px;
+  min-height: 810px;
   padding: 10px 9px;
 }
 
