@@ -175,6 +175,85 @@ h1 {
   padding: 24px 0 44px;
 }
 
+.partner-disclosure {
+  margin: 0 0 12px;
+  padding: 10px 12px;
+  border: 1px solid rgba(15, 118, 110, 0.22);
+  border-radius: 8px;
+  background: #ecfdf5;
+  color: #0f766e;
+  font-size: 12px;
+  font-weight: 800;
+  line-height: 1.5;
+}
+
+.coupang-ad {
+  --ad-width: 680px;
+  --ad-height: 140px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  overflow: hidden;
+  padding: 13px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fbfcfe;
+}
+
+.coupang-ad--wide,
+.coupang-ad--leaderboard {
+  margin-bottom: 18px;
+}
+
+.coupang-ad--footer {
+  margin-top: 20px;
+}
+
+.coupang-ad--blog {
+  margin-top: 14px;
+}
+
+.coupang-ad--inline {
+  min-height: 390px;
+}
+
+.coupang-ad-frame {
+  display: grid;
+  width: min(100%, var(--ad-width));
+  min-height: var(--ad-height);
+  place-items: center;
+  overflow: hidden;
+}
+
+.coupang-ad iframe {
+  max-width: 100%;
+}
+
+.ad-label {
+  align-self: flex-start;
+  min-height: 22px;
+  padding: 3px 8px;
+  border-radius: 999px;
+  background: #eef2ff;
+  color: var(--blue);
+  font-size: 11px;
+  font-weight: 900;
+}
+
+.ad-disclosure {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 800;
+  line-height: 1.35;
+  text-align: center;
+}
+
+.ad-error {
+  display: none;
+}
+
 .stat-grid {
   display: grid;
   grid-template-columns: repeat(6, minmax(130px, 1fr));
@@ -612,6 +691,10 @@ h1 {
   .stat-grid,
   .tile-grid {
     grid-template-columns: 1fr;
+  }
+
+  .coupang-ad {
+    padding: 11px;
   }
 
   h1 {

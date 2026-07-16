@@ -12,6 +12,43 @@ const state = {
 const API_URL = "/api/review-note";
 const STATIC_URL = "../data/review-note.json";
 const $ = (id) => document.getElementById(id);
+const COUPANG_SCRIPT_URL = "https://ads-partners.coupang.com/g.js";
+const COUPANG_TRACKING_CODE = "AF3742148";
+const COUPANG_WIDGET_IDS = [1007218, 1007221];
+const COUPANG_INLINE_START = 4;
+const COUPANG_INLINE_INTERVAL = 8;
+const COUPANG_INLINE_LIMIT = 10;
+const COUPANG_AD_SIZES = {
+  top: {
+    desktop: [970, 90],
+    tablet: [728, 90],
+    mobile: [320, 100],
+  },
+  leaderboard: {
+    desktop: [728, 90],
+    tablet: [728, 90],
+    mobile: [320, 100],
+  },
+  inline: {
+    desktop: [300, 250],
+    tablet: [300, 250],
+    mobile: [300, 250],
+  },
+  blog: {
+    desktop: [728, 90],
+    tablet: [728, 90],
+    mobile: [320, 100],
+  },
+  footer: {
+    desktop: [970, 90],
+    tablet: [728, 90],
+    mobile: [320, 50],
+  },
+};
+
+let coupangScriptPromise = null;
+let coupangSlotCounter = 0;
+let coupangResizeTimer = null;
 
 function formatNumber(value) {
   return new Intl.NumberFormat("ko-KR").format(Number(value || 0));
@@ -52,6 +89,7 @@ function escapeHtml(value) {
 function cleanExcerpt(value, title = "") {
   let text = String(value || "")
     .replace(/>?\s*🔔[\s\S]*?수수료를 제공받습니다\.?/u, "")
+    .replace(/^>?\s*\S?\s*이 게시물은 쿠팡 파트너스 활동의 일환으로,\s*이에 따른 일정액의 수수료를 제공받습니다\.?\s*/u, "")
     .replace(/\s+/g, " ")
     .trim();
   if (title && text.startsWith(title)) {
@@ -71,6 +109,110 @@ function imageMarkup(post, className = "") {
     return `<img class="${className}" src="${escapeHtml(post.thumbnail_url)}" alt="${escapeHtml(post.title)}" loading="lazy" />`;
   }
   return `<div class="fallback-media">${fallbackLabel(post)}</div>`;
+}
+
+function coupangAdSlotMarkup(placement, index = 0, modifier = "") {
+  return `
+    <aside class="coupang-ad ${modifier}" data-coupang-ad data-placement="${placement}" data-ad-index="${index}" aria-label="쿠팡 파트너스 광고">
+      <span class="ad-label">광고</span>
+      <div class="coupang-ad-frame"></div>
+      <p class="ad-disclosure">쿠팡 파트너스 활동으로 일정액의 수수료를 제공받습니다.</p>
+    </aside>
+  `;
+}
+
+function shouldInsertInlineAd(index, insertedCount) {
+  return (
+    index >= COUPANG_INLINE_START &&
+    (index - COUPANG_INLINE_START) % COUPANG_INLINE_INTERVAL === 0 &&
+    insertedCount < COUPANG_INLINE_LIMIT
+  );
+}
+
+function tileGridMarkup(posts) {
+  let insertedAds = 0;
+  const items = [];
+  posts.forEach((post, index) => {
+    if (shouldInsertInlineAd(index, insertedAds)) {
+      items.push(coupangAdSlotMarkup("inline", index + insertedAds, "coupang-ad--inline"));
+      insertedAds += 1;
+    }
+    items.push(cardMarkup(post, index));
+  });
+  return items.join("");
+}
+
+function getCoupangAdSize(placement) {
+  const sizeSet = COUPANG_AD_SIZES[placement] || COUPANG_AD_SIZES.inline;
+  if (window.innerWidth <= 560) return sizeSet.mobile;
+  if (window.innerWidth <= 1040) return sizeSet.tablet;
+  return sizeSet.desktop;
+}
+
+function loadCoupangScript() {
+  if (window.PartnersCoupang?.G) return Promise.resolve();
+  if (coupangScriptPromise) return coupangScriptPromise;
+  coupangScriptPromise = new Promise((resolve, reject) => {
+    const script = document.createElement("script");
+    script.src = COUPANG_SCRIPT_URL;
+    script.async = true;
+    script.onload = () => resolve();
+    script.onerror = () => reject(new Error("Coupang Partners script failed to load"));
+    document.head.appendChild(script);
+  });
+  return coupangScriptPromise;
+}
+
+function renderCoupangSlot(slot) {
+  if (slot.dataset.rendered === "1") return;
+  const frame = slot.querySelector(".coupang-ad-frame");
+  if (!frame || !window.PartnersCoupang?.G) return;
+  const placement = slot.dataset.placement || "inline";
+  const [width, height] = getCoupangAdSize(placement);
+  const adIndex = Number(slot.dataset.adIndex || 0);
+  const widgetId = COUPANG_WIDGET_IDS[Math.abs(adIndex) % COUPANG_WIDGET_IDS.length];
+  const containerId = `coupang-ad-${Date.now()}-${coupangSlotCounter}`;
+  coupangSlotCounter += 1;
+  frame.id = containerId;
+  frame.innerHTML = "";
+  slot.style.setProperty("--ad-width", `${width}px`);
+  slot.style.setProperty("--ad-height", `${height}px`);
+  slot.dataset.rendered = "1";
+  try {
+    new window.PartnersCoupang.G({
+      id: widgetId,
+      template: "carousel",
+      trackingCode: COUPANG_TRACKING_CODE,
+      width: String(width),
+      height: String(height),
+      tsource: "",
+      container: frame,
+    });
+  } catch (error) {
+    slot.dataset.rendered = "0";
+    slot.classList.add("ad-error");
+  }
+}
+
+function renderCoupangAds() {
+  const slots = [...document.querySelectorAll("[data-coupang-ad]")];
+  if (!slots.length) return;
+  loadCoupangScript()
+    .then(() => {
+      slots.forEach(renderCoupangSlot);
+    })
+    .catch(() => {
+      slots.forEach((slot) => slot.classList.add("ad-error"));
+    });
+}
+
+function refreshCoupangAds() {
+  document.querySelectorAll("[data-coupang-ad]").forEach((slot) => {
+    slot.dataset.rendered = "0";
+    const frame = slot.querySelector(".coupang-ad-frame");
+    if (frame) frame.innerHTML = "";
+  });
+  renderCoupangAds();
 }
 
 async function fetchJson(url) {
@@ -201,7 +343,7 @@ function renderRisingList(data) {
 function renderFlatView() {
   const posts = getPostsForView();
   $("contentArea").className = "tile-grid";
-  $("contentArea").innerHTML = posts.length ? posts.map(cardMarkup).join("") : `<div class="empty">검색 결과가 없습니다.</div>`;
+  $("contentArea").innerHTML = posts.length ? tileGridMarkup(posts) : `<div class="empty">검색 결과가 없습니다.</div>`;
   $("resultCount").textContent = `${formatNumber(posts.length)}개 리뷰`;
 }
 
@@ -244,8 +386,9 @@ function renderBlogView() {
           <span class="metric-pill">오늘 ${formatNumber(selectedBlog?.daily_views)}</span>
         </div>
       </div>
+      ${coupangAdSlotMarkup("blog", 1, "coupang-ad--blog")}
       <div class="tile-grid">
-        ${blogPosts.length ? blogPosts.map(cardMarkup).join("") : `<div class="empty">검색 결과가 없습니다.</div>`}
+        ${blogPosts.length ? tileGridMarkup(blogPosts) : `<div class="empty">검색 결과가 없습니다.</div>`}
       </div>
     </section>
   `;
@@ -266,6 +409,7 @@ function renderContent() {
   });
   if (state.view === "blogs") renderBlogView();
   else renderFlatView();
+  renderCoupangAds();
 }
 
 function bindEvents() {
@@ -301,6 +445,12 @@ function bindEvents() {
     if (!button) return;
     state.blogSlug = button.dataset.blogSlug;
     renderBlogView();
+    renderCoupangAds();
+  });
+
+  window.addEventListener("resize", () => {
+    window.clearTimeout(coupangResizeTimer);
+    coupangResizeTimer = window.setTimeout(refreshCoupangAds, 250);
   });
 }
 
