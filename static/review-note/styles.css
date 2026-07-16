@@ -661,16 +661,25 @@ h1 {
 }
 
 @media (min-width: 1760px) {
-  .page-shell {
-    display: grid;
-    grid-template-columns: 160px minmax(0, 1360px) 160px;
-    gap: 16px;
-    width: min(100% - 36px, 1712px);
-    align-items: start;
-  }
-
   .ad-rail {
     display: block;
+    position: fixed;
+    top: 212px;
+    width: 160px;
+    max-height: calc(100vh - 228px);
+    overflow: hidden;
+  }
+
+  .ad-rail--left {
+    left: max(18px, calc((100vw - 1360px) / 2 - 176px));
+  }
+
+  .ad-rail--right {
+    right: max(18px, calc((100vw - 1360px) / 2 - 176px));
+  }
+
+  .ad-rail-inner {
+    position: static;
   }
 }
 
