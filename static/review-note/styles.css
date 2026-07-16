@@ -224,6 +224,8 @@ h1 {
 }
 
 .coupang-ad--rail {
+  --ad-width: 160px;
+  --ad-height: 1000px;
   min-height: 1020px;
   padding: 10px 9px;
 }
@@ -660,7 +662,18 @@ h1 {
   }
 }
 
-@media (min-width: 1760px) {
+@media (min-width: 1180px) {
+  :root {
+    --review-content-width: min(1360px, calc(100vw - 388px));
+  }
+
+  .brand-row,
+  .nav-row,
+  .search-panel,
+  .page-shell {
+    width: var(--review-content-width);
+  }
+
   .ad-rail {
     display: block;
     position: fixed;
@@ -671,11 +684,11 @@ h1 {
   }
 
   .ad-rail--left {
-    left: max(18px, calc((100vw - 1360px) / 2 - 176px));
+    left: max(18px, calc((100vw - var(--review-content-width)) / 2 - 176px));
   }
 
   .ad-rail--right {
-    right: max(18px, calc((100vw - 1360px) / 2 - 176px));
+    right: max(18px, calc((100vw - var(--review-content-width)) / 2 - 176px));
   }
 
   .ad-rail-inner {
