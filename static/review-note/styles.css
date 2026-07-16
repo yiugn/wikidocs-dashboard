@@ -662,7 +662,7 @@ h1 {
   }
 }
 
-@media (min-width: 1180px) {
+@media (min-width: 900px) {
   :root {
     --review-content-width: min(1360px, calc(100vw - 388px));
   }

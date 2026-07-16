@@ -23,7 +23,6 @@ const COUPANG_AD_SIZES = {
   },
 };
 
-let coupangScriptPromise = null;
 let coupangSlotCounter = 0;
 let coupangResizeTimer = null;
 
@@ -100,18 +99,39 @@ function getCoupangAdSize(placement) {
   return sizeSet.desktop;
 }
 
-function loadCoupangScript() {
-  if (window.PartnersCoupang?.G) return Promise.resolve();
-  if (coupangScriptPromise) return coupangScriptPromise;
-  coupangScriptPromise = new Promise((resolve, reject) => {
-    const script = document.createElement("script");
-    script.src = COUPANG_SCRIPT_URL;
-    script.async = true;
-    script.onload = () => resolve();
-    script.onerror = () => reject(new Error("Coupang Partners script failed to load"));
-    document.head.appendChild(script);
+function coupangAdDocument(widgetId, width, height) {
+  const config = JSON.stringify({
+    id: widgetId,
+    template: "carousel",
+    trackingCode: COUPANG_TRACKING_CODE,
+    width: String(width),
+    height: String(height),
+    tsource: "",
   });
-  return coupangScriptPromise;
+
+  return `<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <style>
+      html,
+      body {
+        width: ${width}px;
+        height: ${height}px;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background: transparent;
+      }
+    </style>
+  </head>
+  <body>
+    <script src="${COUPANG_SCRIPT_URL}"><\/script>
+    <script>
+      new PartnersCoupang.G(${config});
+    <\/script>
+  </body>
+</html>`;
 }
 
 function renderCoupangSlot(slot) {
@@ -132,32 +152,22 @@ function renderCoupangSlot(slot) {
   slot.style.setProperty("--ad-width", `${width}px`);
   slot.style.setProperty("--ad-height", `${height}px`);
   slot.dataset.rendered = "1";
-  try {
-    new window.PartnersCoupang.G({
-      id: widgetId,
-      template: "carousel",
-      trackingCode: COUPANG_TRACKING_CODE,
-      width: String(width),
-      height: String(height),
-      tsource: "",
-      container: frame,
-    });
-  } catch (error) {
-    slot.dataset.rendered = "0";
-    slot.classList.add("ad-error");
-  }
+  const iframe = document.createElement("iframe");
+  iframe.title = "쿠팡 파트너스 광고";
+  iframe.width = String(width);
+  iframe.height = String(height);
+  iframe.loading = "lazy";
+  iframe.scrolling = "no";
+  iframe.setAttribute("sandbox", "allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation");
+  iframe.style.cssText = `width:${width}px;height:${height}px;border:0;display:block;overflow:hidden;`;
+  iframe.srcdoc = coupangAdDocument(widgetId, width, height);
+  frame.appendChild(iframe);
 }
 
 function renderCoupangAds() {
   const slots = [...document.querySelectorAll("[data-coupang-ad]")];
   if (!slots.length) return;
-  loadCoupangScript()
-    .then(() => {
-      slots.forEach(renderCoupangSlot);
-    })
-    .catch(() => {
-      slots.forEach((slot) => slot.classList.add("ad-error"));
-    });
+  slots.forEach(renderCoupangSlot);
 }
 
 function refreshCoupangAds() {
