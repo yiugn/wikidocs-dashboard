@@ -8,17 +8,25 @@
   </head>
   <body>
     <header class="topbar">
-      <div>
-        <p class="eyebrow">Wikidocs Analytics</p>
-        <h1>위키독스 블로그 조회수 대시보드</h1>
-      </div>
-      <div class="actions">
-        <label class="page-limit">
-          <span>페이지 제한</span>
-          <input id="maxPagesInput" type="number" min="0" value="0" />
-        </label>
-        <button id="syncCatalogBtn" class="secondary" type="button">글 목록 동기화</button>
-        <button id="collectBtn" type="button">실시간 수집</button>
+      <div class="topbar-inner">
+        <div>
+          <p class="eyebrow">Wikidocs Analytics</p>
+          <h1>위키독스 블로그 조회수 대시보드</h1>
+        </div>
+        <div class="topbar-right">
+          <a class="nav-link" href="review-note/" aria-label="에코칩의 리뷰 노트로 이동">
+            <span class="nav-link-icon">↗</span>
+            <span>리뷰 노트</span>
+          </a>
+          <div class="actions">
+            <label class="page-limit">
+              <span>페이지 제한</span>
+              <input id="maxPagesInput" type="number" min="0" value="0" />
+            </label>
+            <button id="syncCatalogBtn" class="secondary" type="button">글 목록 동기화</button>
+            <button id="collectBtn" type="button">실시간 수집</button>
+          </div>
+        </div>
       </div>
     </header>
 
