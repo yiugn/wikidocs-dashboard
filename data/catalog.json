@@ -1,13 +1,83 @@
 {
-  "updated_at": "2026-07-20T00:22:00+09:00",
+  "updated_at": "2026-07-21T00:22:00+09:00",
   "blogs": [
     {
       "id": 1795,
       "slug": "aitechnote",
       "name": "AI 테크 최신 정보 매거진",
       "api_pages": 4,
-      "post_count": 100,
+      "post_count": 110,
       "posts": [
+        {
+          "id": 25032,
+          "profile_id": 1795,
+          "title": "100인 이상 기업의 랜섬웨어 방어, 센티넬원 EDR 도입 전 확인할 보안 체크포인트 7개",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25032/"
+        },
+        {
+          "id": 25031,
+          "profile_id": 1795,
+          "title": "100GB 파일 AWS S3 저장 비용, 숨은 추가 요금 피하는 5가지 방법 (2026년 최신 기준)",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25031/"
+        },
+        {
+          "id": 25030,
+          "profile_id": 1795,
+          "title": "30인 중소기업이 엑셀 근태관리에서 벗어날 그룹웨어 기능 선택 기준 7가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25030/"
+        },
+        {
+          "id": 25029,
+          "profile_id": 1795,
+          "title": "30인 중소기업이 엑셀 근태관리 대신 쓸 그룹웨어 전자결재 기능 6개",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25029/"
+        },
+        {
+          "id": 25028,
+          "profile_id": 1795,
+          "title": "30인 중소기업이 엑셀 근태관리 대신 그룹웨어 도입 전 볼 기능 7가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25028/"
+        },
+        {
+          "id": 25027,
+          "profile_id": 1795,
+          "title": "30인 중소기업이 메신저 결재 혼란 줄일 그룹웨어 선택 기준 7개",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25027/"
+        },
+        {
+          "id": 25026,
+          "profile_id": 1795,
+          "title": "30인 중소기업이 그룹웨어 도입 전 확인할 전자결재·근태 기능 7가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25026/"
+        },
+        {
+          "id": 25025,
+          "profile_id": 1795,
+          "title": "30인 중소기업, 잦은 결재 지연 줄이는 그룹웨어 전자결재 기능 7가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25025/"
+        },
+        {
+          "id": 25023,
+          "profile_id": 1795,
+          "title": "30인 중소기업, 엑셀 근태관리 대신 그룹웨어 도입 전 볼 기능 6가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25023/"
+        },
+        {
+          "id": 25021,
+          "profile_id": 1795,
+          "title": "30인 중소기업 생산성 높이는 공장 사무실 인테리어 디자인 원칙 5가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25021/"
+        },
         {
           "id": 24912,
           "profile_id": 1795,
@@ -19245,9 +19315,79 @@
       "id": 1977,
       "slug": "smartliving",
       "name": "스마트 리빙",
-      "api_pages": 5,
-      "post_count": 146,
+      "api_pages": 6,
+      "post_count": 156,
       "posts": [
+        {
+          "id": 25044,
+          "profile_id": 1977,
+          "title": "베란다 좁은 아파트 거주자를 위한, 수납공간 2배 늘려주는 다용도 선반 골랐습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/25044/"
+        },
+        {
+          "id": 25043,
+          "profile_id": 1977,
+          "title": "요즘 다들 캠핑짐 손으로 안 든다는 폴딩 웨건, 이동시간 아끼는 이유가 있었습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/25043/"
+        },
+        {
+          "id": 25042,
+          "profile_id": 1977,
+          "title": "어린 자녀를 둔 부모를 위한, 감전사고 병원비 막아주는 콘센트 안전커버 골랐습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/25042/"
+        },
+        {
+          "id": 25041,
+          "profile_id": 1977,
+          "title": "혹시 아직도 욕실 곰팡이 제거업체 부르는 비용 아깝게 쓰고 계신가요?",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/25041/"
+        },
+        {
+          "id": 25040,
+          "profile_id": 1977,
+          "title": "자취생 1인가구를 위한, 전기세 아끼는 LED 스탠드 조명 골랐습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/25040/"
+        },
+        {
+          "id": 25039,
+          "profile_id": 1977,
+          "title": "사무직 직장인을 위한, 파스값 날린 끝에 알게 된 어깨마사지기 고르는 법",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/25039/"
+        },
+        {
+          "id": 25038,
+          "profile_id": 1977,
+          "title": "저반발 메모리폼 베개 살 때 다들 놓치는 경추 각도 체크포인트 한 가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/25038/"
+        },
+        {
+          "id": 25037,
+          "profile_id": 1977,
+          "title": "재택근무 프리랜서를 위한, 충전케이블 2개 줄여주는 마우스패드 골랐습니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/25037/"
+        },
+        {
+          "id": 25036,
+          "profile_id": 1977,
+          "title": "기력 떨어진 직장인을 위한, 중복 전에 챙기면 보약값 아끼는 장어즙 TOP3",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/25036/"
+        },
+        {
+          "id": 25035,
+          "profile_id": 1977,
+          "title": "장마철 자취생을 위한, 눅눅한 신발 방치하면 무좀 치료비 더 나갑니다",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@smartliving/25035/"
+        },
         {
           "id": 24862,
           "profile_id": 1977,
