@@ -1,13 +1,83 @@
 {
-  "updated_at": "2026-07-23T00:22:00+09:00",
+  "updated_at": "2026-07-24T00:22:01+09:00",
   "blogs": [
     {
       "id": 1795,
       "slug": "aitechnote",
       "name": "AI 테크 최신 정보 매거진",
-      "api_pages": 4,
-      "post_count": 120,
+      "api_pages": 5,
+      "post_count": 130,
       "posts": [
+        {
+          "id": 25688,
+          "profile_id": 1795,
+          "title": "K3S, 소규모 IoT 프로젝트에 월 0원으로 경량 쿠버네티스 구축하는 현실적인 방법",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25688/"
+        },
+        {
+          "id": 25687,
+          "profile_id": 1795,
+          "title": "K3S 경량 쿠버네티스, 엣지 환경에서 서버 리소스 아끼는 구성 기준",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25687/"
+        },
+        {
+          "id": 25686,
+          "profile_id": 1795,
+          "title": "Jira 협업 툴, 개발팀이 스프린트 관리 시간 30분 줄이는 활용법 5단계",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25686/"
+        },
+        {
+          "id": 25685,
+          "profile_id": 1795,
+          "title": "Jira 프로젝트 관리, 마케팅팀 협업 시 흔히 하는 실수 4가지와 해결 전략",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25685/"
+        },
+        {
+          "id": 25684,
+          "profile_id": 1795,
+          "title": "Google Cloud 가격: 월 10만원 이하 초보자가 놓치기 쉬운 과금 정책 4가지 (2026년 기준)",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25684/"
+        },
+        {
+          "id": 25683,
+          "profile_id": 1795,
+          "title": "Google Cloud 가격: 월 0원으로 시작하는 1인 개발자 프로젝트 가이드 (2026년 최신 기준)",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25683/"
+        },
+        {
+          "id": 25682,
+          "profile_id": 1795,
+          "title": "GIS AI, 스마트 도시 구축에서 데이터 분석 비용 줄이는 도입 사례",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25682/"
+        },
+        {
+          "id": 25681,
+          "profile_id": 1795,
+          "title": "GCP 평생 무료로 파이썬 봇 돌릴 때 놓치기 쉬운 과금 실수 5가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25681/"
+        },
+        {
+          "id": 25680,
+          "profile_id": 1795,
+          "title": "GCP 평생 무료로 웹 서버 구축 전 반드시 확인할 트래픽 한도 5개",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25680/"
+        },
+        {
+          "id": 25678,
+          "profile_id": 1795,
+          "title": "GCP 평생 무료 조건, 월 0원으로 개인 API 서버 운영하는 한도 확인법",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@aitechnote/25678/"
+        },
         {
           "id": 25442,
           "profile_id": 1795,
@@ -855,8 +925,78 @@
       "slug": "insightbridge",
       "name": "인사이트 브리지",
       "api_pages": 7,
-      "post_count": 192,
+      "post_count": 202,
       "posts": [
+        {
+          "id": 25698,
+          "profile_id": 1783,
+          "title": "MS 협업 툴 도입 전 10인 팀이 확인해야 할 보안 기능 7개",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@insightbridge/25698/"
+        },
+        {
+          "id": 25697,
+          "profile_id": 1783,
+          "title": "MS 그룹웨어, 50인 중소기업이 도입 전 비교할 라이선스 비용과 기능",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@insightbridge/25697/"
+        },
+        {
+          "id": 25696,
+          "profile_id": 1783,
+          "title": "Microsoft Dynamics 365, 중견기업 CRM 도입 전 필수 비교 기능과 라이선스 비용",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@insightbridge/25696/"
+        },
+        {
+          "id": 25695,
+          "profile_id": 1783,
+          "title": "LX판토스 이전 설치, 50인 중소기업이 사무실 이전 시 놓치기 쉬운 팁 4가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@insightbridge/25695/"
+        },
+        {
+          "id": 25694,
+          "profile_id": 1783,
+          "title": "LX 판토스 이전 설치, 사무실 이사 시 데이터 손실 막는 계약 전 확인 사항",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@insightbridge/25694/"
+        },
+        {
+          "id": 25693,
+          "profile_id": 1783,
+          "title": "KAMP AI, 중소기업이 제조 공정 자동화에 활용할 수 있는 정부 지원 5가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@insightbridge/25693/"
+        },
+        {
+          "id": 25692,
+          "profile_id": 1783,
+          "title": "KAMP AI: 2026년 중소기업 정부 지원 AI 도입, 신청 가이드 7가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@insightbridge/25692/"
+        },
+        {
+          "id": 25691,
+          "profile_id": 1783,
+          "title": "KAMP AI, 스타트업이 정부 지원으로 AI 개발 비용 50% 절감하는 법",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@insightbridge/25691/"
+        },
+        {
+          "id": 25690,
+          "profile_id": 1783,
+          "title": "KAMP AI 정부 지원, 중소기업이 AI 도입 전 확인할 신청 조건과 혜택",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@insightbridge/25690/"
+        },
+        {
+          "id": 25689,
+          "profile_id": 1783,
+          "title": "K3S: 소규모 서버 환경에서 쿠버네티스 30분 구축하는 실전 가이드",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@insightbridge/25689/"
+        },
         {
           "id": 25452,
           "profile_id": 1783,
@@ -2756,8 +2896,78 @@
       "slug": "history",
       "name": "모든 것의 역사",
       "api_pages": 6,
-      "post_count": 164,
+      "post_count": 174,
       "posts": [
+        {
+          "id": 25708,
+          "profile_id": 1799,
+          "title": "PPT 공동작업 잦은 마케팅팀의 수정 횟수 줄이는 온라인 협업 툴 5가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@history/25708/"
+        },
+        {
+          "id": 25707,
+          "profile_id": 1799,
+          "title": "PPT 공동작업 많은 마케팅팀의 수정 횟수 줄이는 협업툴 체크포인트 6개",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@history/25707/"
+        },
+        {
+          "id": 25706,
+          "profile_id": 1799,
+          "title": "PPT 공동작업 많은 마케팅팀의 수정 횟수 줄이는 협업툴 6가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@history/25706/"
+        },
+        {
+          "id": 25705,
+          "profile_id": 1799,
+          "title": "OpenAI GPT, 2026년 글쓰기 시간 줄이는 최신 모델·요금제 비교",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@history/25705/"
+        },
+        {
+          "id": 25704,
+          "profile_id": 1799,
+          "title": "OpenAI AI, 2026년 마케팅 문구 작성 시간 줄이는 모델 선택 기준",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@history/25704/"
+        },
+        {
+          "id": 25703,
+          "profile_id": 1799,
+          "title": "OKKY 프리랜서: 경력 3년차 개발자가 고수익 프로젝트 잡는 노하우 7가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@history/25703/"
+        },
+        {
+          "id": 25702,
+          "profile_id": 1799,
+          "title": "OKKY 프리랜서 구직, 개발자가 단가 낮은 프로젝트 거르는 선택 기준",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@history/25702/"
+        },
+        {
+          "id": 25701,
+          "profile_id": 1799,
+          "title": "NVIDIA Cloud, AI 모델 학습 비용 20% 줄이는 GPU 자원 활용법",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@history/25701/"
+        },
+        {
+          "id": 25700,
+          "profile_id": 1799,
+          "title": "MS 협업 툴, 팀즈와 오피스365 연동으로 회의록 자동 정리 3단계",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@history/25700/"
+        },
+        {
+          "id": 25699,
+          "profile_id": 1799,
+          "title": "MS 협업 툴, 5인 팀이 무료 플랜으로 업무 효율 높일 기능 6개",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@history/25699/"
+        },
         {
           "id": 25462,
           "profile_id": 1799,
@@ -3913,8 +4123,78 @@
       "slug": "studylibrary",
       "name": "학문의 서재",
       "api_pages": 4,
-      "post_count": 98,
+      "post_count": 108,
       "posts": [
+        {
+          "id": 25719,
+          "profile_id": 1800,
+          "title": "RDS PostgreSQL 비용, 월 100만원 이하로 DB 운영하는 인스턴스 선택 기준",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@studylibrary/25719/"
+        },
+        {
+          "id": 25718,
+          "profile_id": 1800,
+          "title": "RAG 구축, 챗봇 답변 정확도를 높이는 데이터 결합 설계 기준",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@studylibrary/25718/"
+        },
+        {
+          "id": 25717,
+          "profile_id": 1800,
+          "title": "RAG 검색 증강 생성, 챗봇 정확도 20% 높이는 최신 AI 기술 활용법",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@studylibrary/25717/"
+        },
+        {
+          "id": 25716,
+          "profile_id": 1800,
+          "title": "제조업체 QMS 도입 전, 불량 비용 줄이는 5가지 핵심 요건 (2026년 기준)",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@studylibrary/25716/"
+        },
+        {
+          "id": 25715,
+          "profile_id": 1800,
+          "title": "QMS 구축 전 제조 기업이 2026년 ISO 인증을 위한 핵심 조건 7개",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@studylibrary/25715/"
+        },
+        {
+          "id": 25714,
+          "profile_id": 1800,
+          "title": "팀원 10명 프로젝트 관리 툴: 실시간 일정 공유 및 협업 솔루션 7가지 비교 (2026년 최신)",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@studylibrary/25714/"
+        },
+        {
+          "id": 25713,
+          "profile_id": 1800,
+          "title": "프로젝트 관리 툴, 스타트업 신규 팀원 온보딩 시간 단축을 위한 설정 기준",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@studylibrary/25713/"
+        },
+        {
+          "id": 25712,
+          "profile_id": 1800,
+          "title": "Project 관리 툴, 마감일 지연 없이 프로젝트 끝내는 핵심 기능 6가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@studylibrary/25712/"
+        },
+        {
+          "id": 25711,
+          "profile_id": 1800,
+          "title": "10인 개발팀을 위한 프로젝트 관리 툴: 마감 3일 단축하는 7가지 선택 기준",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@studylibrary/25711/"
+        },
+        {
+          "id": 25710,
+          "profile_id": 1800,
+          "title": "PPT 공동작업 협업툴, 마케팅팀 수정 반복 줄이는 핵심 기능 비교",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@studylibrary/25710/"
+        },
         {
           "id": 25473,
           "profile_id": 1800,
@@ -4608,8 +4888,78 @@
       "slug": "infoplant",
       "name": "지식 발전소",
       "api_pages": 11,
-      "post_count": 316,
+      "post_count": 326,
       "posts": [
+        {
+          "id": 25731,
+          "profile_id": 1724,
+          "title": "SK 패밀리 카드 도미노 할인, 가족 외식비 30% 줄이는 꿀팁 4가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@infoplant/25731/"
+        },
+        {
+          "id": 25730,
+          "profile_id": 1724,
+          "title": "SK 패밀리 카드 도미노 피자 할인, 주말 배달 주문 시 중복 적용 조건",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@infoplant/25730/"
+        },
+        {
+          "id": 25728,
+          "profile_id": 1724,
+          "title": "SK 패밀리 카드 도미노 피자 할인, 2026년 최대 할인율과 적용 제외 조건",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@infoplant/25728/"
+        },
+        {
+          "id": 25726,
+          "profile_id": 1724,
+          "title": "SK 매직 할인 카드, 정수기·공기청정기 렌탈료 월 1만원 아끼는 실적 조건",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@infoplant/25726/"
+        },
+        {
+          "id": 25725,
+          "profile_id": 1724,
+          "title": "SCM ERP 통합, 제조업체가 재고 관리 비용 10% 줄이는 최적화 전략",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@infoplant/25725/"
+        },
+        {
+          "id": 25724,
+          "profile_id": 1724,
+          "title": "Sagemaker 비용, 머신러닝 모델 학습 전 데이터 과학자가 볼 절감 팁 4가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@infoplant/25724/"
+        },
+        {
+          "id": 25723,
+          "profile_id": 1724,
+          "title": "RDS PostgreSQL, 중소기업이 확장성 고려할 때 선택 기준 6개",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@infoplant/25723/"
+        },
+        {
+          "id": 25722,
+          "profile_id": 1724,
+          "title": "RDS PostgreSQL, 월 10만원 이하로 대용량 트래픽 견디는 세팅법",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@infoplant/25722/"
+        },
+        {
+          "id": 25721,
+          "profile_id": 1724,
+          "title": "RDS PostgreSQL, 대용량 데이터베이스를 월 5만원으로 운영할 방법 3가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@infoplant/25721/"
+        },
+        {
+          "id": 25720,
+          "profile_id": 1724,
+          "title": "RDS PostgreSQL, 대규모 트래픽에도 안정적인 DB 구축 노하우 6가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@infoplant/25720/"
+        },
         {
           "id": 25485,
           "profile_id": 1724,
@@ -6828,9 +7178,79 @@
       "id": 1725,
       "slug": "knarchive",
       "name": "지식 저장소",
-      "api_pages": 53,
-      "post_count": 1588,
+      "api_pages": 54,
+      "post_count": 1598,
       "posts": [
+        {
+          "id": 25741,
+          "profile_id": 1725,
+          "title": "강북 삼성 병원 건강 검진 예약, 40대 직장인이 주말에 가능한 프로그램 6가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@knarchive/25741/"
+        },
+        {
+          "id": 25740,
+          "profile_id": 1725,
+          "title": "가족 일상생활중배상책임 누수, 위층 피해 보험금 청구 조건과 필요서류",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@knarchive/25740/"
+        },
+        {
+          "id": 25739,
+          "profile_id": 1725,
+          "title": "가족 일상생활 중 배상책임 누수, 아랫집 물샘 사고 시 보험 처리 절차 5단계",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@knarchive/25739/"
+        },
+        {
+          "id": 25738,
+          "profile_id": 1725,
+          "title": "WBS 관리: 프로젝트 매니저를 위한 일정 지연 최소화 작업 분해 기준 2026년",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@knarchive/25738/"
+        },
+        {
+          "id": 25737,
+          "profile_id": 1725,
+          "title": "WBS 관리, IT 프로젝트 매니저가 일정 지연 20% 줄이는 방법 5단계",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@knarchive/25737/"
+        },
+        {
+          "id": 25736,
+          "profile_id": 1725,
+          "title": "SSG 카드 혜택 2026: 월 30만원 장보기 10% 아끼는 주부 팁",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@knarchive/25736/"
+        },
+        {
+          "id": 25735,
+          "profile_id": 1725,
+          "title": "SSG 카드 혜택, 2026년 신세계 백화점 쇼핑 전 확인할 할인 한도와 제외 조건",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@knarchive/25735/"
+        },
+        {
+          "id": 25734,
+          "profile_id": 1725,
+          "title": "SK 패밀리 카드 도미노, 월 2회 피자 할인 최대로 받는 혜택 활용법",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@knarchive/25734/"
+        },
+        {
+          "id": 25733,
+          "profile_id": 1725,
+          "title": "SK 패밀리 카드 도미노, 월 1회 할인으로 외식비 2만원 아끼는 팁",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@knarchive/25733/"
+        },
+        {
+          "id": 25732,
+          "profile_id": 1725,
+          "title": "SK 패밀리 카드 도미노, 외식비 30% 줄이는 숨겨진 할인 혜택 4가지",
+          "is_public": true,
+          "url": "https://wikidocs.net/blog/@knarchive/25732/"
+        },
         {
           "id": 25501,
           "profile_id": 1725,
