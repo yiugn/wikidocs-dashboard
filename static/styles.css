@@ -20,6 +20,10 @@
   --shadow: 0 18px 42px rgba(15, 23, 42, 0.08);
   --shadow-soft: 0 1px 2px rgba(15, 23, 42, 0.06);
   --container: 1480px;
+  --weight-medium: 500;
+  --weight-semibold: 600;
+  --weight-bold: 700;
+  --weight-display: 760;
 }
 
 * {
@@ -47,7 +51,7 @@ body {
     -apple-system,
     BlinkMacSystemFont,
     sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   letter-spacing: 0;
 }
 
@@ -116,7 +120,7 @@ a:hover {
   background: #ffffff;
   color: var(--rail);
   font-size: 17px;
-  font-weight: 900;
+  font-weight: var(--weight-bold);
 }
 
 .rail-brand strong,
@@ -126,7 +130,7 @@ a:hover {
 
 .rail-brand strong {
   font-size: 15px;
-  font-weight: 850;
+  font-weight: var(--weight-semibold);
 }
 
 .rail-brand small {
@@ -152,8 +156,8 @@ a:hover {
   background: transparent;
   color: #aebbd0;
   font: inherit;
-  font-size: 13px;
-  font-weight: 780;
+  font-size: 14px;
+  font-weight: var(--weight-medium);
   text-align: left;
   cursor: pointer;
 }
@@ -179,7 +183,7 @@ a:hover {
   background: rgba(255, 255, 255, 0.08);
   color: #94a3b8;
   font-size: 11px;
-  font-weight: 850;
+  font-weight: var(--weight-semibold);
 }
 
 .tab-button.active .tab-icon {
@@ -207,12 +211,13 @@ a:hover {
 .review-link span {
   color: #aebbd0;
   font-size: 11px;
-  font-weight: 800;
+  font-weight: var(--weight-semibold);
   text-transform: uppercase;
 }
 
 .review-link strong {
   font-size: 14px;
+  font-weight: var(--weight-semibold);
   line-height: 1.35;
 }
 
@@ -249,8 +254,8 @@ a:hover {
 .eyebrow,
 .section-kicker {
   color: var(--teal);
-  font-size: 11px;
-  font-weight: 900;
+  font-size: 12px;
+  font-weight: var(--weight-bold);
   letter-spacing: 0;
   text-transform: uppercase;
 }
@@ -262,17 +267,17 @@ a:hover {
 h1 {
   margin-top: 6px;
   color: var(--ink);
-  font-size: clamp(30px, 4vw, 48px);
-  font-weight: 900;
-  line-height: 1.06;
+  font-size: clamp(34px, 4vw, 48px);
+  font-weight: var(--weight-display);
+  line-height: 1.08;
   word-break: keep-all;
 }
 
 .title-block p:not(.eyebrow) {
   margin-top: 12px;
   color: var(--muted);
-  font-size: 15px;
-  line-height: 1.55;
+  font-size: 16px;
+  line-height: 1.6;
   word-break: keep-all;
 }
 
@@ -304,8 +309,8 @@ button {
   background: #0f172a;
   color: #ffffff;
   font: inherit;
-  font-size: 13px;
-  font-weight: 850;
+  font-size: 14px;
+  font-weight: var(--weight-semibold);
   cursor: pointer;
 }
 
@@ -346,8 +351,8 @@ body.static-mode .import-box {
   display: grid;
   gap: 4px;
   color: var(--muted);
-  font-size: 11px;
-  font-weight: 800;
+  font-size: 12px;
+  font-weight: var(--weight-medium);
 }
 
 .page-limit input {
@@ -392,8 +397,8 @@ body.static-mode .import-box {
 .status-card strong {
   display: block;
   color: var(--ink);
-  font-size: 14px;
-  font-weight: 900;
+  font-size: 15px;
+  font-weight: var(--weight-semibold);
 }
 
 .status-card p,
@@ -403,7 +408,7 @@ body.static-mode .import-box {
 .insight-card p,
 .panel-subhead p {
   color: var(--muted);
-  font-size: 13px;
+  font-size: 14px;
   line-height: 1.5;
 }
 
@@ -439,15 +444,16 @@ body.static-mode .import-box {
   display: inline-block;
   margin-bottom: 6px;
   color: var(--cyan);
-  font-size: 11px;
-  font-weight: 900;
+  font-size: 12px;
+  font-weight: var(--weight-bold);
   text-transform: uppercase;
 }
 
 .insight-card strong {
   display: block;
   color: var(--ink);
-  font-size: 16px;
+  font-size: 17px;
+  font-weight: var(--weight-semibold);
   line-height: 1.35;
 }
 
@@ -504,23 +510,23 @@ body.static-mode .import-box {
   background: #eef6ff;
   color: var(--blue);
   font-size: 12px;
-  font-weight: 900;
+  font-weight: var(--weight-semibold);
 }
 
 .metric-card .accent {
   color: var(--muted);
-  font-size: 12px;
-  font-weight: 900;
+  font-size: 13px;
+  font-weight: var(--weight-medium);
 }
 
 .metric-card strong {
   display: block;
   margin-top: 18px;
   color: var(--ink);
-  font-size: clamp(28px, 3vw, 42px);
+  font-size: clamp(30px, 3vw, 42px);
   font-variant-numeric: tabular-nums;
-  font-weight: 950;
-  line-height: 0.98;
+  font-weight: var(--weight-display);
+  line-height: 1;
 }
 
 .metric-card.is-secondary strong {
@@ -592,16 +598,16 @@ body.static-mode .import-box {
 h2 {
   margin-top: 5px;
   color: var(--ink);
-  font-size: 19px;
-  font-weight: 900;
-  line-height: 1.25;
+  font-size: 20px;
+  font-weight: var(--weight-semibold);
+  line-height: 1.3;
   word-break: keep-all;
 }
 
 h3 {
   color: var(--ink);
-  font-size: 15px;
-  font-weight: 900;
+  font-size: 16px;
+  font-weight: var(--weight-semibold);
   line-height: 1.35;
 }
 
@@ -634,13 +640,13 @@ canvas {
   display: block;
   margin-bottom: 5px;
   color: #075985;
-  font-size: 14px;
-  font-weight: 900;
+  font-size: 15px;
+  font-weight: var(--weight-semibold);
 }
 
 .notice p {
   color: #416174;
-  font-size: 13px;
+  font-size: 14px;
   line-height: 1.55;
 }
 
@@ -661,9 +667,9 @@ canvas {
 .blog-card h3 {
   min-height: 42px;
   color: var(--ink);
-  font-size: 16px;
-  font-weight: 900;
-  line-height: 1.32;
+  font-size: 17px;
+  font-weight: var(--weight-semibold);
+  line-height: 1.36;
 }
 
 .blog-stats {
@@ -684,17 +690,17 @@ canvas {
 .blog-stats span {
   display: block;
   color: var(--muted);
-  font-size: 11px;
-  font-weight: 850;
+  font-size: 12px;
+  font-weight: var(--weight-medium);
 }
 
 .blog-stats strong {
   display: block;
   margin-top: 4px;
   color: var(--ink);
-  font-size: 16px;
+  font-size: 17px;
   font-variant-numeric: tabular-nums;
-  font-weight: 950;
+  font-weight: var(--weight-semibold);
   overflow-wrap: anywhere;
 }
 
@@ -786,15 +792,15 @@ th {
   z-index: 1;
   background: #f8fafc;
   color: var(--muted);
-  font-size: 11px;
-  font-weight: 950;
+  font-size: 12px;
+  font-weight: var(--weight-semibold);
   text-transform: uppercase;
 }
 
 td {
   color: #1f2937;
-  font-size: 13px;
-  line-height: 1.45;
+  font-size: 14px;
+  line-height: 1.5;
 }
 
 tbody tr:hover td {
@@ -805,7 +811,7 @@ td.num {
   color: var(--ink);
   text-align: right;
   font-variant-numeric: tabular-nums;
-  font-weight: 850;
+  font-weight: var(--weight-semibold);
   white-space: nowrap;
 }
 
@@ -925,11 +931,11 @@ td.num {
   }
 
   h1 {
-    font-size: 31px;
+    font-size: 32px;
   }
 
   .title-block p:not(.eyebrow) {
-    font-size: 14px;
+    font-size: 15px;
   }
 
   .status-card,
