@@ -9,13 +9,14 @@
   <body>
     <header class="topbar">
       <div class="topbar-inner">
-        <div>
+        <div class="brand-block">
           <p class="eyebrow">Wikidocs Analytics</p>
           <h1>위키독스 블로그 조회수 대시보드</h1>
+          <p class="topbar-subtitle">30분 단위 자동 수집 데이터로 블로그 성과와 포스팅 반응을 추적합니다.</p>
         </div>
         <div class="topbar-right">
           <a class="nav-link" href="review-note/" aria-label="에코칩의 리뷰 노트로 이동">
-            <span class="nav-link-icon">↗</span>
+            <span class="nav-link-icon" aria-hidden="true">↗</span>
             <span>리뷰 노트</span>
           </a>
           <div class="actions">
@@ -81,7 +82,7 @@
           <div class="panel-head">
             <div>
               <h2>블로그 현황</h2>
-              <p>포스팅 수, 누적 조회수, 일일 증가분</p>
+              <p>포스트 수, 누적 조회수, 일일 증가분</p>
             </div>
           </div>
           <div class="blog-grid" id="blogGrid"></div>
@@ -163,7 +164,7 @@
           <div class="panel-head">
             <div>
               <h2>블로그별 당일 조회수 추이</h2>
-              <p>x축 수집 시각, y축 당일 조회수. 굵은 선은 전체 블로그 합계입니다.</p>
+              <p>x축은 수집 시각, y축은 당일 조회수입니다. 굵은 선은 전체 블로그 합계입니다.</p>
             </div>
           </div>
           <canvas id="todayViewsByBlogChart" height="430"></canvas>
@@ -173,7 +174,7 @@
           <div class="panel-head">
             <div>
               <h2>블로그별 30분 구간 증가분</h2>
-              <p>x축 수집 시각, y축 직전 스냅샷 대비 증가분입니다.</p>
+              <p>x축은 수집 시각, y축은 직전 스냅샷 대비 증가분입니다.</p>
             </div>
           </div>
           <canvas id="todayIntervalViewsByBlogChart" height="430"></canvas>
@@ -183,7 +184,7 @@
       <section id="dailyTab" class="tab-panel">
         <section class="notice">
           <strong>저장 방식</strong>
-          <p id="historyNote">저장된 스냅샷을 기준으로 일별 그래프를 구성합니다.</p>
+          <p id="historyNote">저장된 스냅샷 기준으로 일별 그래프를 구성합니다.</p>
           <p id="csvNote"></p>
         </section>
 
@@ -191,7 +192,7 @@
           <div class="panel-head">
             <div>
               <h2>블로그별 일단위 조회수</h2>
-              <p>x축 날짜, y축 조회수. 굵은 선은 전체 블로그 합계입니다.</p>
+              <p>x축은 날짜, y축은 조회수입니다. 굵은 선은 전체 블로그 합계입니다.</p>
             </div>
           </div>
           <canvas id="dailyViewsByBlogChart" height="430"></canvas>
@@ -201,7 +202,7 @@
           <div class="panel-head">
             <div>
               <h2>블로그별 일단위 누적 조회수</h2>
-              <p>x축 날짜, y축 누적 조회수. 굵은 선은 전체 블로그 누적 합계입니다.</p>
+              <p>x축은 날짜, y축은 누적 조회수입니다. 굵은 선은 전체 블로그 누적 합계입니다.</p>
             </div>
           </div>
           <canvas id="cumulativeViewsByBlogChart" height="430"></canvas>
@@ -219,7 +220,7 @@
             <div class="panel-head">
               <div>
                 <h2>월별 조회수</h2>
-                <p>x축 날짜(월), y축 조회수</p>
+                <p>x축은 날짜(월), y축은 조회수입니다.</p>
               </div>
             </div>
             <canvas id="monthlyViewsChart" height="320"></canvas>

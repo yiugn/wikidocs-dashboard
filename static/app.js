@@ -8,7 +8,7 @@ const state = {
     window.location.protocol === "file:",
 };
 
-const palette = ["#2563eb", "#0f766e", "#b45309", "#be123c", "#7c3aed", "#15803d", "#475569", "#0891b2"];
+const palette = ["#2563eb", "#0f766e", "#b45309", "#be123c", "#64748b", "#0891b2", "#15803d", "#7c3aed"];
 const DASHBOARD_API_URL = "/api/dashboard";
 const STATIC_DASHBOARD_URL = "data/dashboard.json";
 
@@ -247,18 +247,18 @@ function prepareCanvas(canvas) {
 
 function drawEmpty(canvas, message) {
   const { ctx, width, height } = prepareCanvas(canvas);
-  ctx.fillStyle = "#667085";
-  ctx.font = "14px Segoe UI, sans-serif";
+  ctx.fillStyle = "#64748b";
+  ctx.font = "14px Pretendard, Segoe UI, sans-serif";
   ctx.textAlign = "center";
   ctx.fillText(message, width / 2, height / 2);
 }
 
 function drawAxes(ctx, width, height, margin, maxValue) {
   const chartHeight = height - margin.top - margin.bottom;
-  ctx.strokeStyle = "#d9e0ea";
+  ctx.strokeStyle = "#e2e8f0";
   ctx.lineWidth = 1;
-  ctx.font = "12px Segoe UI, sans-serif";
-  ctx.fillStyle = "#667085";
+  ctx.font = "12px Pretendard, Segoe UI, sans-serif";
+  ctx.fillStyle = "#64748b";
   ctx.textAlign = "right";
   for (let i = 0; i <= 4; i += 1) {
     const y = margin.top + chartHeight - (chartHeight * i) / 4;
@@ -292,13 +292,13 @@ function drawBarChart(canvas, labels, values, options = {}) {
     const y = margin.top + chartHeight - barHeight;
     ctx.fillStyle = palette[index % palette.length];
     ctx.fillRect(x, y, barWidth, barHeight);
-    ctx.fillStyle = "#172033";
+    ctx.fillStyle = "#0f172a";
     ctx.textAlign = "center";
     ctx.fillText(formatNumber(value), x + barWidth / 2, y - 6);
     ctx.save();
     ctx.translate(x + barWidth / 2, height - 12);
     ctx.rotate(-Math.PI / 8);
-    ctx.fillStyle = "#667085";
+    ctx.fillStyle = "#64748b";
     ctx.fillText(truncate(labels[index], options.labelLimit || 12), 0, 0);
     ctx.restore();
   });
@@ -318,17 +318,17 @@ function drawHorizontalBarChart(canvas, posts, metric = "views", emptyMessage = 
   const rowHeight = Math.min(32, (height - margin.top - margin.bottom) / rows.length);
   const maxValue = Math.max(...rows.map((post) => Number(post[metric] || 0))) * 1.08;
 
-  ctx.font = "13px Segoe UI, sans-serif";
+  ctx.font = "13px Pretendard, Segoe UI, sans-serif";
   rows.forEach((post, index) => {
     const y = margin.top + index * rowHeight;
     const value = Number(post[metric] || 0);
     const barWidth = (chartWidth * value) / maxValue;
-    ctx.fillStyle = "#667085";
+    ctx.fillStyle = "#64748b";
     ctx.textAlign = "left";
     ctx.fillText(fitCanvasText(ctx, post.title, labelWidth), 12, y + 20);
     ctx.fillStyle = palette[index % palette.length];
     ctx.fillRect(margin.left, y + 5, barWidth, 18);
-    ctx.fillStyle = "#172033";
+    ctx.fillStyle = "#0f172a";
     const valueText = formatNumber(value);
     const valueX = margin.left + barWidth + 8;
     if (valueX + ctx.measureText(valueText).width > width - 8) {
@@ -396,7 +396,7 @@ function drawMultiLineChart(canvas, series, metric, emptyMessage) {
   const yFor = (value) => margin.top + chartHeight - (value / chartMax) * chartHeight;
 
   rows.forEach((row, rowIndex) => {
-    const color = row.totalLine ? "#111827" : palette[(rowIndex - 1 + palette.length) % palette.length];
+    const color = row.totalLine ? "#0f172a" : palette[(rowIndex - 1 + palette.length) % palette.length];
     ctx.strokeStyle = color;
     ctx.lineWidth = row.totalLine ? 3 : 2;
     ctx.beginPath();
@@ -411,7 +411,7 @@ function drawMultiLineChart(canvas, series, metric, emptyMessage) {
     row.points.forEach((value, index) => {
       const x = xFor(index);
       const y = yFor(value);
-      ctx.fillStyle = "#fff";
+      ctx.fillStyle = "#ffffff";
       ctx.strokeStyle = color;
       ctx.lineWidth = row.totalLine ? 2 : 1.5;
       ctx.beginPath();
@@ -421,8 +421,8 @@ function drawMultiLineChart(canvas, series, metric, emptyMessage) {
     });
   });
 
-  ctx.fillStyle = "#667085";
-  ctx.font = "12px Segoe UI, sans-serif";
+  ctx.fillStyle = "#64748b";
+  ctx.font = "12px Pretendard, Segoe UI, sans-serif";
   ctx.textAlign = "center";
   const labelStep = Math.max(1, Math.ceil(dates.length / 8));
   dates.forEach((date, index) => {
@@ -435,10 +435,10 @@ function drawMultiLineChart(canvas, series, metric, emptyMessage) {
   ctx.textAlign = "left";
   rows.slice(0, 9).forEach((row, index) => {
     const y = margin.top + index * 22 + 4;
-    const color = row.totalLine ? "#111827" : palette[(index - 1 + palette.length) % palette.length];
+    const color = row.totalLine ? "#0f172a" : palette[(index - 1 + palette.length) % palette.length];
     ctx.fillStyle = color;
     ctx.fillRect(width - margin.right + 18, y, 16, 3);
-    ctx.fillStyle = "#172033";
+    ctx.fillStyle = "#0f172a";
     ctx.fillText(truncate(row.name, 16), width - margin.right + 42, y + 5);
   });
 }
