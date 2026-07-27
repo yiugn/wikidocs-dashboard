@@ -8,7 +8,7 @@ const state = {
     window.location.protocol === "file:",
 };
 
-const palette = ["#2563eb", "#0f766e", "#b45309", "#be123c", "#64748b", "#0891b2", "#15803d", "#7c3aed"];
+const palette = ["#2563eb", "#0f766e", "#b7791f", "#e11d48", "#0891b2", "#475569", "#15803d", "#7c3aed"];
 const DASHBOARD_API_URL = "/api/dashboard";
 const STATIC_DASHBOARD_URL = "data/dashboard.json";
 
@@ -78,13 +78,46 @@ function applyRuntimeMode() {
 }
 
 function metricCard(label, value, hint) {
+  const primaryLabels = new Set(["누적 조회수", "오늘 조회수", "전일 조회수", "당월 조회수"]);
+  const icons = {
+    블로그: "B",
+    "글 수": "P",
+    "누적 조회수": "Σ",
+    "오늘 조회수": "+",
+    "전일 조회수": "D-1",
+    "당월 조회수": "M",
+    스냅샷: "S",
+  };
+  const cardClass = primaryLabels.has(label) ? "metric-card is-primary" : "metric-card is-secondary";
   return `
-    <article class="metric-card">
-      <span class="accent">${label}</span>
+    <article class="${cardClass}">
+      <div class="metric-topline">
+        <span class="accent">${label}</span>
+        <span class="metric-icon" aria-hidden="true">${icons[label] || "•"}</span>
+      </div>
       <strong>${value}</strong>
       <p>${hint}</p>
     </article>
   `;
+}
+
+function renderInsight(data) {
+  const title = $("insightTitle");
+  const body = $("insightBody");
+  if (!title || !body) return;
+
+  const totals = data.totals || {};
+  const leader = (data.top_daily_posts || [])[0];
+  if (leader && Number(leader.daily_views || 0) > 0) {
+    title.textContent = `오늘 급상승: ${truncate(leader.title, 34)}`;
+    body.textContent =
+      `${leader.blog_name} · 오늘 +${formatNumber(leader.daily_views)} · 누적 ${formatNumber(leader.views)}회`;
+    return;
+  }
+
+  title.textContent = `${formatNumber(totals.blogs)}개 블로그, ${formatNumber(totals.posts)}개 글 추적 중`;
+  body.textContent =
+    `오늘 ${formatNumber(totals.daily_views)}회 · 전일 ${formatNumber(totals.previous_day_views)}회 · 누적 ${formatNumber(totals.total_views)}회`;
 }
 
 function renderMetrics(data) {
@@ -92,12 +125,12 @@ function renderMetrics(data) {
   const monthSummary = data.month_summary || {};
   const monthHint = `${monthSummary.current_month || "이번 달"} ${monthSummary.is_realtime ? "실시간 누적" : "저장 기준"}`;
   $("metrics").innerHTML = [
-    metricCard("블로그", formatNumber(totals.blogs), `토큰 ${formatNumber(data.config?.token_count)}개 연결`),
-    metricCard("글 수", formatNumber(totals.posts), `수집 성공 ${formatNumber(totals.captured_posts)}개`),
     metricCard("누적 조회수", formatNumber(totals.total_views), "최근 스냅샷 합계"),
     metricCard("오늘 조회수", formatNumber(totals.daily_views), "직전 저장일 대비"),
     metricCard("전일 조회수", formatNumber(totals.previous_day_views), `${totals.previous_day_date || "어제"} 기준`),
     metricCard("당월 조회수", formatNumber(monthSummary.current_month_views), monthHint),
+    metricCard("블로그", formatNumber(totals.blogs), `토큰 ${formatNumber(data.config?.token_count)}개 연결`),
+    metricCard("글 수", formatNumber(totals.posts), `수집 성공 ${formatNumber(totals.captured_posts)}개`),
     metricCard("스냅샷", formatNumber(data.daily_snapshot_count), "일별 저장 행"),
   ].join("");
 }
@@ -504,6 +537,7 @@ async function loadDashboard() {
   applyRuntimeMode();
   $("maxPagesInput").value = data.config?.max_pages ?? 0;
   renderStatus(data);
+  renderInsight(data);
   renderMetrics(data);
   renderNotes(data);
   renderBlogs(data);
@@ -597,6 +631,7 @@ $("collectBtn").addEventListener("click", () => startCollect().catch((error) => 
 $("syncCatalogBtn").addEventListener("click", () => syncCatalog().catch((error) => alert(error.message)));
 $("importCsvBtn").addEventListener("click", () => importCsv().catch((error) => alert(error.message)));
 
+applyRuntimeMode();
 loadDashboard().catch((error) => {
   $("jobMessage").textContent = "대시보드 로드 실패";
   $("snapshotInfo").textContent = error.message;
