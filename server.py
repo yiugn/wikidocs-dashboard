@@ -567,7 +567,10 @@ def build_dashboard() -> dict[str, Any]:
                 "id": blog["id"],
                 "name": blog["name"],
                 "slug": blog["slug"],
-                "post_count": blog.get("post_count", 0),
+                "post_count": max(
+                    int(blog.get("post_count") or 0),
+                    int(latest_blog.get("captured_posts") or 0),
+                ),
                 "captured_posts": int(latest_blog.get("captured_posts") or 0),
                 "total_views": total_views,
                 "daily_views": daily_views,
@@ -717,7 +720,7 @@ def build_dashboard() -> dict[str, Any]:
 
     totals = {
         "blogs": len(catalog.get("blogs", [])),
-        "posts": sum(int(blog.get("post_count") or 0) for blog in catalog.get("blogs", [])),
+        "posts": sum(blog["post_count"] for blog in blogs),
         "captured_posts": sum(blog["captured_posts"] for blog in blogs),
         "total_views": sum(blog["total_views"] for blog in blogs),
         "daily_views": sum(blog["daily_views"] for blog in blogs),
