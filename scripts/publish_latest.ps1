@@ -15,7 +15,41 @@ try {
   Write-Warning "Could not start publish log transcript: $($_.Exception.Message)"
 }
 
+function Sync-RemoteMain {
+  git fetch origin main
+  if ($LASTEXITCODE -ne 0) {
+    throw "Failed to fetch origin/main."
+  }
+
+  $local = (git rev-parse HEAD).Trim()
+  $remote = (git rev-parse origin/main).Trim()
+  $base = (git merge-base HEAD origin/main).Trim()
+
+  if ($local -eq $remote) {
+    return
+  }
+
+  if ($local -eq $base) {
+    git merge --ff-only origin/main
+    if ($LASTEXITCODE -ne 0) {
+      throw "Failed to fast-forward to origin/main."
+    }
+    return
+  }
+
+  if ($remote -eq $base) {
+    return
+  }
+
+  git merge --no-edit -X ours origin/main
+  if ($LASTEXITCODE -ne 0) {
+    throw "Failed to merge origin/main."
+  }
+}
+
 try {
+  Sync-RemoteMain
+
   $Python = (Get-Command python).Source
   & $Python export_static.py --collect
 
@@ -28,7 +62,8 @@ try {
 
   $stamp = Get-Date -Format "yyyy-MM-dd HH:mm"
   git commit -m "Update Wikidocs dashboard data $stamp"
-  git push
+  Sync-RemoteMain
+  git push origin main
 } finally {
   if ($TranscriptStarted) {
     Stop-Transcript | Out-Null
