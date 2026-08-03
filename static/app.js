@@ -55,7 +55,10 @@ function fitCanvasText(ctx, text, maxWidth, suffix = "....") {
 }
 
 async function fetchJson(url, options = {}) {
-  const response = await fetch(url, options);
+  const response = await fetch(url, {
+    cache: "no-store",
+    ...options,
+  });
   const text = await response.text();
   let data = {};
   try {
@@ -67,6 +70,11 @@ async function fetchJson(url, options = {}) {
     throw new Error(data.message || data.error || response.statusText);
   }
   return data;
+}
+
+function cacheBustedUrl(url) {
+  const separator = url.includes("?") ? "&" : "?";
+  return `${url}${separator}v=${Date.now()}`;
 }
 
 function applyRuntimeMode() {
@@ -524,13 +532,13 @@ function setActiveTab(tabId) {
 async function loadDashboard() {
   let data;
   if (state.staticMode) {
-    data = await fetchJson(STATIC_DASHBOARD_URL);
+    data = await fetchJson(cacheBustedUrl(STATIC_DASHBOARD_URL));
   } else {
     try {
       data = await fetchJson(DASHBOARD_API_URL);
     } catch (error) {
       state.staticMode = true;
-      data = await fetchJson(STATIC_DASHBOARD_URL);
+      data = await fetchJson(cacheBustedUrl(STATIC_DASHBOARD_URL));
     }
   }
   state.dashboard = data;
