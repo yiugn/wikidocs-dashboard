@@ -76,34 +76,27 @@ function Publish-PagesBranch {
     throw "Static dashboard output is missing. Expected public/index.html."
   }
 
-  git worktree prune
-
   if (Test-Path $pagesWorktree) {
-    git worktree remove --force $pagesWorktree 2>$null
-    if (Test-Path $pagesWorktree) {
-      Assert-ProjectChildPath $pagesWorktree
-      Remove-Item -LiteralPath $pagesWorktree -Recurse -Force
-    }
+    Assert-ProjectChildPath $pagesWorktree
+    Remove-Item -LiteralPath $pagesWorktree -Recurse -Force
   }
 
+  $originUrl = (git config --get remote.origin.url).Trim()
   $remoteBranch = (git ls-remote --heads origin gh-pages)
   if ($remoteBranch) {
-    git fetch origin gh-pages
+    git clone --branch gh-pages --single-branch $originUrl $pagesWorktree
     if ($LASTEXITCODE -ne 0) {
-      throw "Failed to fetch origin/gh-pages."
+      throw "Failed to clone origin/gh-pages."
     }
-    git worktree add -B gh-pages $pagesWorktree origin/gh-pages
   } else {
-    git worktree add --detach $pagesWorktree HEAD
-    if ($LASTEXITCODE -ne 0) {
-      throw "Failed to create temporary Pages worktree."
-    }
-    git -C $pagesWorktree checkout --orphan gh-pages
-    git -C $pagesWorktree rm -r --ignore-unmatch .
+    New-Item -ItemType Directory -Path $pagesWorktree -Force | Out-Null
+    git -C $pagesWorktree init
+    git -C $pagesWorktree checkout -b gh-pages
+    git -C $pagesWorktree remote add origin $originUrl
   }
 
   if ($LASTEXITCODE -ne 0) {
-    throw "Failed to prepare gh-pages worktree."
+    throw "Failed to prepare gh-pages branch checkout."
   }
 
   try {
@@ -128,7 +121,10 @@ function Publish-PagesBranch {
       throw "Failed to push GitHub Pages output."
     }
   } finally {
-    git worktree remove --force $pagesWorktree 2>$null
+    if (Test-Path $pagesWorktree) {
+      Assert-ProjectChildPath $pagesWorktree
+      Remove-Item -LiteralPath $pagesWorktree -Recurse -Force
+    }
   }
 }
 
@@ -137,6 +133,13 @@ try {
 
   $Python = (Get-Command python).Source
   & $Python export_static.py --collect
+  if ($LASTEXITCODE -ne 0) {
+    Write-Warning "Live Wikidocs collection failed. Publishing the latest saved dashboard data instead."
+    & $Python export_static.py
+    if ($LASTEXITCODE -ne 0) {
+      throw "Failed to export dashboard from saved data."
+    }
+  }
 
   git add data/catalog.json data/snapshots.jsonl data/intraday_snapshots.jsonl data/daily_blog_views.csv data/daily_cumulative_views.csv
   $diff = git diff --cached --name-only
