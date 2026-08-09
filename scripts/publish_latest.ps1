@@ -99,6 +99,17 @@ function Publish-PagesBranch {
     throw "Failed to prepare gh-pages branch checkout."
   }
 
+  $gitUserName = (git config user.name).Trim()
+  $gitUserEmail = (git config user.email).Trim()
+  if (-not $gitUserName) {
+    $gitUserName = "wikidocs-dashboard"
+  }
+  if (-not $gitUserEmail) {
+    $gitUserEmail = "wikidocs-dashboard@users.noreply.github.com"
+  }
+  git -C $pagesWorktree config user.name $gitUserName
+  git -C $pagesWorktree config user.email $gitUserEmail
+
   try {
     Clear-DirectoryExceptGit $pagesWorktree
     Copy-Item -Path (Join-Path $publicDir "*") -Destination $pagesWorktree -Recurse -Force
