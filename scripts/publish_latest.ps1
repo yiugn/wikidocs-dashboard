@@ -113,6 +113,11 @@ function Publish-PagesBranch {
   try {
     Clear-DirectoryExceptGit $pagesWorktree
     Copy-Item -Path (Join-Path $publicDir "*") -Destination $pagesWorktree -Recurse -Force
+    $deployInfo = @{
+      deployed_at = (Get-Date).ToUniversalTime().ToString("o")
+      source_commit = (git rev-parse HEAD).Trim()
+    } | ConvertTo-Json
+    Set-Content -Path (Join-Path $pagesWorktree "deploy.json") -Value $deployInfo -Encoding UTF8
 
     git -C $pagesWorktree add -A
     git -C $pagesWorktree diff --cached --quiet
