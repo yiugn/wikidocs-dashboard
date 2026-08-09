@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>위키독스 블로그 조회수 대시보드</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="side-rail">
+        <a class="rail-brand" href="./" aria-label="위키독스 블로그 조회수 대시보드">
+          <span class="brand-mark">W</span>
+          <span>
+            <strong>Wikidocs</strong>
+            <small>Views Console</small>
+          </span>
+        </a>
+
+        <nav class="tabs" aria-label="대시보드 보기">
+          <button class="tab-button active" type="button" data-tab="overviewTab">
+            <span class="tab-icon">01</span>
+            <span>요약</span>
+          </button>
+          <button class="tab-button" type="button" data-tab="todayTab">
+            <span class="tab-icon">02</span>
+            <span>당일 추이</span>
+          </button>
+          <button class="tab-button" type="button" data-tab="dailyTab">
+            <span class="tab-icon">03</span>
+            <span>일별 추이</span>
+          </button>
+          <button class="tab-button" type="button" data-tab="monthlyTab">
+            <span class="tab-icon">04</span>
+            <span>월별 추이</span>
+          </button>
+        </nav>
+
+        <a class="review-link" href="review-note/" aria-label="에코칩의 리뷰 노트로 이동">
+          <span>Review Note</span>
+          <strong>에코칩의 리뷰 노트</strong>
+        </a>
+
+        <div class="rail-footer">
+          <span class="rail-pulse"></span>
+          <span>30분 단위 자동 수집</span>
+        </div>
+      </aside>
+
+      <main class="workspace">
+        <header class="command-bar">
+          <div class="title-block">
+            <p class="eyebrow">Wikidocs Analytics</p>
+            <h1>위키독스 블로그 조회수 대시보드</h1>
+            <p>블로그별 조회 흐름, 급상승 포스팅, 월간 성과를 한 화면에서 추적합니다.</p>
+          </div>
+
+          <div class="command-stack">
+            <div class="actions">
+              <label class="page-limit">
+                <span>페이지 제한</span>
+                <input id="maxPagesInput" type="number" min="0" value="0" />
+              </label>
+              <button id="syncCatalogBtn" class="secondary" type="button">글 목록 동기화</button>
+              <button id="collectBtn" type="button">실시간 수집</button>
+            </div>
+            <div class="import-box">
+              <input id="csvInput" type="file" accept=".csv" />
+              <button id="importCsvBtn" class="secondary" type="button">CSV 가져오기</button>
+            </div>
+          </div>
+        </header>
+
+        <section class="overview-strip">
+          <article class="status-card">
+            <span class="status-dot" id="statusDot"></span>
+            <div>
+              <strong id="jobMessage">대기 중</strong>
+              <p id="snapshotInfo">스냅샷 정보를 불러오는 중입니다.</p>
+            </div>
+          </article>
+
+          <article class="insight-card">
+            <span class="insight-label">Signal</span>
+            <strong id="insightTitle">데이터를 불러오는 중입니다.</strong>
+            <p id="insightBody">최근 수집 데이터를 기준으로 핵심 흐름을 계산합니다.</p>
+          </article>
+        </section>
+
+        <section class="metrics" id="metrics"></section>
+
+        <section id="overviewTab" class="tab-panel active">
+          <section class="dashboard-grid">
+            <article class="panel panel-primary span-7">
+              <div class="panel-head">
+                <div>
+                  <span class="section-kicker">Daily Momentum</span>
+                  <h2>전체 당일 조회수 추이</h2>
+                  <p>일별 조회수 증가분 합계</p>
+                </div>
+              </div>
+              <canvas id="dailyLineChart" height="320"></canvas>
+            </article>
+
+            <article class="panel attention-panel span-5">
+              <div class="panel-head">
+                <div>
+                  <span class="section-kicker">Rising Posts</span>
+                  <h2>오늘 증가 상위</h2>
+                  <p>직전 저장일 대비 조회수 증가</p>
+                </div>
+              </div>
+              <div class="table-wrap">
+                <table class="compact-table">
+                  <thead>
+                    <tr>
+                      <th>포스팅</th>
+                      <th>블로그</th>
+                      <th>오늘</th>
+                      <th>누적</th>
+                    </tr>
+                  </thead>
+                  <tbody id="dailyTopRows"></tbody>
+                </table>
+              </div>
+            </article>
+
+            <article class="panel span-6">
+              <div class="panel-head">
+                <div>
+                  <span class="section-kicker">Blog Portfolio</span>
+                  <h2>블로그별 누적 조회수</h2>
+                  <p>최근 스냅샷 기준 합계</p>
+                </div>
+              </div>
+              <canvas id="blogBarChart" height="300"></canvas>
+            </article>
+
+            <article class="panel span-6">
+              <div class="panel-head">
+                <div>
+                  <span class="section-kicker">Post Leaders</span>
+                  <h2>조회수 상위 포스팅</h2>
+                  <p>전체 블로그 누적 기준</p>
+                </div>
+              </div>
+              <canvas id="topPostsChart" height="300"></canvas>
+              <div class="chart-divider"></div>
+              <div class="panel-subhead">
+                <h3>오늘 조회수 상위 포스팅</h3>
+                <p>직전 저장일 대비 증가분 기준</p>
+              </div>
+              <canvas id="topDailyPostsChart" height="270"></canvas>
+            </article>
+
+            <article class="panel span-12">
+              <div class="panel-head">
+                <div>
+                  <span class="section-kicker">Collection Health</span>
+                  <h2>블로그 현황</h2>
+                  <p>포스트 수, 누적 조회수, 일일 증가분</p>
+                </div>
+              </div>
+              <div class="blog-grid" id="blogGrid"></div>
+            </article>
+
+            <article class="panel span-12">
+              <div class="panel-head">
+                <div>
+                  <span class="section-kicker">Top 20 Archive</span>
+                  <h2>전체 상위 포스팅</h2>
+                  <p>클릭하면 위키독스 글로 이동합니다.</p>
+                </div>
+              </div>
+              <div class="table-wrap">
+                <table>
+                  <thead>
+                    <tr>
+                      <th>순위</th>
+                      <th class="wide-col">포스팅</th>
+                      <th>블로그</th>
+                      <th>오늘</th>
+                      <th>누적</th>
+                      <th>좋아요</th>
+                      <th>댓글</th>
+                    </tr>
+                  </thead>
+                  <tbody id="topRows"></tbody>
+                </table>
+              </div>
+            </article>
+          </section>
+        </section>
+
+        <section id="todayTab" class="tab-panel">
+          <section class="notice">
+            <strong>당일 30분 단위 추이</strong>
+            <p id="todayTrendNote">오늘 수집된 30분 단위 스냅샷을 기준으로 표시합니다.</p>
+          </section>
+
+          <section class="dashboard-grid">
+            <article class="panel panel-primary span-12">
+              <div class="panel-head">
+                <div>
+                  <span class="section-kicker">Intraday View Curve</span>
+                  <h2>블로그별 당일 조회수 추이</h2>
+                  <p>x축은 수집 시각, y축은 당일 조회수입니다. 굵은 선은 전체 블로그 합계입니다.</p>
+                </div>
+              </div>
+              <canvas id="todayViewsByBlogChart" height="430"></canvas>
+            </article>
+
+            <article class="panel span-12">
+              <div class="panel-head">
+                <div>
+                  <span class="section-kicker">30 Minute Delta</span>
+                  <h2>블로그별 30분 구간 증가분</h2>
+                  <p>x축은 수집 시각, y축은 직전 스냅샷 대비 증가분입니다.</p>
+                </div>
+              </div>
+              <canvas id="todayIntervalViewsByBlogChart" height="430"></canvas>
+            </article>
+          </section>
+        </section>
+
+        <section id="dailyTab" class="tab-panel">
+          <section class="notice">
+            <strong>저장 방식</strong>
+            <p id="historyNote">저장된 스냅샷 기준으로 일별 그래프를 구성합니다.</p>
+            <p id="csvNote"></p>
+          </section>
+
+          <section class="dashboard-grid">
+            <article class="panel panel-primary span-12">
+              <div class="panel-head">
+                <div>
+                  <span class="section-kicker">Daily Views</span>
+                  <h2>블로그별 일단위 조회수</h2>
+                  <p>x축은 날짜, y축은 조회수입니다. 굵은 선은 전체 블로그 합계입니다.</p>
+                </div>
+              </div>
+              <canvas id="dailyViewsByBlogChart" height="430"></canvas>
+            </article>
+
+            <article class="panel span-12">
+              <div class="panel-head">
+                <div>
+                  <span class="section-kicker">Cumulative Curve</span>
+                  <h2>블로그별 일단위 누적 조회수</h2>
+                  <p>x축은 날짜, y축은 누적 조회수입니다. 굵은 선은 전체 블로그 누적 합계입니다.</p>
+                </div>
+              </div>
+              <canvas id="cumulativeViewsByBlogChart" height="430"></canvas>
+            </article>
+          </section>
+        </section>
+
+        <section id="monthlyTab" class="tab-panel">
+          <section class="notice">
+            <strong>당월 누적 조회수</strong>
+            <p id="monthNote">이번 달 누적 조회수는 오늘 실시간 스냅샷까지 포함합니다.</p>
+          </section>
+
+          <section class="dashboard-grid">
+            <article class="panel panel-primary span-7">
+              <div class="panel-head">
+                <div>
+                  <span class="section-kicker">Monthly Bars</span>
+                  <h2>월별 조회수</h2>
+                  <p>x축은 날짜(월), y축은 조회수입니다.</p>
+                </div>
+              </div>
+              <canvas id="monthlyViewsChart" height="340"></canvas>
+            </article>
+
+            <article class="panel span-5">
+              <div class="panel-head">
+                <div>
+                  <span class="section-kicker">This Month</span>
+                  <h2>당월 블로그별 조회수</h2>
+                  <p>이번 달 증가분 기준</p>
+                </div>
+              </div>
+              <canvas id="currentMonthBlogChart" height="340"></canvas>
+            </article>
+
+            <article class="panel span-12">
+              <div class="panel-head">
+                <div>
+                  <span class="section-kicker">Monthly Ranking</span>
+                  <h2>당월 블로그별 순위</h2>
+                  <p>실시간 기준 월 누적 조회수</p>
+                </div>
+              </div>
+              <div class="table-wrap">
+                <table class="compact-table month-table">
+                  <thead>
+                    <tr>
+                      <th>블로그</th>
+                      <th>당월</th>
+                      <th>누적</th>
+                    </tr>
+                  </thead>
+                  <tbody id="currentMonthRows"></tbody>
+                </table>
+              </div>
+            </article>
+          </section>
+        </section>
+      </main>
+    </div>
+
+    <script src="app.js?v=20260804-cache-bust"></script>
+  </body>
+</html>
