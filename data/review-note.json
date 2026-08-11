@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-11T11:23:34+09:00",
+  "latest_snapshot_at": "2026-08-11T11:53:36+09:00",
   "latest_snapshot_date": "2026-08-11",
   "catalog_updated_at": "2026-08-11T00:22:08+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 534,
-    "total_views": 296615,
-    "daily_views": 221,
+    "total_views": 296632,
+    "daily_views": 236,
     "previous_day_views": 907,
     "previous_day_date": "2026-08-10",
-    "current_month_views": 9244,
+    "current_month_views": 9261,
     "days_recorded": 43
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 157370,
-      "daily_views": 36,
+      "total_views": 157371,
+      "daily_views": 37,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 256,
       "captured_posts": 266,
-      "total_views": 106306,
-      "daily_views": 143,
+      "total_views": 106319,
+      "daily_views": 154,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 32939,
-      "daily_views": 42,
+      "total_views": 32942,
+      "daily_views": 45,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -298,8 +298,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근하고 문 열자마자 훅 끼치는 열기, 그거 진짜 스트레스입니다\n\n에어컨도 없는 5평 남짓한 원룸에 살아보신 분들은 아실 겁니다. 퇴근길에 현관문을 여는 순간 훅 끼치…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/21975/1_4_product1.jpg",
       "published_label": "1개월 전",
-      "views": 3464,
-      "daily_views": 0,
+      "views": 3465,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -1078,8 +1078,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n무더운 날 시동을 걸고 에어컨을 켜는 순간, 송풍구에서 퀴퀴한 곰팡이 냄새가 확 끼칠 때가 있죠. 여름철 에어컨 내부는 습기가 차 곰팡이와 세균이 번식하기 딱 좋은 환…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22698/5_7_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 484,
-      "daily_views": 0,
+      "views": 485,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1162,6 +1162,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 21995,
+      "title": "반려견을 키우신다면, 발냄새로 세 번 고생하고 나서야 알게 된 발세정기 고르는 법",
+      "url": "https://wikidocs.net/blog/@smartliving/21995/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n반려견을 키우신다면, 발냄새로 세 번 고생하고 나서야 알게 된 발세정기 고르는 법\n\n산책만 다녀오면 온 집안에 퍼지는 그 특유의 꼬순내, 반려견을 키우시는 분들이라면 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/21995/4_9_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 426,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 22492,
       "title": "한여름 차박 갈 때마다 그늘 없어 뙤약볕에 시달렸다면, 차량용 그늘막 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22492/",
@@ -1175,21 +1190,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 21995,
-      "title": "반려견을 키우신다면, 발냄새로 세 번 고생하고 나서야 알게 된 발세정기 고르는 법",
-      "url": "https://wikidocs.net/blog/@smartliving/21995/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n반려견을 키우신다면, 발냄새로 세 번 고생하고 나서야 알게 된 발세정기 고르는 법\n\n산책만 다녀오면 온 집안에 퍼지는 그 특유의 꼬순내, 반려견을 키우시는 분들이라면 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/21995/4_9_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 425,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 25219,
@@ -1378,8 +1378,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n수도권과 강원 내륙에 폭염특보가 발효 중인 요즘, 전셋집이나 월세방에 사는 분들이라면 에어컨 하나 들이는 문제로 고민이 깊어지실 겁니다. 벽걸이·스탠드 에어컨은 실외기…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22265/5_2_product1.jpg",
       "published_label": "1개월 전",
-      "views": 285,
-      "daily_views": 0,
+      "views": 286,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -1858,8 +1858,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n반지하나 오래된 집이라면, 장마철 화장실 냄새 줄여주는 배수구 트랩 이렇게 골랐습니다\n\n문을 닫아둔 화장실인데도 은근하게 올라오는 하수구 냄새, 반지하나 지어진 지 오…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/21991/4_5_product1.jpg",
       "published_label": "1개월 전",
-      "views": 118,
-      "daily_views": 0,
+      "views": 119,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -2032,6 +2032,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 25211,
+      "title": "KAMP AI, 2026년 스타트업이 정부 지원으로 AI 모델 개발할 방법 3가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/25211/",
+      "excerpt": "KAMP AI, 2026년 스타트업이 정부 지원으로 AI 모델 개발할 방법 3가지\n\n2026년은 인공지능(AI) 기술이 산업 전반에 걸쳐 혁신을 가속화하는 중요한 시점입니다. 국내 스타트업이 AI 모델 개발 경쟁에서 우위를 점하기 위해서는 정부의 다양한 지원 사업을…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25211/14_5_img1.png",
+      "published_label": "21일 전",
+      "views": 103,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22526,
       "title": "여름휴가 장거리 이동 앞둔 반려인이라면, 혹시 아직도 차 태울 때 안전벨트 안 채우고 계신가요?",
       "url": "https://wikidocs.net/blog/@petpicknote/22526/",
@@ -2060,21 +2075,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 25211,
-      "title": "KAMP AI, 2026년 스타트업이 정부 지원으로 AI 모델 개발할 방법 3가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/25211/",
-      "excerpt": "KAMP AI, 2026년 스타트업이 정부 지원으로 AI 모델 개발할 방법 3가지\n\n2026년은 인공지능(AI) 기술이 산업 전반에 걸쳐 혁신을 가속화하는 중요한 시점입니다. 국내 스타트업이 AI 모델 개발 경쟁에서 우위를 점하기 위해서는 정부의 다양한 지원 사업을…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25211/14_5_img1.png",
-      "published_label": "21일 전",
-      "views": 102,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 24477,
@@ -2638,8 +2638,8 @@
       "excerpt": "> 📢 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n여름철 고양이는 평소보다 물을 자주 찾지만, 그릇에 담긴 물이 몇 시간만 지나도 미지근해지고 먼지가 앉으면 잘 마시지 않으려는 습성이 있습니다. 매번 물그릇을 씻고 새로 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24224/11_2_img1.jpg",
       "published_label": "26일 전",
-      "views": 67,
-      "daily_views": 0,
+      "views": 68,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -2692,6 +2692,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24468,
+      "title": "자취생·1인 가구를 위한, 전기요금 줄여주는 스마트 플러그 고르는 법",
+      "url": "https://wikidocs.net/blog/@smartliving/24468/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n지난달 관리비 고지서를 펼쳐 들고 한숨부터 쉬셨던 분들 많으실 겁니다. 에어컨 한 번 세게 틀었다고 숫자가 이렇게까지 뛸 일인가 싶다가도, 정작 어디서 전기를 얼마나 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24468/15_1_product1.jpg",
+      "published_label": "24일 전",
+      "views": 66,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24654,
       "title": "라인프렌즈 스마트 스토어: 20대 공략 굿즈 판매 전략 5가지",
       "url": "https://wikidocs.net/blog/@petpicknote/24654/",
@@ -2705,21 +2720,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 24468,
-      "title": "자취생·1인 가구를 위한, 전기요금 줄여주는 스마트 플러그 고르는 법",
-      "url": "https://wikidocs.net/blog/@smartliving/24468/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n지난달 관리비 고지서를 펼쳐 들고 한숨부터 쉬셨던 분들 많으실 겁니다. 에어컨 한 번 세게 틀었다고 숫자가 이렇게까지 뛸 일인가 싶다가도, 정작 어디서 전기를 얼마나 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24468/15_1_product1.jpg",
-      "published_label": "24일 전",
-      "views": 65,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 22552,
@@ -2992,6 +2992,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24009,
+      "title": "두 번 잘못 사고 나서야 알게 된 요가매트 두께 고르는 법",
+      "url": "https://wikidocs.net/blog/@petpicknote/24009/",
+      "excerpt": "> 🧘 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n처음 홈트레이닝을 시작할 때 가장 저렴한 34mm짜리 얇은 매트를 고른 적이 있습니다. 플랭크 자세를 잡을 때마다 팔꿈치가 바닥에 배기고, 무릎을 대는 동작에서는 통증…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24009/10_6_img1.jpg",
+      "published_label": "27일 전",
+      "views": 58,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22914,
       "title": "이번 주말 반려동반 여름축제 나들이 앞둔 분이라면, 그늘막 텐트 하나로 뙤약볕 걱정이 확 줄었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/22914/",
@@ -3075,21 +3090,6 @@
       "published_label": "27일 전",
       "views": 57,
       "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 24009,
-      "title": "두 번 잘못 사고 나서야 알게 된 요가매트 두께 고르는 법",
-      "url": "https://wikidocs.net/blog/@petpicknote/24009/",
-      "excerpt": "> 🧘 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n처음 홈트레이닝을 시작할 때 가장 저렴한 34mm짜리 얇은 매트를 고른 적이 있습니다. 플랭크 자세를 잡을 때마다 팔꿈치가 바닥에 배기고, 무릎을 대는 동작에서는 통증…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24009/10_6_img1.jpg",
-      "published_label": "27일 전",
-      "views": 57,
-      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -3517,6 +3517,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 28077,
+      "title": "벽이 휑한 자취생 방, 5천원대로 감성 채워주는 라탄 벽걸이 바구니",
+      "url": "https://wikidocs.net/blog/@smartliving/28077/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근하고 방문을 열었을 때 휑한 벽만 눈에 들어와 마음이 가라앉은 적 있으실 겁니다. 침대와 책상만 덩그러니 놓인 원룸은 아무리 청소를 해도 뭔가 허전한 느낌을 지우기…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28077/28_5_product1.jpg",
+      "published_label": "1일 전",
+      "views": 49,
+      "daily_views": 6,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27396,
       "title": "장마 끝난 지금 챙기면 모기약값 아끼는 실내 UV포충램프 TOP3",
       "url": "https://wikidocs.net/blog/@smartliving/27396/",
@@ -3620,21 +3635,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28077,
-      "title": "벽이 휑한 자취생 방, 5천원대로 감성 채워주는 라탄 벽걸이 바구니",
-      "url": "https://wikidocs.net/blog/@smartliving/28077/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근하고 방문을 열었을 때 휑한 벽만 눈에 들어와 마음이 가라앉은 적 있으실 겁니다. 침대와 책상만 덩그러니 놓인 원룸은 아무리 청소를 해도 뭔가 허전한 느낌을 지우기…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28077/28_5_product1.jpg",
-      "published_label": "1일 전",
-      "views": 48,
-      "daily_views": 5,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 27392,
@@ -5317,6 +5317,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 28073,
+      "title": "여름휴가 캠핑족 텐트 모기떼 습격, 물림 0회로 숙면시켜주는 원터치 모기장",
+      "url": "https://wikidocs.net/blog/@smartliving/28073/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n한밤중 텐트 안에서 귓가를 스치는 \"앵-\" 소리에 잠을 설쳐보신 분 많으실 겁니다. 손전등을 켜고 벽면을 훑어봐도 모기는 이미 어디론가 숨어버린 뒤죠. 아침에 일어나면…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28073/28_1_product1.jpg",
+      "published_label": "1일 전",
+      "views": 33,
+      "daily_views": 6,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27850,
       "title": "요리할 시간 없는 자취생이라면, 혹시 배달비 아까워하며 저녁 거르고 계신가요",
       "url": "https://wikidocs.net/blog/@smartliving/27850/",
@@ -5437,6 +5452,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 28075,
+      "title": "열대야 등 땀에 잠 설치는 분, 1만원대로 체감온도 낮춰주는 홑겹 매트리스커버",
+      "url": "https://wikidocs.net/blog/@smartliving/28075/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n에어컨을 켜놓고 잠들었는데도 등이 축축해서 새벽에 깬 적 있으실 겁니다. 몸을 뒤척일 때마다 매트리스에 닿는 부분이 후끈하고, 그 열기가 밤새 빠져나가지 않으니 얕은 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28075/28_3_product1.jpg",
+      "published_label": "1일 전",
+      "views": 32,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27752,
       "title": "자취생을 위한, 배달비 아끼는 1인용 미니 슬로우쿠커 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/27752/",
@@ -5555,21 +5585,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28075,
-      "title": "열대야 등 땀에 잠 설치는 분, 1만원대로 체감온도 낮춰주는 홑겹 매트리스커버",
-      "url": "https://wikidocs.net/blog/@smartliving/28075/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n에어컨을 켜놓고 잠들었는데도 등이 축축해서 새벽에 깬 적 있으실 겁니다. 몸을 뒤척일 때마다 매트리스에 닿는 부분이 후끈하고, 그 열기가 밤새 빠져나가지 않으니 얕은 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28075/28_3_product1.jpg",
-      "published_label": "1일 전",
-      "views": 31,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 27848,
@@ -5825,21 +5840,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28073,
-      "title": "여름휴가 캠핑족 텐트 모기떼 습격, 물림 0회로 숙면시켜주는 원터치 모기장",
-      "url": "https://wikidocs.net/blog/@smartliving/28073/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n한밤중 텐트 안에서 귓가를 스치는 \"앵-\" 소리에 잠을 설쳐보신 분 많으실 겁니다. 손전등을 켜고 벽면을 훑어봐도 모기는 이미 어디론가 숨어버린 뒤죠. 아침에 일어나면…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28073/28_1_product1.jpg",
-      "published_label": "1일 전",
-      "views": 29,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 27747,
@@ -6552,7 +6552,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/28189/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n창문을 닫고 자도 어디선가 앵- 하는 날갯소리에 새벽에 눈이 떠진 적 있으실 겁니다. 불을 켜고 이불을 걷어봐도 모기는 보이지 않고, 팔뚝엔 어느새 물린 자국만 남아있…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28189/29_1_product1.jpg",
-      "published_label": "4시간 전",
+      "published_label": "5시간 전",
       "views": 24,
       "daily_views": 0,
       "likes": 0,
@@ -6710,6 +6710,21 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 28190,
+      "title": "역대 최장 열대야 통근길 지친 직장인, 체감온도 5도 낮춰주는 휴대용 손선풍기",
+      "url": "https://wikidocs.net/blog/@smartliving/28190/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n지하철 플랫폼에서 열차를 기다리는 몇 분 사이에도 등에 땀이 배는 여름이더라고요. 회사 정문에 도착하기도 전에 이미 셔츠가 젖어 있으면, 하루를 시작하기도 전에 진이 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28190/29_2_product1.jpg",
+      "published_label": "5시간 전",
+      "views": 23,
+      "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
     },
     {
       "id": 27846,
@@ -7145,21 +7160,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28190,
-      "title": "역대 최장 열대야 통근길 지친 직장인, 체감온도 5도 낮춰주는 휴대용 손선풍기",
-      "url": "https://wikidocs.net/blog/@smartliving/28190/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n지하철 플랫폼에서 열차를 기다리는 몇 분 사이에도 등에 땀이 배는 여름이더라고요. 회사 정문에 도착하기도 전에 이미 셔츠가 젖어 있으면, 하루를 시작하기도 전에 진이 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28190/29_2_product1.jpg",
-      "published_label": "4시간 전",
-      "views": 21,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 24853,
@@ -7932,7 +7932,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/28197/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n계곡이나 바다에서 신나게 물놀이를 즐기고 나면, 몸에 남은 모래와 소금기가 은근히 찝찝하게 남으신 적 있으실 겁니다. 근처에 샤워 시설이 없으면 그 상태로 차를 타고 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28197/29_9_product1.jpg",
-      "published_label": "4시간 전",
+      "published_label": "5시간 전",
       "views": 5,
       "daily_views": 0,
       "likes": 0,
@@ -7947,7 +7947,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/28196/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근 무렵이면 어깨가 돌덩이처럼 뭉쳐 목을 돌릴 때마다 뻐근함이 느껴지신 적 있으실 겁니다. 모니터를 보며 앉아있는 시간이 길수록 어깨와 목 주변 근육은 계속 긴장 상…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28196/29_8_product1.jpg",
-      "published_label": "4시간 전",
+      "published_label": "5시간 전",
       "views": 5,
       "daily_views": 0,
       "likes": 0,
@@ -8007,7 +8007,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/28198/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n운동을 마치고 나면 옷이 흠뻑 젖을 만큼 땀을 흘렸는데도, 며칠째 몸이 무겁고 다리에 쥐가 잘 나신 적 있으실 겁니다. 물만 마셔서는 채워지지 않는 무언가가 빠져나간 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28198/29_10_product1.jpg",
-      "published_label": "4시간 전",
+      "published_label": "5시간 전",
       "views": 4,
       "daily_views": 0,
       "likes": 0,
@@ -8037,7 +8037,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/28195/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n화상회의 중 발언할 차례가 아닌데도 급하게 메모를 남기려다, 타건 소리가 마이크에 그대로 잡혀 민망하셨던 적 있으실 겁니다. 카페나 도서관에서 작업할 때도 옆자리 시선…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28195/29_7_product1.jpg",
-      "published_label": "4시간 전",
+      "published_label": "5시간 전",
       "views": 3,
       "daily_views": 0,
       "likes": 0,
@@ -8052,7 +8052,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/28194/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n신혼집 옷장을 열 때마다 옷이 서로 뒤엉켜 있어 원하는 옷 하나 꺼내려면 옆에 있던 옷까지 다 흐트러지신 적 있으실 겁니다. 행거 하나 더 놓기엔 방이 좁고, 그렇다고…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28194/29_6_product1.jpg",
-      "published_label": "4시간 전",
+      "published_label": "5시간 전",
       "views": 3,
       "daily_views": 0,
       "likes": 0,
@@ -8067,7 +8067,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/28193/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근하고 문을 여는 순간 훅 끼치는 냄새에 미간부터 찌푸려지신 적 있으실 겁니다. 방향제를 몇 개씩 놔둬도 잠깐 뿐, 시간이 지나면 그 냄새는 다시 스멀스멀 올라오죠.…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28193/29_5_product1.jpg",
-      "published_label": "4시간 전",
+      "published_label": "5시간 전",
       "views": 2,
       "daily_views": 0,
       "likes": 0,
@@ -8082,7 +8082,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/28192/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근하고 저녁까지 차려 먹었다면 이미 몸은 파김치인데, 싱크대 가득 쌓인 그릇을 보면 한숨부터 나오시죠. 결국 다음날 아침까지 미뤄두면 마음 한구석이 계속 불편하실 겁…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28192/29_4_product1.jpg",
-      "published_label": "4시간 전",
+      "published_label": "5시간 전",
       "views": 2,
       "daily_views": 0,
       "likes": 0,
@@ -8097,7 +8097,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/28191/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n에어컨을 밤새 틀어두자니 다음 날 목이 칼칼하고, 끄고 자자니 등이 이불에 눌어붙는 느낌에 몇 번이고 뒤척이다 깨신 적 있으실 겁니다. 특히 등과 허벅지가 매트리스에 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28191/29_3_product1.jpg",
-      "published_label": "4시간 전",
+      "published_label": "5시간 전",
       "views": 2,
       "daily_views": 0,
       "likes": 0,
@@ -8310,8 +8310,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근하고 문 열자마자 훅 끼치는 열기, 그거 진짜 스트레스입니다\n\n에어컨도 없는 5평 남짓한 원룸에 살아보신 분들은 아실 겁니다. 퇴근길에 현관문을 여는 순간 훅 끼치…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/21975/1_4_product1.jpg",
       "published_label": "1개월 전",
-      "views": 3464,
-      "daily_views": 0,
+      "views": 3465,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -8426,6 +8426,36 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28077,
+      "title": "벽이 휑한 자취생 방, 5천원대로 감성 채워주는 라탄 벽걸이 바구니",
+      "url": "https://wikidocs.net/blog/@smartliving/28077/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근하고 방문을 열었을 때 휑한 벽만 눈에 들어와 마음이 가라앉은 적 있으실 겁니다. 침대와 책상만 덩그러니 놓인 원룸은 아무리 청소를 해도 뭔가 허전한 느낌을 지우기…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28077/28_5_product1.jpg",
+      "published_label": "1일 전",
+      "views": 49,
+      "daily_views": 6,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 28073,
+      "title": "여름휴가 캠핑족 텐트 모기떼 습격, 물림 0회로 숙면시켜주는 원터치 모기장",
+      "url": "https://wikidocs.net/blog/@smartliving/28073/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n한밤중 텐트 안에서 귓가를 스치는 \"앵-\" 소리에 잠을 설쳐보신 분 많으실 겁니다. 손전등을 켜고 벽면을 훑어봐도 모기는 이미 어디론가 숨어버린 뒤죠. 아침에 일어나면…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28073/28_1_product1.jpg",
+      "published_label": "1일 전",
+      "views": 33,
+      "daily_views": 6,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 23198,
       "title": "휴가 차박에서 음식이 상하던 분들을 위한 차량용 보온보냉 백 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/23198/",
@@ -8448,21 +8478,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24638/16_3_product1.jpg",
       "published_label": "24일 전",
       "views": 95,
-      "daily_views": 5,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28077,
-      "title": "벽이 휑한 자취생 방, 5천원대로 감성 채워주는 라탄 벽걸이 바구니",
-      "url": "https://wikidocs.net/blog/@smartliving/28077/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근하고 방문을 열었을 때 휑한 벽만 눈에 들어와 마음이 가라앉은 적 있으실 겁니다. 침대와 책상만 덩그러니 놓인 원룸은 아무리 청소를 해도 뭔가 허전한 느낌을 지우기…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28077/28_5_product1.jpg",
-      "published_label": "1일 전",
-      "views": 48,
       "daily_views": 5,
       "likes": 0,
       "comments": 0,
@@ -8634,21 +8649,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22701,
-      "title": "장거리 휴가 운전에 목이 뻐근하던 분들, 메모리폼 목쿠션 하나로 목이 한결 편해졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22701/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장거리 휴가 운전을 하다 보면, 어느새 목과 어깨가 뻐근하게 굳어 도착할 때쯤엔 뒷목이 뻣뻣해지죠. 시트 헤드레스트는 각도가 안 맞아 목을 제대로 받쳐주지 못하고, 오…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22701/5_10_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 69,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     }
   ],
   "daily_totals": [
@@ -8822,8 +8822,8 @@
     },
     {
       "date": "2026-08-11",
-      "views": 292
+      "views": 309
     }
   ],
-  "static_generated_at": "2026-08-11T11:23:45+09:00"
+  "static_generated_at": "2026-08-11T11:53:46+09:00"
 }
