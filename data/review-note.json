@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-13T04:53:30+09:00",
+  "latest_snapshot_at": "2026-08-13T05:23:30+09:00",
   "latest_snapshot_date": "2026-08-13",
   "catalog_updated_at": "2026-08-13T00:22:08+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 544,
-    "total_views": 298182,
-    "daily_views": 166,
+    "total_views": 298188,
+    "daily_views": 172,
     "previous_day_views": 918,
     "previous_day_date": "2026-08-12",
-    "current_month_views": 10811,
+    "current_month_views": 10817,
     "days_recorded": 45
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 157538,
-      "daily_views": 27,
+      "total_views": 157539,
+      "daily_views": 28,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 276,
       "captured_posts": 276,
-      "total_views": 107472,
-      "daily_views": 118,
+      "total_views": 107476,
+      "daily_views": 122,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 33172,
-      "daily_views": 21,
+      "total_views": 33173,
+      "daily_views": 22,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1498,8 +1498,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n유산균 제품을 고르려고 검색창에 검색어만 넣어봐도 수십 개의 브랜드가 쏟아져 나와서, 대체 뭘 기준으로 골라야 할지 막막했던 경험 한 번쯤 있으실 겁니다. 가격도 만원…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23121/9_6_product1.jpg",
       "published_label": "1개월 전",
-      "views": 213,
-      "daily_views": 1,
+      "views": 214,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -1573,8 +1573,8 @@
       "excerpt": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지\n\n2026년 르노코리아 차량의 제조사 보증 기간 만료를 앞두고 있다면, 반드시 공식 서비스 네트워크를 통해 차량을 종합적으로 점검하는 것이 중요합니다. 이는 잠재적인 고장을 무상으로 수리받아…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24651/13_2_img1.jpg",
       "published_label": "25일 전",
-      "views": 189,
-      "daily_views": 2,
+      "views": 190,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -3292,6 +3292,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 27395,
+      "title": "좁은 원룸에 사는 자취생을 위한, 전기세 안 오르는 저전력 냉풍기 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/27395/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n올여름은 유난히 심상치 않습니다. 8월 초 남부지방에서 41.6도까지 치솟으며 역대 최고 기온을 다시 경신했고, 폭염특보 기준도 체감온도로 바뀔 만큼 더위가 예전과는 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27395/21_6_product1.jpg",
+      "published_label": "9일 전",
+      "views": 55,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 21676,
       "title": "신발장 탈취제 살 때 다들 놓치는 체크포인트 한 가지",
       "url": "https://wikidocs.net/blog/@smartliving/21676/",
@@ -3335,21 +3350,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 27395,
-      "title": "좁은 원룸에 사는 자취생을 위한, 전기세 안 오르는 저전력 냉풍기 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27395/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n올여름은 유난히 심상치 않습니다. 8월 초 남부지방에서 41.6도까지 치솟으며 역대 최고 기온을 다시 경신했고, 폭염특보 기준도 체감온도로 바뀔 만큼 더위가 예전과는 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27395/21_6_product1.jpg",
-      "published_label": "9일 전",
-      "views": 54,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 27300,
@@ -3487,6 +3487,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22935,
+      "title": "주말 나들이 잦은 분들, 문콕·잔기스로 속상했는데 스크래치 제거제로 감쪽같이 지웠다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22935/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n주말 나들이 다녀와 차를 보니 어디서 긁혔는지 문짝에 잔기스가 나 있고, 주차장에서 문콕 자국까지 발견하면 그날 기분이 확 상하죠. 세차장에 맡기자니 비용이 만만치 않…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22935/6_2_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 51,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23111,
       "title": "고양이 소프트캐리어 vs 하드캐리어, 직접 비교해보니 승자는 이거였습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/23111/",
@@ -3515,21 +3530,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22935,
-      "title": "주말 나들이 잦은 분들, 문콕·잔기스로 속상했는데 스크래치 제거제로 감쪽같이 지웠다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22935/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n주말 나들이 다녀와 차를 보니 어디서 긁혔는지 문짝에 잔기스가 나 있고, 주차장에서 문콕 자국까지 발견하면 그날 기분이 확 상하죠. 세차장에 맡기자니 비용이 만만치 않…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22935/6_2_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 50,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 22700,
@@ -5452,6 +5452,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 27747,
+      "title": "차박 떠나는 가족을 위한, 휴가 전 챙기면 숙박비 아끼는 차박매트리스 TOP3",
+      "url": "https://wikidocs.net/blog/@smartliving/27747/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n역대급 폭염에 열대야까지 이어지면서, 이번 여름휴가는 숙소 대신 차박을 택하는 분들이 부쩍 늘었습니다. 시원한 계곡이나 바닷가 근처에 차를 세우고, 문만 열면 별이 보…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27747/24_3_product1.jpg",
+      "published_label": "6일 전",
+      "views": 35,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27250,
       "title": "열대야에 잠 설치는 분들을 위한, 잘못 사고 알게 된 라텍스 토퍼 고르는 법",
       "url": "https://wikidocs.net/blog/@smartliving/27250/",
@@ -5562,21 +5577,6 @@
       "url": "https://wikidocs.net/blog/@smartliving/27750/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n올여름은 전력수요가 역대 다섯 손가락 안에 들 만큼 폭염이 이어지고 있습니다. 선풍기만으로는 버티기 힘든 밤, 에어컨을 틀고 싶어도 실외기 놓을 자리가 없는 원룸이라면…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27750/24_6_product1.jpg",
-      "published_label": "6일 전",
-      "views": 34,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 27747,
-      "title": "차박 떠나는 가족을 위한, 휴가 전 챙기면 숙박비 아끼는 차박매트리스 TOP3",
-      "url": "https://wikidocs.net/blog/@smartliving/27747/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n역대급 폭염에 열대야까지 이어지면서, 이번 여름휴가는 숙소 대신 차박을 택하는 분들이 부쩍 늘었습니다. 시원한 계곡이나 바닷가 근처에 차를 세우고, 문만 열면 별이 보…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27747/24_3_product1.jpg",
       "published_label": "6일 전",
       "views": 34,
       "daily_views": 0,
@@ -6382,6 +6382,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 27749,
+      "title": "홈파티 즐기는 사람을 위한, 요즘 다들 바꾼다는 가라오케 스피커 이유 있었습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/27749/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n친구들을 초대해놓고 막상 분위기를 띄울 게 마땅치 않아 어색해진 적 있으실 겁니다. 노래방을 예약하자니 시간이 애매하고, 그렇다고 조용히 이야기만 나누기엔 아쉬운 밤이…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27749/24_5_product1.jpg",
+      "published_label": "6일 전",
+      "views": 28,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27618,
       "title": "화상회의 소리 새면 신경쓰였다면, 넥밴드형 블루투스 이어폰 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/27618/",
@@ -6480,21 +6495,6 @@
       "published_label": "6일 전",
       "views": 27,
       "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 27749,
-      "title": "홈파티 즐기는 사람을 위한, 요즘 다들 바꾼다는 가라오케 스피커 이유 있었습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27749/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n친구들을 초대해놓고 막상 분위기를 띄울 게 마땅치 않아 어색해진 적 있으실 겁니다. 노래방을 예약하자니 시간이 애매하고, 그렇다고 조용히 이야기만 나누기엔 아쉬운 밤이…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27749/24_5_product1.jpg",
-      "published_label": "6일 전",
-      "views": 27,
-      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -8621,6 +8621,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24651,
+      "title": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/24651/",
+      "excerpt": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지\n\n2026년 르노코리아 차량의 제조사 보증 기간 만료를 앞두고 있다면, 반드시 공식 서비스 네트워크를 통해 차량을 종합적으로 점검하는 것이 중요합니다. 이는 잠재적인 고장을 무상으로 수리받아…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24651/13_2_img1.jpg",
+      "published_label": "25일 전",
+      "views": 190,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24014,
       "title": "요즘 다들 두피 마사지기로 바꾼다는데, 이유가 있었습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/24014/",
@@ -8696,19 +8711,19 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 24651,
-      "title": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/24651/",
-      "excerpt": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지\n\n2026년 르노코리아 차량의 제조사 보증 기간 만료를 앞두고 있다면, 반드시 공식 서비스 네트워크를 통해 차량을 종합적으로 점검하는 것이 중요합니다. 이는 잠재적인 고장을 무상으로 수리받아…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24651/13_2_img1.jpg",
-      "published_label": "25일 전",
-      "views": 189,
+      "id": 23121,
+      "title": "유산균 살 때 다들 놓치는 체크포인트 한 가지",
+      "url": "https://wikidocs.net/blog/@smartliving/23121/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n유산균 제품을 고르려고 검색창에 검색어만 넣어봐도 수십 개의 브랜드가 쏟아져 나와서, 대체 뭘 기준으로 골라야 할지 막막했던 경험 한 번쯤 있으실 겁니다. 가격도 만원…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23121/9_6_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 214,
       "daily_views": 2,
       "likes": 0,
       "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
     },
     {
       "id": 24657,
@@ -8784,21 +8799,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 22264,
-      "title": "장마철 매일 발 젖는 직장인이라면, 신발건조기 하나로 냄새까지 잡았습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/22264/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마철 아침, 현관에서 신발을 신는 순간 발끝에 닿는 눅눅한 감촉만큼 하루를 찝찝하게 만드는 것도 없습니다. 어젯밤 분명 잘 말려뒀다고 생각했는데, 신발 안쪽은 여전히…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22264/5_1_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 44,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     }
   ],
   "daily_totals": [
@@ -8980,8 +8980,8 @@
     },
     {
       "date": "2026-08-13",
-      "views": 166
+      "views": 172
     }
   ],
-  "static_generated_at": "2026-08-13T04:53:39+09:00"
+  "static_generated_at": "2026-08-13T05:23:41+09:00"
 }
