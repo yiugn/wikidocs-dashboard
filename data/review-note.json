@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-13T14:53:32+09:00",
+  "latest_snapshot_at": "2026-08-13T15:23:33+09:00",
   "latest_snapshot_date": "2026-08-13",
   "catalog_updated_at": "2026-08-13T00:22:08+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 554,
-    "total_views": 298858,
-    "daily_views": 653,
+    "total_views": 298874,
+    "daily_views": 667,
     "previous_day_views": 918,
     "previous_day_date": "2026-08-12",
-    "current_month_views": 11487,
+    "current_month_views": 11503,
     "days_recorded": 45
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 157611,
-      "daily_views": 100,
+      "total_views": 157612,
+      "daily_views": 101,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 276,
       "captured_posts": 286,
-      "total_views": 107977,
-      "daily_views": 434,
+      "total_views": 107987,
+      "daily_views": 442,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 33270,
-      "daily_views": 119,
+      "total_views": 33275,
+      "daily_views": 124,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -418,8 +418,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마철 욕실 문을 열 때마다 훅 끼치는 꿉꿉한 냄새, 겪어보신 분들 많으실 겁니다. 창문이 없거나 환기가 잘 안 되는 욕실 구조라면 특히 심한데, 아무리 청소를 열심히…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22272/5_9_product1.jpg",
       "published_label": "1개월 전",
-      "views": 2141,
-      "daily_views": 0,
+      "views": 2142,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -568,8 +568,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n밤 운전을 하다 보면 예전 같지 않게 헤드라이트가 침침하게 느껴질 때가 있습니다. 연식이 쌓이면 전조등 커버(플라스틱)가 자외선에 누렇게 변색되고 뿌옇게 흐려지는 '황…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22693/5_2_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 1321,
-      "daily_views": 2,
+      "views": 1322,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -913,8 +913,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n카페 갈 필요 없이, 집에서 각얼음 뽑아주는 미니 제빙기 이렇게 골랐습니다\n\n무더운 여름날, 시원한 아이스아메리카노 한 잔을 위해 굳이 카페까지 걸어갔다 온 경험 많으…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/21993/4_7_product1.jpg",
       "published_label": "1개월 전",
-      "views": 727,
-      "daily_views": 2,
+      "views": 728,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -1147,6 +1147,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 25219,
+      "title": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁",
+      "url": "https://wikidocs.net/blog/@petpicknote/25219/",
+      "excerpt": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁\n\nChatGPT는 2026년에도 개인 생산성 혁신의 핵심 도구로 자리매김하고 있습니다. 최신 GPT 모델과 고급 프롬프트 엔지니어링을 활용하면 정보 요약, 아이디어 발상, 콘텐츠 초안 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25219/14_10_img1.jpg",
+      "published_label": "23일 전",
+      "views": 427,
+      "daily_views": 6,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22688,
       "title": "반려인을 위한, 장마철 산책 스트레스 확 줄여주는 강아지 레인코트 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/22688/",
@@ -1160,21 +1175,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 25219,
-      "title": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁",
-      "url": "https://wikidocs.net/blog/@petpicknote/25219/",
-      "excerpt": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁\n\nChatGPT는 2026년에도 개인 생산성 혁신의 핵심 도구로 자리매김하고 있습니다. 최신 GPT 모델과 고급 프롬프트 엔지니어링을 활용하면 정보 요약, 아이디어 발상, 콘텐츠 초안 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25219/14_10_img1.jpg",
-      "published_label": "23일 전",
-      "views": 426,
-      "daily_views": 5,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 22551,
@@ -1543,8 +1543,8 @@
       "excerpt": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지\n\n2026년 르노코리아 차량의 제조사 보증 기간 만료를 앞두고 있다면, 반드시 공식 서비스 네트워크를 통해 차량을 종합적으로 점검하는 것이 중요합니다. 이는 잠재적인 고장을 무상으로 수리받아…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24651/13_2_img1.jpg",
       "published_label": "26일 전",
-      "views": 198,
-      "daily_views": 11,
+      "views": 199,
+      "daily_views": 12,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1957,6 +1957,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 24885,
+      "title": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법",
+      "url": "https://wikidocs.net/blog/@petpicknote/24885/",
+      "excerpt": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법\n\n현대해상 ECO 마일리지 특약은 연간 주행거리에 따라 자동차 보험료를 환급받는 제도입니다. 특히 연 1만km 이하 주행하는 운전자라면 최대 18.8% (커넥티드 방식 기…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24885/14_4_img1.jpg",
+      "published_label": "25일 전",
+      "views": 115,
+      "daily_views": 6,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 23823,
       "title": "한여름 새벽 러닝족이라면, 냉감 조끼로 체감온도가 달라졌다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/23823/",
@@ -1985,21 +2000,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24885,
-      "title": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법",
-      "url": "https://wikidocs.net/blog/@petpicknote/24885/",
-      "excerpt": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법\n\n현대해상 ECO 마일리지 특약은 연간 주행거리에 따라 자동차 보험료를 환급받는 제도입니다. 특히 연 1만km 이하 주행하는 운전자라면 최대 18.8% (커넥티드 방식 기…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24885/14_4_img1.jpg",
-      "published_label": "25일 전",
-      "views": 114,
-      "daily_views": 5,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 27255,
@@ -2107,6 +2107,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 27399,
+      "title": "저용량 vs 고용량 오메가3, 흡수율과 가격 기준으로 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/27399/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n영양제 코너에서 오메가3를 고르려다, 저용량 제품과 고용량 제품 가격 차이에 한참을 고민해보신 적 있으실 겁니다. 그냥 비싼 걸 사자니 부담스럽고, 저렴한 걸 사자니 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27399/21_10_product1.jpg",
+      "published_label": "10일 전",
+      "views": 104,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24477,
       "title": "장시간 앉아있는 직장인을 위한, 노트북 거치대 살 때 놓치는 체크포인트 2가지",
       "url": "https://wikidocs.net/blog/@smartliving/24477/",
@@ -2150,21 +2165,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 27399,
-      "title": "저용량 vs 고용량 오메가3, 흡수율과 가격 기준으로 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27399/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n영양제 코너에서 오메가3를 고르려다, 저용량 제품과 고용량 제품 가격 차이에 한참을 고민해보신 적 있으실 겁니다. 그냥 비싼 걸 사자니 부담스럽고, 저렴한 걸 사자니 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27399/21_10_product1.jpg",
-      "published_label": "10일 전",
-      "views": 103,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 23734,
@@ -2218,8 +2218,8 @@
       "excerpt": "리브 모바일 친구 결합, 20대 친구끼리 통신비 50% 절감하는 방법 3가지\n\n리브 모바일 친구 결합은 KB국민은행의 알뜰폰 서비스인 리브모바일 고객이라면 누구나 친구 또는 지인과 함께 통신비 할인을 받거나 추가 데이터를 제공받을 수 있는 서비스입니다. 특히 202…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25345/15_10_img1.jpg",
       "published_label": "22일 전",
-      "views": 97,
-      "daily_views": 1,
+      "views": 98,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -2602,6 +2602,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24468,
+      "title": "자취생·1인 가구를 위한, 전기요금 줄여주는 스마트 플러그 고르는 법",
+      "url": "https://wikidocs.net/blog/@smartliving/24468/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n지난달 관리비 고지서를 펼쳐 들고 한숨부터 쉬셨던 분들 많으실 겁니다. 에어컨 한 번 세게 틀었다고 숫자가 이렇게까지 뛸 일인가 싶다가도, 정작 어디서 전기를 얼마나 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24468/15_1_product1.jpg",
+      "published_label": "27일 전",
+      "views": 72,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 22941,
       "title": "디젤차로 장거리 앞두신 분이라면, DPF·인젝터 클리너 넣고 출력이 한결 살아났다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22941/",
@@ -2630,21 +2645,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24468,
-      "title": "자취생·1인 가구를 위한, 전기요금 줄여주는 스마트 플러그 고르는 법",
-      "url": "https://wikidocs.net/blog/@smartliving/24468/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n지난달 관리비 고지서를 펼쳐 들고 한숨부터 쉬셨던 분들 많으실 겁니다. 에어컨 한 번 세게 틀었다고 숫자가 이렇게까지 뛸 일인가 싶다가도, 정작 어디서 전기를 얼마나 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24468/15_1_product1.jpg",
-      "published_label": "27일 전",
-      "views": 71,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 23766,
@@ -4522,6 +4522,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24883,
+      "title": "AI 데이터베이스, 2026년 기업의 데이터 활용 전략을 바꿀 핵심 기술 3가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/24883/",
+      "excerpt": "AI 데이터베이스, 2026년 기업의 데이터 활용 전략을 바꿀 핵심 기술 3가지\n\n2026년, 기업의 데이터 활용 전략은 AI 데이터베이스 기술 혁신을 통해 새로운 전환점을 맞이하고 있습니다. 특히 벡터 데이터베이스, 그래프 데이터베이스, 그리고 통합 데이터 플랫폼…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24883/14_2_img1.jpg",
+      "published_label": "25일 전",
+      "views": 42,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 28280,
       "title": "장마 습기로 욕실 곰팡이 걱정되는 가구, 세제 없이 뽀송하게 말려주는 항균 발매트",
       "url": "https://wikidocs.net/blog/@smartliving/28280/",
@@ -4575,6 +4590,21 @@
       "published_label": "8일 전",
       "views": 42,
       "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 24643,
+      "title": "머리 지끈거리도록 고생한 끝에 알게 된 무선 두피 마사지기 고르는 법",
+      "url": "https://wikidocs.net/blog/@smartliving/24643/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n야근에 스트레스까지 겹치면 머리가 지끈거리고 두피까지 뻐근해지는 느낌, 다들 한 번쯤 겪어보셨을 겁니다. 손으로 꾹꾹 눌러봐도 그때뿐이고, 결국 두피 마사지기 하나를 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24643/16_8_product1.jpg",
+      "published_label": "26일 전",
+      "views": 42,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -4657,21 +4687,6 @@
       "blog_name": "카템랩"
     },
     {
-      "id": 24883,
-      "title": "AI 데이터베이스, 2026년 기업의 데이터 활용 전략을 바꿀 핵심 기술 3가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/24883/",
-      "excerpt": "AI 데이터베이스, 2026년 기업의 데이터 활용 전략을 바꿀 핵심 기술 3가지\n\n2026년, 기업의 데이터 활용 전략은 AI 데이터베이스 기술 혁신을 통해 새로운 전환점을 맞이하고 있습니다. 특히 벡터 데이터베이스, 그래프 데이터베이스, 그리고 통합 데이터 플랫폼…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24883/14_2_img1.jpg",
-      "published_label": "25일 전",
-      "views": 41,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
       "id": 23108,
       "title": "다들 강아지 사료는 브랜드와 단백질 함량만 높으면 된다지만, 피부 트러블 잦은 아이라면 먼저 볼 건 저알레르기 원료입니다",
       "url": "https://wikidocs.net/blog/@petpicknote/23108/",
@@ -4710,21 +4725,6 @@
       "published_label": "3일 전",
       "views": 41,
       "daily_views": 4,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24643,
-      "title": "머리 지끈거리도록 고생한 끝에 알게 된 무선 두피 마사지기 고르는 법",
-      "url": "https://wikidocs.net/blog/@smartliving/24643/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n야근에 스트레스까지 겹치면 머리가 지끈거리고 두피까지 뻐근해지는 느낌, 다들 한 번쯤 겪어보셨을 겁니다. 손으로 꾹꾹 눌러봐도 그때뿐이고, 결국 두피 마사지기 하나를 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24643/16_8_product1.jpg",
-      "published_label": "26일 전",
-      "views": 41,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -4820,6 +4820,21 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 28196,
+      "title": "8시간 앉아있는 사무직 어깨 뭉침, 마사지숍 5만원값 풀어주는 미니 마사지건",
+      "url": "https://wikidocs.net/blog/@smartliving/28196/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근 무렵이면 어깨가 돌덩이처럼 뭉쳐 목을 돌릴 때마다 뻐근함이 느껴지신 적 있으실 겁니다. 모니터를 보며 앉아있는 시간이 길수록 어깨와 목 주변 근육은 계속 긴장 상…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28196/29_8_product1.jpg",
+      "published_label": "2일 전",
+      "views": 40,
+      "daily_views": 7,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
     },
     {
       "id": 21680,
@@ -4925,21 +4940,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28196,
-      "title": "8시간 앉아있는 사무직 어깨 뭉침, 마사지숍 5만원값 풀어주는 미니 마사지건",
-      "url": "https://wikidocs.net/blog/@smartliving/28196/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근 무렵이면 어깨가 돌덩이처럼 뭉쳐 목을 돌릴 때마다 뻐근함이 느껴지신 적 있으실 겁니다. 모니터를 보며 앉아있는 시간이 길수록 어깨와 목 주변 근육은 계속 긴장 상…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28196/29_8_product1.jpg",
-      "published_label": "2일 전",
-      "views": 39,
-      "daily_views": 6,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 28193,
@@ -5857,6 +5857,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 28387,
+      "title": "차박 다니는 캠퍼, 5분 만에 펼쳐 햇빛과 시선 차단해주는 사이드텐트",
+      "url": "https://wikidocs.net/blog/@smartliving/28387/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n차박지에 도착해 트렁크를 열었는데, 옆 사이트 캠퍼와 눈이 마주친 적 있으신가요? 트렁크 문 하나만 믿고 옷을 갈아입거나 짐을 정리하다 보면 은근히 시선이 신경 쓰이고…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28387/31_5_product1.jpg",
+      "published_label": "8시간 전",
+      "views": 33,
+      "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28385,
       "title": "하루 8시간 마우스 쓰는 사무직, 5250원으로 손목 통증 줄여주는 젤 마우스패드",
       "url": "https://wikidocs.net/blog/@smartliving/28385/",
@@ -6095,21 +6110,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28387,
-      "title": "차박 다니는 캠퍼, 5분 만에 펼쳐 햇빛과 시선 차단해주는 사이드텐트",
-      "url": "https://wikidocs.net/blog/@smartliving/28387/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n차박지에 도착해 트렁크를 열었는데, 옆 사이트 캠퍼와 눈이 마주친 적 있으신가요? 트렁크 문 하나만 믿고 옷을 갈아입거나 짐을 정리하다 보면 은근히 시선이 신경 쓰이고…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28387/31_5_product1.jpg",
-      "published_label": "8시간 전",
-      "views": 31,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 27530,
@@ -7162,6 +7162,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24639,
+      "title": "홍삼스틱 vs 홍삼정 스틱, 여름 기력보충엔 뭐가 나을까요?",
+      "url": "https://wikidocs.net/blog/@smartliving/24639/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n무더위가 이어지면 입맛도 없고 몸이 축 처지는 느낌, 여름철엔 다들 한 번쯤 느껴보셨을 겁니다. 냉방병에 지친 몸을 다독이려고 홍삼을 챙겨보려 해도, 막상 매대 앞에 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24639/16_4_product1.jpg",
+      "published_label": "26일 전",
+      "views": 24,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24156,
       "title": "장마 후반 옷장 제습제 안 챙기면, 곰팡이보다 무서운 게 옵니다",
       "url": "https://wikidocs.net/blog/@smartliving/24156/",
@@ -7250,21 +7265,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 24639,
-      "title": "홍삼스틱 vs 홍삼정 스틱, 여름 기력보충엔 뭐가 나을까요?",
-      "url": "https://wikidocs.net/blog/@smartliving/24639/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n무더위가 이어지면 입맛도 없고 몸이 축 처지는 느낌, 여름철엔 다들 한 번쯤 느껴보셨을 겁니다. 냉방병에 지친 몸을 다독이려고 홍삼을 챙겨보려 해도, 막상 매대 앞에 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24639/16_4_product1.jpg",
-      "published_label": "26일 전",
-      "views": 23,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 24164,
@@ -8203,8 +8203,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n맞벌이로 평일엔 마트 갈 시간이 없어 미루다 보면, 주말 마트에서 이미 물러진 과일을 비싼 값에 사게 되는 경우가 많으시죠. 급한 마음에 상태 확인도 못 하고 담아오면…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27918/26_9_product1.jpg",
       "published_label": "5일 전",
-      "views": 9,
-      "daily_views": 1,
+      "views": 10,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -8711,6 +8711,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24651,
+      "title": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/24651/",
+      "excerpt": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지\n\n2026년 르노코리아 차량의 제조사 보증 기간 만료를 앞두고 있다면, 반드시 공식 서비스 네트워크를 통해 차량을 종합적으로 점검하는 것이 중요합니다. 이는 잠재적인 고장을 무상으로 수리받아…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24651/13_2_img1.jpg",
+      "published_label": "26일 전",
+      "views": 199,
+      "daily_views": 12,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 28279,
       "title": "한여름 오후 거실 뜨거워지는 집, 실내온도 3도 낮춰 냉방비 아껴주는 무타공 암막 롤스크린",
       "url": "https://wikidocs.net/blog/@smartliving/28279/",
@@ -8724,21 +8739,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24651,
-      "title": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/24651/",
-      "excerpt": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지\n\n2026년 르노코리아 차량의 제조사 보증 기간 만료를 앞두고 있다면, 반드시 공식 서비스 네트워크를 통해 차량을 종합적으로 점검하는 것이 중요합니다. 이는 잠재적인 고장을 무상으로 수리받아…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24651/13_2_img1.jpg",
-      "published_label": "26일 전",
-      "views": 198,
-      "daily_views": 11,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 28281,
@@ -8876,6 +8876,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28196,
+      "title": "8시간 앉아있는 사무직 어깨 뭉침, 마사지숍 5만원값 풀어주는 미니 마사지건",
+      "url": "https://wikidocs.net/blog/@smartliving/28196/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근 무렵이면 어깨가 돌덩이처럼 뭉쳐 목을 돌릴 때마다 뻐근함이 느껴지신 적 있으실 겁니다. 모니터를 보며 앉아있는 시간이 길수록 어깨와 목 주변 근육은 계속 긴장 상…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28196/29_8_product1.jpg",
+      "published_label": "2일 전",
+      "views": 40,
+      "daily_views": 7,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28080,
       "title": "목욕마다 우는 아기 때문에 힘든 부모, 목욕시간 10분 단축해주는 물놀이 장난감",
       "url": "https://wikidocs.net/blog/@smartliving/28080/",
@@ -8906,49 +8921,34 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 27999,
-      "title": "장작값 아끼며 불멍하고 싶은 캠핑족을 위한, 화로대 이렇게 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27999/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n캠핑장 매점에서 장작 한 망에 만 원 넘게 주고도 금방 다 타버려 아쉬웠던 적, 캠핑 다녀보신 분이라면 공감하실 겁니다. 장작값만 아껴도 캠핑 한 번 가는 비용이 꽤 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27999/27_8_product1.jpg",
-      "published_label": "4일 전",
-      "views": 68,
+      "id": 25219,
+      "title": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁",
+      "url": "https://wikidocs.net/blog/@petpicknote/25219/",
+      "excerpt": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁\n\nChatGPT는 2026년에도 개인 생산성 혁신의 핵심 도구로 자리매김하고 있습니다. 최신 GPT 모델과 고급 프롬프트 엔지니어링을 활용하면 정보 요약, 아이디어 발상, 콘텐츠 초안 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25219/14_10_img1.jpg",
+      "published_label": "23일 전",
+      "views": 427,
       "daily_views": 6,
       "likes": 0,
       "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
     },
     {
-      "id": 28276,
-      "title": "부모님 집들이 선물 고민하는 자녀, 사진 인화비 없이 수백 장 보여주는 와이파이 디지털액자",
-      "url": "https://wikidocs.net/blog/@smartliving/28276/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n부모님 댁에 갈 때마다 뭘 선물해야 좋아하실지 매번 고민하신 적 많으실 겁니다. 옷이나 건강식품은 이미 넘쳐나고, 막상 손주 사진이라도 인화해드리려니 사진관 다녀오는 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28276/30_2_product1.jpg",
-      "published_label": "1일 전",
-      "views": 46,
+      "id": 24885,
+      "title": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법",
+      "url": "https://wikidocs.net/blog/@petpicknote/24885/",
+      "excerpt": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법\n\n현대해상 ECO 마일리지 특약은 연간 주행거리에 따라 자동차 보험료를 환급받는 제도입니다. 특히 연 1만km 이하 주행하는 운전자라면 최대 18.8% (커넥티드 방식 기…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24885/14_4_img1.jpg",
+      "published_label": "25일 전",
+      "views": 115,
       "daily_views": 6,
       "likes": 0,
       "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28275,
-      "title": "기어다니는 아기 키우는 부모, 1cm 쿠션으로 낙상충격 흡수해주는 실내 안전매트",
-      "url": "https://wikidocs.net/blog/@smartliving/28275/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n아기가 기어다니기 시작하면서부터 거실 바닥이 갑자기 무섭게 느껴지신 적 있으실 겁니다. 소파 모서리에 부딪혀 우는 소리, 딱딱한 바닥에 엉덩방아 찧는 소리가 하루에도 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28275/30_1_product1.jpg",
-      "published_label": "1일 전",
-      "views": 44,
-      "daily_views": 6,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
     }
   ],
   "daily_totals": [
@@ -9130,8 +9130,8 @@
     },
     {
       "date": "2026-08-13",
-      "views": 842
+      "views": 858
     }
   ],
-  "static_generated_at": "2026-08-13T14:53:42+09:00"
+  "static_generated_at": "2026-08-13T15:23:45+09:00"
 }
