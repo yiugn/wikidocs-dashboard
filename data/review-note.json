@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-14T01:53:31+09:00",
+  "latest_snapshot_at": "2026-08-14T02:23:33+09:00",
   "latest_snapshot_date": "2026-08-14",
   "catalog_updated_at": "2026-08-14T00:22:09+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 554,
-    "total_views": 299208,
-    "daily_views": 52,
+    "total_views": 299213,
+    "daily_views": 57,
     "previous_day_views": 1140,
     "previous_day_date": "2026-08-13",
-    "current_month_views": 11837,
+    "current_month_views": 11842,
     "days_recorded": 46
   },
   "blogs": [
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 286,
       "captured_posts": 286,
-      "total_views": 108212,
-      "daily_views": 44,
+      "total_views": 108216,
+      "daily_views": 48,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 33331,
-      "daily_views": 4,
+      "total_views": 33332,
+      "daily_views": 5,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1147,6 +1147,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 22688,
+      "title": "반려인을 위한, 장마철 산책 스트레스 확 줄여주는 강아지 레인코트 이렇게 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/22688/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마철에도 강아지 산책은 거를 수가 없죠. 비가 온다고 하루이틀 산책을 건너뛰면 아이가 답답해하는 게 눈에 보이고, 그렇다고 비를 그대로 맞히며 나가자니 털이 흠뻑 젖…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22688/6_7_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 429,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 22492,
       "title": "한여름 차박 갈 때마다 그늘 없어 뙤약볕에 시달렸다면, 차량용 그늘막 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22492/",
@@ -1160,21 +1175,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 22688,
-      "title": "반려인을 위한, 장마철 산책 스트레스 확 줄여주는 강아지 레인코트 이렇게 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/22688/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마철에도 강아지 산책은 거를 수가 없죠. 비가 온다고 하루이틀 산책을 건너뛰면 아이가 답답해하는 게 눈에 보이고, 그렇다고 비를 그대로 맞히며 나가자니 털이 흠뻑 젖…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22688/6_7_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 428,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 22551,
@@ -2293,8 +2293,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n캐리어 열자마자 샴푸가 새어 있으면, 그날 여행 기분부터 망칩니다\n\n여름휴가를 앞두고 부랴부랴 짐을 싸다 보면, 세면도구를 그냥 파우치 없이 옷 사이에 아무렇게나 끼워…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/21989/4_4_product1.jpg",
       "published_label": "1개월 전",
-      "views": 89,
-      "daily_views": 0,
+      "views": 90,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -4252,6 +4252,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 28280,
+      "title": "장마 습기로 욕실 곰팡이 걱정되는 가구, 세제 없이 뽀송하게 말려주는 항균 발매트",
+      "url": "https://wikidocs.net/blog/@smartliving/28280/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마철이 지나고 습한 날씨가 이어지면, 욕실 발매트에서 은근한 꿉꿉한 냄새가 올라오는 걸 느끼신 적 있으실 겁니다. 매번 세탁하기도 번거롭고, 말릴 곳도 마땅치 않아 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28280/30_6_product1.jpg",
+      "published_label": "1일 전",
+      "views": 45,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28197,
       "title": "여름 물놀이 다녀온 캠핑족, 1회 충전 30분 온수 뿌려주는 휴대용 캠핑샤워기",
       "url": "https://wikidocs.net/blog/@smartliving/28197/",
@@ -4415,21 +4430,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28280,
-      "title": "장마 습기로 욕실 곰팡이 걱정되는 가구, 세제 없이 뽀송하게 말려주는 항균 발매트",
-      "url": "https://wikidocs.net/blog/@smartliving/28280/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마철이 지나고 습한 날씨가 이어지면, 욕실 발매트에서 은근한 꿉꿉한 냄새가 올라오는 걸 느끼신 적 있으실 겁니다. 매번 세탁하기도 번거롭고, 말릴 곳도 마땅치 않아 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28280/30_6_product1.jpg",
-      "published_label": "1일 전",
-      "views": 44,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 28279,
@@ -7297,6 +7297,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 23368,
+      "title": "강아지고양이 버그가드 케이펫페어 추천",
+      "url": "https://wikidocs.net/blog/@petpicknote/23368/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n7월 17일부터 서울 코엑스에서 열리는 2026 케이펫페어를 앞두고, 야외활동 늘어난 반려인이라면 벌레기피제 안 챙기면 피부트러블로 병원비 나갈 수 있습니다. 장마가 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23368/7_6_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 23,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24164,
       "title": "요즘 다들 밋밋한 벽 대신 붙인다는 타피스트리, 이유가 있었습니다",
       "url": "https://wikidocs.net/blog/@smartliving/24164/",
@@ -7468,21 +7483,6 @@
       "excerpt": "> 🏕️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n올해도 장마가 끝나갈 무렵부터 곧바로 폭염특보가 이어지는 흐름이 반복되고 있습니다. 기상 자료를 보면 중부 지방 기준으로 장마가 7월 하순에 끝나고 나면 곧바로 무더…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24005/10_2_img1.jpg",
       "published_label": "29일 전",
-      "views": 22,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 23368,
-      "title": "강아지고양이 버그가드 케이펫페어 추천",
-      "url": "https://wikidocs.net/blog/@petpicknote/23368/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n7월 17일부터 서울 코엑스에서 열리는 2026 케이펫페어를 앞두고, 야외활동 늘어난 반려인이라면 벌레기피제 안 챙기면 피부트러블로 병원비 나갈 수 있습니다. 장마가 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23368/7_6_product1.jpg",
-      "published_label": "1개월 전",
       "views": 22,
       "daily_views": 0,
       "likes": 0,
@@ -8272,6 +8272,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28391,
+      "title": "욕실 청소 매일 하는 주부, 허리 숙이지 않고 청소시간 절반 줄여주는 극세사 밀대",
+      "url": "https://wikidocs.net/blog/@smartliving/28391/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n욕실 바닥에 남은 물기, 그냥 두면 물때가 되고 습기가 차면 곰팡이로 이어진다는 걸 알면서도 매번 허리를 숙여가며 걸레로 닦는 건 여간 힘든 일이 아닙니다. 쪼그려 앉…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28391/31_9_product1.jpg",
+      "published_label": "19시간 전",
+      "views": 8,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27914,
       "title": "좁은 원룸 수납공간 부족하다면, 언더베드 수납박스 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@smartliving/27914/",
@@ -8292,21 +8307,6 @@
       "url": "https://wikidocs.net/blog/@smartliving/28392/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n저층 세대라면 밤중에 베란다에서 부스럭거리는 소리에 놀란 적 있으실 겁니다. 모기·벌레는 물론이고, 주변에 텃밭이나 야산이 가깝다면 쥐나 두더지 같은 유해동물이 베란다…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28392/31_10_product1.jpg",
-      "published_label": "19시간 전",
-      "views": 7,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28391,
-      "title": "욕실 청소 매일 하는 주부, 허리 숙이지 않고 청소시간 절반 줄여주는 극세사 밀대",
-      "url": "https://wikidocs.net/blog/@smartliving/28391/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n욕실 바닥에 남은 물기, 그냥 두면 물때가 되고 습기가 차면 곰팡이로 이어진다는 걸 알면서도 매번 허리를 숙여가며 걸레로 닦는 건 여간 힘든 일이 아닙니다. 쪼그려 앉…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28391/31_9_product1.jpg",
       "published_label": "19시간 전",
       "views": 7,
       "daily_views": 0,
@@ -8786,6 +8786,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28280,
+      "title": "장마 습기로 욕실 곰팡이 걱정되는 가구, 세제 없이 뽀송하게 말려주는 항균 발매트",
+      "url": "https://wikidocs.net/blog/@smartliving/28280/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마철이 지나고 습한 날씨가 이어지면, 욕실 발매트에서 은근한 꿉꿉한 냄새가 올라오는 걸 느끼신 적 있으실 겁니다. 매번 세탁하기도 번거롭고, 말릴 곳도 마땅치 않아 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28280/30_6_product1.jpg",
+      "published_label": "1일 전",
+      "views": 45,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28387,
       "title": "차박 다니는 캠퍼, 5분 만에 펼쳐 햇빛과 시선 차단해주는 사이드텐트",
       "url": "https://wikidocs.net/blog/@smartliving/28387/",
@@ -8891,6 +8906,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22688,
+      "title": "반려인을 위한, 장마철 산책 스트레스 확 줄여주는 강아지 레인코트 이렇게 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/22688/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마철에도 강아지 산책은 거를 수가 없죠. 비가 온다고 하루이틀 산책을 건너뛰면 아이가 답답해하는 게 눈에 보이고, 그렇다고 비를 그대로 맞히며 나가자니 털이 흠뻑 젖…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22688/6_7_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 429,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 22551,
       "title": "요즘 다들 반려견과 여행을 떠난다는데, 외출가방 하나 바꿨더니 이유가 있었습니다",
       "url": "https://wikidocs.net/blog/@smartliving/22551/",
@@ -8919,36 +8949,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 25344,
-      "title": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준)",
-      "url": "https://wikidocs.net/blog/@petpicknote/25344/",
-      "excerpt": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준)\n\nAWS S3에 1TB 이상의 데이터를 저장할 때 예상치 못한 과금 폭탄을 피하기 위해서는 스토리지 클래스 선택, 수명 주기 관리, S3 Intelligent-Ti…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25344/15_9_img1.jpg",
-      "published_label": "22일 전",
-      "views": 143,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 27298,
-      "title": "여름휴가 차박 캠퍼를 위한, 부탄가스값 아끼는 휴대용 가스버너 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27298/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n차박이나 캠핑을 준비하다 보면 버너를 뭘로 챙겨야 할지 고민되실 때가 많습니다. 캠핑장 매점에서 파는 즉석식품이나 배달 음식으로 매 끼니를 때우면 여행 경비가 순식간에…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27298/20_3_product1.jpg",
-      "published_label": "11일 전",
-      "views": 112,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     }
   ],
   "daily_totals": [
@@ -9134,8 +9134,8 @@
     },
     {
       "date": "2026-08-14",
-      "views": 52
+      "views": 57
     }
   ],
-  "static_generated_at": "2026-08-14T01:53:40+09:00"
+  "static_generated_at": "2026-08-14T02:23:44+09:00"
 }
