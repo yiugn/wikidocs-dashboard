@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-15T22:53:32+09:00",
+  "latest_snapshot_at": "2026-08-15T23:23:32+09:00",
   "latest_snapshot_date": "2026-08-15",
   "catalog_updated_at": "2026-08-15T00:22:08+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 574,
-    "total_views": 301320,
-    "daily_views": 955,
+    "total_views": 301327,
+    "daily_views": 962,
     "previous_day_views": 995,
     "previous_day_date": "2026-08-14",
-    "current_month_views": 13949,
+    "current_month_views": 13956,
     "days_recorded": 47
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 157879,
-      "daily_views": 154,
+      "total_views": 157882,
+      "daily_views": 157,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 296,
       "captured_posts": 306,
-      "total_views": 109779,
-      "daily_views": 600,
+      "total_views": 109782,
+      "daily_views": 603,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 33662,
-      "daily_views": 201,
+      "total_views": 33663,
+      "daily_views": 202,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -568,8 +568,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n밤 운전을 하다 보면 예전 같지 않게 헤드라이트가 침침하게 느껴질 때가 있습니다. 연식이 쌓이면 전조등 커버(플라스틱)가 자외선에 누렇게 변색되고 뿌옇게 흐려지는 '황…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22693/5_2_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 1335,
-      "daily_views": 3,
+      "views": 1336,
+      "daily_views": 4,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -613,8 +613,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n새 차 냄새 폴폴 나는데, 시거잭 케이블만 예전 그대로였습니다\n\n신차를 인수하고 처음 시동을 걸었을 때의 그 설렘, 다들 아실 겁니다. 깔끔한 대시보드, 반짝이는 인포…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/21913/1_7_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 1221,
-      "daily_views": 2,
+      "views": 1222,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1837,6 +1837,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 25211,
+      "title": "KAMP AI, 2026년 스타트업이 정부 지원으로 AI 모델 개발할 방법 3가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/25211/",
+      "excerpt": "KAMP AI, 2026년 스타트업이 정부 지원으로 AI 모델 개발할 방법 3가지\n\n2026년은 인공지능(AI) 기술이 산업 전반에 걸쳐 혁신을 가속화하는 중요한 시점입니다. 국내 스타트업이 AI 모델 개발 경쟁에서 우위를 점하기 위해서는 정부의 다양한 지원 사업을…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25211/14_5_img1.png",
+      "published_label": "25일 전",
+      "views": 131,
+      "daily_views": 8,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 21992,
       "title": "보냉백 vs 미니 아이스박스, 여름 나들이엔 뭐가 나을까요?",
       "url": "https://wikidocs.net/blog/@smartliving/21992/",
@@ -1850,21 +1865,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 25211,
-      "title": "KAMP AI, 2026년 스타트업이 정부 지원으로 AI 모델 개발할 방법 3가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/25211/",
-      "excerpt": "KAMP AI, 2026년 스타트업이 정부 지원으로 AI 모델 개발할 방법 3가지\n\n2026년은 인공지능(AI) 기술이 산업 전반에 걸쳐 혁신을 가속화하는 중요한 시점입니다. 국내 스타트업이 AI 모델 개발 경쟁에서 우위를 점하기 위해서는 정부의 다양한 지원 사업을…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25211/14_5_img1.png",
-      "published_label": "25일 전",
-      "views": 130,
-      "daily_views": 7,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 24011,
@@ -1957,6 +1957,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 27399,
+      "title": "저용량 vs 고용량 오메가3, 흡수율과 가격 기준으로 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/27399/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n영양제 코너에서 오메가3를 고르려다, 저용량 제품과 고용량 제품 가격 차이에 한참을 고민해보신 적 있으실 겁니다. 그냥 비싼 걸 사자니 부담스럽고, 저렴한 걸 사자니 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27399/21_10_product1.jpg",
+      "published_label": "12일 전",
+      "views": 122,
+      "daily_views": 11,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24672,
       "title": "여름 뙤약볕에 핸들 뜨거워 손 못 대셨다면, 핸들커버 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/24672/",
@@ -1970,21 +1985,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 27399,
-      "title": "저용량 vs 고용량 오메가3, 흡수율과 가격 기준으로 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27399/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n영양제 코너에서 오메가3를 고르려다, 저용량 제품과 고용량 제품 가격 차이에 한참을 고민해보신 적 있으실 겁니다. 그냥 비싼 걸 사자니 부담스럽고, 저렴한 걸 사자니 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27399/21_10_product1.jpg",
-      "published_label": "12일 전",
-      "views": 121,
-      "daily_views": 10,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 24885,
@@ -2017,6 +2017,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 27298,
+      "title": "여름휴가 차박 캠퍼를 위한, 부탄가스값 아끼는 휴대용 가스버너 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/27298/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n차박이나 캠핑을 준비하다 보면 버너를 뭘로 챙겨야 할지 고민되실 때가 많습니다. 캠핑장 매점에서 파는 즉석식품이나 배달 음식으로 매 끼니를 때우면 여행 경비가 순식간에…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27298/20_3_product1.jpg",
+      "published_label": "13일 전",
+      "views": 120,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24674,
       "title": "직접 손세차 하시는 분이라면, 워터블레이드로 물자국 없이 마무리된다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/24674/",
@@ -2030,21 +2045,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 27298,
-      "title": "여름휴가 차박 캠퍼를 위한, 부탄가스값 아끼는 휴대용 가스버너 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27298/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n차박이나 캠핑을 준비하다 보면 버너를 뭘로 챙겨야 할지 고민되실 때가 많습니다. 캠핑장 매점에서 파는 즉석식품이나 배달 음식으로 매 끼니를 때우면 여행 경비가 순식간에…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27298/20_3_product1.jpg",
-      "published_label": "13일 전",
-      "views": 119,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 23823,
@@ -4207,6 +4207,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 28280,
+      "title": "장마 습기로 욕실 곰팡이 걱정되는 가구, 세제 없이 뽀송하게 말려주는 항균 발매트",
+      "url": "https://wikidocs.net/blog/@smartliving/28280/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마철이 지나고 습한 날씨가 이어지면, 욕실 발매트에서 은근한 꿉꿉한 냄새가 올라오는 걸 느끼신 적 있으실 겁니다. 매번 세탁하기도 번거롭고, 말릴 곳도 마땅치 않아 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28280/30_6_product1.jpg",
+      "published_label": "3일 전",
+      "views": 50,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 23939,
       "title": "신생아 부모를 위한, 목욕 시간이 한결 편해지는 아기 목욕의자 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/23939/",
@@ -4320,21 +4335,6 @@
       "published_label": "16시간 전",
       "views": 49,
       "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28280,
-      "title": "장마 습기로 욕실 곰팡이 걱정되는 가구, 세제 없이 뽀송하게 말려주는 항균 발매트",
-      "url": "https://wikidocs.net/blog/@smartliving/28280/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마철이 지나고 습한 날씨가 이어지면, 욕실 발매트에서 은근한 꿉꿉한 냄새가 올라오는 걸 느끼신 적 있으실 겁니다. 매번 세탁하기도 번거롭고, 말릴 곳도 마땅치 않아 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28280/30_6_product1.jpg",
-      "published_label": "3일 전",
-      "views": 49,
-      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -5707,6 +5707,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 23973,
+      "title": "혹시 아직도 유선 케이블 꽂아야만 카플레이 되는 차, 불편하게 타고 계신가요?",
+      "url": "https://wikidocs.net/blog/@cartemlab/23973/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n매번 탈 때마다 케이블을 찾아 꽂아야 하고, 케이블이 꼬여서 짜증났던 경험 있으실 겁니다.\n\n급하게 출발해야 하는데 케이블 인식이 안 돼 몇 번을 다시 꽂았던 분들도 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23973/12_6_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 37,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24650,
       "title": "구글 클라우드 서버 가격: 1인 개발자가 월 0원으로 유지할 수 있을까?",
       "url": "https://wikidocs.net/blog/@petpicknote/24650/",
@@ -5840,21 +5855,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23973,
-      "title": "혹시 아직도 유선 케이블 꽂아야만 카플레이 되는 차, 불편하게 타고 계신가요?",
-      "url": "https://wikidocs.net/blog/@cartemlab/23973/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n매번 탈 때마다 케이블을 찾아 꽂아야 하고, 케이블이 꼬여서 짜증났던 경험 있으실 겁니다.\n\n급하게 출발해야 하는데 케이블 인식이 안 돼 몇 번을 다시 꽂았던 분들도 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23973/12_6_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 36,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 23348,
@@ -9236,19 +9236,19 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 21980,
-      "title": "휴가 다녀올 때마다 시트 틈 모래·과자 부스러기로 스트레스였다면, 차량용 무선청소기 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/21980/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n즐겁게 바다 다녀오고 문 열었더니, 발매트 위에 서걱거리는 모래가 한가득. 뒷좌석 아이 앉던 자리엔 과자 부스러기가 시트 틈으로 쏙 들어가 있고, 반려견 데리고 다녀온…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/21980/2_4_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 58,
+      "id": 27399,
+      "title": "저용량 vs 고용량 오메가3, 흡수율과 가격 기준으로 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/27399/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n영양제 코너에서 오메가3를 고르려다, 저용량 제품과 고용량 제품 가격 차이에 한참을 고민해보신 적 있으실 겁니다. 그냥 비싼 걸 사자니 부담스럽고, 저렴한 걸 사자니 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27399/21_10_product1.jpg",
+      "published_label": "12일 전",
+      "views": 122,
       "daily_views": 11,
       "likes": 0,
       "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
     }
   ],
   "daily_totals": [
@@ -9438,8 +9438,8 @@
     },
     {
       "date": "2026-08-15",
-      "views": 1169
+      "views": 1176
     }
   ],
-  "static_generated_at": "2026-08-15T22:53:40+09:00"
+  "static_generated_at": "2026-08-15T23:23:42+09:00"
 }
