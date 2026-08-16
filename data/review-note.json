@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-16T19:53:33+09:00",
+  "latest_snapshot_at": "2026-08-16T20:23:35+09:00",
   "latest_snapshot_date": "2026-08-16",
   "catalog_updated_at": "2026-08-16T00:22:08+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 584,
-    "total_views": 302006,
-    "daily_views": 545,
+    "total_views": 302009,
+    "daily_views": 548,
     "previous_day_views": 1193,
     "previous_day_date": "2026-08-15",
-    "current_month_views": 14635,
+    "current_month_views": 14638,
     "days_recorded": 48
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 157932,
-      "daily_views": 47,
+      "total_views": 157934,
+      "daily_views": 49,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 33732,
-      "daily_views": 62,
+      "total_views": 33733,
+      "daily_views": 63,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1717,6 +1717,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22028,
+      "title": "강아지 첫 여름을 나는 반려인이라면, 쿨매트 하나로 낮잠 자세가 달라졌다는 후기가 많더라고요",
+      "url": "https://wikidocs.net/blog/@petpicknote/22028/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n오후 세 시, 마룻바닥이 뜨끈해지는 시간\n\n에어컨을 틀어 놓았는데도 강아지가 배를 바닥에 딱 붙이고 헥헥거리는 소리를 낼 때가 있습니다. 발바닥으로만 열을 내보내는 강…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22028/petpicknote_22028_1.jpg",
+      "published_label": "1개월 전",
+      "views": 145,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22546,
       "title": "아이 있는 집이라면, 여름밤 모기 방치했다간 물린 자국보다 무서운 게 옵니다",
       "url": "https://wikidocs.net/blog/@smartliving/22546/",
@@ -1738,21 +1753,6 @@
       "excerpt": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준)\n\nAWS S3에 1TB 이상의 데이터를 저장할 때 예상치 못한 과금 폭탄을 피하기 위해서는 스토리지 클래스 선택, 수명 주기 관리, S3 Intelligent-Ti…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25344/15_9_img1.jpg",
       "published_label": "25일 전",
-      "views": 144,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22028,
-      "title": "강아지 첫 여름을 나는 반려인이라면, 쿨매트 하나로 낮잠 자세가 달라졌다는 후기가 많더라고요",
-      "url": "https://wikidocs.net/blog/@petpicknote/22028/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n오후 세 시, 마룻바닥이 뜨끈해지는 시간\n\n에어컨을 틀어 놓았는데도 강아지가 배를 바닥에 딱 붙이고 헥헥거리는 소리를 낼 때가 있습니다. 발바닥으로만 열을 내보내는 강…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22028/petpicknote_22028_1.jpg",
-      "published_label": "1개월 전",
       "views": 144,
       "daily_views": 0,
       "likes": 0,
@@ -3712,6 +3712,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22290,
+      "title": "장마철 젖은 신발로 지저분하던 운전석, 방수 코일매트 깔고 관리 쉬워졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22290/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장맛비 내리는 날, 젖은 신발로 차에 타면 순정 매트가 금세 축축해지고 흙탕물 얼룩이 남죠. 마르면서 퀴퀴한 냄새까지 올라오고, 매트를 통째로 꺼내 말리자니 여간 번거…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22290/3_9_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 55,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 28385,
       "title": "하루 8시간 마우스 쓰는 사무직, 5250원으로 손목 통증 줄여주는 젤 마우스패드",
       "url": "https://wikidocs.net/blog/@smartliving/28385/",
@@ -3785,21 +3800,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22290,
-      "title": "장마철 젖은 신발로 지저분하던 운전석, 방수 코일매트 깔고 관리 쉬워졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22290/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장맛비 내리는 날, 젖은 신발로 차에 타면 순정 매트가 금세 축축해지고 흙탕물 얼룩이 남죠. 마르면서 퀴퀴한 냄새까지 올라오고, 매트를 통째로 꺼내 말리자니 여간 번거…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22290/3_9_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 54,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 28197,
@@ -6517,6 +6517,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23560,
+      "title": "다들 타이어 펑크만 대비하면 된다지만, 사실 먼저 챙길 건 십자렌치입니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23560/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n도로에서 타이어가 펑크 났는데, 막상 스페어타이어로 갈아 끼우려니 순정 렌치가 녹슬어 있어서 아무리 힘줘도 너트가 안 풀렸던 경험 있으실 겁니다.\n\n지나가는 차들 사이…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23560/9_10_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 33,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22678,
       "title": "물놀이 좋아하는 강아지 키우시는 분이라면, 미니 풀장난감 하나로 여름철 산책 스트레스가 확 줄었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/22678/",
@@ -6635,21 +6650,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23560,
-      "title": "다들 타이어 펑크만 대비하면 된다지만, 사실 먼저 챙길 건 십자렌치입니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23560/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n도로에서 타이어가 펑크 났는데, 막상 스페어타이어로 갈아 끼우려니 순정 렌치가 녹슬어 있어서 아무리 힘줘도 너트가 안 풀렸던 경험 있으실 겁니다.\n\n지나가는 차들 사이…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23560/9_10_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 32,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 23635,
@@ -9592,8 +9592,8 @@
     },
     {
       "date": "2026-08-16",
-      "views": 662
+      "views": 665
     }
   ],
-  "static_generated_at": "2026-08-16T19:53:45+09:00"
+  "static_generated_at": "2026-08-16T20:23:44+09:00"
 }
