@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-17T15:53:35+09:00",
+  "latest_snapshot_at": "2026-08-17T16:23:34+09:00",
   "latest_snapshot_date": "2026-08-17",
   "catalog_updated_at": "2026-08-17T00:22:08+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 594,
-    "total_views": 302933,
-    "daily_views": 670,
+    "total_views": 302953,
+    "daily_views": 687,
     "previous_day_views": 757,
     "previous_day_date": "2026-08-16",
-    "current_month_views": 15562,
+    "current_month_views": 15582,
     "days_recorded": 49
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 158040,
-      "daily_views": 83,
+      "total_views": 158041,
+      "daily_views": 84,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 316,
       "captured_posts": 326,
-      "total_views": 111023,
-      "daily_views": 465,
+      "total_views": 111029,
+      "daily_views": 468,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 33870,
-      "daily_views": 122,
+      "total_views": 33883,
+      "daily_views": 135,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1723,8 +1723,8 @@
       "excerpt": "KAMP AI, 2026년 스타트업이 정부 지원으로 AI 모델 개발할 방법 3가지\n\n2026년은 인공지능(AI) 기술이 산업 전반에 걸쳐 혁신을 가속화하는 중요한 시점입니다. 국내 스타트업이 AI 모델 개발 경쟁에서 우위를 점하기 위해서는 정부의 다양한 지원 사업을…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25211/14_5_img1.png",
       "published_label": "27일 전",
-      "views": 149,
-      "daily_views": 12,
+      "views": 150,
+      "daily_views": 13,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -2143,8 +2143,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n헬스장에서 운동을 마치고 나면, 근육이 뻐근하게 당기면서도 뭔가 허전한 느낌이 드실 겁니다. 열심히 운동은 했는데 식사만으로 단백질을 다 채우기엔 닭가슴살을 매끼 챙겨…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23734/12_4_product1.jpg",
       "published_label": "1개월 전",
-      "views": 110,
-      "daily_views": 0,
+      "views": 111,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -3187,6 +3187,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24883,
+      "title": "AI 데이터베이스, 2026년 기업의 데이터 활용 전략을 바꿀 핵심 기술 3가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/24883/",
+      "excerpt": "AI 데이터베이스, 2026년 기업의 데이터 활용 전략을 바꿀 핵심 기술 3가지\n\n2026년, 기업의 데이터 활용 전략은 AI 데이터베이스 기술 혁신을 통해 새로운 전환점을 맞이하고 있습니다. 특히 벡터 데이터베이스, 그래프 데이터베이스, 그리고 통합 데이터 플랫폼…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24883/14_2_img1.jpg",
+      "published_label": "29일 전",
+      "views": 64,
+      "daily_views": 15,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24161,
       "title": "베개 세 번 잘못 사고 나서야 알게 된 경추베개 고르는 법",
       "url": "https://wikidocs.net/blog/@smartliving/24161/",
@@ -3382,6 +3397,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 25043,
+      "title": "요즘 다들 캠핑짐 손으로 안 든다는 폴딩 웨건, 이동시간 아끼는 이유가 있었습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/25043/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n캠핑장 주차 자리에서 텐트 사이트까지, 아이스박스와 텐트, 코펠까지 양손 가득 짐을 들고 몇 번을 왕복해야 했던 경험 있으실 겁니다. 요즘 다들 캠핑 짐을 손으로 안 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25043/18_9_product1.jpg",
+      "published_label": "28일 전",
+      "views": 61,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 22672,
       "title": "무더위에 사료 상할까 걱정되는 집사라면, 냉각 스텐 식기 하나로 여름철 급식 걱정이 확 줄었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/22672/",
@@ -3478,21 +3508,6 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n혼자 사는 원룸에서 배달음식 냄새나 담배 냄새가 벽지에 배는 것 같아 신경 쓰이신 적 있으실 겁니다. 창문 하나 열어봐도 좁은 공간이라 환기가 잘 안 되고, 방향제를 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27300/20_5_product1.jpg",
       "published_label": "15일 전",
-      "views": 60,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 25043,
-      "title": "요즘 다들 캠핑짐 손으로 안 든다는 폴딩 웨건, 이동시간 아끼는 이유가 있었습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/25043/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n캠핑장 주차 자리에서 텐트 사이트까지, 아이스박스와 텐트, 코펠까지 양손 가득 짐을 들고 몇 번을 왕복해야 했던 경험 있으실 겁니다. 요즘 다들 캠핑 짐을 손으로 안 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25043/18_9_product1.jpg",
-      "published_label": "28일 전",
       "views": 60,
       "daily_views": 1,
       "likes": 0,
@@ -3697,6 +3712,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23973,
+      "title": "혹시 아직도 유선 케이블 꽂아야만 카플레이 되는 차, 불편하게 타고 계신가요?",
+      "url": "https://wikidocs.net/blog/@cartemlab/23973/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n매번 탈 때마다 케이블을 찾아 꽂아야 하고, 케이블이 꼬여서 짜증났던 경험 있으실 겁니다.\n\n급하게 출발해야 하는데 케이블 인식이 안 돼 몇 번을 다시 꽂았던 분들도 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23973/12_6_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 57,
+      "daily_views": 20,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 28194,
       "title": "행거 부족해 옷장 좁은 신혼부부, 수납공간 30% 늘려주는 옷장 칸막이함",
       "url": "https://wikidocs.net/blog/@smartliving/28194/",
@@ -3740,21 +3770,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23973,
-      "title": "혹시 아직도 유선 케이블 꽂아야만 카플레이 되는 차, 불편하게 타고 계신가요?",
-      "url": "https://wikidocs.net/blog/@cartemlab/23973/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n매번 탈 때마다 케이블을 찾아 꽂아야 하고, 케이블이 꼬여서 짜증났던 경험 있으실 겁니다.\n\n급하게 출발해야 하는데 케이블 인식이 안 돼 몇 번을 다시 꽂았던 분들도 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23973/12_6_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 56,
-      "daily_views": 19,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 22935,
@@ -4145,21 +4160,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24883,
-      "title": "AI 데이터베이스, 2026년 기업의 데이터 활용 전략을 바꿀 핵심 기술 3가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/24883/",
-      "excerpt": "AI 데이터베이스, 2026년 기업의 데이터 활용 전략을 바꿀 핵심 기술 3가지\n\n2026년, 기업의 데이터 활용 전략은 AI 데이터베이스 기술 혁신을 통해 새로운 전환점을 맞이하고 있습니다. 특히 벡터 데이터베이스, 그래프 데이터베이스, 그리고 통합 데이터 플랫폼…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24883/14_2_img1.jpg",
-      "published_label": "29일 전",
-      "views": 53,
-      "daily_views": 4,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 22933,
@@ -6457,6 +6457,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 28733,
+      "title": "냉방병에 속 더부룩한 사무직, 하루 900원대로 편하게 챙겨주는 포스트바이오틱스 유산균",
+      "url": "https://wikidocs.net/blog/@smartliving/28733/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n에어컨 바람 아래서 하루 종일 앉아 있다 보면 점심을 먹은 지 얼마 안 됐는데도 속이 더부룩하고 가스가 차는 느낌, 사무직이라면 익숙하실 겁니다. 냉방병이라고 부르는 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28733/35_4_product1.jpg",
+      "published_label": "9시간 전",
+      "views": 35,
+      "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28647,
       "title": "매일 물때 지우는 자취생, 만원대로 청소 횟수 줄여주는 유리 발수코팅제",
       "url": "https://wikidocs.net/blog/@smartliving/28647/",
@@ -6860,21 +6875,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28733,
-      "title": "냉방병에 속 더부룩한 사무직, 하루 900원대로 편하게 챙겨주는 포스트바이오틱스 유산균",
-      "url": "https://wikidocs.net/blog/@smartliving/28733/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n에어컨 바람 아래서 하루 종일 앉아 있다 보면 점심을 먹은 지 얼마 안 됐는데도 속이 더부룩하고 가스가 차는 느낌, 사무직이라면 익숙하실 겁니다. 냉방병이라고 부르는 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28733/35_4_product1.jpg",
-      "published_label": "9시간 전",
-      "views": 32,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 28641,
@@ -8242,6 +8242,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 23114,
+      "title": "반려동물 키우는 집사라면, 혹시 아직도 함께 찍은 사진 핸드폰에만 저장해두고 계신가요?",
+      "url": "https://wikidocs.net/blog/@petpicknote/23114/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n핸드폰 갤러리를 넘기다 보면 절반 가까이가 우리 강아지, 고양이 사진일 때가 많으실 겁니다. 산책 나가서 찍은 사진, 낮잠 자는 모습, 처음 데려온 날의 사진까지 차곡…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23114/9_1.jpg",
+      "published_label": "1개월 전",
+      "views": 22,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 25036,
       "title": "기력 떨어진 직장인을 위한, 중복 전에 챙기면 보약값 아끼는 장어즙 TOP3",
       "url": "https://wikidocs.net/blog/@smartliving/25036/",
@@ -8337,21 +8352,6 @@
       "url": "https://wikidocs.net/blog/@petpicknote/24229/",
       "excerpt": "> 📢 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n운동을 마치고 나면 종아리나 허벅지가 뻐근하게 뭉치는 느낌이 남는 경우가 많습니다. 그냥 대충 아무 폼롤러나 집어 들었다가, 강도가 너무 세서 오히려 통증이 심해지거나 반…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24229/11_7_img1.png",
-      "published_label": "1개월 전",
-      "views": 21,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 23114,
-      "title": "반려동물 키우는 집사라면, 혹시 아직도 함께 찍은 사진 핸드폰에만 저장해두고 계신가요?",
-      "url": "https://wikidocs.net/blog/@petpicknote/23114/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n핸드폰 갤러리를 넘기다 보면 절반 가까이가 우리 강아지, 고양이 사진일 때가 많으실 겁니다. 산책 나가서 찍은 사진, 낮잠 자는 모습, 처음 데려온 날의 사진까지 차곡…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23114/9_1.jpg",
       "published_label": "1개월 전",
       "views": 21,
       "daily_views": 0,
@@ -8842,6 +8842,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 27917,
+      "title": "땀 많은 직장인의 체취관리비 아끼는, 데오드란트 롤온 이렇게 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/27917/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n출근길 만원 지하철에서 땀이 나기 시작하면, 회의실에 앉아서도 신경이 계속 그쪽으로 쏠리죠. 향수를 덧뿌려봐도 땀 냄새와 섞이면 오히려 더 거슬리는 냄새가 나서, 매번…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27917/26_8_product1.jpg",
+      "published_label": "9일 전",
+      "views": 12,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28738,
       "title": "화장실 청소 매주 미루는 맞벌이 부부, 손 안 대고 해결해주는 자동 변기세정제",
       "url": "https://wikidocs.net/blog/@smartliving/28738/",
@@ -8862,21 +8877,6 @@
       "url": "https://wikidocs.net/blog/@smartliving/27918/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n맞벌이로 평일엔 마트 갈 시간이 없어 미루다 보면, 주말 마트에서 이미 물러진 과일을 비싼 값에 사게 되는 경우가 많으시죠. 급한 마음에 상태 확인도 못 하고 담아오면…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27918/26_9_product1.jpg",
-      "published_label": "9일 전",
-      "views": 11,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 27917,
-      "title": "땀 많은 직장인의 체취관리비 아끼는, 데오드란트 롤온 이렇게 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27917/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n출근길 만원 지하철에서 땀이 나기 시작하면, 회의실에 앉아서도 신경이 계속 그쪽으로 쏠리죠. 향수를 덧뿌려봐도 땀 냄새와 섞이면 오히려 더 거슬리는 냄새가 나서, 매번…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27917/26_8_product1.jpg",
       "published_label": "9일 전",
       "views": 11,
       "daily_views": 0,
@@ -9362,8 +9362,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n매번 탈 때마다 케이블을 찾아 꽂아야 하고, 케이블이 꼬여서 짜증났던 경험 있으실 겁니다.\n\n급하게 출발해야 하는데 케이블 인식이 안 돼 몇 번을 다시 꽂았던 분들도 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23973/12_6_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 56,
-      "daily_views": 19,
+      "views": 57,
+      "daily_views": 20,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -9401,6 +9401,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24883,
+      "title": "AI 데이터베이스, 2026년 기업의 데이터 활용 전략을 바꿀 핵심 기술 3가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/24883/",
+      "excerpt": "AI 데이터베이스, 2026년 기업의 데이터 활용 전략을 바꿀 핵심 기술 3가지\n\n2026년, 기업의 데이터 활용 전략은 AI 데이터베이스 기술 혁신을 통해 새로운 전환점을 맞이하고 있습니다. 특히 벡터 데이터베이스, 그래프 데이터베이스, 그리고 통합 데이터 플랫폼…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24883/14_2_img1.jpg",
+      "published_label": "29일 전",
+      "views": 64,
+      "daily_views": 15,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24884,
       "title": "건강 관리 협회 건강 검진, 40대 직장인이 놓치지 말아야 할 필수 항목 7가지",
       "url": "https://wikidocs.net/blog/@petpicknote/24884/",
@@ -9408,6 +9423,21 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24884/14_3_img1.png",
       "published_label": "29일 전",
       "views": 462,
+      "daily_views": 13,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 25211,
+      "title": "KAMP AI, 2026년 스타트업이 정부 지원으로 AI 모델 개발할 방법 3가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/25211/",
+      "excerpt": "KAMP AI, 2026년 스타트업이 정부 지원으로 AI 모델 개발할 방법 3가지\n\n2026년은 인공지능(AI) 기술이 산업 전반에 걸쳐 혁신을 가속화하는 중요한 시점입니다. 국내 스타트업이 AI 모델 개발 경쟁에서 우위를 점하기 위해서는 정부의 다양한 지원 사업을…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25211/14_5_img1.png",
+      "published_label": "27일 전",
+      "views": 150,
       "daily_views": 13,
       "likes": 0,
       "comments": 0,
@@ -9444,21 +9474,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 25211,
-      "title": "KAMP AI, 2026년 스타트업이 정부 지원으로 AI 모델 개발할 방법 3가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/25211/",
-      "excerpt": "KAMP AI, 2026년 스타트업이 정부 지원으로 AI 모델 개발할 방법 3가지\n\n2026년은 인공지능(AI) 기술이 산업 전반에 걸쳐 혁신을 가속화하는 중요한 시점입니다. 국내 스타트업이 AI 모델 개발 경쟁에서 우위를 점하기 위해서는 정부의 다양한 지원 사업을…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25211/14_5_img1.png",
-      "published_label": "27일 전",
-      "views": 149,
-      "daily_views": 12,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 28640,
@@ -9529,21 +9544,6 @@
       "published_label": "1일 전",
       "views": 40,
       "daily_views": 10,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28564,
-      "title": "매일 물놀이하는 영유아 부모, 목욕후 3분만에 체온 지켜주는 후드 목욕타올",
-      "url": "https://wikidocs.net/blog/@smartliving/28564/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여름철 물놀이만 시켰다 하면 아이 목욕을 몇 번씩 해야 하는 날들, 겪어보신 부모님 많으실 겁니다. 욕조에서 나오자마자 아이는 춥다고 몸을 웅크리고, 젖은 몸으로 잠깐…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28564/33_3_product1.jpg",
-      "published_label": "2일 전",
-      "views": 56,
-      "daily_views": 9,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -9746,8 +9746,8 @@
     },
     {
       "date": "2026-08-17",
-      "views": 832
+      "views": 852
     }
   ],
-  "static_generated_at": "2026-08-17T15:53:46+09:00"
+  "static_generated_at": "2026-08-17T16:23:51+09:00"
 }
