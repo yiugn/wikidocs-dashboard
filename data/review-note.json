@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-19T03:53:32+09:00",
+  "latest_snapshot_at": "2026-08-19T04:23:31+09:00",
   "latest_snapshot_date": "2026-08-19",
   "catalog_updated_at": "2026-08-19T00:22:08+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 304323,
-    "daily_views": 77,
+    "total_views": 304328,
+    "daily_views": 82,
     "previous_day_views": 1123,
     "previous_day_date": "2026-08-18",
-    "current_month_views": 16952,
+    "current_month_views": 16957,
     "days_recorded": 51
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 158212,
-      "daily_views": 11,
+      "total_views": 158213,
+      "daily_views": 12,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 34138,
-      "daily_views": 21,
+      "total_views": 34142,
+      "daily_views": 25,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -568,8 +568,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n밤 운전을 하다 보면 예전 같지 않게 헤드라이트가 침침하게 느껴질 때가 있습니다. 연식이 쌓이면 전조등 커버(플라스틱)가 자외선에 누렇게 변색되고 뿌옇게 흐려지는 '황…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22693/5_2_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 1358,
-      "daily_views": 0,
+      "views": 1359,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1717,6 +1717,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 25222,
+      "title": "## 구글 스프레드시트 프로젝트 관리: 5인 팀 업무 진척도 시각화 노하우 6가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/25222/",
+      "excerpt": "구글 스프레드시트 프로젝트 관리: 5인 팀 업무 진척도 시각화 노하우 6가지\n\n5인 규모의 팀은 구글 스프레드시트를 활용하여 프로젝트 업무 진척도를 효과적으로 시각화하고 관리할 수 있습니다. 특히, 조건부 서식, 데이터 유효성 검사, 간트 차트 시각화, 대시보드 구…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25222/15_3_img1.jpg",
+      "published_label": "28일 전",
+      "views": 153,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22684,
       "title": "재택근무 프리랜서를 위한, 한 달 전기세 확 줄여주는 절전형 멀티탭 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/22684/",
@@ -1730,21 +1745,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 25222,
-      "title": "## 구글 스프레드시트 프로젝트 관리: 5인 팀 업무 진척도 시각화 노하우 6가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/25222/",
-      "excerpt": "구글 스프레드시트 프로젝트 관리: 5인 팀 업무 진척도 시각화 노하우 6가지\n\n5인 규모의 팀은 구글 스프레드시트를 활용하여 프로젝트 업무 진척도를 효과적으로 시각화하고 관리할 수 있습니다. 특히, 조건부 서식, 데이터 유효성 검사, 간트 차트 시각화, 대시보드 구…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25222/15_3_img1.jpg",
-      "published_label": "28일 전",
-      "views": 152,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 22028,
@@ -5122,6 +5122,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24004,
+      "title": "강아지 발톱 관리를 미루기 쉬우셨던 분이라면, 발톱깎이 하나로 훨씬 수월해졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24004/",
+      "excerpt": "> 🐾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n강아지 발톱 관리, 매번 미루다가 어느새 바닥에 또각또각 소리가 나기 시작해서야 부랴부랴 발톱깎이를 찾아본 경험이 한 번쯤은 있으실 겁니다. 특히 어두운 발톱을 가진 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24004/10_1_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 46,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22918,
       "title": "이번 주말 케이펫페어 서울 방문 앞둔 분이라면, 인식표 목걸이 하나로 미아 걱정이 확 줄었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/22918/",
@@ -5285,21 +5300,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24004,
-      "title": "강아지 발톱 관리를 미루기 쉬우셨던 분이라면, 발톱깎이 하나로 훨씬 수월해졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24004/",
-      "excerpt": "> 🐾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n강아지 발톱 관리, 매번 미루다가 어느새 바닥에 또각또각 소리가 나기 시작해서야 부랴부랴 발톱깎이를 찾아본 경험이 한 번쯤은 있으실 겁니다. 특히 어두운 발톱을 가진 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24004/10_1_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 45,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 23372,
@@ -8107,6 +8107,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 24005,
+      "title": "무더위 캠핑족이라면, 아이스박스 안 챙기면 식재료 상하기 쉽습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24005/",
+      "excerpt": "> 🏕️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n올해도 장마가 끝나갈 무렵부터 곧바로 폭염특보가 이어지는 흐름이 반복되고 있습니다. 기상 자료를 보면 중부 지방 기준으로 장마가 7월 하순에 끝나고 나면 곧바로 무더…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24005/10_2_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 25,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22932,
       "title": "예민한 반려동물 키우는 보호자라면, 혹시 아직도 천둥소리만 나면 벌벌 떠는 아이 그냥 두고 계신가요?",
       "url": "https://wikidocs.net/blog/@petpicknote/22932/",
@@ -8247,21 +8262,6 @@
       "url": "https://wikidocs.net/blog/@petpicknote/24007/",
       "excerpt": "> 🏸 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n혹시 아직도 배드민턴 라켓 하나로 가족이 돌아가며 나눠 쓰고 계신가요? 저녁 시간 아파트 단지 공터나 근처 학교 운동장에 나가보면, 라켓이 부족해서 순서를 기다리며 벤…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24007/10_4_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 24,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 24005,
-      "title": "무더위 캠핑족이라면, 아이스박스 안 챙기면 식재료 상하기 쉽습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24005/",
-      "excerpt": "> 🏕️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n올해도 장마가 끝나갈 무렵부터 곧바로 폭염특보가 이어지는 흐름이 반복되고 있습니다. 기상 자료를 보면 중부 지방 기준으로 장마가 7월 하순에 끝나고 나면 곧바로 무더…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24005/10_2_img1.jpg",
       "published_label": "1개월 전",
       "views": 24,
       "daily_views": 0,
@@ -8782,6 +8782,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24008,
+      "title": "여름 물놀이 앞둔 아이 부모님이라면, 이 래시가드로 걱정이 한결 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24008/",
+      "excerpt": "> 🏊 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여름 물놀이를 앞둔 아이 부모님이라면, 준비물 목록에서 래시가드를 가장 먼저 챙기게 되실 겁니다. 계곡이든 워터파크든 자외선이 강한 한여름 야외에서 몇 시간씩 뛰어놀다…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24008/10_5_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 18,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 23818,
       "title": "산책 후 유독 헥헥댔던 아이라면, 냉감 티셔츠 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/23818/",
@@ -8855,21 +8870,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24008,
-      "title": "여름 물놀이 앞둔 아이 부모님이라면, 이 래시가드로 걱정이 한결 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24008/",
-      "excerpt": "> 🏊 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여름 물놀이를 앞둔 아이 부모님이라면, 준비물 목록에서 래시가드를 가장 먼저 챙기게 되실 겁니다. 계곡이든 워터파크든 자외선이 강한 한여름 야외에서 몇 시간씩 뛰어놀다…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24008/10_5_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 17,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 24857,
@@ -9611,6 +9611,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22693,
+      "title": "밤 운전 잦은데 헤드라이트 침침해 답답하던 분들, 복원제 한 번 발랐더니 다시 밝아졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22693/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n밤 운전을 하다 보면 예전 같지 않게 헤드라이트가 침침하게 느껴질 때가 있습니다. 연식이 쌓이면 전조등 커버(플라스틱)가 자외선에 누렇게 변색되고 뿌옇게 흐려지는 '황…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22693/5_2_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 1359,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23732,
       "title": "캠핑장 밤에 랜턴 하나 없어 당황했다면, 무선 캠핑랜턴 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@smartliving/23732/",
@@ -9684,21 +9699,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 23355,
-      "title": "멀티비타민 살 때 다들 놓치는 체크포인트 한 가지",
-      "url": "https://wikidocs.net/blog/@smartliving/23355/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n아침마다 영양제 챙겨 먹으려고 마음은 먹지만, 막상 화장대 앞에 서면 어떤 성분이 들어있는지 라벨 뒷면 깨알 같은 글씨를 한참 들여다보다 그냥 아무거나 집어 드신 경험…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23355/10_2_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 190,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     }
   ],
   "daily_totals": [
@@ -9904,8 +9904,8 @@
     },
     {
       "date": "2026-08-19",
-      "views": 77
+      "views": 82
     }
   ],
-  "static_generated_at": "2026-08-19T03:53:44+09:00"
+  "static_generated_at": "2026-08-19T04:23:41+09:00"
 }
