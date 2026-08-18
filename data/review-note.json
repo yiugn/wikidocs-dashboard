@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-19T01:53:32+09:00",
+  "latest_snapshot_at": "2026-08-19T02:23:32+09:00",
   "latest_snapshot_date": "2026-08-19",
   "catalog_updated_at": "2026-08-19T00:22:08+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 304285,
-    "daily_views": 39,
+    "total_views": 304296,
+    "daily_views": 50,
     "previous_day_views": 1123,
     "previous_day_date": "2026-08-18",
-    "current_month_views": 16914,
+    "current_month_views": 16925,
     "days_recorded": 51
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 158206,
-      "daily_views": 5,
+      "total_views": 158209,
+      "daily_views": 8,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 336,
       "captured_posts": 336,
-      "total_views": 111951,
-      "daily_views": 23,
+      "total_views": 111955,
+      "daily_views": 27,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 34128,
-      "daily_views": 11,
+      "total_views": 34132,
+      "daily_views": 15,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -748,8 +748,8 @@
       "excerpt": "> 🥾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n등산 초보시라면, 처음 몇 번은 등산화와 배낭만 갖추고 산에 오르셨다가 하산길에 무릎이 욱신거리는 경험을 하셨을 가능성이 큽니다. 내려올 때는 체중이 고스란히 무릎 관…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24006/10_3_img1.jpg",
       "published_label": "1개월 전",
-      "views": 995,
-      "daily_views": 2,
+      "views": 996,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1093,8 +1093,8 @@
       "excerpt": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁\n\nChatGPT는 2026년에도 개인 생산성 혁신의 핵심 도구로 자리매김하고 있습니다. 최신 GPT 모델과 고급 프롬프트 엔지니어링을 활용하면 정보 요약, 아이디어 발상, 콘텐츠 초안 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25219/14_10_img1.jpg",
       "published_label": "28일 전",
-      "views": 476,
-      "daily_views": 0,
+      "views": 478,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1792,6 +1792,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 27399,
+      "title": "저용량 vs 고용량 오메가3, 흡수율과 가격 기준으로 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/27399/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n영양제 코너에서 오메가3를 고르려다, 저용량 제품과 고용량 제품 가격 차이에 한참을 고민해보신 적 있으실 겁니다. 그냥 비싼 걸 사자니 부담스럽고, 저렴한 걸 사자니 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27399/21_10_product1.jpg",
+      "published_label": "15일 전",
+      "views": 143,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 23369,
       "title": "반려동반 캠핑쿨러박스 추천",
       "url": "https://wikidocs.net/blog/@petpicknote/23369/",
@@ -1807,19 +1822,19 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 27399,
-      "title": "저용량 vs 고용량 오메가3, 흡수율과 가격 기준으로 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27399/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n영양제 코너에서 오메가3를 고르려다, 저용량 제품과 고용량 제품 가격 차이에 한참을 고민해보신 적 있으실 겁니다. 그냥 비싼 걸 사자니 부담스럽고, 저렴한 걸 사자니 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27399/21_10_product1.jpg",
-      "published_label": "15일 전",
-      "views": 142,
-      "daily_views": 0,
+      "id": 24011,
+      "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24011/",
+      "excerpt": "> ✈️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여행 중 배터리 걱정 많으셨다면, 여행 사진과 지도 앱을 하루 종일 켜두다 보니 오후만 되면 스마트폰이 20% 밑으로 떨어져 마음이 조급해졌던 경험이 있으실 겁니다.…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24011/10_8_img1.png",
+      "published_label": "1개월 전",
+      "views": 137,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
     },
     {
       "id": 24637,
@@ -1850,21 +1865,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24011,
-      "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24011/",
-      "excerpt": "> ✈️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여행 중 배터리 걱정 많으셨다면, 여행 사진과 지도 앱을 하루 종일 켜두다 보니 오후만 되면 스마트폰이 20% 밑으로 떨어져 마음이 조급해졌던 경험이 있으실 겁니다.…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24011/10_8_img1.png",
-      "published_label": "1개월 전",
-      "views": 136,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 23200,
@@ -2422,14 +2422,14 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 24668,
-      "title": "무더위에 등 축축했던 분들, 쿨시트 추천 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24668/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n무더위에 운전석에 앉으면 에어컨을 세게 틀어도 등과 엉덩이만은 금세 축축해지는 경험, 다들 있으실 겁니다.\n\n시트에 닿는 부위는 통풍이 안 되다 보니 땀이 차기 시작하…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24668/pb_16_2_thumb.jpg",
+      "id": 24334,
+      "title": "무더위 절정 오기 전 미리 챙겨야 할 워셔액 종류별 선택 기준",
+      "url": "https://wikidocs.net/blog/@cartemlab/24334/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n무더위 절정을 앞두고 워셔액 경고등이 켜졌는데, 마트에 가보니 종류가 너무 많아 뭘 골라야 할지 막막했던 경험 있으실 겁니다.\n\n그냥 아무거나 채웠다가 여름철 벌레 자…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24334/pb_14_8_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 85,
-      "daily_views": 0,
+      "views": 86,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -2437,11 +2437,11 @@
       "blog_name": "카템랩"
     },
     {
-      "id": 24334,
-      "title": "무더위 절정 오기 전 미리 챙겨야 할 워셔액 종류별 선택 기준",
-      "url": "https://wikidocs.net/blog/@cartemlab/24334/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n무더위 절정을 앞두고 워셔액 경고등이 켜졌는데, 마트에 가보니 종류가 너무 많아 뭘 골라야 할지 막막했던 경험 있으실 겁니다.\n\n그냥 아무거나 채웠다가 여름철 벌레 자…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24334/pb_14_8_thumb.jpg",
+      "id": 24668,
+      "title": "무더위에 등 축축했던 분들, 쿨시트 추천 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24668/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n무더위에 운전석에 앉으면 에어컨을 세게 틀어도 등과 엉덩이만은 금세 축축해지는 경험, 다들 있으실 겁니다.\n\n시트에 닿는 부위는 통풍이 안 되다 보니 땀이 차기 시작하…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24668/pb_16_2_thumb.jpg",
       "published_label": "1개월 전",
       "views": 85,
       "daily_views": 0,
@@ -3472,6 +3472,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28076,
+      "title": "설거지 자리 없는 캠핑족, 테이블 공간 50% 확보해주는 접이식 식기건조대",
+      "url": "https://wikidocs.net/blog/@smartliving/28076/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n캠핑장에서 설거지를 끝낸 그릇을 어디에 둬야 할지 몰라 테이블 한쪽에 쌓아두신 적 있으실 겁니다. 물기가 뚝뚝 떨어지는 그릇을 그냥 두면 흙먼지가 앉거나, 좁은 캠핑 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28076/28_4_product1.jpg",
+      "published_label": "8일 전",
+      "views": 61,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27391,
       "title": "어르신 계신 집, 욕실 미끄럼 방치하면 골절 치료비부터 나갑니다",
       "url": "https://wikidocs.net/blog/@smartliving/27391/",
@@ -3577,21 +3592,6 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 28076,
-      "title": "설거지 자리 없는 캠핑족, 테이블 공간 50% 확보해주는 접이식 식기건조대",
-      "url": "https://wikidocs.net/blog/@smartliving/28076/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n캠핑장에서 설거지를 끝낸 그릇을 어디에 둬야 할지 몰라 테이블 한쪽에 쌓아두신 적 있으실 겁니다. 물기가 뚝뚝 떨어지는 그릇을 그냥 두면 흙먼지가 앉거나, 좁은 캠핑 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28076/28_4_product1.jpg",
-      "published_label": "8일 전",
-      "views": 60,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
       "id": 28000,
       "title": "혹시 아직도 두피 가려움 참으며 미용실 스케일링 비용 아까워하는 직장인이신가요",
       "url": "https://wikidocs.net/blog/@smartliving/28000/",
@@ -3615,6 +3615,21 @@
       "published_label": "15일 전",
       "views": 60,
       "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 21676,
+      "title": "신발장 탈취제 살 때 다들 놓치는 체크포인트 한 가지",
+      "url": "https://wikidocs.net/blog/@smartliving/21676/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n현관문을 열자마자 훅 끼치는 신발장 냄새, 손님이 오기 전에 급하게 방향제만 뿌리고 넘어가신 적 많으실 겁니다. 장마철엔 습도까지 높아지면서 신발장 안 냄새가 유독 심…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/21676/2_6_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 60,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -3718,21 +3733,6 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n거울 볼 때마다 탄력이 예전 같지 않다고 느껴지는 3040이라면, 콜라겐 챙겨야 한다는 얘긴 많이 들으셨을 겁니다. 그런데 막상 사려고 보면 저분자·고분자, 어류·돼지…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27532/22_7_product1.jpg",
       "published_label": "14일 전",
-      "views": 59,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 21676,
-      "title": "신발장 탈취제 살 때 다들 놓치는 체크포인트 한 가지",
-      "url": "https://wikidocs.net/blog/@smartliving/21676/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n현관문을 열자마자 훅 끼치는 신발장 냄새, 손님이 오기 전에 급하게 방향제만 뿌리고 넘어가신 적 많으실 겁니다. 장마철엔 습도까지 높아지면서 신발장 안 냄새가 유독 심…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/21676/2_6_thumb.jpg",
-      "published_label": "1개월 전",
       "views": 59,
       "daily_views": 0,
       "likes": 0,
@@ -4582,6 +4582,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28482,
+      "title": "이유식 소분 헤매는 초보부모, 한번에 12구씩 얼려주는 실리콘 이유식 큐브",
+      "url": "https://wikidocs.net/blog/@smartliving/28482/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n이유식을 처음 시작하면 매번 소량씩 만들어야 하는데, 한 끼 분량을 가늠하기가 쉽지 않으셨을 겁니다. 냄비 가득 끓여놓고 밀폐용기에 대충 나눠 담다 보면 양이 들쭉날쭉…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28482/32_9_product1.jpg",
+      "published_label": "4일 전",
+      "views": 51,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28392,
       "title": "베란다 벌레·쥐 나타나는 저층거주자, 전기요금 0원으로 쫓아주는 태양광 해충퇴치기",
       "url": "https://wikidocs.net/blog/@smartliving/28392/",
@@ -4647,21 +4662,6 @@
       "url": "https://wikidocs.net/blog/@smartliving/28483/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n아침 시간에 쫓기다 보면 결국 빵 한 조각이나 편의점 삼각김밥으로 때우고 출근하시는 분들 많으실 겁니다. 다이어트를 신경 쓰고는 있지만, 아침부터 정제 탄수화물 위주로…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28483/32_10_product1.jpg",
-      "published_label": "4일 전",
-      "views": 50,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28482,
-      "title": "이유식 소분 헤매는 초보부모, 한번에 12구씩 얼려주는 실리콘 이유식 큐브",
-      "url": "https://wikidocs.net/blog/@smartliving/28482/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n이유식을 처음 시작하면 매번 소량씩 만들어야 하는데, 한 끼 분량을 가늠하기가 쉽지 않으셨을 겁니다. 냄비 가득 끓여놓고 밀폐용기에 대충 나눠 담다 보면 양이 들쭉날쭉…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28482/32_9_product1.jpg",
       "published_label": "4일 전",
       "views": 50,
       "daily_views": 0,
@@ -6337,6 +6337,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23970,
+      "title": "직접 손세차 하시는 분들이라면, 극세사 장갑으로 바꾸고 나서 잔기스 걱정 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23970/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n스펀지로 세차하다가 모래알이 스펀지에 박혀서 도장에 미세한 스크래치를 남겼던 경험 있으실 겁니다.\n\n세차 후에 자세히 보면 자잘한 잔기스가 늘어나 있어 속상했던 분들도…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23970/12_3_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 37,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 25212,
       "title": "Project 관리 툴, 10인 마케팅팀의 캠페인 일정 혼란 줄이는 7가지 핵심 기능 (2026년 최신)",
       "url": "https://wikidocs.net/blog/@petpicknote/25212/",
@@ -6650,21 +6665,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23970,
-      "title": "직접 손세차 하시는 분들이라면, 극세사 장갑으로 바꾸고 나서 잔기스 걱정 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23970/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n스펀지로 세차하다가 모래알이 스펀지에 박혀서 도장에 미세한 스크래치를 남겼던 경험 있으실 겁니다.\n\n세차 후에 자세히 보면 자잘한 잔기스가 늘어나 있어 속상했던 분들도…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23970/12_3_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 35,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 23768,
@@ -9431,6 +9431,21 @@
   ],
   "rising_posts": [
     {
+      "id": 24006,
+      "title": "등산 초보시라면, 등산스틱 하나로 무릎 부담이 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24006/",
+      "excerpt": "> 🥾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n등산 초보시라면, 처음 몇 번은 등산화와 배낭만 갖추고 산에 오르셨다가 하산길에 무릎이 욱신거리는 경험을 하셨을 가능성이 큽니다. 내려올 때는 체중이 고스란히 무릎 관…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24006/10_3_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 996,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 28284,
       "title": "에어컨 전기요금 폭탄 걱정되는 가구, 전기세 90% 아껴주는 인버터 절전형 선풍기",
       "url": "https://wikidocs.net/blog/@smartliving/28284/",
@@ -9476,13 +9491,13 @@
       "blog_name": "카템랩"
     },
     {
-      "id": 24006,
-      "title": "등산 초보시라면, 등산스틱 하나로 무릎 부담이 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24006/",
-      "excerpt": "> 🥾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n등산 초보시라면, 처음 몇 번은 등산화와 배낭만 갖추고 산에 오르셨다가 하산길에 무릎이 욱신거리는 경험을 하셨을 가능성이 큽니다. 내려올 때는 체중이 고스란히 무릎 관…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24006/10_3_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 995,
+      "id": 25219,
+      "title": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁",
+      "url": "https://wikidocs.net/blog/@petpicknote/25219/",
+      "excerpt": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁\n\nChatGPT는 2026년에도 개인 생산성 혁신의 핵심 도구로 자리매김하고 있습니다. 최신 GPT 모델과 고급 프롬프트 엔지니어링을 활용하면 정보 요약, 아이디어 발상, 콘텐츠 초안 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25219/14_10_img1.jpg",
+      "published_label": "28일 전",
+      "views": 478,
       "daily_views": 2,
       "likes": 0,
       "comments": 0,
@@ -9504,6 +9519,21 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 23970,
+      "title": "직접 손세차 하시는 분들이라면, 극세사 장갑으로 바꾸고 나서 잔기스 걱정 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23970/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n스펀지로 세차하다가 모래알이 스펀지에 박혀서 도장에 미세한 스크래치를 남겼던 경험 있으실 겁니다.\n\n세차 후에 자세히 보면 자잘한 잔기스가 늘어나 있어 속상했던 분들도…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23970/12_3_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 37,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
     },
     {
       "id": 28736,
@@ -9611,6 +9641,36 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 27399,
+      "title": "저용량 vs 고용량 오메가3, 흡수율과 가격 기준으로 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/27399/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n영양제 코너에서 오메가3를 고르려다, 저용량 제품과 고용량 제품 가격 차이에 한참을 고민해보신 적 있으실 겁니다. 그냥 비싼 걸 사자니 부담스럽고, 저렴한 걸 사자니 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27399/21_10_product1.jpg",
+      "published_label": "15일 전",
+      "views": 143,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 24011,
+      "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24011/",
+      "excerpt": "> ✈️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여행 중 배터리 걱정 많으셨다면, 여행 사진과 지도 앱을 하루 종일 켜두다 보니 오후만 되면 스마트폰이 20% 밑으로 떨어져 마음이 조급해졌던 경험이 있으실 겁니다.…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24011/10_8_img1.png",
+      "published_label": "1개월 전",
+      "views": 137,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24885,
       "title": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법",
       "url": "https://wikidocs.net/blog/@petpicknote/24885/",
@@ -9639,66 +9699,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 25218,
-      "title": "시프티 외근, 잦은 출장이 있는 직장인이 놓치기 쉬운 근태 처리 4가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/25218/",
-      "excerpt": "시프티 외근, 잦은 출장이 있는 직장인이 놓치기 쉬운 근태 처리 4가지\n\n외근과 출장이 잦은 직장인이라면 시프티를 활용한 근태 처리 시 세심한 주의가 필요합니다. 특히 이동 시간의 근로시간 인정 여부, 휴일 및 연장근로 처리, 식대 등 경비 정산, 그리고 사전 승인…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25218/14_9_img1.png",
-      "published_label": "28일 전",
-      "views": 85,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 23969,
-      "title": "뿌옇게 변색된 크롬몰딩 방치했다가 얼룩진 뒤에야 알게 된 광택제 고르는 법",
-      "url": "https://wikidocs.net/blog/@cartemlab/23969/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n반짝이던 크롬몰딩이 어느새 뿌옇게 흐려지고 얼룩진 걸 발견하고 속상했던 경험 있으실 겁니다.\n\n세차를 해도 원래의 광이 좀처럼 살아나지 않아 답답했던 분들도 많으실 겁…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23969/12_2_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 78,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 25340,
-      "title": "**방화벽, 중소기업이 해킹 위협 90% 줄일 때 필요한 기능 7가지**",
-      "url": "https://wikidocs.net/blog/@petpicknote/25340/",
-      "excerpt": "방화벽, 중소기업이 해킹 위협 90% 줄일 때 필요한 기능 7가지\n\n중소기업은 대기업에 비해 사이버 보안 인프라와 전문 인력 부족으로 인해 해킹 위협에 더욱 취약합니다. 2024년 기준, 국내 랜섬웨어 피해 사례의 90% 이상과 전체 사이버 공격 피해의 92%가 중…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25340/15_5_img1.jpg",
-      "published_label": "27일 전",
-      "views": 74,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 24009,
-      "title": "두 번 잘못 사고 나서야 알게 된 요가매트 두께 고르는 법",
-      "url": "https://wikidocs.net/blog/@petpicknote/24009/",
-      "excerpt": "> 🧘 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n처음 홈트레이닝을 시작할 때 가장 저렴한 34mm짜리 얇은 매트를 고른 적이 있습니다. 플랭크 자세를 잡을 때마다 팔꿈치가 바닥에 배기고, 무릎을 대는 동작에서는 통증…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24009/10_6_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 69,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     }
   ],
   "daily_totals": [
@@ -9904,8 +9904,8 @@
     },
     {
       "date": "2026-08-19",
-      "views": 39
+      "views": 50
     }
   ],
-  "static_generated_at": "2026-08-19T01:53:42+09:00"
+  "static_generated_at": "2026-08-19T02:23:43+09:00"
 }
