@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-19T00:53:32+09:00",
+  "latest_snapshot_at": "2026-08-19T01:23:34+09:00",
   "latest_snapshot_date": "2026-08-19",
   "catalog_updated_at": "2026-08-19T00:22:08+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 304270,
-    "daily_views": 24,
+    "total_views": 304277,
+    "daily_views": 31,
     "previous_day_views": 1123,
     "previous_day_date": "2026-08-18",
-    "current_month_views": 16899,
+    "current_month_views": 16906,
     "days_recorded": 51
   },
   "blogs": [
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 336,
       "captured_posts": 336,
-      "total_views": 111943,
-      "daily_views": 15,
+      "total_views": 111946,
+      "daily_views": 18,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 34122,
-      "daily_views": 5,
+      "total_views": 34126,
+      "daily_views": 9,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1918,8 +1918,8 @@
       "excerpt": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법\n\n현대해상 ECO 마일리지 특약은 연간 주행거리에 따라 자동차 보험료를 환급받는 제도입니다. 특히 연 1만km 이하 주행하는 운전자라면 최대 18.8% (커넥티드 방식 기…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24885/14_4_img1.jpg",
       "published_label": "1개월 전",
-      "views": 132,
-      "daily_views": 0,
+      "views": 133,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -2722,6 +2722,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 25340,
+      "title": "**방화벽, 중소기업이 해킹 위협 90% 줄일 때 필요한 기능 7가지**",
+      "url": "https://wikidocs.net/blog/@petpicknote/25340/",
+      "excerpt": "방화벽, 중소기업이 해킹 위협 90% 줄일 때 필요한 기능 7가지\n\n중소기업은 대기업에 비해 사이버 보안 인프라와 전문 인력 부족으로 인해 해킹 위협에 더욱 취약합니다. 2024년 기준, 국내 랜섬웨어 피해 사례의 90% 이상과 전체 사이버 공격 피해의 92%가 중…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25340/15_5_img1.jpg",
+      "published_label": "27일 전",
+      "views": 74,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 28195,
       "title": "재택근무 타건소음 눈치보이는 프리랜서, 소음 40dB로 낮춰주는 무소음 키보드",
       "url": "https://wikidocs.net/blog/@smartliving/28195/",
@@ -2735,21 +2750,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 25340,
-      "title": "**방화벽, 중소기업이 해킹 위협 90% 줄일 때 필요한 기능 7가지**",
-      "url": "https://wikidocs.net/blog/@petpicknote/25340/",
-      "excerpt": "방화벽, 중소기업이 해킹 위협 90% 줄일 때 필요한 기능 7가지\n\n중소기업은 대기업에 비해 사이버 보안 인프라와 전문 인력 부족으로 인해 해킹 위협에 더욱 취약합니다. 2024년 기준, 국내 랜섬웨어 피해 사례의 90% 이상과 전체 사이버 공격 피해의 92%가 중…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25340/15_5_img1.jpg",
-      "published_label": "27일 전",
-      "views": 73,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 24014,
@@ -3007,6 +3007,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24009,
+      "title": "두 번 잘못 사고 나서야 알게 된 요가매트 두께 고르는 법",
+      "url": "https://wikidocs.net/blog/@petpicknote/24009/",
+      "excerpt": "> 🧘 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n처음 홈트레이닝을 시작할 때 가장 저렴한 34mm짜리 얇은 매트를 고른 적이 있습니다. 플랭크 자세를 잡을 때마다 팔꿈치가 바닥에 배기고, 무릎을 대는 동작에서는 통증…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24009/10_6_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 69,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 28383,
       "title": "신생아 목욕시키는 초보 부모, 1초 만에 화상없이 물온도 확인해주는 유아용 탕온계",
       "url": "https://wikidocs.net/blog/@smartliving/28383/",
@@ -3027,21 +3042,6 @@
       "url": "https://wikidocs.net/blog/@petpicknote/24652/",
       "excerpt": "무료 DB, 1인 사업자를 위한 고객 정보 관리 최적 솔루션 4가지 (2026년 최신)\n\n1인 사업자가 고객 정보를 효율적으로 관리하기 위한 무료 솔루션으로는 스프레드시트 기반의 Google Sheets, 데이터베이스 기능을 겸비한 Notion, 경량 CRM 솔루션…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24652/13_3_img1.png",
-      "published_label": "1개월 전",
-      "views": 68,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 24009,
-      "title": "두 번 잘못 사고 나서야 알게 된 요가매트 두께 고르는 법",
-      "url": "https://wikidocs.net/blog/@petpicknote/24009/",
-      "excerpt": "> 🧘 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n처음 홈트레이닝을 시작할 때 가장 저렴한 34mm짜리 얇은 매트를 고른 적이 있습니다. 플랭크 자세를 잡을 때마다 팔꿈치가 바닥에 배기고, 무릎을 대는 동작에서는 통증…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24009/10_6_img1.jpg",
       "published_label": "1개월 전",
       "views": 68,
       "daily_views": 0,
@@ -4207,6 +4207,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28476,
+      "title": "샤워 후 물때 닦던 자취생, 15초만에 곰팡이 막아주는 유리 워터스퀴지",
+      "url": "https://wikidocs.net/blog/@smartliving/28476/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n샤워를 끝내고 나올 때마다 유리 파티션에 남은 물방울 자국이 신경 쓰이신 적 있으실 겁니다. 마른 수건으로 닦아봐도 얼룩이 남고, 며칠 지나면 그 자리에 뿌옇게 물때가…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28476/32_3_product1.jpg",
+      "published_label": "4일 전",
+      "views": 54,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28391,
       "title": "욕실 청소 매일 하는 주부, 허리 숙이지 않고 청소시간 절반 줄여주는 극세사 밀대",
       "url": "https://wikidocs.net/blog/@smartliving/28391/",
@@ -4340,21 +4355,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28476,
-      "title": "샤워 후 물때 닦던 자취생, 15초만에 곰팡이 막아주는 유리 워터스퀴지",
-      "url": "https://wikidocs.net/blog/@smartliving/28476/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n샤워를 끝내고 나올 때마다 유리 파티션에 남은 물방울 자국이 신경 쓰이신 적 있으실 겁니다. 마른 수건으로 닦아봐도 얼룩이 남고, 며칠 지나면 그 자리에 뿌옇게 물때가…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28476/32_3_product1.jpg",
-      "published_label": "4일 전",
-      "views": 53,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 27997,
@@ -4567,6 +4567,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 28571,
+      "title": "천장 낮은 집 사는 가족, 버튼 하나로 30초만에 오르내려주는 리프트건조대",
+      "url": "https://wikidocs.net/blog/@smartliving/28571/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n천장이 낮은 집에 살다 보면 빨래건조대를 펼 때마다 머리가 부딪히거나, 문을 열 때마다 건조대 다리에 걸려 넘어질 뻔한 경험 있으실 겁니다. 좁은 베란다에 커다란 건조…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28571/33_10_product1.jpg",
+      "published_label": "3일 전",
+      "views": 51,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28392,
       "title": "베란다 벌레·쥐 나타나는 저층거주자, 전기요금 0원으로 쫓아주는 태양광 해충퇴치기",
       "url": "https://wikidocs.net/blog/@smartliving/28392/",
@@ -4625,21 +4640,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28571,
-      "title": "천장 낮은 집 사는 가족, 버튼 하나로 30초만에 오르내려주는 리프트건조대",
-      "url": "https://wikidocs.net/blog/@smartliving/28571/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n천장이 낮은 집에 살다 보면 빨래건조대를 펼 때마다 머리가 부딪히거나, 문을 열 때마다 건조대 다리에 걸려 넘어질 뻔한 경험 있으실 겁니다. 좁은 베란다에 커다란 건조…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28571/33_10_product1.jpg",
-      "published_label": "3일 전",
-      "views": 50,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 28483,
@@ -8197,6 +8197,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24656,
+      "title": "업무 관리 어플, 5인 팀의 피드백 누락 줄이는 실시간 공유 기능 6가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/24656/",
+      "excerpt": "업무 관리 어플, 5인 팀의 피드백 누락 줄이는 실시간 공유 기능 6가지\n\n5인 규모의 팀에서 업무 관리 어플을 활용하면 피드백 누락을 효과적으로 줄이고 생산성을 높일 수 있습니다. 핵심은 실시간 문서 공동 편집, 알림, 진행 상황 시각화, 멘션, 버전 관리, 통합…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24656/13_7_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 24,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24431,
       "title": "끈적이는 여름 날씨에 고민이셨다면, 이 바디워시로 산뜻함이 달라졌다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/24431/",
@@ -8315,21 +8330,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24656,
-      "title": "업무 관리 어플, 5인 팀의 피드백 누락 줄이는 실시간 공유 기능 6가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/24656/",
-      "excerpt": "업무 관리 어플, 5인 팀의 피드백 누락 줄이는 실시간 공유 기능 6가지\n\n5인 규모의 팀에서 업무 관리 어플을 활용하면 피드백 누락을 효과적으로 줄이고 생산성을 높일 수 있습니다. 핵심은 실시간 문서 공동 편집, 알림, 진행 상황 시각화, 멘션, 버전 관리, 통합…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24656/13_7_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 23,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 24227,
@@ -8707,6 +8707,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24861,
+      "title": "눈 피로 심한 직장인이 참다 병원비 날린 끝에 알게 된 눈마사지기 고르는 법",
+      "url": "https://wikidocs.net/blog/@smartliving/24861/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n모니터를 몇 시간째 들여다보다 보면 눈이 뻑뻑하고 관자놀이까지 지끈거리는 느낌, 눈 피로 심한 직장인이라면 익숙하실 겁니다. 저도 처음엔 그냥 잠깐 눈을 감았다 뜨면 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24861/17_9_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 20,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 23817,
       "title": "장마 끝난 뒤 입맛 없는 아이라면, 습식캔에 밥그릇을 싹 비웠다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/23817/",
@@ -8743,21 +8758,6 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근 후 어깨가 돌덩이처럼 뭉쳐 손으로 눌러봐도 시원한 느낌이 전혀 안 들었던 밤, 결국 참다못해 약국에서 파스 한 통을 사서 붙였던 경험 있으실 겁니다. 사무직 직장…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25039/18_5_product1.jpg",
       "published_label": "29일 전",
-      "views": 19,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24861,
-      "title": "눈 피로 심한 직장인이 참다 병원비 날린 끝에 알게 된 눈마사지기 고르는 법",
-      "url": "https://wikidocs.net/blog/@smartliving/24861/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n모니터를 몇 시간째 들여다보다 보면 눈이 뻑뻑하고 관자놀이까지 지끈거리는 느낌, 눈 피로 심한 직장인이라면 익숙하실 겁니다. 저도 처음엔 그냥 잠깐 눈을 감았다 뜨면 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24861/17_9_product1.jpg",
-      "published_label": "1개월 전",
       "views": 19,
       "daily_views": 0,
       "likes": 0,
@@ -9551,6 +9551,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24885,
+      "title": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법",
+      "url": "https://wikidocs.net/blog/@petpicknote/24885/",
+      "excerpt": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법\n\n현대해상 ECO 마일리지 특약은 연간 주행거리에 따라 자동차 보험료를 환급받는 제도입니다. 특히 연 1만km 이하 주행하는 운전자라면 최대 18.8% (커넥티드 방식 기…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24885/14_4_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 133,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 25218,
       "title": "시프티 외근, 잦은 출장이 있는 직장인이 놓치기 쉬운 근태 처리 4가지",
       "url": "https://wikidocs.net/blog/@petpicknote/25218/",
@@ -9558,6 +9573,36 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25218/14_9_img1.png",
       "published_label": "28일 전",
       "views": 85,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 25340,
+      "title": "**방화벽, 중소기업이 해킹 위협 90% 줄일 때 필요한 기능 7가지**",
+      "url": "https://wikidocs.net/blog/@petpicknote/25340/",
+      "excerpt": "방화벽, 중소기업이 해킹 위협 90% 줄일 때 필요한 기능 7가지\n\n중소기업은 대기업에 비해 사이버 보안 인프라와 전문 인력 부족으로 인해 해킹 위협에 더욱 취약합니다. 2024년 기준, 국내 랜섬웨어 피해 사례의 90% 이상과 전체 사이버 공격 피해의 92%가 중…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25340/15_5_img1.jpg",
+      "published_label": "27일 전",
+      "views": 74,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 24009,
+      "title": "두 번 잘못 사고 나서야 알게 된 요가매트 두께 고르는 법",
+      "url": "https://wikidocs.net/blog/@petpicknote/24009/",
+      "excerpt": "> 🧘 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n처음 홈트레이닝을 시작할 때 가장 저렴한 34mm짜리 얇은 매트를 고른 적이 있습니다. 플랭크 자세를 잡을 때마다 팔꿈치가 바닥에 배기고, 무릎을 대는 동작에서는 통증…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24009/10_6_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 69,
       "daily_views": 1,
       "likes": 0,
       "comments": 0,
@@ -9611,6 +9656,36 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 28476,
+      "title": "샤워 후 물때 닦던 자취생, 15초만에 곰팡이 막아주는 유리 워터스퀴지",
+      "url": "https://wikidocs.net/blog/@smartliving/28476/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n샤워를 끝내고 나올 때마다 유리 파티션에 남은 물방울 자국이 신경 쓰이신 적 있으실 겁니다. 마른 수건으로 닦아봐도 얼룩이 남고, 며칠 지나면 그 자리에 뿌옇게 물때가…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28476/32_3_product1.jpg",
+      "published_label": "4일 전",
+      "views": 54,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 28571,
+      "title": "천장 낮은 집 사는 가족, 버튼 하나로 30초만에 오르내려주는 리프트건조대",
+      "url": "https://wikidocs.net/blog/@smartliving/28571/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n천장이 낮은 집에 살다 보면 빨래건조대를 펼 때마다 머리가 부딪히거나, 문을 열 때마다 건조대 다리에 걸려 넘어질 뻔한 경험 있으실 겁니다. 좁은 베란다에 커다란 건조…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28571/33_10_product1.jpg",
+      "published_label": "3일 전",
+      "views": 51,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 25342,
       "title": "**QMS, 제조업체 불량률 10% 감소 위한 핵심 품질 관리 시스템 6가지**",
       "url": "https://wikidocs.net/blog/@petpicknote/25342/",
@@ -9624,81 +9699,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 24330,
-      "title": "신차 구매하신 분이라면, 블랙박스 달고 나서 사고 났을 때 도움 받았다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24330/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n신차를 받고 나서 가장 먼저 챙겨야 할 용품이 뭘까 고민해보신 적 있으실 겁니다.\n\n블랙박스 없이 운전하다가 접촉사고가 났는데 정확한 상황을 증명할 방법이 없어 답답했…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24330/pb_14_4_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 45,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 28638,
-      "title": "열대야에 에어컨 못 끄는 직장인, 체감 3도 낮춰 냉방비 아껴주는 쿨매트",
-      "url": "https://wikidocs.net/blog/@smartliving/28638/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n밤 11시, 에어컨 리모컨을 손에 쥐고도 선뜻 전원 버튼을 못 누르신 적 있으실 겁니다. 하루종일 켜둔 에어컨 때문에 이미 이번 달 전기요금이 걱정되는데, 끄자니 후텁…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28638/34_1_product1.jpg",
-      "published_label": "2일 전",
-      "views": 45,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 27749,
-      "title": "홈파티 즐기는 사람을 위한, 요즘 다들 바꾼다는 가라오케 스피커 이유 있었습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27749/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n친구들을 초대해놓고 막상 분위기를 띄울 게 마땅치 않아 어색해진 적 있으실 겁니다. 노래방을 예약하자니 시간이 애매하고, 그렇다고 조용히 이야기만 나누기엔 아쉬운 밤이…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27749/24_5_product1.jpg",
-      "published_label": "12일 전",
-      "views": 41,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 27848,
-      "title": "신혼집 꾸미는 분을 위한, 조명 고민 라탄 펜던트조명 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27848/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n신혼집을 꾸미면서 가구와 커튼까지는 신경 써서 골랐는데, 정작 천장 조명은 원래 달려 있던 형광등을 그대로 쓰고 계신 분들 많으실 겁니다. 저녁마다 하얀 형광등 불빛 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27848/25_4_product1.jpg",
-      "published_label": "11일 전",
-      "views": 40,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 27748,
-      "title": "야외 직장인을 위한, 자외선 화상 막는 UV차단 아이스양산 이렇게 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27748/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n외근이나 출퇴근길에 뙤약볕을 그대로 맞다 보면, 저녁쯤 팔뚝이 화끈거리고 며칠 후엔 살갗이 벗겨지는 경험 한 번쯤 해보셨을 겁니다. 자외선 화상은 당장 안 아파 보여도…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27748/24_4_product1.jpg",
-      "published_label": "12일 전",
-      "views": 37,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     }
   ],
   "daily_totals": [
@@ -9904,8 +9904,8 @@
     },
     {
       "date": "2026-08-19",
-      "views": 24
+      "views": 31
     }
   ],
-  "static_generated_at": "2026-08-19T00:53:44+09:00"
+  "static_generated_at": "2026-08-19T01:23:45+09:00"
 }
