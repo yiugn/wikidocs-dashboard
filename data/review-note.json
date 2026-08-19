@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-19T12:23:34+09:00",
+  "latest_snapshot_at": "2026-08-19T12:53:34+09:00",
   "latest_snapshot_date": "2026-08-19",
   "catalog_updated_at": "2026-08-19T00:22:08+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 304674,
-    "daily_views": 428,
+    "total_views": 304691,
+    "daily_views": 445,
     "previous_day_views": 1123,
     "previous_day_date": "2026-08-18",
-    "current_month_views": 17303,
+    "current_month_views": 17320,
     "days_recorded": 51
   },
   "blogs": [
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 336,
       "captured_posts": 336,
-      "total_views": 112234,
-      "daily_views": 306,
+      "total_views": 112247,
+      "daily_views": 319,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 34186,
-      "daily_views": 69,
+      "total_views": 34190,
+      "daily_views": 73,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -598,8 +598,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마철에 빨래를 걷을 때마다 났던 그 쿰쿰한 냄새, 한 번쯤 맡아보셨을 겁니다. 분명 세제까지 넉넉히 넣고 돌렸는데도 수건에서도, 아이 옷에서도 뭔가 덜 마른 듯한 쉰…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22682/6_1_product1.jpg",
       "published_label": "1개월 전",
-      "views": 1236,
-      "daily_views": 0,
+      "views": 1237,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -817,6 +817,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23366,
+      "title": "한낮 산책 자외선이 걱정되는 반려인이라면, UV 고글·모자로 바꾸고 눈 건강 걱정이 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/23366/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n한낮 산책 자외선이 걱정되는 반려인이라면 한 번쯤 고민해보셨을 이야기입니다. 사람은 선글라스나 양산으로 자외선을 피하지만, 반려동물은 눈과 코, 피부가 그대로 햇빛에 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23366/7_4_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 834,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22929,
       "title": "초복(7월 15일) 오기 전에 미리 챙겨야 할 냉모밀 조리기구 3가지",
       "url": "https://wikidocs.net/blog/@smartliving/22929/",
@@ -830,21 +845,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23366,
-      "title": "한낮 산책 자외선이 걱정되는 반려인이라면, UV 고글·모자로 바꾸고 눈 건강 걱정이 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/23366/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n한낮 산책 자외선이 걱정되는 반려인이라면 한 번쯤 고민해보셨을 이야기입니다. 사람은 선글라스나 양산으로 자외선을 피하지만, 반려동물은 눈과 코, 피부가 그대로 햇빛에 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23366/7_4_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 833,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 23346,
@@ -1468,8 +1468,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마 때문에 창밖 구경도 시들해진 우리 고양이\n\n비 오는 날이 이어지면서 창가에 앉아 밖을 구경하는 것도 시들해졌는지, 요즘 부쩍 낮잠만 자거나 반대로 밤새 뛰어다니며…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22348/6_1.jpg",
       "published_label": "1개월 전",
-      "views": 244,
-      "daily_views": 0,
+      "views": 245,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1483,8 +1483,8 @@
       "excerpt": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지\n\n2026년 르노코리아 차량의 제조사 보증 기간 만료를 앞두고 있다면, 반드시 공식 서비스 네트워크를 통해 차량을 종합적으로 점검하는 것이 중요합니다. 이는 잠재적인 고장을 무상으로 수리받아…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24651/13_2_img1.jpg",
       "published_label": "1개월 전",
-      "views": 238,
-      "daily_views": 3,
+      "views": 239,
+      "daily_views": 4,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -2482,6 +2482,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28277,
+      "title": "재택근무·온라인수업 병행하는 직장인, 180도 자유 조절해 목 통증 줄여주는 태블릿 거치대",
+      "url": "https://wikidocs.net/blog/@smartliving/28277/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n재택근무 화상회의에 이어 아이 온라인수업 화면까지 태블릿으로 챙기다 보면, 손으로 계속 들고 있거나 책 더미에 위태롭게 기대놓은 채 하루를 버틴 경험 한 번쯤 있으실 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28277/30_3_product1.jpg",
+      "published_label": "7일 전",
+      "views": 83,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28081,
       "title": "재택근무자 화상회의 음질 고민, 5만원대로 목소리 또렷하게 잡아주는 무선 마이크",
       "url": "https://wikidocs.net/blog/@smartliving/28081/",
@@ -2540,21 +2555,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28277,
-      "title": "재택근무·온라인수업 병행하는 직장인, 180도 자유 조절해 목 통증 줄여주는 태블릿 거치대",
-      "url": "https://wikidocs.net/blog/@smartliving/28277/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n재택근무 화상회의에 이어 아이 온라인수업 화면까지 태블릿으로 챙기다 보면, 손으로 계속 들고 있거나 책 더미에 위태롭게 기대놓은 채 하루를 버틴 경험 한 번쯤 있으실 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28277/30_3_product1.jpg",
-      "published_label": "7일 전",
-      "views": 81,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 27393,
@@ -3397,6 +3397,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 22672,
+      "title": "무더위에 사료 상할까 걱정되는 집사라면, 냉각 스텐 식기 하나로 여름철 급식 걱정이 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/22672/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근하고 돌아와 사료 그릇을 확인했는데, 한여름 실내 온도 탓에 사료 표면이 눅눅하거나 미묘하게 쉰내가 나는 걸 느껴보신 적 있으실 겁니다. 물그릇도 마찬가지여서, 아…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22672/2_1.jpg",
+      "published_label": "1개월 전",
+      "views": 62,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 28279,
       "title": "한여름 오후 거실 뜨거워지는 집, 실내온도 3도 낮춰 냉방비 아껴주는 무타공 암막 롤스크린",
       "url": "https://wikidocs.net/blog/@smartliving/28279/",
@@ -3487,19 +3502,19 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 22672,
-      "title": "무더위에 사료 상할까 걱정되는 집사라면, 냉각 스텐 식기 하나로 여름철 급식 걱정이 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/22672/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근하고 돌아와 사료 그릇을 확인했는데, 한여름 실내 온도 탓에 사료 표면이 눅눅하거나 미묘하게 쉰내가 나는 걸 느껴보신 적 있으실 겁니다. 물그릇도 마찬가지여서, 아…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22672/2_1.jpg",
-      "published_label": "1개월 전",
+      "id": 28481,
+      "title": "노트북 발열 시달리는 재택근무자, 듀얼팬으로 열 잡아주는 접이식 쿨러거치대",
+      "url": "https://wikidocs.net/blog/@smartliving/28481/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n집에서 일하다 보면 노트북 밑면이 뜨끈해지면서 화면이 버벅이는 순간을 겪어보셨을 겁니다. 특히 열대야까지 이어지는 요즘 같은 여름엔, 에어컨을 틀어도 책상 위 노트북 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28481/32_8_product1.jpg",
+      "published_label": "5일 전",
       "views": 61,
-      "daily_views": 1,
+      "daily_views": 4,
       "likes": 0,
       "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
     },
     {
       "id": 28385,
@@ -3740,21 +3755,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28481,
-      "title": "노트북 발열 시달리는 재택근무자, 듀얼팬으로 열 잡아주는 접이식 쿨러거치대",
-      "url": "https://wikidocs.net/blog/@smartliving/28481/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n집에서 일하다 보면 노트북 밑면이 뜨끈해지면서 화면이 버벅이는 순간을 겪어보셨을 겁니다. 특히 열대야까지 이어지는 요즘 같은 여름엔, 에어컨을 틀어도 책상 위 노트북 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28481/32_8_product1.jpg",
-      "published_label": "5일 전",
-      "views": 59,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 28478,
@@ -5092,6 +5092,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28082,
+      "title": "편의점 음식 자주 먹는 직장인 식단, 하루 한 알 아연 15mg 채워주는 영양제",
+      "url": "https://wikidocs.net/blog/@smartliving/28082/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n점심은 편의점 삼각김밥, 저녁은 배달 음식으로 때우는 날이 이어지면, 몸이 예전 같지 않다는 걸 문득 느끼실 때가 있으실 겁니다. 유난히 감기에 자주 걸리거나, 상처가…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28082/28_10_product1.jpg",
+      "published_label": "9일 전",
+      "views": 47,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27845,
       "title": "좁은 방 재택근무족을 위한, 전기세 안 드는 미니 에어컨 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/27845/",
@@ -5235,21 +5250,6 @@
       "published_label": "5일 전",
       "views": 46,
       "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28082,
-      "title": "편의점 음식 자주 먹는 직장인 식단, 하루 한 알 아연 15mg 채워주는 영양제",
-      "url": "https://wikidocs.net/blog/@smartliving/28082/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n점심은 편의점 삼각김밥, 저녁은 배달 음식으로 때우는 날이 이어지면, 몸이 예전 같지 않다는 걸 문득 느끼실 때가 있으실 겁니다. 유난히 감기에 자주 걸리거나, 상처가…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28082/28_10_product1.jpg",
-      "published_label": "9일 전",
-      "views": 46,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -6217,6 +6217,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 28739,
+      "title": "장기 외출 잦은 1인가구, 보안업체 대신 4만원대로 안심시켜주는 무선 홈캠 CCTV",
+      "url": "https://wikidocs.net/blog/@smartliving/28739/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n며칠간 출장이나 여행으로 집을 비울 때, 문을 잠그고 나서도 자꾸 뒤돌아보게 되는 순간이 있습니다. 반려동물만 혼자 두고 나온 날이라면 더더욱, 잘 있는지 궁금해서 몇…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28739/35_10_product1.jpg",
+      "published_label": "2일 전",
+      "views": 39,
+      "daily_views": 11,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28737,
       "title": "낮잠 설치는 교대근무자, 햇빛 90% 차단해 숙면시켜주는 암막 시트지",
       "url": "https://wikidocs.net/blog/@smartliving/28737/",
@@ -7102,21 +7117,6 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 28739,
-      "title": "장기 외출 잦은 1인가구, 보안업체 대신 4만원대로 안심시켜주는 무선 홈캠 CCTV",
-      "url": "https://wikidocs.net/blog/@smartliving/28739/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n며칠간 출장이나 여행으로 집을 비울 때, 문을 잠그고 나서도 자꾸 뒤돌아보게 되는 순간이 있습니다. 반려동물만 혼자 두고 나온 날이라면 더더욱, 잘 있는지 궁금해서 몇…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28739/35_10_product1.jpg",
-      "published_label": "2일 전",
-      "views": 33,
-      "daily_views": 5,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
       "id": 27614,
       "title": "거북목 통증 줄여주는 편백나무 베개, 높이별로 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/27614/",
@@ -7882,6 +7882,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 28825,
+      "title": "땀에 두피 가려운 폭염철 직장인, 1000원대로 열감 식혀주는 두피 쿨링 마사지기",
+      "url": "https://wikidocs.net/blog/@smartliving/28825/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n에어컨 바람을 쐬다가도, 머리는 땀에 젖어 두피가 가렵고 답답했던 경험 있으실 겁니다. 손톱으로 벅벅 긁다 보면 순간은 시원해도 두피가 상하기 쉽고, 사무실이라 마음껏…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28825/36_8_product1.jpg",
+      "published_label": "1일 전",
+      "views": 27,
+      "daily_views": 14,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28562,
       "title": "폭염특보에 야외활동비 10만원 쓴 직장인, 체감온도 5도 낮춰주는 쿨링타월",
       "url": "https://wikidocs.net/blog/@smartliving/28562/",
@@ -8030,21 +8045,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28825,
-      "title": "땀에 두피 가려운 폭염철 직장인, 1000원대로 열감 식혀주는 두피 쿨링 마사지기",
-      "url": "https://wikidocs.net/blog/@smartliving/28825/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n에어컨 바람을 쐬다가도, 머리는 땀에 젖어 두피가 가렵고 답답했던 경험 있으실 겁니다. 손톱으로 벅벅 긁다 보면 순간은 시원해도 두피가 상하기 쉽고, 사무실이라 마음껏…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28825/36_8_product1.jpg",
-      "published_label": "1일 전",
-      "views": 26,
-      "daily_views": 13,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 27529,
@@ -9476,6 +9476,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28825,
+      "title": "땀에 두피 가려운 폭염철 직장인, 1000원대로 열감 식혀주는 두피 쿨링 마사지기",
+      "url": "https://wikidocs.net/blog/@smartliving/28825/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n에어컨 바람을 쐬다가도, 머리는 땀에 젖어 두피가 가렵고 답답했던 경험 있으실 겁니다. 손톱으로 벅벅 긁다 보면 순간은 시원해도 두피가 상하기 쉽고, 사무실이라 마음껏…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28825/36_8_product1.jpg",
+      "published_label": "1일 전",
+      "views": 27,
+      "daily_views": 14,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28822,
       "title": "반찬 뒤섞이는 냉장고에 지친 주부, 700원대로 칸칸이 정리해주는 정리용기",
       "url": "https://wikidocs.net/blog/@smartliving/28822/",
@@ -9506,21 +9521,6 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 28825,
-      "title": "땀에 두피 가려운 폭염철 직장인, 1000원대로 열감 식혀주는 두피 쿨링 마사지기",
-      "url": "https://wikidocs.net/blog/@smartliving/28825/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n에어컨 바람을 쐬다가도, 머리는 땀에 젖어 두피가 가렵고 답답했던 경험 있으실 겁니다. 손톱으로 벅벅 긁다 보면 순간은 시원해도 두피가 상하기 쉽고, 사무실이라 마음껏…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28825/36_8_product1.jpg",
-      "published_label": "1일 전",
-      "views": 26,
-      "daily_views": 13,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
       "id": 28824,
       "title": "여름밤 홈시네마 즐기려는 신혼부부, 2만원대로 150인치 열어주는 미니 빔프로젝터",
       "url": "https://wikidocs.net/blog/@smartliving/28824/",
@@ -9529,6 +9529,21 @@
       "published_label": "1일 전",
       "views": 20,
       "daily_views": 12,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 28739,
+      "title": "장기 외출 잦은 1인가구, 보안업체 대신 4만원대로 안심시켜주는 무선 홈캠 CCTV",
+      "url": "https://wikidocs.net/blog/@smartliving/28739/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n며칠간 출장이나 여행으로 집을 비울 때, 문을 잠그고 나서도 자꾸 뒤돌아보게 되는 순간이 있습니다. 반려동물만 혼자 두고 나온 날이라면 더더욱, 잘 있는지 궁금해서 몇…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28739/35_10_product1.jpg",
+      "published_label": "2일 전",
+      "views": 39,
+      "daily_views": 11,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -9684,21 +9699,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 25344,
-      "title": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준)",
-      "url": "https://wikidocs.net/blog/@petpicknote/25344/",
-      "excerpt": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준)\n\nAWS S3에 1TB 이상의 데이터를 저장할 때 예상치 못한 과금 폭탄을 피하기 위해서는 스토리지 클래스 선택, 수명 주기 관리, S3 Intelligent-Ti…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25344/15_9_img1.jpg",
-      "published_label": "28일 전",
-      "views": 150,
-      "daily_views": 5,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     }
   ],
   "daily_totals": [
@@ -9904,8 +9904,8 @@
     },
     {
       "date": "2026-08-19",
-      "views": 428
+      "views": 445
     }
   ],
-  "static_generated_at": "2026-08-19T12:23:47+09:00"
+  "static_generated_at": "2026-08-19T12:53:45+09:00"
 }
