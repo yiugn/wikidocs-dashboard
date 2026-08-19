@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-19T15:53:32+09:00",
+  "latest_snapshot_at": "2026-08-19T16:23:42+09:00",
   "latest_snapshot_date": "2026-08-19",
   "catalog_updated_at": "2026-08-19T00:22:08+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 304913,
-    "daily_views": 667,
+    "total_views": 304929,
+    "daily_views": 683,
     "previous_day_views": 1123,
     "previous_day_date": "2026-08-18",
-    "current_month_views": 17542,
+    "current_month_views": 17558,
     "days_recorded": 51
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 158281,
-      "daily_views": 80,
+      "total_views": 158282,
+      "daily_views": 81,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 336,
       "captured_posts": 336,
-      "total_views": 112399,
-      "daily_views": 471,
+      "total_views": 112407,
+      "daily_views": 479,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 34233,
-      "daily_views": 116,
+      "total_views": 34240,
+      "daily_views": 123,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -133,8 +133,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마 시작 전 미리 챙겨야 할 옷장 습기제거제, 지금이 딱 그 타이밍입니다. 옷장 문을 열었을 때 훅 끼치는 퀴퀴한 냄새, 셔츠에 얼룩덜룩 핀 곰팡이 자국을 발견하고 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/21671/2_4_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 10643,
-      "daily_views": 1,
+      "views": 10644,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -1633,8 +1633,8 @@
       "excerpt": "노션 업무 관리, 사회 초년생이 입사 첫 달에 빠르게 익힐 사용법 5단계\n\n사회 초년생이라면 입사 첫 달에 새로운 업무 환경과 방대한 정보를 마주하며 막막함을 느낄 수 있습니다. 노션(Notion)은 이러한 혼란을 체계적으로 정리하고 업무 효율을 극대화하는 강력한 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24657/13_8_img1.jpg",
       "published_label": "1개월 전",
-      "views": 186,
-      "daily_views": 0,
+      "views": 187,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1822,6 +1822,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 24011,
+      "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24011/",
+      "excerpt": "> ✈️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여행 중 배터리 걱정 많으셨다면, 여행 사진과 지도 앱을 하루 종일 켜두다 보니 오후만 되면 스마트폰이 20% 밑으로 떨어져 마음이 조급해졌던 경험이 있으실 겁니다.…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24011/10_8_img1.png",
+      "published_label": "1개월 전",
+      "views": 139,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22282,
       "title": "폭염에 에어컨만으론 뒷좌석까지 시원하지 않던 분들, 차량용 선풍기 하나로 온도 걱정 던다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22282/",
@@ -1835,21 +1850,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24011,
-      "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24011/",
-      "excerpt": "> ✈️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여행 중 배터리 걱정 많으셨다면, 여행 사진과 지도 앱을 하루 종일 켜두다 보니 오후만 되면 스마트폰이 20% 밑으로 떨어져 마음이 조급해졌던 경험이 있으실 겁니다.…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24011/10_8_img1.png",
-      "published_label": "1개월 전",
-      "views": 138,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 24637,
@@ -2158,8 +2158,8 @@
       "excerpt": "리브 모바일 친구 결합, 20대 친구끼리 통신비 50% 절감하는 방법 3가지\n\n리브 모바일 친구 결합은 KB국민은행의 알뜰폰 서비스인 리브모바일 고객이라면 누구나 친구 또는 지인과 함께 통신비 할인을 받거나 추가 데이터를 제공받을 수 있는 서비스입니다. 특히 202…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25345/15_10_img1.jpg",
       "published_label": "28일 전",
-      "views": 110,
-      "daily_views": 0,
+      "views": 111,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -3067,6 +3067,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24655,
+      "title": "동영상 클라우드: 1TB 이상 대용량 파일 관리를 위한 무료 플랜 3가지 (2026년 기준)",
+      "url": "https://wikidocs.net/blog/@petpicknote/24655/",
+      "excerpt": "동영상 클라우드: 1TB 이상 대용량 파일 관리를 위한 무료 플랜 3가지 (2026년 기준)\n\n1TB 이상의 대용량 동영상 파일을 무료로 관리할 수 있는 클라우드 서비스는 현실적으로 매우 제한적입니다. 2026년 현재, 대부분의 클라우드 서비스는 무료 플랜에서 제공…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24655/13_6_img1.png",
+      "published_label": "1개월 전",
+      "views": 68,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24652,
       "title": "무료 DB, 1인 사업자를 위한 고객 정보 관리 최적 솔루션 4가지 (2026년 최신)",
       "url": "https://wikidocs.net/blog/@petpicknote/24652/",
@@ -3110,21 +3125,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24655,
-      "title": "동영상 클라우드: 1TB 이상 대용량 파일 관리를 위한 무료 플랜 3가지 (2026년 기준)",
-      "url": "https://wikidocs.net/blog/@petpicknote/24655/",
-      "excerpt": "동영상 클라우드: 1TB 이상 대용량 파일 관리를 위한 무료 플랜 3가지 (2026년 기준)\n\n1TB 이상의 대용량 동영상 파일을 무료로 관리할 수 있는 클라우드 서비스는 현실적으로 매우 제한적입니다. 2026년 현재, 대부분의 클라우드 서비스는 무료 플랜에서 제공…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24655/13_6_img1.png",
-      "published_label": "1개월 전",
-      "views": 67,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 28076,
@@ -4567,6 +4567,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22486,
+      "title": "폭염·장맛비 본격적으로 오기 전 미리 챙겨야 할 차량 바디커버 고르는 기준 3가지",
+      "url": "https://wikidocs.net/blog/@cartemlab/22486/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여름 하늘은 변덕이 심하죠. 아침엔 쨍한 뙤약볕이 도장면을 달구고, 오후엔 갑작스런 소나기와 우박이 쏟아집니다. 야외 주차가 많은 분이라면, 자외선에 도장 광택이 바래…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22486/4_2_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 52,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24426,
       "title": "장마 끝나기 전, 차박족이 챙겨야 할 차광커튼 세 가지",
       "url": "https://wikidocs.net/blog/@petpicknote/24426/",
@@ -4655,21 +4670,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22486,
-      "title": "폭염·장맛비 본격적으로 오기 전 미리 챙겨야 할 차량 바디커버 고르는 기준 3가지",
-      "url": "https://wikidocs.net/blog/@cartemlab/22486/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여름 하늘은 변덕이 심하죠. 아침엔 쨍한 뙤약볕이 도장면을 달구고, 오후엔 갑작스런 소나기와 우박이 쏟아집니다. 야외 주차가 많은 분이라면, 자외선에 도장 광택이 바래…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22486/4_2_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 51,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 28820,
@@ -4882,6 +4882,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 28566,
+      "title": "미용실 네일 3만원 아끼는 직장인, 집에서 5분만에 정리해주는 무선 네일드릴",
+      "url": "https://wikidocs.net/blog/@smartliving/28566/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n젤네일이 조금씩 자라 나와 손끝이 지저분해 보이는데, 미용실 예약은 다음 주까지 꽉 차 있던 경험 있으실 겁니다. 결국 급한 대로 큐티클을 손톱깎이로 잘라내다 상처를 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28566/33_5_product1.jpg",
+      "published_label": "4일 전",
+      "views": 49,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28388,
       "title": "폭염 이어지는 거실, 출장비 없이 5분 셀프설치로 햇빛 차단하는 콤비블라인드",
       "url": "https://wikidocs.net/blog/@smartliving/28388/",
@@ -4980,21 +4995,6 @@
       "published_label": "4일 전",
       "views": 48,
       "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28566,
-      "title": "미용실 네일 3만원 아끼는 직장인, 집에서 5분만에 정리해주는 무선 네일드릴",
-      "url": "https://wikidocs.net/blog/@smartliving/28566/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n젤네일이 조금씩 자라 나와 손끝이 지저분해 보이는데, 미용실 예약은 다음 주까지 꽉 차 있던 경험 있으실 겁니다. 결국 급한 대로 큐티클을 손톱깎이로 잘라내다 상처를 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28566/33_5_product1.jpg",
-      "published_label": "4일 전",
-      "views": 48,
-      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -5217,6 +5217,21 @@
       "url": "https://wikidocs.net/blog/@petpicknote/24004/",
       "excerpt": "> 🐾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n강아지 발톱 관리, 매번 미루다가 어느새 바닥에 또각또각 소리가 나기 시작해서야 부랴부랴 발톱깎이를 찾아본 경험이 한 번쯤은 있으실 겁니다. 특히 어두운 발톱을 가진 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24004/10_1_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 46,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 23372,
+      "title": "장마철 반려동물디퓨저 추천",
+      "url": "https://wikidocs.net/blog/@petpicknote/23372/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n반려동물과 함께 사는 집이라면 방향제 하나 고르는 것도 그냥 지나칠 수 없는 문제입니다. 일반 방향제에 들어가는 향료나 에센셜 오일 성분 중 일부는 반려동물에게 자극적…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23372/7_10_product1.jpg",
       "published_label": "1개월 전",
       "views": 46,
       "daily_views": 1,
@@ -5450,21 +5465,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 23372,
-      "title": "장마철 반려동물디퓨저 추천",
-      "url": "https://wikidocs.net/blog/@petpicknote/23372/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n반려동물과 함께 사는 집이라면 방향제 하나 고르는 것도 그냥 지나칠 수 없는 문제입니다. 일반 방향제에 들어가는 향료나 에센셜 오일 성분 중 일부는 반려동물에게 자극적…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23372/7_10_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 45,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 23108,
@@ -6007,6 +6007,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23733,
+      "title": "여름 외출 앞둔 신생아 부모를 위한, 유모차 땀참 확 줄여주는 쿨매트 이렇게 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/23733/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n한낮 기온이 훌쩍 오른 날, 유모차를 밀고 잠깐 산책만 나갔다 와도 아기 등이 땀으로 흠뻑 젖어 있는 걸 발견하신 적 있으실 겁니다. 신생아나 돌 전 아기는 체온 조절…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23733/12_3_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 41,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 23522,
       "title": "장시간 모니터 보는 사무직을 위한, 목·어깨 결림 줄여주는 모니터 받침대",
       "url": "https://wikidocs.net/blog/@smartliving/23522/",
@@ -6210,21 +6225,6 @@
       "published_label": "3일 전",
       "views": 40,
       "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23733,
-      "title": "여름 외출 앞둔 신생아 부모를 위한, 유모차 땀참 확 줄여주는 쿨매트 이렇게 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/23733/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n한낮 기온이 훌쩍 오른 날, 유모차를 밀고 잠깐 산책만 나갔다 와도 아기 등이 땀으로 흠뻑 젖어 있는 걸 발견하신 적 있으실 겁니다. 신생아나 돌 전 아기는 체온 조절…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23733/12_3_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 40,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -6495,6 +6495,21 @@
       "published_label": "18일 전",
       "views": 38,
       "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 24474,
+      "title": "좁은 원룸 자취생을 위한, 못 박지 않고 수납공간 늘리는 이동식 스탠드행거",
+      "url": "https://wikidocs.net/blog/@smartliving/24474/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n원룸에 살다 보면 옷장 하나로는 도저히 옷이 다 들어가지 않는 순간이 옵니다. 그렇다고 벽에 못을 박아 옷걸이를 달자니 전세방이라 눈치가 보이고, 계절이 바뀔 때마다 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24474/15_7_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 38,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -6928,21 +6943,6 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장바구니 양손 가득 채우고 집까지 걸어오다 보면 어느새 손목과 어깨가 뻐근해지고, 며칠 후 파스를 붙여야 했던 경험 한 번쯤 있으실 겁니다. 특히 여름철 무거운 생수나…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27251/19_6_product1.jpg",
       "published_label": "18일 전",
-      "views": 35,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24474,
-      "title": "좁은 원룸 자취생을 위한, 못 박지 않고 수납공간 늘리는 이동식 스탠드행거",
-      "url": "https://wikidocs.net/blog/@smartliving/24474/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n원룸에 살다 보면 옷장 하나로는 도저히 옷이 다 들어가지 않는 순간이 옵니다. 그렇다고 벽에 못을 박아 옷걸이를 달자니 전세방이라 눈치가 보이고, 계절이 바뀔 때마다 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24474/15_7_product1.jpg",
-      "published_label": "1개월 전",
       "views": 35,
       "daily_views": 0,
       "likes": 0,
@@ -7417,6 +7417,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 23820,
+      "title": "차박 처음이라면, 트렁크 정리함 하나로 짐이 싹 정리됐다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/23820/",
+      "excerpt": "> 🐾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n차박 처음 도전하는 분이라면, 트렁크가 뒤죽박죽이었는데 이 정리함 하나로 싹 정리됐다는 후기가 많습니다. 짐칸에 침구, 취사도구, 개인 용품을 한꺼번에 싣다 보면 필요…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23820/9_4_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 31,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22909,
       "title": "밥을 급하게 먹어 자주 토하는 반려동물 키우신다면, 슬로우피더 식기 하나로 그 걱정이 확 줄었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/22909/",
@@ -7542,21 +7557,6 @@
       "url": "https://wikidocs.net/blog/@petpicknote/24429/",
       "excerpt": "> 🔖 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여름휴가 성수기가 다가오면서 항공권과 숙소 예약을 마치고 나면, 그다음으로 신경 쓰이는 것이 바로 캐리어입니다. 오래된 캐리어의 바퀴가 덜컹거리거나, 갈 때는 여유 있…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24429/12_5_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 30,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 23820,
-      "title": "차박 처음이라면, 트렁크 정리함 하나로 짐이 싹 정리됐다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/23820/",
-      "excerpt": "> 🐾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n차박 처음 도전하는 분이라면, 트렁크가 뒤죽박죽이었는데 이 정리함 하나로 싹 정리됐다는 후기가 많습니다. 짐칸에 침구, 취사도구, 개인 용품을 한꺼번에 싣다 보면 필요…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23820/9_4_img1.jpg",
       "published_label": "1개월 전",
       "views": 30,
       "daily_views": 0,
@@ -8257,6 +8257,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24855,
+      "title": "냉장고 정리 안 하면 매달 식재료 버리는 돈, 정리트레이로 줄였습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/24855/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n냉장고 문을 열었는데 어디 있는지 몰라 뒤적이다가, 안쪽 깊숙이 처박혀 있던 반찬통을 발견한 경험 다들 있으실 겁니다. 뚜껑을 열어보니 이미 냄새가 올라오고 색이 변한…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24855/17_3_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 25,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24640,
       "title": "미니 블렌더 살 때 다들 놓치는 체크포인트 한 가지",
       "url": "https://wikidocs.net/blog/@smartliving/24640/",
@@ -8355,21 +8370,6 @@
       "published_label": "1일 전",
       "views": 24,
       "daily_views": 16,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24855,
-      "title": "냉장고 정리 안 하면 매달 식재료 버리는 돈, 정리트레이로 줄였습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/24855/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n냉장고 문을 열었는데 어디 있는지 몰라 뒤적이다가, 안쪽 깊숙이 처박혀 있던 반찬통을 발견한 경험 다들 있으실 겁니다. 뚜껑을 열어보니 이미 냄새가 올라오고 색이 변한…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24855/17_3_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 24,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -8647,6 +8647,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22273,
+      "title": "눅눅해지던 서류함이 뽀송해지기까지, 장마철 방습 보관함 TOP3",
+      "url": "https://wikidocs.net/blog/@smartliving/22273/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마철엔 신발과 옷만 눅눅해지는 게 아닙니다. 책상 위에 쌓아둔 서류나 다이어리도 습기를 머금으면 종이가 우글쭈글해지고, 심한 경우 곰팡이 얼룩까지 생겨버립니다. 중요…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22273/5_10_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 22,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 23559,
       "title": "직접 손세차 하시는 분들이라면, 세차 타월 바꾸고 나서 물자국 없이 뽀송하게 마무리된다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/23559/",
@@ -8767,19 +8782,19 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 22273,
-      "title": "눅눅해지던 서류함이 뽀송해지기까지, 장마철 방습 보관함 TOP3",
-      "url": "https://wikidocs.net/blog/@smartliving/22273/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마철엔 신발과 옷만 눅눅해지는 게 아닙니다. 책상 위에 쌓아둔 서류나 다이어리도 습기를 머금으면 종이가 우글쭈글해지고, 심한 경우 곰팡이 얼룩까지 생겨버립니다. 중요…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22273/5_10_product1.jpg",
+      "id": 23817,
+      "title": "장마 끝난 뒤 입맛 없는 아이라면, 습식캔에 밥그릇을 싹 비웠다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/23817/",
+      "excerpt": "> 🐾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마 끝나고 입맛 없어하는 아이를 보신 반려인이라면, 그릇 앞에서 몇 입 뒤적이다 그냥 돌아서는 모습에 마음이 편치 않으셨을 겁니다. 더위에 지치면 사람도 입맛이 없어…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23817/9_1_img1.png",
       "published_label": "1개월 전",
-      "views": 21,
-      "daily_views": 0,
+      "views": 20,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
     },
     {
       "id": 23634,
@@ -8810,21 +8825,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23817,
-      "title": "장마 끝난 뒤 입맛 없는 아이라면, 습식캔에 밥그릇을 싹 비웠다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/23817/",
-      "excerpt": "> 🐾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마 끝나고 입맛 없어하는 아이를 보신 반려인이라면, 그릇 앞에서 몇 입 뒤적이다 그냥 돌아서는 모습에 마음이 편치 않으셨을 겁니다. 더위에 지치면 사람도 입맛이 없어…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23817/9_1_img1.png",
-      "published_label": "1개월 전",
-      "views": 19,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 25039,
@@ -9195,8 +9195,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마 시작 전 미리 챙겨야 할 옷장 습기제거제, 지금이 딱 그 타이밍입니다. 옷장 문을 열었을 때 훅 끼치는 퀴퀴한 냄새, 셔츠에 얼룩덜룩 핀 곰팡이 자국을 발견하고 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/21671/2_4_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 10643,
-      "daily_views": 1,
+      "views": 10644,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -9904,8 +9904,8 @@
     },
     {
       "date": "2026-08-19",
-      "views": 667
+      "views": 683
     }
   ],
-  "static_generated_at": "2026-08-19T15:53:41+09:00"
+  "static_generated_at": "2026-08-19T16:23:52+09:00"
 }
