@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-22T01:33:26+09:00",
+  "latest_snapshot_at": "2026-08-22T02:03:28+09:00",
   "latest_snapshot_date": "2026-08-22",
   "catalog_updated_at": "2026-08-22T00:00:50+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 306703,
-    "daily_views": 36,
+    "total_views": 306707,
+    "daily_views": 40,
     "previous_day_views": 732,
     "previous_day_date": "2026-08-21",
-    "current_month_views": 19332,
+    "current_month_views": 19336,
     "days_recorded": 54
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 158662,
-      "daily_views": 9,
+      "total_views": 158663,
+      "daily_views": 10,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 34698,
-      "daily_views": 13,
+      "total_views": 34701,
+      "daily_views": 16,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -988,8 +988,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n블랙박스는 늘 켜져 있으니 당연히 녹화가 잘 되고 있으려니 생각하기 쉽습니다. 그런데 막상 사고가 나 영상을 확인하려는 순간 \"저장된 파일이 없습니다\"라는 문구를 보면…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22694/5_3_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 603,
-      "daily_views": 0,
+      "views": 604,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1837,6 +1837,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24011,
+      "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24011/",
+      "excerpt": "> ✈️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여행 중 배터리 걱정 많으셨다면, 여행 사진과 지도 앱을 하루 종일 켜두다 보니 오후만 되면 스마트폰이 20% 밑으로 떨어져 마음이 조급해졌던 경험이 있으실 겁니다.…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24011/10_8_img1.png",
+      "published_label": "1개월 전",
+      "views": 143,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 23525,
       "title": "주말 홈시네마 즐기고 싶은 자취생·신혼부부를 위한 미니 빔프로젝터",
       "url": "https://wikidocs.net/blog/@smartliving/23525/",
@@ -1850,21 +1865,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24011,
-      "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24011/",
-      "excerpt": "> ✈️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여행 중 배터리 걱정 많으셨다면, 여행 사진과 지도 앱을 하루 종일 켜두다 보니 오후만 되면 스마트폰이 20% 밑으로 떨어져 마음이 조급해졌던 경험이 있으실 겁니다.…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24011/10_8_img1.png",
-      "published_label": "1개월 전",
-      "views": 142,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 22282,
@@ -4357,6 +4357,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 22531,
+      "title": "반려동물 장 건강이 걱정되는 보호자라면, 다들 유산균은 아무거나 먹여도 된다지만 사실 먼저 볼 건 균주 수입니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/22531/",
+      "excerpt": "---\ntitle: \"반려동물 장 건강이 걱정되는 보호자라면, 다들 유산균은 아무거나 먹여도 된다지만 사실 먼저 볼 건 균주 수입니다\"\ntags: [건강·영양관리용품]\n---\n\n> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22531/9_1.jpg",
+      "published_label": "1개월 전",
+      "views": 57,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 28483,
       "title": "아침 거르는 다이어트 직장인, 1분만에 당 걱정 덜어주는 저당 그래놀라",
       "url": "https://wikidocs.net/blog/@smartliving/28483/",
@@ -4430,21 +4445,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 22531,
-      "title": "반려동물 장 건강이 걱정되는 보호자라면, 다들 유산균은 아무거나 먹여도 된다지만 사실 먼저 볼 건 균주 수입니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/22531/",
-      "excerpt": "---\ntitle: \"반려동물 장 건강이 걱정되는 보호자라면, 다들 유산균은 아무거나 먹여도 된다지만 사실 먼저 볼 건 균주 수입니다\"\ntags: [건강·영양관리용품]\n---\n\n> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22531/9_1.jpg",
-      "published_label": "1개월 전",
-      "views": 56,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 28571,
@@ -8617,6 +8617,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 23114,
+      "title": "반려동물 키우는 집사라면, 혹시 아직도 함께 찍은 사진 핸드폰에만 저장해두고 계신가요?",
+      "url": "https://wikidocs.net/blog/@petpicknote/23114/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n핸드폰 갤러리를 넘기다 보면 절반 가까이가 우리 강아지, 고양이 사진일 때가 많으실 겁니다. 산책 나가서 찍은 사진, 낮잠 자는 모습, 처음 데려온 날의 사진까지 차곡…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23114/9_1.jpg",
+      "published_label": "1개월 전",
+      "views": 23,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24644,
       "title": "하루 8시간 앉는 사무직을 위한, 허리 결림 줄이는 등받이쿠션 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/24644/",
@@ -8700,21 +8715,6 @@
       "published_label": "1개월 전",
       "views": 22,
       "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 23114,
-      "title": "반려동물 키우는 집사라면, 혹시 아직도 함께 찍은 사진 핸드폰에만 저장해두고 계신가요?",
-      "url": "https://wikidocs.net/blog/@petpicknote/23114/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n핸드폰 갤러리를 넘기다 보면 절반 가까이가 우리 강아지, 고양이 사진일 때가 많으실 겁니다. 산책 나가서 찍은 사진, 낮잠 자는 모습, 처음 데려온 날의 사진까지 차곡…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23114/9_1.jpg",
-      "published_label": "1개월 전",
-      "views": 22,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -9461,6 +9461,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24011,
+      "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24011/",
+      "excerpt": "> ✈️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여행 중 배터리 걱정 많으셨다면, 여행 사진과 지도 앱을 하루 종일 켜두다 보니 오후만 되면 스마트폰이 20% 밑으로 떨어져 마음이 조급해졌던 경험이 있으실 겁니다.…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24011/10_8_img1.png",
+      "published_label": "1개월 전",
+      "views": 143,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 23969,
       "title": "뿌옇게 변색된 크롬몰딩 방치했다가 얼룩진 뒤에야 알게 된 광택제 고르는 법",
       "url": "https://wikidocs.net/blog/@cartemlab/23969/",
@@ -9566,6 +9581,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22694,
+      "title": "폭염에 블랙박스 메모리카드 방치하면, 정작 사고 순간 녹화가 안 돼 낭패 봅니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22694/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n블랙박스는 늘 켜져 있으니 당연히 녹화가 잘 되고 있으려니 생각하기 쉽습니다. 그런데 막상 사고가 나 영상을 확인하려는 순간 \"저장된 파일이 없습니다\"라는 문구를 보면…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22694/5_3_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 604,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 21682,
       "title": "반려인을 위한, 강아지 여름 체감이 확 달라지는 냉감 쿨매트 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/21682/",
@@ -9609,21 +9639,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24011,
-      "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24011/",
-      "excerpt": "> ✈️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여행 중 배터리 걱정 많으셨다면, 여행 사진과 지도 앱을 하루 종일 켜두다 보니 오후만 되면 스마트폰이 20% 밑으로 떨어져 마음이 조급해졌던 경험이 있으실 겁니다.…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24011/10_8_img1.png",
-      "published_label": "1개월 전",
-      "views": 142,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 22701,
@@ -9678,21 +9693,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28080/28_8_product1.jpg",
       "published_label": "11일 전",
       "views": 60,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 27253,
-      "title": "여름휴가 물놀이 가족을 위한, 요즘 다들 두께부터 본다는 성인 튜브 고르는 이유",
-      "url": "https://wikidocs.net/blog/@smartliving/27253/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n계곡이나 워터파크에 놀러 가면 어릴 적 쓰던 얇은 튜브를 들고 갔다가 몇 시간 만에 바람이 빠지거나 뾰족한 돌에 찢어져 당황했던 경험, 여름휴가 물놀이를 계획 중인 가…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27253/19_8_product1.jpg",
-      "published_label": "20일 전",
-      "views": 54,
       "daily_views": 1,
       "likes": 0,
       "comments": 0,
@@ -9916,8 +9916,8 @@
     },
     {
       "date": "2026-08-22",
-      "views": 36
+      "views": 40
     }
   ],
-  "static_generated_at": "2026-08-22T01:33:27+09:00"
+  "static_generated_at": "2026-08-22T02:03:29+09:00"
 }
