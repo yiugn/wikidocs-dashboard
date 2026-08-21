@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-22T04:33:25+09:00",
+  "latest_snapshot_at": "2026-08-22T05:03:24+09:00",
   "latest_snapshot_date": "2026-08-22",
   "catalog_updated_at": "2026-08-22T00:00:50+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 306782,
-    "daily_views": 115,
+    "total_views": 306789,
+    "daily_views": 122,
     "previous_day_views": 732,
     "previous_day_date": "2026-08-21",
-    "current_month_views": 19411,
+    "current_month_views": 19418,
     "days_recorded": 54
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 158686,
-      "daily_views": 33,
+      "total_views": 158690,
+      "daily_views": 37,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 336,
       "captured_posts": 336,
-      "total_views": 113371,
-      "daily_views": 42,
+      "total_views": 113372,
+      "daily_views": 43,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 34725,
-      "daily_views": 40,
+      "total_views": 34727,
+      "daily_views": 42,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -238,8 +238,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n휴가 떠나기 전 타이어를 점검한다며 발로 툭툭 차보거나 눈대중으로 보고 마는 분들 많습니다. 그런데 타이어 공기압은 겉보기로는 웬만큼 빠져도 티가 안 나서, 정작 공기…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22939/6_6_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 4806,
-      "daily_views": 1,
+      "views": 4807,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -2053,8 +2053,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n뙤약볕에 주차해뒀던 차에 타서 핸들을 잡는 순간 화들짝 놀라 손을 뗀 경험, 여름철이라면 다들 있으실 겁니다.\n\n에어컨이 실내를 식혀줘도 핸들 자체의 열기는 쉽게 가시…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24672/pb_16_6_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 123,
-      "daily_views": 0,
+      "views": 124,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -3547,6 +3547,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24433,
+      "title": "여름휴가 앞두고 반려식물 걱정이셨다면, 자동급수기 하나로 여행이 훨씬 편해졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24433/",
+      "excerpt": "> 🔖 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여름휴가 계획을 세우다 보면 항공권과 숙소 걱정 다음으로 떠오르는 것이 집에 두고 갈 반려식물입니다. 3박 4일만 다녀와도 화분 흙이 바싹 말라 잎이 축 처져 있던 경…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24433/12_9_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 63,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 28570,
       "title": "화장실 리듬 불규칙한 직장인, 하루 1포로 편한 아침 만들어주는 식이섬유 보충제",
       "url": "https://wikidocs.net/blog/@smartliving/28570/",
@@ -3705,21 +3720,6 @@
       "published_label": "1개월 전",
       "views": 62,
       "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 24433,
-      "title": "여름휴가 앞두고 반려식물 걱정이셨다면, 자동급수기 하나로 여행이 훨씬 편해졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24433/",
-      "excerpt": "> 🔖 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여름휴가 계획을 세우다 보면 항공권과 숙소 걱정 다음으로 떠오르는 것이 집에 두고 갈 반려식물입니다. 3박 4일만 다녀와도 화분 흙이 바싹 말라 잎이 축 처져 있던 경…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24433/12_9_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 62,
-      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -4372,6 +4372,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 28571,
+      "title": "천장 낮은 집 사는 가족, 버튼 하나로 30초만에 오르내려주는 리프트건조대",
+      "url": "https://wikidocs.net/blog/@smartliving/28571/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n천장이 낮은 집에 살다 보면 빨래건조대를 펼 때마다 머리가 부딪히거나, 문을 열 때마다 건조대 다리에 걸려 넘어질 뻔한 경험 있으실 겁니다. 좁은 베란다에 커다란 건조…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28571/33_10_product1.jpg",
+      "published_label": "6일 전",
+      "views": 57,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28483,
       "title": "아침 거르는 다이어트 직장인, 1분만에 당 걱정 덜어주는 저당 그래놀라",
       "url": "https://wikidocs.net/blog/@smartliving/28483/",
@@ -4475,21 +4490,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28571,
-      "title": "천장 낮은 집 사는 가족, 버튼 하나로 30초만에 오르내려주는 리프트건조대",
-      "url": "https://wikidocs.net/blog/@smartliving/28571/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n천장이 낮은 집에 살다 보면 빨래건조대를 펼 때마다 머리가 부딪히거나, 문을 열 때마다 건조대 다리에 걸려 넘어질 뻔한 경험 있으실 겁니다. 좁은 베란다에 커다란 건조…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28571/33_10_product1.jpg",
-      "published_label": "6일 전",
-      "views": 56,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 28391,
@@ -5272,6 +5272,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22285,
+      "title": "휴가철 장거리 앞두신 분이라면, 차량용 공기주입기로 출발 전 공기압 걱정 던다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22285/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n휴가 떠나기 전날 밤, 문득 '타이어 공기압은 괜찮나' 싶어 계기판을 봤더니 경고등이 깜빡, 그런데 이 시간에 문 연 정비소도 주유소도 마땅치 않아 그냥 출발했던 경험…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22285/3_4_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 49,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24004,
       "title": "강아지 발톱 관리를 미루기 쉬우셨던 분이라면, 발톱깎이 하나로 훨씬 수월해졌다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/24004/",
@@ -5400,21 +5415,6 @@
       "published_label": "1개월 전",
       "views": 48,
       "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 22285,
-      "title": "휴가철 장거리 앞두신 분이라면, 차량용 공기주입기로 출발 전 공기압 걱정 던다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22285/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n휴가 떠나기 전날 밤, 문득 '타이어 공기압은 괜찮나' 싶어 계기판을 봤더니 경고등이 깜빡, 그런데 이 시간에 문 연 정비소도 주유소도 마땅치 않아 그냥 출발했던 경험…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22285/3_4_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 48,
-      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -6247,6 +6247,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 23196,
+      "title": "장마철 소나기에 트렁크 짐 자주 젖었다면, 방수 매트 깔고 안심했다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23196/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마와 폭염이 겹치면 갑작스런 소나기가 잦다. 트렁크에 짐을 싣고 다니는데 한두 시간 주차하는 사이 물이 새서 다 젖는 경험을 해본 사람이 많다.\n\n방수 매트 하나면 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23196/7_3_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 42,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24650,
       "title": "구글 클라우드 서버 가격: 1인 개발자가 월 0원으로 유지할 수 있을까?",
       "url": "https://wikidocs.net/blog/@petpicknote/24650/",
@@ -6412,21 +6427,6 @@
       "blog_name": "카템랩"
     },
     {
-      "id": 23196,
-      "title": "장마철 소나기에 트렁크 짐 자주 젖었다면, 방수 매트 깔고 안심했다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23196/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마와 폭염이 겹치면 갑작스런 소나기가 잦다. 트렁크에 짐을 싣고 다니는데 한두 시간 주차하는 사이 물이 새서 다 젖는 경험을 해본 사람이 많다.\n\n방수 매트 하나면 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23196/7_3_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 41,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
       "id": 24427,
       "title": "무더위에 운동하시는 분이라면, 전해질 보충제 하나로 어지러움이 줄었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/24427/",
@@ -6435,6 +6435,21 @@
       "published_label": "1개월 전",
       "views": 41,
       "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 22529,
+      "title": "고양이와 함께 첫 여름을 보내는 집사라면, 냉감방석 하나로 낮잠 자세가 달라졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/22529/",
+      "excerpt": "---\ntitle: \"고양이와 함께 첫 여름을 보내는 집사라면, 냉감방석 하나로 낮잠 자세가 달라졌다는 후기가 많습니다\"\ntags: [하우스·침구용품]\n---\n\n> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n고양이…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22529/8_1.jpg",
+      "published_label": "1개월 전",
+      "views": 41,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -6570,21 +6585,6 @@
       "published_label": "1개월 전",
       "views": 40,
       "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22529,
-      "title": "고양이와 함께 첫 여름을 보내는 집사라면, 냉감방석 하나로 낮잠 자세가 달라졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/22529/",
-      "excerpt": "---\ntitle: \"고양이와 함께 첫 여름을 보내는 집사라면, 냉감방석 하나로 낮잠 자세가 달라졌다는 후기가 많습니다\"\ntags: [하우스·침구용품]\n---\n\n> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n고양이…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22529/8_1.jpg",
-      "published_label": "1개월 전",
-      "views": 40,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -9300,8 +9300,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n휴가 떠나기 전 타이어를 점검한다며 발로 툭툭 차보거나 눈대중으로 보고 마는 분들 많습니다. 그런데 타이어 공기압은 겉보기로는 웬만큼 빠져도 티가 안 나서, 정작 공기…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22939/6_6_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 4806,
-      "daily_views": 1,
+      "views": 4807,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -9476,6 +9476,36 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 22285,
+      "title": "휴가철 장거리 앞두신 분이라면, 차량용 공기주입기로 출발 전 공기압 걱정 던다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22285/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n휴가 떠나기 전날 밤, 문득 '타이어 공기압은 괜찮나' 싶어 계기판을 봤더니 경고등이 깜빡, 그런데 이 시간에 문 연 정비소도 주유소도 마땅치 않아 그냥 출발했던 경험…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22285/3_4_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 49,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
+      "id": 22939,
+      "title": "휴가 전 타이어 점검할 때 다들 놓치는 공기압, 캡 하나로 눈으로 확인하는 법",
+      "url": "https://wikidocs.net/blog/@cartemlab/22939/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n휴가 떠나기 전 타이어를 점검한다며 발로 툭툭 차보거나 눈대중으로 보고 마는 분들 많습니다. 그런데 타이어 공기압은 겉보기로는 웬만큼 빠져도 티가 안 나서, 정작 공기…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22939/6_6_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 4807,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22490,
       "title": "블루투스 없는 구형차 타는 분들, 혹시 아직도 휴대폰 스피커로 내비 소리 듣고 계신가요?",
       "url": "https://wikidocs.net/blog/@cartemlab/22490/",
@@ -9596,6 +9626,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24433,
+      "title": "여름휴가 앞두고 반려식물 걱정이셨다면, 자동급수기 하나로 여행이 훨씬 편해졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24433/",
+      "excerpt": "> 🔖 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여름휴가 계획을 세우다 보면 항공권과 숙소 걱정 다음으로 떠오르는 것이 집에 두고 갈 반려식물입니다. 3박 4일만 다녀와도 화분 흙이 바싹 말라 잎이 축 처져 있던 경…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24433/12_9_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 63,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24656,
       "title": "업무 관리 어플, 5인 팀의 피드백 누락 줄이는 실시간 공유 기능 6가지",
       "url": "https://wikidocs.net/blog/@petpicknote/24656/",
@@ -9626,21 +9671,6 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 22285,
-      "title": "휴가철 장거리 앞두신 분이라면, 차량용 공기주입기로 출발 전 공기압 걱정 던다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22285/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n휴가 떠나기 전날 밤, 문득 '타이어 공기압은 괜찮나' 싶어 계기판을 봤더니 경고등이 깜빡, 그런데 이 시간에 문 연 정비소도 주유소도 마땅치 않아 그냥 출발했던 경험…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22285/3_4_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 48,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
       "id": 25212,
       "title": "Project 관리 툴, 10인 마케팅팀의 캠페인 일정 혼란 줄이는 7가지 핵심 기능 (2026년 최신)",
       "url": "https://wikidocs.net/blog/@petpicknote/25212/",
@@ -9669,36 +9699,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 22939,
-      "title": "휴가 전 타이어 점검할 때 다들 놓치는 공기압, 캡 하나로 눈으로 확인하는 법",
-      "url": "https://wikidocs.net/blog/@cartemlab/22939/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n휴가 떠나기 전 타이어를 점검한다며 발로 툭툭 차보거나 눈대중으로 보고 마는 분들 많습니다. 그런데 타이어 공기압은 겉보기로는 웬만큼 빠져도 티가 안 나서, 정작 공기…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22939/6_6_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 4806,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 23106,
-      "title": "여름철 산책 자주 나가는 반려인이라면, 발바닥 화상 걱정 없는 산책화로 바꾸고 나서 산책이 훨씬 편해졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/23106/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n아스팔트 위로 아지랑이가 피어오르는 오후, 목줄을 채우려는 손길에 신나서 현관 앞을 빙글빙글 도는 강아지를 보고 계신 분들 많으실 겁니다. 하지만 손등을 땅에 대보면 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23106/1_1.jpg",
-      "published_label": "1개월 전",
-      "views": 3944,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     }
   ],
   "daily_totals": [
@@ -9916,8 +9916,8 @@
     },
     {
       "date": "2026-08-22",
-      "views": 115
+      "views": 122
     }
   ],
-  "static_generated_at": "2026-08-22T04:33:26+09:00"
+  "static_generated_at": "2026-08-22T05:03:25+09:00"
 }
