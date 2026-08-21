@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-21T13:03:29+09:00",
+  "latest_snapshot_at": "2026-08-21T13:33:28+09:00",
   "latest_snapshot_date": "2026-08-21",
   "catalog_updated_at": "2026-08-21T00:22:12+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 306183,
-    "daily_views": 248,
+    "total_views": 306191,
+    "daily_views": 256,
     "previous_day_views": 694,
     "previous_day_date": "2026-08-20",
-    "current_month_views": 18812,
+    "current_month_views": 18820,
     "days_recorded": 53
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 158527,
-      "daily_views": 44,
+      "total_views": 158531,
+      "daily_views": 48,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 336,
       "captured_posts": 336,
-      "total_views": 113107,
-      "daily_views": 139,
+      "total_views": 113109,
+      "daily_views": 141,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 34549,
-      "daily_views": 65,
+      "total_views": 34551,
+      "daily_views": 67,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -163,8 +163,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n내비를 보려고 자꾸 고개를 숙이거나 눈을 아래로 내렸다가, 다시 앞을 보는 그 짧은 순간이 은근히 불안하죠. 특히 고속 주행 중엔 시선이 도로에서 떨어지는 찰나가 길게…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22943/6_10_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 9212,
-      "daily_views": 0,
+      "views": 9213,
+      "daily_views": 1,
       "likes": 0,
       "comments": 1,
       "blog_id": 1978,
@@ -1033,8 +1033,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n에어컨을 아무리 세게 틀어도 등짝은 이미 젖어있더라고요\n\n문을 열자마자 훅 끼치는 열기, 핸들을 잡으면 손바닥이 화끈거릴 정도로 뜨거운 그 감촉을 아실 겁니다. 시동을…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/21908/1_2_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 527,
-      "daily_views": 1,
+      "views": 528,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -2317,6 +2317,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24160,
+      "title": "출근 준비 바쁜 직장인을 위한, 다림질 시간 줄여주는 무선 스팀다리미",
+      "url": "https://wikidocs.net/blog/@smartliving/24160/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n출근 5분 전, 구겨진 셔츠를 발견했을 때의 그 당혹감\n\n출근 준비를 다 끝내고 마지막으로 셔츠를 걸치려는 순간, 옷깃이 잔뜩 구겨져 있는 걸 발견하고 당황했던 경험 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24160/14_5_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 96,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 21989,
       "title": "여름휴가 떠나기 전 미리 챙겨야 할 방수 세면파우치 3가지",
       "url": "https://wikidocs.net/blog/@smartliving/21989/",
@@ -2325,21 +2340,6 @@
       "published_label": "1개월 전",
       "views": 96,
       "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24160,
-      "title": "출근 준비 바쁜 직장인을 위한, 다림질 시간 줄여주는 무선 스팀다리미",
-      "url": "https://wikidocs.net/blog/@smartliving/24160/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n출근 5분 전, 구겨진 셔츠를 발견했을 때의 그 당혹감\n\n출근 준비를 다 끝내고 마지막으로 셔츠를 걸치려는 순간, 옷깃이 잔뜩 구겨져 있는 걸 발견하고 당황했던 경험 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24160/14_5_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 95,
-      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -2947,6 +2947,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23550,
+      "title": "장거리 운전 잦으신 분이라면, 타르 제거제로 차량 겉면 찐득한 자국 말끔히 지웠다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23550/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n고속도로를 한참 달리고 나서 무심코 차 옆면을 손으로 쓸어봤는데, 까끌까끌하다 못해 끈적하게 손끝에 검은 자국이 묻어난 적 있으실 겁니다.\n\n세차장에서 거품 세차까지 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23550/9_1_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 73,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 28281,
       "title": "현관문 열 때마다 모기 들어오는 아파트 거주자, 공사 없이 5초 만에 붙이는 자석 방충망",
       "url": "https://wikidocs.net/blog/@smartliving/28281/",
@@ -2990,21 +3005,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23550,
-      "title": "장거리 운전 잦으신 분이라면, 타르 제거제로 차량 겉면 찐득한 자국 말끔히 지웠다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23550/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n고속도로를 한참 달리고 나서 무심코 차 옆면을 손으로 쓸어봤는데, 까끌까끌하다 못해 끈적하게 손끝에 검은 자국이 묻어난 적 있으실 겁니다.\n\n세차장에서 거품 세차까지 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23550/9_1_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 72,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 25038,
@@ -4567,6 +4567,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24675,
+      "title": "블랙박스 자꾸 녹화 오류 나던 뒤에야 알게 된 SD카드 고르는 법, TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24675/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n블랙박스 영상을 확인하려는데 '카드 오류'나 '포맷 필요' 메시지가 떠서 정작 필요한 순간 녹화가 안 돼 있었던 경험 있으실 겁니다.\n\n블랙박스는 24시간 반복 녹화라…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24675/pb_16_9_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 54,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24669,
       "title": "장마철 에어컨 냄새 나던 분들, 클리너 한 번에 냄새 사라졌다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/24669/",
@@ -4685,21 +4700,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24675,
-      "title": "블랙박스 자꾸 녹화 오류 나던 뒤에야 알게 된 SD카드 고르는 법, TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24675/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n블랙박스 영상을 확인하려는데 '카드 오류'나 '포맷 필요' 메시지가 떠서 정작 필요한 순간 녹화가 안 돼 있었던 경험 있으실 겁니다.\n\n블랙박스는 24시간 반복 녹화라…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24675/pb_16_9_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 53,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 22695,
@@ -4912,6 +4912,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 28732,
+      "title": "드라이비 3천원씩 아까운 직장인, 스타일러로 정장냄새 잡아주는 섬유탈취제 리필",
+      "url": "https://wikidocs.net/blog/@smartliving/28732/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근길 지하철에서 옆 사람이 살짝 인상을 찌푸리는 걸 느낀 적 있으신가요. 하루 종일 입은 정장 재킷에서 땀 냄새와 음식 냄새가 뒤섞여 배어 있는데, 매번 드라이클리닝…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28732/35_3_product1.jpg",
+      "published_label": "4일 전",
+      "views": 51,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28647,
       "title": "매일 물때 지우는 자취생, 만원대로 청소 횟수 줄여주는 유리 발수코팅제",
       "url": "https://wikidocs.net/blog/@smartliving/28647/",
@@ -4955,21 +4970,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 28732,
-      "title": "드라이비 3천원씩 아까운 직장인, 스타일러로 정장냄새 잡아주는 섬유탈취제 리필",
-      "url": "https://wikidocs.net/blog/@smartliving/28732/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근길 지하철에서 옆 사람이 살짝 인상을 찌푸리는 걸 느낀 적 있으신가요. 하루 종일 입은 정장 재킷에서 땀 냄새와 음식 냄새가 뒤섞여 배어 있는데, 매번 드라이클리닝…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28732/35_3_product1.jpg",
-      "published_label": "4일 전",
-      "views": 50,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 28730,
@@ -5120,6 +5120,21 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
+    },
+    {
+      "id": 24004,
+      "title": "강아지 발톱 관리를 미루기 쉬우셨던 분이라면, 발톱깎이 하나로 훨씬 수월해졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24004/",
+      "excerpt": "> 🐾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n강아지 발톱 관리, 매번 미루다가 어느새 바닥에 또각또각 소리가 나기 시작해서야 부랴부랴 발톱깎이를 찾아본 경험이 한 번쯤은 있으실 겁니다. 특히 어두운 발톱을 가진 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24004/10_1_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 49,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
     },
     {
       "id": 23372,
@@ -5285,21 +5300,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24004,
-      "title": "강아지 발톱 관리를 미루기 쉬우셨던 분이라면, 발톱깎이 하나로 훨씬 수월해졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24004/",
-      "excerpt": "> 🐾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n강아지 발톱 관리, 매번 미루다가 어느새 바닥에 또각또각 소리가 나기 시작해서야 부랴부랴 발톱깎이를 찾아본 경험이 한 번쯤은 있으실 겁니다. 특히 어두운 발톱을 가진 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24004/10_1_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 48,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 22918,
@@ -8932,6 +8932,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 23819,
+      "title": "캠핑 초보시라면, 요즘 다들 캠프닉으로 떠난다는데 이유가 있었습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/23819/",
+      "excerpt": "> 🐾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n캠핑 초보시라면, 요즘 다들 도심 근교로 캠프닉을 떠난다는데 이유가 있었습니다. 캠프닉은 캠핑과 피크닉을 합친 말로, 하룻밤 묵는 정식 캠핑과 달리 당일치기로 가볍게 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23819/9_3_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 18,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 23818,
       "title": "산책 후 유독 헥헥댔던 아이라면, 냉감 티셔츠 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/23818/",
@@ -8960,21 +8975,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23819,
-      "title": "캠핑 초보시라면, 요즘 다들 캠프닉으로 떠난다는데 이유가 있었습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/23819/",
-      "excerpt": "> 🐾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n캠핑 초보시라면, 요즘 다들 도심 근교로 캠프닉을 떠난다는데 이유가 있었습니다. 캠프닉은 캠핑과 피크닉을 합친 말로, 하룻밤 묵는 정식 캠핑과 달리 당일치기로 가볍게 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23819/9_3_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 17,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 24857,
@@ -9225,8 +9225,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n내비를 보려고 자꾸 고개를 숙이거나 눈을 아래로 내렸다가, 다시 앞을 보는 그 짧은 순간이 은근히 불안하죠. 특히 고속 주행 중엔 시선이 도로에서 떨어지는 찰나가 길게…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22943/6_10_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 9212,
-      "daily_views": 0,
+      "views": 9213,
+      "daily_views": 1,
       "likes": 0,
       "comments": 1,
       "blog_id": 1978,
@@ -9671,6 +9671,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 21908,
+      "title": "폭염 속 매일 운전하는 분들이라면, 통풍시트·쿨매트 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/21908/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n에어컨을 아무리 세게 틀어도 등짝은 이미 젖어있더라고요\n\n문을 열자마자 훅 끼치는 열기, 핸들을 잡으면 손바닥이 화끈거릴 정도로 뜨거운 그 감촉을 아실 겁니다. 시동을…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/21908/1_2_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 528,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 25219,
       "title": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁",
       "url": "https://wikidocs.net/blog/@petpicknote/25219/",
@@ -9678,21 +9693,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25219/14_10_img1.jpg",
       "published_label": "1개월 전",
       "views": 501,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 23110,
-      "title": "털 많이 뱉는 고양이 키우신다면, 헤어볼 영양제 하나로 그 걱정이 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/23110/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n한밤중에 \"케엑, 케엑\" 소리가 들려 놀라 일어나 보면, 카펫 위에 축축한 헤어볼을 게워낸 고양이가 태연하게 그루밍을 이어가고 있는 모습을 보신 적 있으실 겁니다. 처…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23110/5_1.jpg",
-      "published_label": "1개월 전",
-      "views": 217,
       "daily_views": 2,
       "likes": 0,
       "comments": 0,
@@ -9912,8 +9912,8 @@
     },
     {
       "date": "2026-08-21",
-      "views": 248
+      "views": 256
     }
   ],
-  "static_generated_at": "2026-08-21T13:03:31+09:00"
+  "static_generated_at": "2026-08-21T13:33:29+09:00"
 }
