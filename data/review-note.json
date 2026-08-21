@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-21T15:03:27+09:00",
+  "latest_snapshot_at": "2026-08-21T15:33:25+09:00",
   "latest_snapshot_date": "2026-08-21",
   "catalog_updated_at": "2026-08-21T00:22:12+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 306291,
-    "daily_views": 356,
+    "total_views": 306302,
+    "daily_views": 367,
     "previous_day_views": 694,
     "previous_day_date": "2026-08-20",
-    "current_month_views": 18920,
+    "current_month_views": 18931,
     "days_recorded": 53
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 158543,
-      "daily_views": 60,
+      "total_views": 158545,
+      "daily_views": 62,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 336,
       "captured_posts": 336,
-      "total_views": 113184,
-      "daily_views": 216,
+      "total_views": 113189,
+      "daily_views": 221,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 34564,
-      "daily_views": 80,
+      "total_views": 34568,
+      "daily_views": 84,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -268,8 +268,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n세탁기를 돌리고 나면 이제부터가 진짜 고민입니다. 원룸이나 좁은 자취방이라면 빨래를 널 공간 자체가 마땅치 않아서, 옷걸이에 걸어 문고리에 주렁주렁 매달아 봤지만 다 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23122/9_7_product1.jpg",
       "published_label": "1개월 전",
-      "views": 3849,
-      "daily_views": 0,
+      "views": 3850,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -613,8 +613,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n새 차 냄새 폴폴 나는데, 시거잭 케이블만 예전 그대로였습니다\n\n신차를 인수하고 처음 시동을 걸었을 때의 그 설렘, 다들 아실 겁니다. 깔끔한 대시보드, 반짝이는 인포…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/21913/1_7_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 1234,
-      "daily_views": 0,
+      "views": 1235,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1597,6 +1597,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24657,
+      "title": "노션 업무 관리, 사회 초년생이 입사 첫 달에 빠르게 익힐 사용법 5단계",
+      "url": "https://wikidocs.net/blog/@petpicknote/24657/",
+      "excerpt": "노션 업무 관리, 사회 초년생이 입사 첫 달에 빠르게 익힐 사용법 5단계\n\n사회 초년생이라면 입사 첫 달에 새로운 업무 환경과 방대한 정보를 마주하며 막막함을 느낄 수 있습니다. 노션(Notion)은 이러한 혼란을 체계적으로 정리하고 업무 효율을 극대화하는 강력한 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24657/13_8_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 194,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 23355,
       "title": "멀티비타민 살 때 다들 놓치는 체크포인트 한 가지",
       "url": "https://wikidocs.net/blog/@smartliving/23355/",
@@ -1610,21 +1625,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24657,
-      "title": "노션 업무 관리, 사회 초년생이 입사 첫 달에 빠르게 익힐 사용법 5단계",
-      "url": "https://wikidocs.net/blog/@petpicknote/24657/",
-      "excerpt": "노션 업무 관리, 사회 초년생이 입사 첫 달에 빠르게 익힐 사용법 5단계\n\n사회 초년생이라면 입사 첫 달에 새로운 업무 환경과 방대한 정보를 마주하며 막막함을 느낄 수 있습니다. 노션(Notion)은 이러한 혼란을 체계적으로 정리하고 업무 효율을 극대화하는 강력한 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24657/13_8_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 193,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 23351,
@@ -1708,8 +1708,8 @@
       "excerpt": "구글 스프레드시트 프로젝트 관리: 5인 팀 업무 진척도 시각화 노하우 6가지\n\n5인 규모의 팀은 구글 스프레드시트를 활용하여 프로젝트 업무 진척도를 효과적으로 시각화하고 관리할 수 있습니다. 특히, 조건부 서식, 데이터 유효성 검사, 간트 차트 시각화, 대시보드 구…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25222/15_3_img1.jpg",
       "published_label": "1개월 전",
-      "views": 157,
-      "daily_views": 1,
+      "views": 158,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1912,6 +1912,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24885,
+      "title": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법",
+      "url": "https://wikidocs.net/blog/@petpicknote/24885/",
+      "excerpt": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법\n\n현대해상 ECO 마일리지 특약은 연간 주행거리에 따라 자동차 보험료를 환급받는 제도입니다. 특히 연 1만km 이하 주행하는 운전자라면 최대 18.8% (커넥티드 방식 기…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24885/14_4_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 136,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 23200,
       "title": "다들 대시보드는 햇빛에만 노출된다지만, 사실 자외선 손상이 얼마나 빠르게 진행되는지 아는 사람은 적습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/23200/",
@@ -1925,21 +1940,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24885,
-      "title": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법",
-      "url": "https://wikidocs.net/blog/@petpicknote/24885/",
-      "excerpt": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법\n\n현대해상 ECO 마일리지 특약은 연간 주행거리에 따라 자동차 보험료를 환급받는 제도입니다. 특히 연 1만km 이하 주행하는 운전자라면 최대 18.8% (커넥티드 방식 기…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24885/14_4_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 135,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 27298,
@@ -1978,8 +1978,8 @@
       "excerpt": "2026년 소방 안전 관리자 선임 전, 한국소방안전원 체크리스트 5가지\n\n소방 안전 관리자 선임은 특정소방대상물의 안전을 확보하고 화재를 예방하기 위한 필수적인 법적 의무입니다. 2026년 현재, 한국소방안전원 홈페이지 및 소방청 소방민원센터를 통해 선임 기준과 절…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25214/14_7_img1.jpg",
       "published_label": "1개월 전",
-      "views": 132,
-      "daily_views": 0,
+      "views": 133,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -2377,6 +2377,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28277,
+      "title": "재택근무·온라인수업 병행하는 직장인, 180도 자유 조절해 목 통증 줄여주는 태블릿 거치대",
+      "url": "https://wikidocs.net/blog/@smartliving/28277/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n재택근무 화상회의에 이어 아이 온라인수업 화면까지 태블릿으로 챙기다 보면, 손으로 계속 들고 있거나 책 더미에 위태롭게 기대놓은 채 하루를 버틴 경험 한 번쯤 있으실 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28277/30_3_product1.jpg",
+      "published_label": "9일 전",
+      "views": 93,
+      "daily_views": 7,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27397,
       "title": "똑딱 소리에 잠 설친 끝에 알게 된 무소음 벽시계 고르는 법",
       "url": "https://wikidocs.net/blog/@smartliving/27397/",
@@ -2405,21 +2420,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28277,
-      "title": "재택근무·온라인수업 병행하는 직장인, 180도 자유 조절해 목 통증 줄여주는 태블릿 거치대",
-      "url": "https://wikidocs.net/blog/@smartliving/28277/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n재택근무 화상회의에 이어 아이 온라인수업 화면까지 태블릿으로 챙기다 보면, 손으로 계속 들고 있거나 책 더미에 위태롭게 기대놓은 채 하루를 버틴 경험 한 번쯤 있으실 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28277/30_3_product1.jpg",
-      "published_label": "9일 전",
-      "views": 91,
-      "daily_views": 5,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 28081,
@@ -2932,6 +2932,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 27390,
+      "title": "위생 신경쓰는 자취 주부를 위한, 병원비 줄여주는 도마 살균건조기 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/27390/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n자취 시작하고 나서부터 도마 냄새가 유독 신경 쓰이신 적 있으실 겁니다. 분명 씻어서 말렸는데도 축축한 나무 냄새, 살짝 비릿한 냄새가 코끝에 걸리면 그날 요리할 마음…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27390/21_1_product1.jpg",
+      "published_label": "18일 전",
+      "views": 74,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27303,
       "title": "손목 아프게 채소 물기 짜던 시간 줄여주는 휴대용 채소탈수기 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/27303/",
@@ -2983,21 +2998,6 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n운동을 마치고 나면 옷이 흠뻑 젖을 만큼 땀을 흘렸는데도, 며칠째 몸이 무겁고 다리에 쥐가 잘 나신 적 있으실 겁니다. 물만 마셔서는 채워지지 않는 무언가가 빠져나간 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28198/29_10_product1.jpg",
       "published_label": "10일 전",
-      "views": 73,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 27390,
-      "title": "위생 신경쓰는 자취 주부를 위한, 병원비 줄여주는 도마 살균건조기 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27390/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n자취 시작하고 나서부터 도마 냄새가 유독 신경 쓰이신 적 있으실 겁니다. 분명 씻어서 말렸는데도 축축한 나무 냄새, 살짝 비릿한 냄새가 코끝에 걸리면 그날 요리할 마음…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27390/21_1_product1.jpg",
-      "published_label": "18일 전",
       "views": 73,
       "daily_views": 0,
       "likes": 0,
@@ -3652,6 +3652,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28275,
+      "title": "기어다니는 아기 키우는 부모, 1cm 쿠션으로 낙상충격 흡수해주는 실내 안전매트",
+      "url": "https://wikidocs.net/blog/@smartliving/28275/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n아기가 기어다니기 시작하면서부터 거실 바닥이 갑자기 무섭게 느껴지신 적 있으실 겁니다. 소파 모서리에 부딪혀 우는 소리, 딱딱한 바닥에 엉덩방아 찧는 소리가 하루에도 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28275/30_1_product1.jpg",
+      "published_label": "9일 전",
+      "views": 62,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28190,
       "title": "역대 최장 열대야 통근길 지친 직장인, 체감온도 5도 낮춰주는 휴대용 손선풍기",
       "url": "https://wikidocs.net/blog/@smartliving/28190/",
@@ -3733,21 +3748,6 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근할 때쯤 손목이 뻐근하고 저릿한 느낌, 사무직이라면 낯설지 않으실 겁니다. 하루 8시간 가까이 마우스를 쥐고 있으면서도 정작 손목 밑에는 아무런 받침 없이 딱딱한 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28385/31_3_product1.jpg",
       "published_label": "8일 전",
-      "views": 61,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28275,
-      "title": "기어다니는 아기 키우는 부모, 1cm 쿠션으로 낙상충격 흡수해주는 실내 안전매트",
-      "url": "https://wikidocs.net/blog/@smartliving/28275/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n아기가 기어다니기 시작하면서부터 거실 바닥이 갑자기 무섭게 느껴지신 적 있으실 겁니다. 소파 모서리에 부딪혀 우는 소리, 딱딱한 바닥에 엉덩방아 찧는 소리가 하루에도 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28275/30_1_product1.jpg",
-      "published_label": "9일 전",
       "views": 61,
       "daily_views": 0,
       "likes": 0,
@@ -5272,6 +5272,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24336,
+      "title": "장거리·오지로 자주 떠나는 분이라면, 점프스타터 하나로 방전 걱정 덜었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24336/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n인적 드문 곳에서 시동이 안 걸려 발이 묶였던 경험, 상상만 해도 아찔하실 겁니다.\n\n보험사 긴급출동을 부르려 해도 오지에서는 도착까지 오래 걸리는 경우가 많아, 그 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24336/pb_14_10_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 48,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23977,
       "title": "셀프 정비 즐기시는 분이라면, 유압 잭 하나로 타이어 교체 시간 확 줄었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/23977/",
@@ -5450,21 +5465,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24336,
-      "title": "장거리·오지로 자주 떠나는 분이라면, 점프스타터 하나로 방전 걱정 덜었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24336/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n인적 드문 곳에서 시동이 안 걸려 발이 묶였던 경험, 상상만 해도 아찔하실 겁니다.\n\n보험사 긴급출동을 부르려 해도 오지에서는 도착까지 오래 걸리는 경우가 많아, 그 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24336/pb_14_10_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 47,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 24330,
@@ -9330,8 +9330,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n세탁기를 돌리고 나면 이제부터가 진짜 고민입니다. 원룸이나 좁은 자취방이라면 빨래를 널 공간 자체가 마땅치 않아서, 옷걸이에 걸어 문고리에 주렁주렁 매달아 봤지만 다 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23122/9_7_product1.jpg",
       "published_label": "1개월 전",
-      "views": 3849,
-      "daily_views": 0,
+      "views": 3850,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -9491,6 +9491,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 28277,
+      "title": "재택근무·온라인수업 병행하는 직장인, 180도 자유 조절해 목 통증 줄여주는 태블릿 거치대",
+      "url": "https://wikidocs.net/blog/@smartliving/28277/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n재택근무 화상회의에 이어 아이 온라인수업 화면까지 태블릿으로 챙기다 보면, 손으로 계속 들고 있거나 책 더미에 위태롭게 기대놓은 채 하루를 버틴 경험 한 번쯤 있으실 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28277/30_3_product1.jpg",
+      "published_label": "9일 전",
+      "views": 93,
+      "daily_views": 7,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28638,
       "title": "열대야에 에어컨 못 끄는 직장인, 체감 3도 낮춰 냉방비 아껴주는 쿨매트",
       "url": "https://wikidocs.net/blog/@smartliving/28638/",
@@ -9514,21 +9529,6 @@
       "published_label": "5일 전",
       "views": 43,
       "daily_views": 7,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28277,
-      "title": "재택근무·온라인수업 병행하는 직장인, 180도 자유 조절해 목 통증 줄여주는 태블릿 거치대",
-      "url": "https://wikidocs.net/blog/@smartliving/28277/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n재택근무 화상회의에 이어 아이 온라인수업 화면까지 태블릿으로 챙기다 보면, 손으로 계속 들고 있거나 책 더미에 위태롭게 기대놓은 채 하루를 버틴 경험 한 번쯤 있으실 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28277/30_3_product1.jpg",
-      "published_label": "9일 전",
-      "views": 91,
-      "daily_views": 5,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -9641,6 +9641,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24657,
+      "title": "노션 업무 관리, 사회 초년생이 입사 첫 달에 빠르게 익힐 사용법 5단계",
+      "url": "https://wikidocs.net/blog/@petpicknote/24657/",
+      "excerpt": "노션 업무 관리, 사회 초년생이 입사 첫 달에 빠르게 익힐 사용법 5단계\n\n사회 초년생이라면 입사 첫 달에 새로운 업무 환경과 방대한 정보를 마주하며 막막함을 느낄 수 있습니다. 노션(Notion)은 이러한 혼란을 체계적으로 정리하고 업무 효율을 극대화하는 강력한 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24657/13_8_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 194,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24654,
       "title": "라인프렌즈 스마트 스토어: 20대 공략 굿즈 판매 전략 5가지",
       "url": "https://wikidocs.net/blog/@petpicknote/24654/",
@@ -9678,21 +9693,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28189/29_1_product1.jpg",
       "published_label": "10일 전",
       "views": 58,
-      "daily_views": 4,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28645,
-      "title": "회의실서 발표 자주하는 직장인, 9000원부터 버벅임 없이 넘겨주는 무선 프레젠터",
-      "url": "https://wikidocs.net/blog/@smartliving/28645/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n발표 자료를 열심히 준비해놓고, 정작 발표 당일 노트북 앞에 서서 직접 스페이스바를 눌러가며 슬라이드를 넘긴 적 있으실 겁니다. 청중과 눈을 맞추며 이야기를 이어가야 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28645/34_8_product1.jpg",
-      "published_label": "5일 전",
-      "views": 49,
       "daily_views": 4,
       "likes": 0,
       "comments": 0,
@@ -9912,8 +9912,8 @@
     },
     {
       "date": "2026-08-21",
-      "views": 356
+      "views": 367
     }
   ],
-  "static_generated_at": "2026-08-21T15:03:28+09:00"
+  "static_generated_at": "2026-08-21T15:33:26+09:00"
 }
