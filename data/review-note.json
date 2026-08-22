@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-22T11:03:42+09:00",
+  "latest_snapshot_at": "2026-08-22T11:33:24+09:00",
   "latest_snapshot_date": "2026-08-22",
   "catalog_updated_at": "2026-08-22T00:00:50+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 306960,
-    "daily_views": 293,
+    "total_views": 306972,
+    "daily_views": 305,
     "previous_day_views": 732,
     "previous_day_date": "2026-08-21",
-    "current_month_views": 19589,
+    "current_month_views": 19601,
     "days_recorded": 54
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 158734,
-      "daily_views": 81,
+      "total_views": 158737,
+      "daily_views": 84,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 336,
       "captured_posts": 336,
-      "total_views": 113458,
-      "daily_views": 129,
+      "total_views": 113462,
+      "daily_views": 133,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 34768,
-      "daily_views": 83,
+      "total_views": 34773,
+      "daily_views": 88,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -253,8 +253,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n아스팔트 위로 아지랑이가 피어오르는 오후, 목줄을 채우려는 손길에 신나서 현관 앞을 빙글빙글 도는 강아지를 보고 계신 분들 많으실 겁니다. 하지만 손등을 땅에 대보면 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23106/1_1.jpg",
       "published_label": "1개월 전",
-      "views": 3944,
-      "daily_views": 1,
+      "views": 3945,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -598,8 +598,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n새 차 냄새 폴폴 나는데, 시거잭 케이블만 예전 그대로였습니다\n\n신차를 인수하고 처음 시동을 걸었을 때의 그 설렘, 다들 아실 겁니다. 깔끔한 대시보드, 반짝이는 인포…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/21913/1_7_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 1237,
-      "daily_views": 0,
+      "views": 1238,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1213,8 +1213,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n창문 밖은 종일 비, 집 안은 눅눅한 개 냄새\n\n요 며칠 장마전선이 중부지방을 오르내리면서, 산책 한 번 다녀오면 강아지 몸이 통째로 젖어버리는 날이 이어지고 있습니다…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22334/1_1.jpg",
       "published_label": "1개월 전",
-      "views": 414,
-      "daily_views": 3,
+      "views": 415,
+      "daily_views": 4,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -2302,6 +2302,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 27299,
+      "title": "다들 커튼이면 된다지만, 자외선 차단율 보고 고른 우드 블라인드 기준",
+      "url": "https://wikidocs.net/blog/@smartliving/27299/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n자취방이나 신혼집을 꾸미면서 창문 커튼부터 고민하시는 분들 많으실 겁니다. 다들 커튼이면 충분하다고 하지만, 막상 한여름 오후 햇살이 그대로 들이치는 걸 겪어보면 생각…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27299/20_4_product1.jpg",
+      "published_label": "20일 전",
+      "views": 101,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 22696,
       "title": "여름철 끈적이고 퀴퀴하던 차 실내, 크리너 하나로 새 차 냄새 났다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22696/",
@@ -2315,21 +2330,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 27299,
-      "title": "다들 커튼이면 된다지만, 자외선 차단율 보고 고른 우드 블라인드 기준",
-      "url": "https://wikidocs.net/blog/@smartliving/27299/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n자취방이나 신혼집을 꾸미면서 창문 커튼부터 고민하시는 분들 많으실 겁니다. 다들 커튼이면 충분하다고 하지만, 막상 한여름 오후 햇살이 그대로 들이치는 걸 겪어보면 생각…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27299/20_4_product1.jpg",
-      "published_label": "20일 전",
-      "views": 99,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 21674,
@@ -3217,6 +3217,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 21907,
+      "title": "장거리 통근족을 위한, 여름 땡볕 실내온도 낮춰주는 햇빛가리개 이렇게 골랐습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/21907/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근길, 차 문을 여는 순간 훅 끼치는 그 열기\n\n지하 주차장이 아니라 회사 앞 노상에 세워두고 8시간 근무를 마치고 나온 날, 차 문 손잡이부터 뜨끈했던 경험 있으실…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/21907/1_1_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 69,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 28278,
       "title": "가을 니트 세탁 앞둔 알뜰살림러, 세탁비 3천원 아끼고 보풀 막아주는 니트 세탁망",
       "url": "https://wikidocs.net/blog/@smartliving/28278/",
@@ -3270,21 +3285,6 @@
       "published_label": "1개월 전",
       "views": 68,
       "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 21907,
-      "title": "장거리 통근족을 위한, 여름 땡볕 실내온도 낮춰주는 햇빛가리개 이렇게 골랐습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/21907/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근길, 차 문을 여는 순간 훅 끼치는 그 열기\n\n지하 주차장이 아니라 회사 앞 노상에 세워두고 8시간 근무를 마치고 나온 날, 차 문 손잡이부터 뜨끈했던 경험 있으실…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/21907/1_1_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 68,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -3967,6 +3967,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28643,
+      "title": "차박 떠나는 신혼부부, 2000원부터 햇빛·시선 가려주는 차량용 암막가리개",
+      "url": "https://wikidocs.net/blog/@smartliving/28643/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n캠핑장에 도착해 트렁크를 열고 잠자리를 정리하는데, 옆 차량에서 훤히 안이 들여다보인다는 걸 뒤늦게 깨달은 적 있으실 겁니다. 신혼부부가 처음으로 차박을 떠나면 텐트보…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28643/34_6_product1.jpg",
+      "published_label": "6일 전",
+      "views": 60,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28564,
       "title": "매일 물놀이하는 영유아 부모, 목욕후 3분만에 체온 지켜주는 후드 목욕타올",
       "url": "https://wikidocs.net/blog/@smartliving/28564/",
@@ -3990,6 +4005,21 @@
       "published_label": "8일 전",
       "views": 60,
       "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 28476,
+      "title": "샤워 후 물때 닦던 자취생, 15초만에 곰팡이 막아주는 유리 워터스퀴지",
+      "url": "https://wikidocs.net/blog/@smartliving/28476/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n샤워를 끝내고 나올 때마다 유리 파티션에 남은 물방울 자국이 신경 쓰이신 적 있으실 겁니다. 마른 수건으로 닦아봐도 얼룩이 남고, 며칠 지나면 그 자리에 뿌옇게 물때가…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28476/32_3_product1.jpg",
+      "published_label": "8일 전",
+      "views": 60,
+      "daily_views": 4,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -4177,21 +4207,6 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 28643,
-      "title": "차박 떠나는 신혼부부, 2000원부터 햇빛·시선 가려주는 차량용 암막가리개",
-      "url": "https://wikidocs.net/blog/@smartliving/28643/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n캠핑장에 도착해 트렁크를 열고 잠자리를 정리하는데, 옆 차량에서 훤히 안이 들여다보인다는 걸 뒤늦게 깨달은 적 있으실 겁니다. 신혼부부가 처음으로 차박을 떠나면 텐트보…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28643/34_6_product1.jpg",
-      "published_label": "6일 전",
-      "views": 59,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
       "id": 28565,
       "title": "책상먼지 매일 치우는 자취생, 흡입력 그대로 30분 청소해주는 핸디청소기",
       "url": "https://wikidocs.net/blog/@smartliving/28565/",
@@ -4200,21 +4215,6 @@
       "published_label": "7일 전",
       "views": 59,
       "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28476,
-      "title": "샤워 후 물때 닦던 자취생, 15초만에 곰팡이 막아주는 유리 워터스퀴지",
-      "url": "https://wikidocs.net/blog/@smartliving/28476/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n샤워를 끝내고 나올 때마다 유리 파티션에 남은 물방울 자국이 신경 쓰이신 적 있으실 겁니다. 마른 수건으로 닦아봐도 얼룩이 남고, 며칠 지나면 그 자리에 뿌옇게 물때가…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28476/32_3_product1.jpg",
-      "published_label": "8일 전",
-      "views": 59,
-      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -4957,6 +4957,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 23372,
+      "title": "장마철 반려동물디퓨저 추천",
+      "url": "https://wikidocs.net/blog/@petpicknote/23372/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n반려동물과 함께 사는 집이라면 방향제 하나 고르는 것도 그냥 지나칠 수 없는 문제입니다. 일반 방향제에 들어가는 향료나 에센셜 오일 성분 중 일부는 반려동물에게 자극적…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23372/7_10_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 52,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22912,
       "title": "여름철 입맛 없어진 반려동물 보호자라면, 초복 오기 전에 챙겨야 할 강아지 삼계탕 습식캔 3가지",
       "url": "https://wikidocs.net/blog/@petpicknote/22912/",
@@ -5030,21 +5045,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 23372,
-      "title": "장마철 반려동물디퓨저 추천",
-      "url": "https://wikidocs.net/blog/@petpicknote/23372/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n반려동물과 함께 사는 집이라면 방향제 하나 고르는 것도 그냥 지나칠 수 없는 문제입니다. 일반 방향제에 들어가는 향료나 에센셜 오일 성분 중 일부는 반려동물에게 자극적…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23372/7_10_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 51,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 22351,
@@ -6727,6 +6727,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 22523,
+      "title": "장마철 사료 관리가 걱정되는 집사라면, 밀폐용기 안 챙기면 눅눅해진 사료값으로 고스란히 손해 봅니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/22523/",
+      "excerpt": "---\ntitle: \"장마철 사료 관리가 걱정되는 집사라면, 밀폐용기 안 챙기면 눅눅해진 사료값으로 고스란히 손해 봅니다\"\ntags: [급식·급수용품]\n---\n\n> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n올해 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22523/3_1.jpg",
+      "published_label": "1개월 전",
+      "views": 39,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22335,
       "title": "여름철 입맛 없어하는 강아지 때문에 고민이셨다면, 저칼로리 수제간식 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/22335/",
@@ -6817,6 +6832,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24653,
+      "title": "업무 관리 노션 템플릿: 프리랜서 마감일 놓치지 않는 생산성 비결 7가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/24653/",
+      "excerpt": "업무 관리 노션 템플릿: 프리랜서 마감일 놓치지 않는 생산성 비결 7가지\n\n프리랜서가 마감일을 놓치지 않고 생산성을 극대화하려면 체계적인 업무 관리 시스템이 필수적입니다. 노션(Notion) 템플릿을 활용하면 복잡한 프로젝트와 여러 클라이언트의 요구사항을 효율적으로…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24653/13_4_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 38,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 23631,
       "title": "노령견 목 건강 걱정되셨다면, 높이조절 식기대로 편해졌다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/23631/",
@@ -6852,21 +6882,6 @@
       "url": "https://wikidocs.net/blog/@petpicknote/22525/",
       "excerpt": "---\ntitle: \"실내 활동이 늘어난 강아지 보호자를 위한, 노즈워크 매트 하나로 폭염철 스트레스 문제행동이 확 줄었다는 후기가 많습니다\"\ntags: [장난감·놀이용품]\n---\n\n> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22525/4_1.jpg",
-      "published_label": "1개월 전",
-      "views": 38,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22523,
-      "title": "장마철 사료 관리가 걱정되는 집사라면, 밀폐용기 안 챙기면 눅눅해진 사료값으로 고스란히 손해 봅니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/22523/",
-      "excerpt": "---\ntitle: \"장마철 사료 관리가 걱정되는 집사라면, 밀폐용기 안 챙기면 눅눅해진 사료값으로 고스란히 손해 봅니다\"\ntags: [급식·급수용품]\n---\n\n> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n올해 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22523/3_1.jpg",
       "published_label": "1개월 전",
       "views": 38,
       "daily_views": 0,
@@ -6942,21 +6957,6 @@
       "url": "https://wikidocs.net/blog/@petpicknote/25217/",
       "excerpt": "JIRA 프로젝트 관리, 2026년 대규모 프로젝트의 마감일 준수 전략 6단계\n\nJIRA는 2026년에도 대규모 프로젝트의 복잡한 마감일 준수를 위한 핵심 도구로 자리매김하고 있습니다. 효과적인 JIRA 활용은 명확한 로드맵 설정부터 세분화된 작업 관리, 실시간 진…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25217/14_8_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 37,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 24653,
-      "title": "업무 관리 노션 템플릿: 프리랜서 마감일 놓치지 않는 생산성 비결 7가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/24653/",
-      "excerpt": "업무 관리 노션 템플릿: 프리랜서 마감일 놓치지 않는 생산성 비결 7가지\n\n프리랜서가 마감일을 놓치지 않고 생산성을 극대화하려면 체계적인 업무 관리 시스템이 필수적입니다. 노션(Notion) 템플릿을 활용하면 복잡한 프로젝트와 여러 클라이언트의 요구사항을 효율적으로…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24653/13_4_img1.jpg",
       "published_label": "1개월 전",
       "views": 37,
       "daily_views": 0,
@@ -8122,6 +8122,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 23555,
+      "title": "택배·배달 하시는 분들, 혹시 아직도 스피커폰으로 통화 소리 잘 안 들려 답답하셨나요?",
+      "url": "https://wikidocs.net/blog/@cartemlab/23555/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n운전 중에 전화가 와서 스피커폰으로 받았는데, 상대방 목소리가 끊기고 뭉개져서 언성을 높였던 경험 있으실 겁니다.\n\n반대로 내 목소리도 잘 안 들린다고 해서 창문 닫고…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23555/9_6_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 27,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23552,
       "title": "야간에 갓길 정차 잦은 분들이 두 번 아찔한 순간 겪고 나서야 알게 된 반사조끼 고르는 법",
       "url": "https://wikidocs.net/blog/@cartemlab/23552/",
@@ -8315,21 +8330,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23555,
-      "title": "택배·배달 하시는 분들, 혹시 아직도 스피커폰으로 통화 소리 잘 안 들려 답답하셨나요?",
-      "url": "https://wikidocs.net/blog/@cartemlab/23555/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n운전 중에 전화가 와서 스피커폰으로 받았는데, 상대방 목소리가 끊기고 뭉개져서 언성을 높였던 경험 있으실 겁니다.\n\n반대로 내 목소리도 잘 안 들린다고 해서 창문 닫고…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23555/9_6_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 26,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 22936,
@@ -9315,8 +9315,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n아스팔트 위로 아지랑이가 피어오르는 오후, 목줄을 채우려는 손길에 신나서 현관 앞을 빙글빙글 도는 강아지를 보고 계신 분들 많으실 겁니다. 하지만 손등을 땅에 대보면 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23106/1_1.jpg",
       "published_label": "1개월 전",
-      "views": 3944,
-      "daily_views": 1,
+      "views": 3945,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -9506,6 +9506,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22334,
+      "title": "장마철에 목욕시키기 걱정되는 반려인이라면, 드라이룸 하나로 냄새 걱정이 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/22334/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n창문 밖은 종일 비, 집 안은 눅눅한 개 냄새\n\n요 며칠 장마전선이 중부지방을 오르내리면서, 산책 한 번 다녀오면 강아지 몸이 통째로 젖어버리는 날이 이어지고 있습니다…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22334/1_1.jpg",
+      "published_label": "1개월 전",
+      "views": 415,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24011,
       "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/24011/",
@@ -9536,19 +9551,19 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 22334,
-      "title": "장마철에 목욕시키기 걱정되는 반려인이라면, 드라이룸 하나로 냄새 걱정이 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/22334/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n창문 밖은 종일 비, 집 안은 눅눅한 개 냄새\n\n요 며칠 장마전선이 중부지방을 오르내리면서, 산책 한 번 다녀오면 강아지 몸이 통째로 젖어버리는 날이 이어지고 있습니다…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22334/1_1.jpg",
-      "published_label": "1개월 전",
-      "views": 414,
-      "daily_views": 3,
+      "id": 28476,
+      "title": "샤워 후 물때 닦던 자취생, 15초만에 곰팡이 막아주는 유리 워터스퀴지",
+      "url": "https://wikidocs.net/blog/@smartliving/28476/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n샤워를 끝내고 나올 때마다 유리 파티션에 남은 물방울 자국이 신경 쓰이신 적 있으실 겁니다. 마른 수건으로 닦아봐도 얼룩이 남고, 며칠 지나면 그 자리에 뿌옇게 물때가…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28476/32_3_product1.jpg",
+      "published_label": "8일 전",
+      "views": 60,
+      "daily_views": 4,
       "likes": 0,
       "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
     },
     {
       "id": 24659,
@@ -9611,19 +9626,19 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 28476,
-      "title": "샤워 후 물때 닦던 자취생, 15초만에 곰팡이 막아주는 유리 워터스퀴지",
-      "url": "https://wikidocs.net/blog/@smartliving/28476/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n샤워를 끝내고 나올 때마다 유리 파티션에 남은 물방울 자국이 신경 쓰이신 적 있으실 겁니다. 마른 수건으로 닦아봐도 얼룩이 남고, 며칠 지나면 그 자리에 뿌옇게 물때가…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28476/32_3_product1.jpg",
-      "published_label": "8일 전",
-      "views": 59,
+      "id": 23372,
+      "title": "장마철 반려동물디퓨저 추천",
+      "url": "https://wikidocs.net/blog/@petpicknote/23372/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n반려동물과 함께 사는 집이라면 방향제 하나 고르는 것도 그냥 지나칠 수 없는 문제입니다. 일반 방향제에 들어가는 향료나 에센셜 오일 성분 중 일부는 반려동물에게 자극적…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23372/7_10_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 52,
       "daily_views": 3,
       "likes": 0,
       "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
     },
     {
       "id": 22285,
@@ -9681,21 +9696,6 @@
       "daily_views": 2,
       "likes": 0,
       "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 22943,
-      "title": "내비 보느라 자꾸 고개 숙이던 분들, HUD 달고 시선 덜 뺏겨 운전이 편해졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22943/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n내비를 보려고 자꾸 고개를 숙이거나 눈을 아래로 내렸다가, 다시 앞을 보는 그 짧은 순간이 은근히 불안하죠. 특히 고속 주행 중엔 시선이 도로에서 떨어지는 찰나가 길게…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22943/6_10_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 9216,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 1,
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
@@ -9916,8 +9916,8 @@
     },
     {
       "date": "2026-08-22",
-      "views": 293
+      "views": 305
     }
   ],
-  "static_generated_at": "2026-08-22T11:03:43+09:00"
+  "static_generated_at": "2026-08-22T11:33:25+09:00"
 }
