@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-22T11:33:24+09:00",
+  "latest_snapshot_at": "2026-08-22T12:03:28+09:00",
   "latest_snapshot_date": "2026-08-22",
   "catalog_updated_at": "2026-08-22T00:00:50+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 306972,
-    "daily_views": 305,
+    "total_views": 306983,
+    "daily_views": 316,
     "previous_day_views": 732,
     "previous_day_date": "2026-08-21",
-    "current_month_views": 19601,
+    "current_month_views": 19612,
     "days_recorded": 54
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 158737,
-      "daily_views": 84,
+      "total_views": 158741,
+      "daily_views": 88,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -37,8 +37,8 @@
         "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장맛비가 쏟아지는 날, 주차하고 내리려는데 우산을 차 문 틈으로 펴다 보면 어느새 어깨와 팔이 다 젖어 있죠. 다 쓰고 접어 차에 들일 땐 젖은 우산 바깥면이 시트와 …",
         "thumbnail_url": "https://static.wikidocs.net/images/blog/22692/5_1_thumb.jpg",
         "published_label": "1개월 전",
-        "views": 104843,
-        "daily_views": 2,
+        "views": 104844,
+        "daily_views": 3,
         "likes": 0,
         "comments": 0,
         "blog_id": 1978,
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 336,
       "captured_posts": 336,
-      "total_views": 113462,
-      "daily_views": 133,
+      "total_views": 113468,
+      "daily_views": 139,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 34773,
-      "daily_views": 88,
+      "total_views": 34774,
+      "daily_views": 89,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -103,8 +103,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장맛비가 쏟아지는 날, 주차하고 내리려는데 우산을 차 문 틈으로 펴다 보면 어느새 어깨와 팔이 다 젖어 있죠. 다 쓰고 접어 차에 들일 땐 젖은 우산 바깥면이 시트와 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22692/5_1_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 104843,
-      "daily_views": 2,
+      "views": 104844,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1318,8 +1318,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n아이나 반려동물과 함께 타다 보면 시트에 얼룩이 지고, 물티슈로는 표면만 닦일 뿐 깊은 때는 그대로 남는다.\n\n스팀청소기 하나면 고온 스팀이 섬유 깊숙한 곳까지 파고들…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23352/8_9_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 334,
-      "daily_views": 2,
+      "views": 335,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1897,6 +1897,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23200,
+      "title": "다들 대시보드는 햇빛에만 노출된다지만, 사실 자외선 손상이 얼마나 빠르게 진행되는지 아는 사람은 적습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23200/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n폭염 속 대시보드는 80도를 넘어가고, 자외선도 계속 내려쬔다. 수개월이면 색이 바래고 갈라지기 시작한다.\n\n보호 매트 하나면 그 손상을 크게 늦출 수 있고, 실내 온…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23200/7_7_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 138,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22271,
       "title": "여름 차박·캠핑족이라면, 텐트 안 모기 때문에 잠 설쳤다면 초경량 모기장 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@smartliving/22271/",
@@ -1910,21 +1925,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23200,
-      "title": "다들 대시보드는 햇빛에만 노출된다지만, 사실 자외선 손상이 얼마나 빠르게 진행되는지 아는 사람은 적습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23200/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n폭염 속 대시보드는 80도를 넘어가고, 자외선도 계속 내려쬔다. 수개월이면 색이 바래고 갈라지기 시작한다.\n\n보호 매트 하나면 그 손상을 크게 늦출 수 있고, 실내 온…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23200/7_7_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 137,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 24885,
@@ -3322,6 +3322,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28386,
+      "title": "여름 이불 세탁 앞둔 가정, 세탁비 1만원 아끼고 손상 막아주는 대형 이불세탁망",
+      "url": "https://wikidocs.net/blog/@smartliving/28386/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여름 내내 덮었던 이불을 빨아야 할 때가 되면 고민이 시작됩니다. 세탁기에 그냥 넣자니 이불이 세탁조 안에서 엉켜 탈수가 제대로 안 되거나, 지퍼·솔기 부분이 세탁기 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28386/31_4_product1.jpg",
+      "published_label": "9일 전",
+      "views": 68,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28283,
       "title": "장시간 서서 일하는 판매직, 퇴근길 다리부종 15분 만에 가라앉혀주는 에어컴프레션 마사지기",
       "url": "https://wikidocs.net/blog/@smartliving/28283/",
@@ -3397,21 +3412,6 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 28386,
-      "title": "여름 이불 세탁 앞둔 가정, 세탁비 1만원 아끼고 손상 막아주는 대형 이불세탁망",
-      "url": "https://wikidocs.net/blog/@smartliving/28386/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여름 내내 덮었던 이불을 빨아야 할 때가 되면 고민이 시작됩니다. 세탁기에 그냥 넣자니 이불이 세탁조 안에서 엉켜 탈수가 제대로 안 되거나, 지퍼·솔기 부분이 세탁기 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28386/31_4_product1.jpg",
-      "published_label": "9일 전",
-      "views": 67,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
       "id": 28076,
       "title": "설거지 자리 없는 캠핑족, 테이블 공간 50% 확보해주는 접이식 식기건조대",
       "url": "https://wikidocs.net/blog/@smartliving/28076/",
@@ -3435,6 +3435,21 @@
       "published_label": "7일 전",
       "views": 66,
       "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 28001,
+      "title": "아침 챙길 시간 없는 맞벌이 부부를 위한, 그릭요거트 정기배송 이렇게 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/28001/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n출근 준비하며 아침을 챙길 시간은 없고, 그렇다고 매번 거르자니 오전 내내 배가 고파 업무 집중이 흐트러지죠. 맞벌이 부부라면 이 패턴이 매일 반복되기 쉽습니다.\n\n정…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28001/27_10_product1.jpg",
+      "published_label": "13일 전",
+      "views": 66,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -3555,21 +3570,6 @@
       "published_label": "7일 전",
       "views": 64,
       "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28001,
-      "title": "아침 챙길 시간 없는 맞벌이 부부를 위한, 그릭요거트 정기배송 이렇게 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/28001/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n출근 준비하며 아침을 챙길 시간은 없고, 그렇다고 매번 거르자니 오전 내내 배가 고파 업무 집중이 흐트러지죠. 맞벌이 부부라면 이 패턴이 매일 반복되기 쉽습니다.\n\n정…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28001/27_10_product1.jpg",
-      "published_label": "13일 전",
-      "views": 64,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -3817,6 +3817,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28564,
+      "title": "매일 물놀이하는 영유아 부모, 목욕후 3분만에 체온 지켜주는 후드 목욕타올",
+      "url": "https://wikidocs.net/blog/@smartliving/28564/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여름철 물놀이만 시켰다 하면 아이 목욕을 몇 번씩 해야 하는 날들, 겪어보신 부모님 많으실 겁니다. 욕조에서 나오자마자 아이는 춥다고 몸을 웅크리고, 젖은 몸으로 잠깐…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28564/33_3_product1.jpg",
+      "published_label": "7일 전",
+      "views": 61,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28385,
       "title": "하루 8시간 마우스 쓰는 사무직, 5250원으로 손목 통증 줄여주는 젤 마우스패드",
       "url": "https://wikidocs.net/blog/@smartliving/28385/",
@@ -3975,21 +3990,6 @@
       "published_label": "6일 전",
       "views": 60,
       "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28564,
-      "title": "매일 물놀이하는 영유아 부모, 목욕후 3분만에 체온 지켜주는 후드 목욕타올",
-      "url": "https://wikidocs.net/blog/@smartliving/28564/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여름철 물놀이만 시켰다 하면 아이 목욕을 몇 번씩 해야 하는 날들, 겪어보신 부모님 많으실 겁니다. 욕조에서 나오자마자 아이는 춥다고 몸을 웅크리고, 젖은 몸으로 잠깐…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28564/33_3_product1.jpg",
-      "published_label": "7일 전",
-      "views": 60,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -5887,6 +5887,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 21666,
+      "title": "여름밤 모기 방치하면, 물린 자국보다 무서운 게 옵니다",
+      "url": "https://wikidocs.net/blog/@smartliving/21666/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n귓가에서 \"앵\" 하는 소리가 들리는 순간, 불을 켜고 벽부터 살피게 되시죠. 겨우 한 마리 잡았다 싶으면 또 다른 놈이 나타나고, 결국 뜬눈으로 밤을 지새우다 다음 날…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/21666/2_2_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 46,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 21977,
       "title": "출퇴근 차에서 오래 계신 분이라면, 혹시 아직도 한여름 문 열 때 훅 끼치는 냄새 그대로 두고 계신가요?",
       "url": "https://wikidocs.net/blog/@cartemlab/21977/",
@@ -5962,6 +5977,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28193,
+      "title": "방향제값 월 1만원 쓰던 자취생, 원인부터 없애주는 배수구 냄새젤",
+      "url": "https://wikidocs.net/blog/@smartliving/28193/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근하고 문을 여는 순간 훅 끼치는 냄새에 미간부터 찌푸려지신 적 있으실 겁니다. 방향제를 몇 개씩 놔둬도 잠깐 뿐, 시간이 지나면 그 냄새는 다시 스멀스멀 올라오죠.…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28193/29_5_product1.jpg",
+      "published_label": "11일 전",
+      "views": 45,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27613,
       "title": "매일 청소하는 주부를 위한, 욕실 줄눈 물때 방치하면 곰팡이 제거비 나갑니다",
       "url": "https://wikidocs.net/blog/@smartliving/27613/",
@@ -5983,21 +6013,6 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n한밤중 몸을 뒤척이며 이불을 걷어차도 등에 달라붙는 열기가 가시지 않아 결국 뜬눈으로 아침을 맞아보신 분들 많으실 겁니다. 열대야에 잠 설치는 분들이라면 매트리스 자체…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27250/19_5_product1.jpg",
       "published_label": "21일 전",
-      "views": 45,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 21666,
-      "title": "여름밤 모기 방치하면, 물린 자국보다 무서운 게 옵니다",
-      "url": "https://wikidocs.net/blog/@smartliving/21666/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n귓가에서 \"앵\" 하는 소리가 들리는 순간, 불을 켜고 벽부터 살피게 되시죠. 겨우 한 마리 잡았다 싶으면 또 다른 놈이 나타나고, 결국 뜬눈으로 밤을 지새우다 다음 날…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/21666/2_2_thumb.jpg",
-      "published_label": "1개월 전",
       "views": 45,
       "daily_views": 0,
       "likes": 0,
@@ -6090,21 +6105,6 @@
       "published_label": "9일 전",
       "views": 44,
       "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28193,
-      "title": "방향제값 월 1만원 쓰던 자취생, 원인부터 없애주는 배수구 냄새젤",
-      "url": "https://wikidocs.net/blog/@smartliving/28193/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근하고 문을 여는 순간 훅 끼치는 냄새에 미간부터 찌푸려지신 적 있으실 겁니다. 방향제를 몇 개씩 놔둬도 잠깐 뿐, 시간이 지나면 그 냄새는 다시 스멀스멀 올라오죠.…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28193/29_5_product1.jpg",
-      "published_label": "11일 전",
-      "views": 44,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -6277,6 +6277,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24333,
+      "title": "중복 폭염 앞둔 장거리족을 위한, 통풍시트 깔고 나서 땀참이 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24333/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n초복이 지나고 중복이 다가오는 요즘, 에어컨을 세게 틀어도 등과 엉덩이만은 계속 땀이 차는 느낌 받아보신 적 있으실 겁니다.\n\n장거리 출퇴근이나 여행으로 오래 앉아있다…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24333/pb_14_7_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 42,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23554,
       "title": "장거리 앞두신 분이라면, 브레이크 클리너로 소음·끼익거림 줄었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/23554/",
@@ -6425,21 +6440,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24333,
-      "title": "중복 폭염 앞둔 장거리족을 위한, 통풍시트 깔고 나서 땀참이 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24333/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n초복이 지나고 중복이 다가오는 요즘, 에어컨을 세게 틀어도 등과 엉덩이만은 계속 땀이 차는 느낌 받아보신 적 있으실 겁니다.\n\n장거리 출퇴근이나 여행으로 오래 앉아있다…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24333/pb_14_7_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 41,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 24328,
@@ -7957,6 +7957,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24005,
+      "title": "무더위 캠핑족이라면, 아이스박스 안 챙기면 식재료 상하기 쉽습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24005/",
+      "excerpt": "> 🏕️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n올해도 장마가 끝나갈 무렵부터 곧바로 폭염특보가 이어지는 흐름이 반복되고 있습니다. 기상 자료를 보면 중부 지방 기준으로 장마가 7월 하순에 끝나고 나면 곧바로 무더…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24005/10_2_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 29,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 23821,
       "title": "혹시 아직도 캐디 없이 거리 감으로만 치고 계신가요?",
       "url": "https://wikidocs.net/blog/@petpicknote/23821/",
@@ -8037,21 +8052,6 @@
       "url": "https://wikidocs.net/blog/@petpicknote/24432/",
       "excerpt": "> 🔖 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n에어컨을 켜고 자도 이불이 후텁지근해서 자꾸 걷어차게 되고, 결국 뒤척이다 새벽에 깨는 밤이 이어지고 계시진 않으신가요. 일반 이불은 열을 그대로 품고 있어 몸에서 나…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24432/12_8_img1.png",
-      "published_label": "1개월 전",
-      "views": 28,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 24005,
-      "title": "무더위 캠핑족이라면, 아이스박스 안 챙기면 식재료 상하기 쉽습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24005/",
-      "excerpt": "> 🏕️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n올해도 장마가 끝나갈 무렵부터 곧바로 폭염특보가 이어지는 흐름이 반복되고 있습니다. 기상 자료를 보면 중부 지방 기준으로 장마가 7월 하순에 끝나고 나면 곧바로 무더…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24005/10_2_img1.jpg",
       "published_label": "1개월 전",
       "views": 28,
       "daily_views": 0,
@@ -9165,8 +9165,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장맛비가 쏟아지는 날, 주차하고 내리려는데 우산을 차 문 틈으로 펴다 보면 어느새 어깨와 팔이 다 젖어 있죠. 다 쓰고 접어 차에 들일 땐 젖은 우산 바깥면이 시트와 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22692/5_1_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 104843,
-      "daily_views": 2,
+      "views": 104844,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -9566,6 +9566,36 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22692,
+      "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
+      "url": "https://wikidocs.net/blog/@cartemlab/22692/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장맛비가 쏟아지는 날, 주차하고 내리려는데 우산을 차 문 틈으로 펴다 보면 어느새 어깨와 팔이 다 젖어 있죠. 다 쓰고 접어 차에 들일 땐 젖은 우산 바깥면이 시트와 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22692/5_1_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 104844,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
+      "id": 23352,
+      "title": "시트 얼룩 물티슈로만 닦다가 결국 스팀청소기로 해결 봤다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23352/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n아이나 반려동물과 함께 타다 보면 시트에 얼룩이 지고, 물티슈로는 표면만 닦일 뿐 깊은 때는 그대로 남는다.\n\n스팀청소기 하나면 고온 스팀이 섬유 깊숙한 곳까지 파고들…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23352/8_9_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 335,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24659,
       "title": "무료 데이터베이스, 초보 개발자가 사이드 프로젝트에 활용할 툴 4가지",
       "url": "https://wikidocs.net/blog/@petpicknote/24659/",
@@ -9669,36 +9699,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23559,
-      "title": "직접 손세차 하시는 분들이라면, 세차 타월 바꾸고 나서 물자국 없이 뽀송하게 마무리된다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23559/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n정성 들여 세차하고 물기까지 닦았는데, 햇볕에 말라가며 유리창에 하얗게 물자국이 남아있던 걸 발견하고 허탈했던 경험 있으실 겁니다.\n\n손으로 만져보면 타월 자체도 뻣뻣…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23559/9_9_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 25,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 22692,
-      "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
-      "url": "https://wikidocs.net/blog/@cartemlab/22692/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장맛비가 쏟아지는 날, 주차하고 내리려는데 우산을 차 문 틈으로 펴다 보면 어느새 어깨와 팔이 다 젖어 있죠. 다 쓰고 접어 차에 들일 땐 젖은 우산 바깥면이 시트와 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22692/5_1_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 104843,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     }
   ],
   "daily_totals": [
@@ -9916,8 +9916,8 @@
     },
     {
       "date": "2026-08-22",
-      "views": 305
+      "views": 316
     }
   ],
-  "static_generated_at": "2026-08-22T11:33:25+09:00"
+  "static_generated_at": "2026-08-22T12:03:29+09:00"
 }
