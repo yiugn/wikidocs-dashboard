@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-22T19:03:26+09:00",
+  "latest_snapshot_at": "2026-08-22T19:33:24+09:00",
   "latest_snapshot_date": "2026-08-22",
   "catalog_updated_at": "2026-08-22T00:00:50+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 307185,
-    "daily_views": 518,
+    "total_views": 307191,
+    "daily_views": 524,
     "previous_day_views": 732,
     "previous_day_date": "2026-08-21",
-    "current_month_views": 19814,
+    "current_month_views": 19820,
     "days_recorded": 54
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 158794,
-      "daily_views": 141,
+      "total_views": 158799,
+      "daily_views": 146,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 34821,
-      "daily_views": 136,
+      "total_views": 34822,
+      "daily_views": 137,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1708,8 +1708,8 @@
       "excerpt": "구글 스프레드시트 프로젝트 관리: 5인 팀 업무 진척도 시각화 노하우 6가지\n\n5인 규모의 팀은 구글 스프레드시트를 활용하여 프로젝트 업무 진척도를 효과적으로 시각화하고 관리할 수 있습니다. 특히, 조건부 서식, 데이터 유효성 검사, 간트 차트 시각화, 대시보드 구…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25222/15_3_img1.jpg",
       "published_label": "1개월 전",
-      "views": 158,
-      "daily_views": 0,
+      "views": 159,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -3457,6 +3457,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24335,
+      "title": "차박 갈 때마다 음식 상하던 분들, 차량용 냉장고 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24335/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n차박 나갔다가 아이스박스에 넣어둔 음식이 하루 만에 미지근해져서 아쉬웠던 경험 있으실 겁니다.\n\n얼음을 아무리 많이 넣어도 시간이 지나면 녹아버리고, 여름철엔 그 속도…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24335/pb_14_9_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 66,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24656,
       "title": "업무 관리 어플, 5인 팀의 피드백 누락 줄이는 실시간 공유 기능 6가지",
       "url": "https://wikidocs.net/blog/@petpicknote/24656/",
@@ -3530,21 +3545,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 24335,
-      "title": "차박 갈 때마다 음식 상하던 분들, 차량용 냉장고 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24335/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n차박 나갔다가 아이스박스에 넣어둔 음식이 하루 만에 미지근해져서 아쉬웠던 경험 있으실 겁니다.\n\n얼음을 아무리 많이 넣어도 시간이 지나면 녹아버리고, 여름철엔 그 속도…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24335/pb_14_9_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 64,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 21988,
@@ -5107,6 +5107,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22485,
+      "title": "여름 뙤약볕에 핸들 뜨거워 손도 못 대던 분들, 핸들커버 씌우니 바로 잡을 만해졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22485/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n한낮 뙤약볕에 세워둔 차에 올라타 무심코 핸들을 잡았다가 \"앗 뜨거\" 하고 손을 뗀 경험, 이 계절엔 다들 있으실 겁니다. 실내 온도가 60도 가까이 오르면 핸들 표면…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22485/4_1_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 51,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22351,
       "title": "다묘가정을 위한, 장마철 화장실 탈취스프레이 하나로 눅눅한 냄새 스트레스가 확 줄었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/22351/",
@@ -5337,21 +5352,6 @@
       "url": "https://wikidocs.net/blog/@cartemlab/23975/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n에어컨을 최대로 틀어도 예전만큼 시원하지 않다고 느끼셨던 경험 있으실 겁니다.\n\n송풍구에서 나오는 바람이 미지근하게 느껴져 당황했던 순간도 있으셨을 겁니다.\n\n에어컨이…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23975/12_8_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 49,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 22485,
-      "title": "여름 뙤약볕에 핸들 뜨거워 손도 못 대던 분들, 핸들커버 씌우니 바로 잡을 만해졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22485/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n한낮 뙤약볕에 세워둔 차에 올라타 무심코 핸들을 잡았다가 \"앗 뜨거\" 하고 손을 뗀 경험, 이 계절엔 다들 있으실 겁니다. 실내 온도가 60도 가까이 오르면 핸들 표면…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22485/4_1_thumb.jpg",
       "published_label": "1개월 전",
       "views": 49,
       "daily_views": 0,
@@ -6847,6 +6847,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 23348,
+      "title": "며칠 세워둔 차 배터리가 방전돼 있던 분들이라면, 태양광 충전기 달아두고 안심했다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23348/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장기 출장이나 휴가로 차를 며칠 세워두면 자연 방전으로 배터리가 죽어있는 경우가 많다.\n\n태양광 충전기 하나면 주차 중에도 미세하게 충전을 유지해줘, 그런 낭패를 예방…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23348/8_6_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 38,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24653,
       "title": "업무 관리 노션 템플릿: 프리랜서 마감일 놓치지 않는 생산성 비결 7가지",
       "url": "https://wikidocs.net/blog/@petpicknote/24653/",
@@ -6945,21 +6960,6 @@
       "published_label": "1개월 전",
       "views": 37,
       "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 23348,
-      "title": "며칠 세워둔 차 배터리가 방전돼 있던 분들이라면, 태양광 충전기 달아두고 안심했다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23348/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장기 출장이나 휴가로 차를 며칠 세워두면 자연 방전으로 배터리가 죽어있는 경우가 많다.\n\n태양광 충전기 하나면 주차 중에도 미세하게 충전을 유지해줘, 그런 낭패를 예방…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23348/8_6_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 37,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -9916,8 +9916,8 @@
     },
     {
       "date": "2026-08-22",
-      "views": 518
+      "views": 524
     }
   ],
-  "static_generated_at": "2026-08-22T19:03:27+09:00"
+  "static_generated_at": "2026-08-22T19:33:25+09:00"
 }
