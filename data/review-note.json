@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-22T12:03:28+09:00",
+  "latest_snapshot_at": "2026-08-22T12:33:26+09:00",
   "latest_snapshot_date": "2026-08-22",
   "catalog_updated_at": "2026-08-22T00:00:50+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 306983,
-    "daily_views": 316,
+    "total_views": 306992,
+    "daily_views": 325,
     "previous_day_views": 732,
     "previous_day_date": "2026-08-21",
-    "current_month_views": 19612,
+    "current_month_views": 19621,
     "days_recorded": 54
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 158741,
-      "daily_views": 88,
+      "total_views": 158743,
+      "daily_views": 90,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 336,
       "captured_posts": 336,
-      "total_views": 113468,
-      "daily_views": 139,
+      "total_views": 113470,
+      "daily_views": 141,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 34774,
-      "daily_views": 89,
+      "total_views": 34779,
+      "daily_views": 94,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1387,6 +1387,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 24659,
+      "title": "무료 데이터베이스, 초보 개발자가 사이드 프로젝트에 활용할 툴 4가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/24659/",
+      "excerpt": "무료 데이터베이스, 초보 개발자가 사이드 프로젝트에 활용할 툴 4가지\n\n초보 개발자가 사이드 프로젝트를 시작할 때 비용 부담 없이 쉽게 사용할 수 있는 데이터베이스는 프로젝트의 성공에 중요한 역할을 합니다. 특히 데이터의 특성과 프로젝트의 규모를 고려하여 적절한 툴…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24659/13_10_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 286,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 23349,
       "title": "더위에 물 잘 안 마시는 반려동물이 걱정이신 보호자라면, 수분보충 젤리간식 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/23349/",
@@ -1395,21 +1410,6 @@
       "published_label": "1개월 전",
       "views": 286,
       "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 24659,
-      "title": "무료 데이터베이스, 초보 개발자가 사이드 프로젝트에 활용할 툴 4가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/24659/",
-      "excerpt": "무료 데이터베이스, 초보 개발자가 사이드 프로젝트에 활용할 툴 4가지\n\n초보 개발자가 사이드 프로젝트를 시작할 때 비용 부담 없이 쉽게 사용할 수 있는 데이터베이스는 프로젝트의 성공에 중요한 역할을 합니다. 특히 데이터의 특성과 프로젝트의 규모를 고려하여 적절한 툴…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24659/13_10_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 285,
-      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1948,8 +1948,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n열대어 커뮤니티마다 요즘 온통 이 얘기입니다\n\n수조 관리 카페나 커뮤니티를 둘러보면, 요즘 부쩍 \"여름 되니까 쿨링팬부터 달았다\"는 글이 눈에 띄게 늘었습니다. 특히 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22352/10_1.jpg",
       "published_label": "1개월 전",
-      "views": 135,
-      "daily_views": 0,
+      "views": 136,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -2857,6 +2857,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 23550,
+      "title": "장거리 운전 잦으신 분이라면, 타르 제거제로 차량 겉면 찐득한 자국 말끔히 지웠다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23550/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n고속도로를 한참 달리고 나서 무심코 차 옆면을 손으로 쓸어봤는데, 까끌까끌하다 못해 끈적하게 손끝에 검은 자국이 묻어난 적 있으실 겁니다.\n\n세차장에서 거품 세차까지 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23550/9_1_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 75,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 25341,
       "title": "20대 직장인 건강 검진: 반드시 받아야 할 기본 항목 5가지",
       "url": "https://wikidocs.net/blog/@petpicknote/25341/",
@@ -2945,21 +2960,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23550,
-      "title": "장거리 운전 잦으신 분이라면, 타르 제거제로 차량 겉면 찐득한 자국 말끔히 지웠다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23550/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n고속도로를 한참 달리고 나서 무심코 차 옆면을 손으로 쓸어봤는데, 까끌까끌하다 못해 끈적하게 손끝에 검은 자국이 묻어난 적 있으실 겁니다.\n\n세차장에서 거품 세차까지 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23550/9_1_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 74,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 28281,
@@ -5557,6 +5557,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28735,
+      "title": "리프팅샵 10만원 쓰던 3040 얼굴처짐, 반값 이하로 집에서 관리해주는 무선 페이스 리프팅기",
+      "url": "https://wikidocs.net/blog/@smartliving/28735/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n에어컨 바람을 하루 종일 맞다 보면 저녁 무렵 거울 속 얼굴이 유독 푸석하고 처져 보이는 날이 있습니다. 피부과 리프팅 시술은 한 번에 10만원이 훌쩍 넘고, 예약부터…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28735/35_6_product1.jpg",
+      "published_label": "5일 전",
+      "views": 48,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28734,
       "title": "장난감값 매달 5만원 쓰는 부모, 교구 1개로 반값 아껴주는 원목 소꿉놀이 교구",
       "url": "https://wikidocs.net/blog/@smartliving/28734/",
@@ -5692,21 +5707,6 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 28735,
-      "title": "리프팅샵 10만원 쓰던 3040 얼굴처짐, 반값 이하로 집에서 관리해주는 무선 페이스 리프팅기",
-      "url": "https://wikidocs.net/blog/@smartliving/28735/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n에어컨 바람을 하루 종일 맞다 보면 저녁 무렵 거울 속 얼굴이 유독 푸석하고 처져 보이는 날이 있습니다. 피부과 리프팅 시술은 한 번에 10만원이 훌쩍 넘고, 예약부터…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28735/35_6_product1.jpg",
-      "published_label": "5일 전",
-      "views": 47,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
       "id": 28569,
       "title": "잠들기까지 1시간 걸리던 직장인, 15분 온열로 숙면시켜주는 아이마스크",
       "url": "https://wikidocs.net/blog/@smartliving/28569/",
@@ -5775,6 +5775,21 @@
       "published_label": "1개월 전",
       "views": 46,
       "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 22680,
+      "title": "고슴도치 처음 키우기 시작한 초보 집사라면, 통풍 잘 되는 사육 케이지로 바꾸고 나서 여름철 온습도 걱정이 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/22680/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n작고 동그란 몸을 웅크리고 있다가, 밤이 되면 부스럭거리며 케이지 안을 바쁘게 돌아다니는 고슴도치를 처음 데려오신 분이라면 낯선 것투성이일 겁니다. 강아지나 고양이와 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22680/10_1.jpg",
+      "published_label": "1개월 전",
+      "views": 46,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -5922,21 +5937,6 @@
       "url": "https://wikidocs.net/blog/@petpicknote/24225/",
       "excerpt": "> 📢 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n계곡물이나 워터파크에 아이를 데리고 가면서 저렴한 튜브 하나만 달랑 챙겨 갔다가, 막상 물에 들어가니 바람이 금방 빠지거나 부력이 부족해 마음을 졸였던 경험이 있으실 겁니…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24225/11_3_img1.png",
-      "published_label": "1개월 전",
-      "views": 45,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22680,
-      "title": "고슴도치 처음 키우기 시작한 초보 집사라면, 통풍 잘 되는 사육 케이지로 바꾸고 나서 여름철 온습도 걱정이 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/22680/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n작고 동그란 몸을 웅크리고 있다가, 밤이 되면 부스럭거리며 케이지 안을 바쁘게 돌아다니는 고슴도치를 처음 데려오신 분이라면 낯선 것투성이일 겁니다. 강아지나 고양이와 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22680/10_1.jpg",
       "published_label": "1개월 전",
       "views": 45,
       "daily_views": 1,
@@ -6247,6 +6247,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23733,
+      "title": "여름 외출 앞둔 신생아 부모를 위한, 유모차 땀참 확 줄여주는 쿨매트 이렇게 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/23733/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n한낮 기온이 훌쩍 오른 날, 유모차를 밀고 잠깐 산책만 나갔다 와도 아기 등이 땀으로 흠뻑 젖어 있는 걸 발견하신 적 있으실 겁니다. 신생아나 돌 전 아기는 체온 조절…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23733/12_3_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 43,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 21680,
       "title": "여름 휴가철 차박·캠핑족을 위한, 다들 크기만 본다지만 트렁크 정리함은 사실 이걸 먼저 봐야 합니다",
       "url": "https://wikidocs.net/blog/@smartliving/21680/",
@@ -6395,21 +6410,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 23733,
-      "title": "여름 외출 앞둔 신생아 부모를 위한, 유모차 땀참 확 줄여주는 쿨매트 이렇게 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/23733/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n한낮 기온이 훌쩍 오른 날, 유모차를 밀고 잠깐 산책만 나갔다 와도 아기 등이 땀으로 흠뻑 젖어 있는 걸 발견하신 적 있으실 겁니다. 신생아나 돌 전 아기는 체온 조절…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23733/12_3_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 42,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 23522,
@@ -6607,6 +6607,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 22335,
+      "title": "여름철 입맛 없어하는 강아지 때문에 고민이셨다면, 저칼로리 수제간식 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/22335/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n밥그릇 앞에서 킁킁대다 그냥 돌아서는 요즘\n\n무더위가 이어지면서 밥그릇 앞에서 몇 번 킁킁대다 그냥 돌아서 버리는 강아지, 요즘 부쩍 늘지 않으셨나요. 사료는 남기면서…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22335/2_1.jpg",
+      "published_label": "1개월 전",
+      "views": 40,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 28825,
       "title": "땀에 두피 가려운 폭염철 직장인, 1000원대로 열감 식혀주는 두피 쿨링 마사지기",
       "url": "https://wikidocs.net/blog/@smartliving/28825/",
@@ -6732,21 +6747,6 @@
       "url": "https://wikidocs.net/blog/@petpicknote/22523/",
       "excerpt": "---\ntitle: \"장마철 사료 관리가 걱정되는 집사라면, 밀폐용기 안 챙기면 눅눅해진 사료값으로 고스란히 손해 봅니다\"\ntags: [급식·급수용품]\n---\n\n> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n올해 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22523/3_1.jpg",
-      "published_label": "1개월 전",
-      "views": 39,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22335,
-      "title": "여름철 입맛 없어하는 강아지 때문에 고민이셨다면, 저칼로리 수제간식 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/22335/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n밥그릇 앞에서 킁킁대다 그냥 돌아서는 요즘\n\n무더위가 이어지면서 밥그릇 앞에서 몇 번 킁킁대다 그냥 돌아서 버리는 강아지, 요즘 부쩍 늘지 않으셨나요. 사료는 남기면서…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22335/2_1.jpg",
       "published_label": "1개월 전",
       "views": 39,
       "daily_views": 1,
@@ -7837,6 +7837,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23767,
+      "title": "차박 다니시는 분들을 위한, 무릎 위에 음식 올려놓고 불편하게 먹던 차박이 이렇게 바뀌기까지 접이식 테이블 TOP3",
+      "url": "https://wikidocs.net/blog/@cartemlab/23767/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n차박하면서 무릎에 그릇을 올려놓고 먹다가 흔들려서 국물을 쏟았던 경험 있으실 겁니다.\n\n한 손엔 컵을 들고 노트북은 무릎 위에 올려놓은 채 낑낑댔던 순간도 있으셨을 겁…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23767/10_9_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 30,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 27531,
       "title": "매일 아침 각질 제거 시간 반으로 줄여주는 전동 클렌징브러시, 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/27531/",
@@ -7935,21 +7950,6 @@
       "published_label": "1개월 전",
       "views": 29,
       "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 23767,
-      "title": "차박 다니시는 분들을 위한, 무릎 위에 음식 올려놓고 불편하게 먹던 차박이 이렇게 바뀌기까지 접이식 테이블 TOP3",
-      "url": "https://wikidocs.net/blog/@cartemlab/23767/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n차박하면서 무릎에 그릇을 올려놓고 먹다가 흔들려서 국물을 쏟았던 경험 있으실 겁니다.\n\n한 손엔 컵을 들고 노트북은 무릎 위에 올려놓은 채 낑낑댔던 순간도 있으셨을 겁…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23767/10_9_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 29,
-      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -8437,6 +8437,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 24013,
+      "title": "여름휴가 성수기 오기 전에 챙길 여행 안전파우치 3가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/24013/",
+      "excerpt": "> 🧳 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n기상 자료를 보면 올해 중부지방 장마는 7월 하순에야 끝날 것으로 보이는데, 공교롭게도 이 시기가 본격적인 여름휴가 성수기의 시작과 겹칩니다. 여름휴가 성수기 오기 전…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24013/10_9_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 25,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 23368,
       "title": "강아지고양이 버그가드 케이펫페어 추천",
       "url": "https://wikidocs.net/blog/@petpicknote/23368/",
@@ -8532,21 +8547,6 @@
       "url": "https://wikidocs.net/blog/@petpicknote/24229/",
       "excerpt": "> 📢 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n운동을 마치고 나면 종아리나 허벅지가 뻐근하게 뭉치는 느낌이 남는 경우가 많습니다. 그냥 대충 아무 폼롤러나 집어 들었다가, 강도가 너무 세서 오히려 통증이 심해지거나 반…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24229/11_7_img1.png",
-      "published_label": "1개월 전",
-      "views": 24,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 24013,
-      "title": "여름휴가 성수기 오기 전에 챙길 여행 안전파우치 3가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/24013/",
-      "excerpt": "> 🧳 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n기상 자료를 보면 올해 중부지방 장마는 7월 하순에야 끝날 것으로 보이는데, 공교롭게도 이 시기가 본격적인 여름휴가 성수기의 시작과 겹칩니다. 여름휴가 성수기 오기 전…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24013/10_9_img1.jpg",
       "published_label": "1개월 전",
       "views": 24,
       "daily_views": 0,
@@ -9521,6 +9521,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 24659,
+      "title": "무료 데이터베이스, 초보 개발자가 사이드 프로젝트에 활용할 툴 4가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/24659/",
+      "excerpt": "무료 데이터베이스, 초보 개발자가 사이드 프로젝트에 활용할 툴 4가지\n\n초보 개발자가 사이드 프로젝트를 시작할 때 비용 부담 없이 쉽게 사용할 수 있는 데이터베이스는 프로젝트의 성공에 중요한 역할을 합니다. 특히 데이터의 특성과 프로젝트의 규모를 고려하여 적절한 툴…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24659/13_10_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 286,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24011,
       "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/24011/",
@@ -9594,21 +9609,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24659,
-      "title": "무료 데이터베이스, 초보 개발자가 사이드 프로젝트에 활용할 툴 4가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/24659/",
-      "excerpt": "무료 데이터베이스, 초보 개발자가 사이드 프로젝트에 활용할 툴 4가지\n\n초보 개발자가 사이드 프로젝트를 시작할 때 비용 부담 없이 쉽게 사용할 수 있는 데이터베이스는 프로젝트의 성공에 중요한 역할을 합니다. 특히 데이터의 특성과 프로젝트의 규모를 고려하여 적절한 툴…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24659/13_10_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 285,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 25345,
@@ -9916,8 +9916,8 @@
     },
     {
       "date": "2026-08-22",
-      "views": 316
+      "views": 325
     }
   ],
-  "static_generated_at": "2026-08-22T12:03:29+09:00"
+  "static_generated_at": "2026-08-22T12:33:27+09:00"
 }
