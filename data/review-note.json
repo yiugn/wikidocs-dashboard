@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-22T14:33:50+09:00",
+  "latest_snapshot_at": "2026-08-22T15:03:27+09:00",
   "latest_snapshot_date": "2026-08-22",
   "catalog_updated_at": "2026-08-22T00:00:50+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 307033,
-    "daily_views": 366,
+    "total_views": 307044,
+    "daily_views": 377,
     "previous_day_views": 732,
     "previous_day_date": "2026-08-21",
-    "current_month_views": 19662,
+    "current_month_views": 19673,
     "days_recorded": 54
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 158757,
-      "daily_views": 104,
+      "total_views": 158765,
+      "daily_views": 112,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 336,
       "captured_posts": 336,
-      "total_views": 113481,
-      "daily_views": 152,
+      "total_views": 113482,
+      "daily_views": 153,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 34795,
-      "daily_views": 110,
+      "total_views": 34797,
+      "daily_views": 112,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -403,8 +403,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n주말 휴가에 차를 세워두고 밖에 나가면, 트렁크에 둔 음식이 금세 뜨거워진다.\n\n보온보냉 백 하나면 시원함과 온기를 오래 유지할 수 있어, 휴가지에서 신선한 음식을 즐…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23198/7_5_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 2153,
-      "daily_views": 1,
+      "views": 2154,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1633,8 +1633,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n타이어 마모는 눈으로만 봐서는 정확히 판단하기 어렵다. 특히 장마철 빗길에서는 마모된 타이어가 미끄럼 사고의 직접적인 원인이 된다.\n\n트레드 게이지 하나면 홈 깊이를 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23351/8_8_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 189,
-      "daily_views": 0,
+      "views": 190,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -2137,6 +2137,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24654,
+      "title": "라인프렌즈 스마트 스토어: 20대 공략 굿즈 판매 전략 5가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/24654/",
+      "excerpt": "라인프렌즈 스마트 스토어: 20대 공략 굿즈 판매 전략 5가지\n\n라인프렌즈 스마트 스토어에서 20대 소비자를 효과적으로 공략하기 위해서는 단순 제품 판매를 넘어선 전략이 필요합니다. 20대 타깃은 독특한 경험, 소셜 미디어 참여, 개인화된 가치를 중시하므로, 이러한…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24654/13_5_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 116,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 23734,
       "title": "프로틴 파우더 고를 때 다들 놓치기 쉬운 체크포인트 한 가지",
       "url": "https://wikidocs.net/blog/@smartliving/23734/",
@@ -2150,21 +2165,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24654,
-      "title": "라인프렌즈 스마트 스토어: 20대 공략 굿즈 판매 전략 5가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/24654/",
-      "excerpt": "라인프렌즈 스마트 스토어: 20대 공략 굿즈 판매 전략 5가지\n\n라인프렌즈 스마트 스토어에서 20대 소비자를 효과적으로 공략하기 위해서는 단순 제품 판매를 넘어선 전략이 필요합니다. 20대 타깃은 독특한 경험, 소셜 미디어 참여, 개인화된 가치를 중시하므로, 이러한…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24654/13_5_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 115,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 23118,
@@ -2677,6 +2677,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22941,
+      "title": "디젤차로 장거리 앞두신 분이라면, DPF·인젝터 클리너 넣고 출력이 한결 살아났다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22941/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n연식이 좀 된 디젤차로 장거리를 앞두면, 시내 주행만 반복한 탓에 출력이 둔해지고 매연이 늘어난 것 같아 신경 쓰일 때가 있습니다. 디젤차는 짧은 거리만 자주 타면 연…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22941/6_8_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 82,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24014,
       "title": "요즘 다들 두피 마사지기로 바꾼다는데, 이유가 있었습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/24014/",
@@ -2720,21 +2735,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22941,
-      "title": "디젤차로 장거리 앞두신 분이라면, DPF·인젝터 클리너 넣고 출력이 한결 살아났다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22941/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n연식이 좀 된 디젤차로 장거리를 앞두면, 시내 주행만 반복한 탓에 출력이 둔해지고 매연이 늘어난 것 같아 신경 쓰일 때가 있습니다. 디젤차는 짧은 거리만 자주 타면 연…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22941/6_8_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 79,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 22701,
@@ -2812,6 +2812,36 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23973,
+      "title": "혹시 아직도 유선 케이블 꽂아야만 카플레이 되는 차, 불편하게 타고 계신가요?",
+      "url": "https://wikidocs.net/blog/@cartemlab/23973/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n매번 탈 때마다 케이블을 찾아 꽂아야 하고, 케이블이 꼬여서 짜증났던 경험 있으실 겁니다.\n\n급하게 출발해야 하는데 케이블 인식이 안 돼 몇 번을 다시 꽂았던 분들도 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23973/12_6_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 76,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
+      "id": 24652,
+      "title": "무료 DB, 1인 사업자를 위한 고객 정보 관리 최적 솔루션 4가지 (2026년 최신)",
+      "url": "https://wikidocs.net/blog/@petpicknote/24652/",
+      "excerpt": "무료 DB, 1인 사업자를 위한 고객 정보 관리 최적 솔루션 4가지 (2026년 최신)\n\n1인 사업자가 고객 정보를 효율적으로 관리하기 위한 무료 솔루션으로는 스프레드시트 기반의 Google Sheets, 데이터베이스 기능을 겸비한 Notion, 경량 CRM 솔루션…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24652/13_3_img1.png",
+      "published_label": "1개월 전",
+      "views": 76,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 28563,
       "title": "차박 떠나는 4인가족, 텐트없이 10분만에 잠자리 세팅해주는 폴딩 캠핑침대",
       "url": "https://wikidocs.net/blog/@smartliving/28563/",
@@ -2857,6 +2887,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28195,
+      "title": "재택근무 타건소음 눈치보이는 프리랜서, 소음 40dB로 낮춰주는 무소음 키보드",
+      "url": "https://wikidocs.net/blog/@smartliving/28195/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n화상회의 중 발언할 차례가 아닌데도 급하게 메모를 남기려다, 타건 소리가 마이크에 그대로 잡혀 민망하셨던 적 있으실 겁니다. 카페나 도서관에서 작업할 때도 옆자리 시선…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28195/29_7_product1.jpg",
+      "published_label": "11일 전",
+      "views": 76,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 25038,
       "title": "저반발 메모리폼 베개 살 때 다들 놓치는 경추 각도 체크포인트 한 가지",
       "url": "https://wikidocs.net/blog/@smartliving/25038/",
@@ -2870,21 +2915,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23973,
-      "title": "혹시 아직도 유선 케이블 꽂아야만 카플레이 되는 차, 불편하게 타고 계신가요?",
-      "url": "https://wikidocs.net/blog/@cartemlab/23973/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n매번 탈 때마다 케이블을 찾아 꽂아야 하고, 케이블이 꼬여서 짜증났던 경험 있으실 겁니다.\n\n급하게 출발해야 하는데 케이블 인식이 안 돼 몇 번을 다시 꽂았던 분들도 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23973/12_6_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 75,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 23550,
@@ -2930,36 +2960,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 24652,
-      "title": "무료 DB, 1인 사업자를 위한 고객 정보 관리 최적 솔루션 4가지 (2026년 최신)",
-      "url": "https://wikidocs.net/blog/@petpicknote/24652/",
-      "excerpt": "무료 DB, 1인 사업자를 위한 고객 정보 관리 최적 솔루션 4가지 (2026년 최신)\n\n1인 사업자가 고객 정보를 효율적으로 관리하기 위한 무료 솔루션으로는 스프레드시트 기반의 Google Sheets, 데이터베이스 기능을 겸비한 Notion, 경량 CRM 솔루션…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24652/13_3_img1.png",
-      "published_label": "1개월 전",
-      "views": 75,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28195,
-      "title": "재택근무 타건소음 눈치보이는 프리랜서, 소음 40dB로 낮춰주는 무소음 키보드",
-      "url": "https://wikidocs.net/blog/@smartliving/28195/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n화상회의 중 발언할 차례가 아닌데도 급하게 메모를 남기려다, 타건 소리가 마이크에 그대로 잡혀 민망하셨던 적 있으실 겁니다. 카페나 도서관에서 작업할 때도 옆자리 시선…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28195/29_7_product1.jpg",
-      "published_label": "11일 전",
-      "views": 75,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 27394,
@@ -4957,6 +4957,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22491,
+      "title": "휴가 장거리 앞두신 분이라면, 엔진오일 첨가제 넣고 엔진이 한결 부드러워졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22491/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n휴가철 장거리를 앞두면 '내 차가 이 먼 길을 잘 버텨줄까' 싶은 걱정이 듭니다. 특히 연식이 좀 된 차라면 시동을 걸 때 엔진음이 거칠거나, 고속에서 힘이 예전 같지…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22491/4_7_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 52,
+      "daily_views": 6,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23372,
       "title": "장마철 반려동물디퓨저 추천",
       "url": "https://wikidocs.net/blog/@petpicknote/23372/",
@@ -5025,21 +5040,6 @@
       "published_label": "1개월 전",
       "views": 51,
       "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 22491,
-      "title": "휴가 장거리 앞두신 분이라면, 엔진오일 첨가제 넣고 엔진이 한결 부드러워졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22491/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n휴가철 장거리를 앞두면 '내 차가 이 먼 길을 잘 버텨줄까' 싶은 걱정이 듭니다. 특히 연식이 좀 된 차라면 시동을 걸 때 엔진음이 거칠거나, 고속에서 힘이 예전 같지…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22491/4_7_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 51,
-      "daily_views": 5,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -8632,6 +8632,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23764,
+      "title": "요즘 다들 삭막한 실내등 대신 이걸로 바꾼다는 차량용 무드등, 이유가 있었습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23764/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n밤에 차를 타면 삭막한 흰색 실내등만 켜져 있어서 분위기가 안 산다고 느끼셨던 경험 있으실 겁니다.\n\n은은한 조명이 켜진 차 안 사진을 보고 나도 이렇게 꾸며보고 싶다…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23764/10_6_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 23,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23761,
       "title": "직접 손세차 하시는 분들이라면, 거품건 하나로 세차 시간 확 줄었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/23761/",
@@ -8705,21 +8720,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23764,
-      "title": "요즘 다들 삭막한 실내등 대신 이걸로 바꾼다는 차량용 무드등, 이유가 있었습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23764/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n밤에 차를 타면 삭막한 흰색 실내등만 켜져 있어서 분위기가 안 산다고 느끼셨던 경험 있으실 겁니다.\n\n은은한 조명이 켜진 차 안 사진을 보고 나도 이렇게 꾸며보고 싶다…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23764/10_6_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 22,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 24008,
@@ -9446,6 +9446,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22491,
+      "title": "휴가 장거리 앞두신 분이라면, 엔진오일 첨가제 넣고 엔진이 한결 부드러워졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22491/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n휴가철 장거리를 앞두면 '내 차가 이 먼 길을 잘 버텨줄까' 싶은 걱정이 듭니다. 특히 연식이 좀 된 차라면 시동을 걸 때 엔진음이 거칠거나, 고속에서 힘이 예전 같지…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22491/4_7_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 52,
+      "daily_views": 6,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24011,
       "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/24011/",
@@ -9474,21 +9489,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22491,
-      "title": "휴가 장거리 앞두신 분이라면, 엔진오일 첨가제 넣고 엔진이 한결 부드러워졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22491/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n휴가철 장거리를 앞두면 '내 차가 이 먼 길을 잘 버텨줄까' 싶은 걱정이 듭니다. 특히 연식이 좀 된 차라면 시동을 걸 때 엔진음이 거칠거나, 고속에서 힘이 예전 같지…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22491/4_7_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 51,
-      "daily_views": 5,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 24473,
@@ -9564,6 +9564,21 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 22941,
+      "title": "디젤차로 장거리 앞두신 분이라면, DPF·인젝터 클리너 넣고 출력이 한결 살아났다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22941/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n연식이 좀 된 디젤차로 장거리를 앞두면, 시내 주행만 반복한 탓에 출력이 둔해지고 매연이 늘어난 것 같아 신경 쓰일 때가 있습니다. 디젤차는 짧은 거리만 자주 타면 연…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22941/6_8_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 82,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
     },
     {
       "id": 28476,
@@ -9678,21 +9693,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28279/30_5_product1.jpg",
       "published_label": "10일 전",
       "views": 70,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28283,
-      "title": "장시간 서서 일하는 판매직, 퇴근길 다리부종 15분 만에 가라앉혀주는 에어컴프레션 마사지기",
-      "url": "https://wikidocs.net/blog/@smartliving/28283/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n하루 종일 매장에 서서 손님을 응대하다 보면, 퇴근할 무렵엔 종아리가 퉁퉁 부어 신발이 꽉 끼는 느낌까지 드실 겁니다. 앉을 틈도 별로 없는 판매직 특성상 혈액순환이 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28283/30_9_product1.jpg",
-      "published_label": "10일 전",
-      "views": 68,
       "daily_views": 3,
       "likes": 0,
       "comments": 0,
@@ -9916,8 +9916,8 @@
     },
     {
       "date": "2026-08-22",
-      "views": 366
+      "views": 377
     }
   ],
-  "static_generated_at": "2026-08-22T14:33:51+09:00"
+  "static_generated_at": "2026-08-22T15:03:28+09:00"
 }
