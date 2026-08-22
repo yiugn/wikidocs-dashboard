@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-23T02:33:23+09:00",
+  "latest_snapshot_at": "2026-08-23T03:03:26+09:00",
   "latest_snapshot_date": "2026-08-23",
   "catalog_updated_at": "2026-08-23T00:00:47+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 307304,
-    "daily_views": 37,
+    "total_views": 307305,
+    "daily_views": 38,
     "previous_day_views": 600,
     "previous_day_date": "2026-08-22",
-    "current_month_views": 19933,
+    "current_month_views": 19934,
     "days_recorded": 55
   },
   "blogs": [
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 34847,
-      "daily_views": 9,
+      "total_views": 34848,
+      "daily_views": 10,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -8107,6 +8107,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 24431,
+      "title": "끈적이는 여름 날씨에 고민이셨다면, 이 바디워시로 산뜻함이 달라졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24431/",
+      "excerpt": "> 🔖 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n습도가 높은 여름철에는 샤워를 하고 나와도 금세 다시 끈적해지는 느낌 때문에 고민이셨던 분들이 많으실 겁니다. 특히 땀과 피지가 섞여 등이나 목 뒤쪽에 트러블이 올라오…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24431/12_7_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 28,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24158,
       "title": "가스불 켜기 부담스러운 여름 부엌, 에어프라이어 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@smartliving/24158/",
@@ -8180,21 +8195,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24431,
-      "title": "끈적이는 여름 날씨에 고민이셨다면, 이 바디워시로 산뜻함이 달라졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24431/",
-      "excerpt": "> 🔖 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n습도가 높은 여름철에는 샤워를 하고 나와도 금세 다시 끈적해지는 느낌 때문에 고민이셨던 분들이 많으실 겁니다. 특히 땀과 피지가 섞여 등이나 목 뒤쪽에 트러블이 올라오…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24431/12_7_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 27,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 24232,
@@ -9920,8 +9920,8 @@
     },
     {
       "date": "2026-08-23",
-      "views": 37
+      "views": 38
     }
   ],
-  "static_generated_at": "2026-08-23T02:33:24+09:00"
+  "static_generated_at": "2026-08-23T03:03:27+09:00"
 }
