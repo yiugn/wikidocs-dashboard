@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-23T16:33:24+09:00",
+  "latest_snapshot_at": "2026-08-23T17:03:29+09:00",
   "latest_snapshot_date": "2026-08-23",
   "catalog_updated_at": "2026-08-23T00:00:47+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 307570,
-    "daily_views": 303,
+    "total_views": 307582,
+    "daily_views": 315,
     "previous_day_views": 600,
     "previous_day_date": "2026-08-22",
-    "current_month_views": 20199,
+    "current_month_views": 20211,
     "days_recorded": 55
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 158873,
-      "daily_views": 46,
+      "total_views": 158877,
+      "daily_views": 50,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 336,
       "captured_posts": 336,
-      "total_views": 113790,
-      "daily_views": 188,
+      "total_views": 113795,
+      "daily_views": 193,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 34907,
-      "daily_views": 69,
+      "total_views": 34910,
+      "daily_views": 72,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -568,8 +568,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n밤 운전을 하다 보면 예전 같지 않게 헤드라이트가 침침하게 느껴질 때가 있습니다. 연식이 쌓이면 전조등 커버(플라스틱)가 자외선에 누렇게 변색되고 뿌옇게 흐려지는 '황…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22693/5_2_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 1372,
-      "daily_views": 1,
+      "views": 1373,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -628,8 +628,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n요즘 시거잭 하나로는 도무지 부족하다는 말, 공감하시는 분 많을 겁니다. 내비 충전에 블랙박스 상시전원, 폰 두 대에 태블릿까지, 꽂을 건 많은데 시거잭은 하나뿐이니 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22697/5_6_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 1180,
-      "daily_views": 1,
+      "views": 1181,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1297,6 +1297,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22528,
+      "title": "세 번 잘못 사고 나서야 알게 된 강아지 발톱깎이 고르는 법",
+      "url": "https://wikidocs.net/blog/@petpicknote/22528/",
+      "excerpt": "---\ntitle: \"세 번 잘못 사고 나서야 알게 된 강아지 발톱깎이 고르는 법\"\ntags: [미용·목욕용품]\n---\n\n> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n강아지 발톱깎이, 별거 아니라고 생각하고 아무…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22528/7_1.jpg",
+      "published_label": "1개월 전",
+      "views": 340,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 23109,
       "title": "세 번 잘못 사고 나서야 알게 된 강아지 목욕 후 초강력 흡수 드라이타월 고르는 법",
       "url": "https://wikidocs.net/blog/@petpicknote/23109/",
@@ -1305,21 +1320,6 @@
       "published_label": "1개월 전",
       "views": 338,
       "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22528,
-      "title": "세 번 잘못 사고 나서야 알게 된 강아지 발톱깎이 고르는 법",
-      "url": "https://wikidocs.net/blog/@petpicknote/22528/",
-      "excerpt": "---\ntitle: \"세 번 잘못 사고 나서야 알게 된 강아지 발톱깎이 고르는 법\"\ntags: [미용·목욕용품]\n---\n\n> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n강아지 발톱깎이, 별거 아니라고 생각하고 아무…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22528/7_1.jpg",
-      "published_label": "1개월 전",
-      "views": 338,
-      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1498,8 +1498,8 @@
       "excerpt": "전세론, 2026년 사회 초년생이 이자 부담 줄일 수 있는 대출 상품 5가지\n\n사회 초년생에게 전세자금대출은 목돈 마련의 부담을 덜어주는 중요한 수단입니다. 특히 2026년 현재, 정부 및 지방자치단체의 지원을 통해 낮은 금리로 이자 부담을 크게 줄일 수 있는 다양…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25220/15_1_img1.jpg",
       "published_label": "1개월 전",
-      "views": 226,
-      "daily_views": 1,
+      "views": 227,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -3097,6 +3097,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 27297,
+      "title": "빨래 자주 못 너는 맞벌이를 위한, 세탁비 아끼는 장마철 실내건조 선풍기",
+      "url": "https://wikidocs.net/blog/@smartliving/27297/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근하고 돌아와 보니 오전에 널어둔 빨래에서 쉰내가 났던 경험, 장마철엔 한 번쯤 있으실 겁니다. 게릴라성 집중호우가 반복되는 요즘 같은 날씨엔 창문 한 번 열기도 애…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27297/20_2_product1.jpg",
+      "published_label": "21일 전",
+      "views": 72,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 22923,
       "title": "하루 8시간 의자에 앉아있는 사무직을 위한, 앉아있는 내내 시원해지는 냉감 방석 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/22923/",
@@ -3125,6 +3140,21 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 28475,
+      "title": "계란설거지 지친 자취생, 3분 냄비 하나로 끝내주는 실리콘 계란찜기",
+      "url": "https://wikidocs.net/blog/@smartliving/28475/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n아침 출근 준비하면서 계란프라이 한 장 부치려고 프라이팬을 꺼내면, 씻어야 할 그릇이 하나 더 늘어난다는 게 늘 귀찮으시죠. 기름 튄 자국까지 닦으려면 아침 시간이 그…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28475/32_2_product1.jpg",
+      "published_label": "9일 전",
+      "views": 71,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
     },
     {
       "id": 28387,
@@ -3232,42 +3262,12 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 28475,
-      "title": "계란설거지 지친 자취생, 3분 냄비 하나로 끝내주는 실리콘 계란찜기",
-      "url": "https://wikidocs.net/blog/@smartliving/28475/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n아침 출근 준비하면서 계란프라이 한 장 부치려고 프라이팬을 꺼내면, 씻어야 할 그릇이 하나 더 늘어난다는 게 늘 귀찮으시죠. 기름 튄 자국까지 닦으려면 아침 시간이 그…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28475/32_2_product1.jpg",
-      "published_label": "9일 전",
-      "views": 70,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
       "id": 28279,
       "title": "한여름 오후 거실 뜨거워지는 집, 실내온도 3도 낮춰 냉방비 아껴주는 무타공 암막 롤스크린",
       "url": "https://wikidocs.net/blog/@smartliving/28279/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n한여름 오후, 서향이나 남향 창이 있는 거실은 커튼 하나 없이는 사우나처럼 달아오르곤 합니다. 에어컨을 아무리 세게 틀어도 햇빛이 그대로 들어오는 창문 쪽만 유독 뜨거…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28279/30_5_product1.jpg",
       "published_label": "11일 전",
-      "views": 70,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 27297,
-      "title": "빨래 자주 못 너는 맞벌이를 위한, 세탁비 아끼는 장마철 실내건조 선풍기",
-      "url": "https://wikidocs.net/blog/@smartliving/27297/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근하고 돌아와 보니 오전에 널어둔 빨래에서 쉰내가 났던 경험, 장마철엔 한 번쯤 있으실 겁니다. 게릴라성 집중호우가 반복되는 요즘 같은 날씨엔 창문 한 번 열기도 애…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27297/20_2_product1.jpg",
-      "published_label": "21일 전",
       "views": 70,
       "daily_views": 0,
       "likes": 0,
@@ -4597,6 +4597,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24332,
+      "title": "초보운전자라면, 요즘 다들 시거잭 대신 이걸로 바꾼다는 무선충전거치대, 이유가 있었습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24332/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n초보 시절엔 운전 중 내비게이션 보랴, 충전 케이블 꽂으랴 정신없었던 경험 있으실 겁니다.\n\n케이블이 꼬여있으면 급할 때 꽂기도 번거롭고, 운전 중 시선이 자꾸 아래로…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24332/pb_14_6_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 56,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 21911,
       "title": "장마철 와이퍼·발수코팅 안 챙기면, 빗길 시야 확보 못해 아찔한 순간이 옵니다",
       "url": "https://wikidocs.net/blog/@cartemlab/21911/",
@@ -4692,21 +4707,6 @@
       "url": "https://wikidocs.net/blog/@cartemlab/24675/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n블랙박스 영상을 확인하려는데 '카드 오류'나 '포맷 필요' 메시지가 떠서 정작 필요한 순간 녹화가 안 돼 있었던 경험 있으실 겁니다.\n\n블랙박스는 24시간 반복 녹화라…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24675/pb_16_9_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 55,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 24332,
-      "title": "초보운전자라면, 요즘 다들 시거잭 대신 이걸로 바꾼다는 무선충전거치대, 이유가 있었습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24332/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n초보 시절엔 운전 중 내비게이션 보랴, 충전 케이블 꽂으랴 정신없었던 경험 있으실 겁니다.\n\n케이블이 꼬여있으면 급할 때 꽂기도 번거롭고, 운전 중 시선이 자꾸 아래로…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24332/pb_14_6_thumb.jpg",
       "published_label": "1개월 전",
       "views": 55,
       "daily_views": 0,
@@ -6037,6 +6037,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22494,
+      "title": "여름에 등에 땀 차서 셔츠 젖던 통근족이라면, 메쉬 등받이 하나로 등이 보송해졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22494/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여름에 장시간 운전하고 내리면 등이 땀으로 흠뻑 젖어 셔츠가 시트에 달라붙었던 경험, 통근이 긴 분이라면 매일 겪으실 겁니다. 시트에 등이 밀착돼 통풍이 안 되니, 에…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22494/4_10_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 45,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 21977,
       "title": "출퇴근 차에서 오래 계신 분이라면, 혹시 아직도 한여름 문 열 때 훅 끼치는 냄새 그대로 두고 계신가요?",
       "url": "https://wikidocs.net/blog/@cartemlab/21977/",
@@ -6117,21 +6132,6 @@
       "url": "https://wikidocs.net/blog/@cartemlab/22938/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n한여름 통근길, 시트에 등과 엉덩이가 밀착돼 땀이 차면 셔츠와 바지가 축축하게 젖어 불쾌하죠. 에어컨 바람은 앞으로만 오고, 정작 몸이 닿는 시트 면은 통풍이 안 돼 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22938/6_5_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 44,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 22494,
-      "title": "여름에 등에 땀 차서 셔츠 젖던 통근족이라면, 메쉬 등받이 하나로 등이 보송해졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22494/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여름에 장시간 운전하고 내리면 등이 땀으로 흠뻑 젖어 셔츠가 시트에 달라붙었던 경험, 통근이 긴 분이라면 매일 겪으실 겁니다. 시트에 등이 밀착돼 통풍이 안 되니, 에…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22494/4_10_thumb.jpg",
       "published_label": "1개월 전",
       "views": 44,
       "daily_views": 0,
@@ -6352,6 +6352,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23522,
+      "title": "장시간 모니터 보는 사무직을 위한, 목·어깨 결림 줄여주는 모니터 받침대",
+      "url": "https://wikidocs.net/blog/@smartliving/23522/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n하루 8시간 넘게 모니터를 들여다보는 사무직이라면, 퇴근 무렵 목과 어깨가 뻐근하게 굳어있는 걸 느껴보셨을 겁니다. 노트북이나 모니터가 눈높이보다 낮게 놓여 있으면, …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23522/11_6_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 43,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 22268,
       "title": "여름 장거리 운전 앞두고 카시트 안 챙기면, 땀띠와 냄새로 돌아옵니다",
       "url": "https://wikidocs.net/blog/@smartliving/22268/",
@@ -6465,21 +6480,6 @@
       "published_label": "1개월 전",
       "views": 42,
       "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23522,
-      "title": "장시간 모니터 보는 사무직을 위한, 목·어깨 결림 줄여주는 모니터 받침대",
-      "url": "https://wikidocs.net/blog/@smartliving/23522/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n하루 8시간 넘게 모니터를 들여다보는 사무직이라면, 퇴근 무렵 목과 어깨가 뻐근하게 굳어있는 걸 느껴보셨을 겁니다. 노트북이나 모니터가 눈높이보다 낮게 놓여 있으면, …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23522/11_6_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 42,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -8737,14 +8737,14 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 24645,
-      "title": "요즘 다들 베갯잇부터 인견으로 바꾼다는, 여름 인견 베개커버 이유가 있었습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/24645/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n밤새 뒤척이다 베개를 뒤집어봐도 금세 다시 뜨끈해지는 여름밤, 다들 한 번쯤 겪어보셨을 겁니다. 요즘 다들 베갯잇부터 인견으로 바꾼다는데, 여름 인견 베개커버 이유가 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24645/16_10_product1.jpg",
+      "id": 24860,
+      "title": "캠핑 초보를 위한, 다들 텐트만 챙기면 된다지만 해먹은 무게부터 봐야 합니다",
+      "url": "https://wikidocs.net/blog/@smartliving/24860/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n캠핑 초보 시절, 짐 목록에 텐트와 침낭만 적어놓고 정작 앉을 자리는 대충 접이식 의자 하나로 때웠던 기억 있으신가요. 막상 캠핑장에 도착해 짐을 다 풀고 나면 몸을 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24860/17_8_product1.jpg",
       "published_label": "1개월 전",
       "views": 23,
-      "daily_views": 0,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -8752,13 +8752,13 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 24860,
-      "title": "캠핑 초보를 위한, 다들 텐트만 챙기면 된다지만 해먹은 무게부터 봐야 합니다",
-      "url": "https://wikidocs.net/blog/@smartliving/24860/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n캠핑 초보 시절, 짐 목록에 텐트와 침낭만 적어놓고 정작 앉을 자리는 대충 접이식 의자 하나로 때웠던 기억 있으신가요. 막상 캠핑장에 도착해 짐을 다 풀고 나면 몸을 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24860/17_8_product1.jpg",
+      "id": 24645,
+      "title": "요즘 다들 베갯잇부터 인견으로 바꾼다는, 여름 인견 베개커버 이유가 있었습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/24645/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n밤새 뒤척이다 베개를 뒤집어봐도 금세 다시 뜨끈해지는 여름밤, 다들 한 번쯤 겪어보셨을 겁니다. 요즘 다들 베갯잇부터 인견으로 바꾼다는데, 여름 인견 베개커버 이유가 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24645/16_10_product1.jpg",
       "published_label": "1개월 전",
-      "views": 22,
+      "views": 23,
       "daily_views": 0,
       "likes": 0,
       "comments": 0,
@@ -9536,6 +9536,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22528,
+      "title": "세 번 잘못 사고 나서야 알게 된 강아지 발톱깎이 고르는 법",
+      "url": "https://wikidocs.net/blog/@petpicknote/22528/",
+      "excerpt": "---\ntitle: \"세 번 잘못 사고 나서야 알게 된 강아지 발톱깎이 고르는 법\"\ntags: [미용·목욕용품]\n---\n\n> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n강아지 발톱깎이, 별거 아니라고 생각하고 아무…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22528/7_1.jpg",
+      "published_label": "1개월 전",
+      "views": 340,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 27397,
       "title": "똑딱 소리에 잠 설친 끝에 알게 된 무소음 벽시계 고르는 법",
       "url": "https://wikidocs.net/blog/@smartliving/27397/",
@@ -9684,21 +9699,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 23356,
-      "title": "자취생을 위한, 땀에 전 운동복 그날 바로 세탁되는 미니세탁기 이렇게 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/23356/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n운동을 마치고 돌아온 뒤 땀에 흠뻑 젖은 운동복을 세탁기 돌리기엔 양이 애매해서 그냥 빨래바구니에 던져두신 적, 자취하시는 분이라면 다들 한 번쯤 있으실 겁니다. 세탁…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23356/10_3_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 8858,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     }
   ],
   "daily_totals": [
@@ -9920,8 +9920,8 @@
     },
     {
       "date": "2026-08-23",
-      "views": 303
+      "views": 315
     }
   ],
-  "static_generated_at": "2026-08-23T16:33:25+09:00"
+  "static_generated_at": "2026-08-23T17:03:30+09:00"
 }
