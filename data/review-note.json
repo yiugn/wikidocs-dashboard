@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-24T21:03:23+09:00",
+  "latest_snapshot_at": "2026-08-24T21:33:23+09:00",
   "latest_snapshot_date": "2026-08-24",
   "catalog_updated_at": "2026-08-24T00:00:49+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 308106,
-    "daily_views": 403,
+    "total_views": 308114,
+    "daily_views": 411,
     "previous_day_views": 436,
     "previous_day_date": "2026-08-23",
-    "current_month_views": 20735,
+    "current_month_views": 20743,
     "days_recorded": 56
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 159010,
-      "daily_views": 99,
+      "total_views": 159013,
+      "daily_views": 102,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 336,
       "captured_posts": 336,
-      "total_views": 114093,
-      "daily_views": 224,
+      "total_views": 114097,
+      "daily_views": 228,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 35003,
-      "daily_views": 80,
+      "total_views": 35004,
+      "daily_views": 81,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -163,8 +163,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n내비를 보려고 자꾸 고개를 숙이거나 눈을 아래로 내렸다가, 다시 앞을 보는 그 짧은 순간이 은근히 불안하죠. 특히 고속 주행 중엔 시선이 도로에서 떨어지는 찰나가 길게…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22943/6_10_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 9235,
-      "daily_views": 10,
+      "views": 9236,
+      "daily_views": 11,
       "likes": 0,
       "comments": 1,
       "blog_id": 1978,
@@ -598,8 +598,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n새 차 냄새 폴폴 나는데, 시거잭 케이블만 예전 그대로였습니다\n\n신차를 인수하고 처음 시동을 걸었을 때의 그 설렘, 다들 아실 겁니다. 깔끔한 대시보드, 반짝이는 인포…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/21913/1_7_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 1248,
-      "daily_views": 4,
+      "views": 1249,
+      "daily_views": 5,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -823,8 +823,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n한낮 산책 자외선이 걱정되는 반려인이라면 한 번쯤 고민해보셨을 이야기입니다. 사람은 선글라스나 양산으로 자외선을 피하지만, 반려동물은 눈과 코, 피부가 그대로 햇빛에 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23366/7_4_product1.jpg",
       "published_label": "1개월 전",
-      "views": 835,
-      "daily_views": 0,
+      "views": 836,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1912,6 +1912,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 23969,
+      "title": "뿌옇게 변색된 크롬몰딩 방치했다가 얼룩진 뒤에야 알게 된 광택제 고르는 법",
+      "url": "https://wikidocs.net/blog/@cartemlab/23969/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n반짝이던 크롬몰딩이 어느새 뿌옇게 흐려지고 얼룩진 걸 발견하고 속상했던 경험 있으실 겁니다.\n\n세차를 해도 원래의 광이 좀처럼 살아나지 않아 답답했던 분들도 많으실 겁…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23969/12_2_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 139,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22271,
       "title": "여름 차박·캠핑족이라면, 텐트 안 모기 때문에 잠 설쳤다면 초경량 모기장 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@smartliving/22271/",
@@ -1925,21 +1940,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23969,
-      "title": "뿌옇게 변색된 크롬몰딩 방치했다가 얼룩진 뒤에야 알게 된 광택제 고르는 법",
-      "url": "https://wikidocs.net/blog/@cartemlab/23969/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n반짝이던 크롬몰딩이 어느새 뿌옇게 흐려지고 얼룩진 걸 발견하고 속상했던 경험 있으실 겁니다.\n\n세차를 해도 원래의 광이 좀처럼 살아나지 않아 답답했던 분들도 많으실 겁…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23969/12_2_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 138,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 23200,
@@ -2593,8 +2593,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근하고 나면 유독 눈꺼풀이 파르르 떨리거나, 잠자리에 누웠는데 종아리가 뭉치는 느낌이 든 적 있으신가요. 마그네슘이 부족하면 이런 신호가 온다는 이야기를 듣고 영양제…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24859/17_7_product1.jpg",
       "published_label": "1개월 전",
-      "views": 89,
-      "daily_views": 5,
+      "views": 90,
+      "daily_views": 6,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -2917,6 +2917,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28198,
+      "title": "폭염에 땀 많이 흘리는 운동인, 하루 한 알로 미네랄 3종 채워주는 종합미네랄",
+      "url": "https://wikidocs.net/blog/@smartliving/28198/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n운동을 마치고 나면 옷이 흠뻑 젖을 만큼 땀을 흘렸는데도, 며칠째 몸이 무겁고 다리에 쥐가 잘 나신 적 있으실 겁니다. 물만 마셔서는 채워지지 않는 무언가가 빠져나간 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28198/29_10_product1.jpg",
+      "published_label": "13일 전",
+      "views": 78,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28078,
       "title": "반찬 소분 번거로운 1인가구, 냉장고 공간 30% 확보해주는 압축 밀폐용기",
       "url": "https://wikidocs.net/blog/@smartliving/28078/",
@@ -2940,21 +2955,6 @@
       "published_label": "10일 전",
       "views": 77,
       "daily_views": 9,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28198,
-      "title": "폭염에 땀 많이 흘리는 운동인, 하루 한 알로 미네랄 3종 채워주는 종합미네랄",
-      "url": "https://wikidocs.net/blog/@smartliving/28198/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n운동을 마치고 나면 옷이 흠뻑 젖을 만큼 땀을 흘렸는데도, 며칠째 몸이 무겁고 다리에 쥐가 잘 나신 적 있으실 겁니다. 물만 마셔서는 채워지지 않는 무언가가 빠져나간 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28198/29_10_product1.jpg",
-      "published_label": "13일 전",
-      "views": 77,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -3217,6 +3217,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 27305,
+      "title": "벌레 유입 신경쓰이는 자취생을 위한, 방충제값 아끼는 자석 방충망 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/27305/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여름밤 현관문을 잠깐 열어둔 사이 날파리나 모기가 훅 들어와 당황하신 적 있으실 겁니다. 그렇다고 문을 계속 닫아두면 환기가 안 돼 집안이 후텁지근하고, 방충 스프레이…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27305/20_10_product1.jpg",
+      "published_label": "22일 전",
+      "views": 72,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27302,
       "title": "장시간 재택근무하는 직장인을 위한, 노트북스탠드 살 때 놓치는 통풍 체크포인트",
       "url": "https://wikidocs.net/blog/@smartliving/27302/",
@@ -3313,21 +3328,6 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n한여름 오후, 서향이나 남향 창이 있는 거실은 커튼 하나 없이는 사우나처럼 달아오르곤 합니다. 에어컨을 아무리 세게 틀어도 햇빛이 그대로 들어오는 창문 쪽만 유독 뜨거…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28279/30_5_product1.jpg",
       "published_label": "12일 전",
-      "views": 71,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 27305,
-      "title": "벌레 유입 신경쓰이는 자취생을 위한, 방충제값 아끼는 자석 방충망 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27305/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n여름밤 현관문을 잠깐 열어둔 사이 날파리나 모기가 훅 들어와 당황하신 적 있으실 겁니다. 그렇다고 문을 계속 닫아두면 환기가 안 돼 집안이 후텁지근하고, 방충 스프레이…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27305/20_10_product1.jpg",
-      "published_label": "22일 전",
       "views": 71,
       "daily_views": 0,
       "likes": 0,
@@ -7192,6 +7192,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23938,
+      "title": "세탁조 안 닦고 그냥 쓰면, 냄새보다 무서운 게 옵니다",
+      "url": "https://wikidocs.net/blog/@smartliving/23938/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n세탁조 안 닦고 그냥 쓰면, 냄새보다 무서운 게 옵니다\n\n분명 세제도 넉넉히 넣고 세탁을 돌렸는데, 막상 다 마른 빨래에서 퀴퀴한 냄새가 났던 경험 다들 한 번쯤 있으…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23938/13_6_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 37,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 23936,
       "title": "혹시 아직도 욕실 들어갈 때마다 냄새부터 신경 쓰이시나요?",
       "url": "https://wikidocs.net/blog/@smartliving/23936/",
@@ -7317,21 +7332,6 @@
       "url": "https://wikidocs.net/blog/@smartliving/25040/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n밤늦게까지 형광등 하나만 켜놓고 지내다 보면 방 전체가 훤히 밝아 눈이 쉽게 피로해지고, 전기요금 고지서를 볼 때마다 뜨끔했던 경험 있으실 겁니다. 자취생 1인가구라면…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25040/18_6_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 36,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23938,
-      "title": "세탁조 안 닦고 그냥 쓰면, 냄새보다 무서운 게 옵니다",
-      "url": "https://wikidocs.net/blog/@smartliving/23938/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n세탁조 안 닦고 그냥 쓰면, 냄새보다 무서운 게 옵니다\n\n분명 세제도 넉넉히 넣고 세탁을 돌렸는데, 막상 다 마른 빨래에서 퀴퀴한 냄새가 났던 경험 다들 한 번쯤 있으…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23938/13_6_product1.jpg",
       "published_label": "1개월 전",
       "views": 36,
       "daily_views": 0,
@@ -9225,8 +9225,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n내비를 보려고 자꾸 고개를 숙이거나 눈을 아래로 내렸다가, 다시 앞을 보는 그 짧은 순간이 은근히 불안하죠. 특히 고속 주행 중엔 시선이 도로에서 떨어지는 찰나가 길게…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22943/6_10_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 9235,
-      "daily_views": 10,
+      "views": 9236,
+      "daily_views": 11,
       "likes": 0,
       "comments": 1,
       "blog_id": 1978,
@@ -9437,8 +9437,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n내비를 보려고 자꾸 고개를 숙이거나 눈을 아래로 내렸다가, 다시 앞을 보는 그 짧은 순간이 은근히 불안하죠. 특히 고속 주행 중엔 시선이 도로에서 떨어지는 찰나가 길게…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22943/6_10_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 9235,
-      "daily_views": 10,
+      "views": 9236,
+      "daily_views": 11,
       "likes": 0,
       "comments": 1,
       "blog_id": 1978,
@@ -9557,13 +9557,28 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근하고 나면 유독 눈꺼풀이 파르르 떨리거나, 잠자리에 누웠는데 종아리가 뭉치는 느낌이 든 적 있으신가요. 마그네슘이 부족하면 이런 신호가 온다는 이야기를 듣고 영양제…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24859/17_7_product1.jpg",
       "published_label": "1개월 전",
-      "views": 89,
-      "daily_views": 5,
+      "views": 90,
+      "daily_views": 6,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 21913,
+      "title": "신차 구매하신 분이라면, 요즘 다들 시거잭 대신 이걸로 바꾼다는 무선충전거치대 이유가 있었습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/21913/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n새 차 냄새 폴폴 나는데, 시거잭 케이블만 예전 그대로였습니다\n\n신차를 인수하고 처음 시동을 걸었을 때의 그 설렘, 다들 아실 겁니다. 깔끔한 대시보드, 반짝이는 인포…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/21913/1_7_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 1249,
+      "daily_views": 5,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
     },
     {
       "id": 27392,
@@ -9594,21 +9609,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 21913,
-      "title": "신차 구매하신 분이라면, 요즘 다들 시거잭 대신 이걸로 바꾼다는 무선충전거치대 이유가 있었습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/21913/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n새 차 냄새 폴폴 나는데, 시거잭 케이블만 예전 그대로였습니다\n\n신차를 인수하고 처음 시동을 걸었을 때의 그 설렘, 다들 아실 겁니다. 깔끔한 대시보드, 반짝이는 인포…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/21913/1_7_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 1248,
-      "daily_views": 4,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 21996,
@@ -9656,6 +9656,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 23969,
+      "title": "뿌옇게 변색된 크롬몰딩 방치했다가 얼룩진 뒤에야 알게 된 광택제 고르는 법",
+      "url": "https://wikidocs.net/blog/@cartemlab/23969/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n반짝이던 크롬몰딩이 어느새 뿌옇게 흐려지고 얼룩진 걸 발견하고 속상했던 경험 있으실 겁니다.\n\n세차를 해도 원래의 광이 좀처럼 살아나지 않아 답답했던 분들도 많으실 겁…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23969/12_2_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 139,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24672,
       "title": "여름 뙤약볕에 핸들 뜨거워 손 못 대셨다면, 핸들커버 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/24672/",
@@ -9684,21 +9699,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28281,
-      "title": "현관문 열 때마다 모기 들어오는 아파트 거주자, 공사 없이 5초 만에 붙이는 자석 방충망",
-      "url": "https://wikidocs.net/blog/@smartliving/28281/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n택배를 받거나 분리수거를 하러 잠깐 현관문을 열었다 닫았을 뿐인데, 그새 모기 한두 마리가 따라 들어온 경험 다들 있으실 겁니다. 아파트 저층이나 1층이라면 더 심해서…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28281/30_7_product1.jpg",
-      "published_label": "12일 전",
-      "views": 78,
-      "daily_views": 4,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     }
   ],
   "daily_totals": [
@@ -9924,8 +9924,8 @@
     },
     {
       "date": "2026-08-24",
-      "views": 403
+      "views": 411
     }
   ],
-  "static_generated_at": "2026-08-24T21:03:24+09:00"
+  "static_generated_at": "2026-08-24T21:33:24+09:00"
 }
