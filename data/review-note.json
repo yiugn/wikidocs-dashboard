@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-24T12:33:24+09:00",
+  "latest_snapshot_at": "2026-08-24T13:03:27+09:00",
   "latest_snapshot_date": "2026-08-24",
   "catalog_updated_at": "2026-08-24T00:00:49+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 307921,
-    "daily_views": 218,
+    "total_views": 307929,
+    "daily_views": 226,
     "previous_day_views": 436,
     "previous_day_date": "2026-08-23",
-    "current_month_views": 20550,
+    "current_month_views": 20558,
     "days_recorded": 56
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 158963,
-      "daily_views": 52,
+      "total_views": 158965,
+      "daily_views": 54,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 336,
       "captured_posts": 336,
-      "total_views": 113977,
-      "daily_views": 108,
+      "total_views": 113983,
+      "daily_views": 114,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -163,8 +163,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n내비를 보려고 자꾸 고개를 숙이거나 눈을 아래로 내렸다가, 다시 앞을 보는 그 짧은 순간이 은근히 불안하죠. 특히 고속 주행 중엔 시선이 도로에서 떨어지는 찰나가 길게…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22943/6_10_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 9230,
-      "daily_views": 5,
+      "views": 9231,
+      "daily_views": 6,
       "likes": 0,
       "comments": 1,
       "blog_id": 1978,
@@ -3322,6 +3322,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 28476,
+      "title": "샤워 후 물때 닦던 자취생, 15초만에 곰팡이 막아주는 유리 워터스퀴지",
+      "url": "https://wikidocs.net/blog/@smartliving/28476/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n샤워를 끝내고 나올 때마다 유리 파티션에 남은 물방울 자국이 신경 쓰이신 적 있으실 겁니다. 마른 수건으로 닦아봐도 얼룩이 남고, 며칠 지나면 그 자리에 뿌옇게 물때가…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28476/32_3_product1.jpg",
+      "published_label": "10일 전",
+      "views": 70,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28386,
       "title": "여름 이불 세탁 앞둔 가정, 세탁비 1만원 아끼고 손상 막아주는 대형 이불세탁망",
       "url": "https://wikidocs.net/blog/@smartliving/28386/",
@@ -3395,21 +3410,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 28476,
-      "title": "샤워 후 물때 닦던 자취생, 15초만에 곰팡이 막아주는 유리 워터스퀴지",
-      "url": "https://wikidocs.net/blog/@smartliving/28476/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n샤워를 끝내고 나올 때마다 유리 파티션에 남은 물방울 자국이 신경 쓰이신 적 있으실 겁니다. 마른 수건으로 닦아봐도 얼룩이 남고, 며칠 지나면 그 자리에 뿌옇게 물때가…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28476/32_3_product1.jpg",
-      "published_label": "10일 전",
-      "views": 69,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 28076,
@@ -4567,6 +4567,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 21911,
+      "title": "장마철 와이퍼·발수코팅 안 챙기면, 빗길 시야 확보 못해 아찔한 순간이 옵니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/21911/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n와이퍼가 \"끼익\" 소리를 내는 순간, 앞이 뿌옇게 흐려졌습니다\n\n장맛비가 쏟아지던 어느 퇴근길, 와이퍼가 유리를 긁는 \"끼익, 끼익\" 소리와 함께 빗물이 매끄럽게 걷히…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/21911/1_5_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 57,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 28192,
       "title": "퇴근 후 설거지 시간 아까운 맞벌이 부부, 하루 20분 아껴주는 미니 식기세척기",
       "url": "https://wikidocs.net/blog/@smartliving/28192/",
@@ -4625,21 +4640,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 21911,
-      "title": "장마철 와이퍼·발수코팅 안 챙기면, 빗길 시야 확보 못해 아찔한 순간이 옵니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/21911/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n와이퍼가 \"끼익\" 소리를 내는 순간, 앞이 뿌옇게 흐려졌습니다\n\n장맛비가 쏟아지던 어느 퇴근길, 와이퍼가 유리를 긁는 \"끼익, 끼익\" 소리와 함께 빗물이 매끄럽게 걷히…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/21911/1_5_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 56,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 22336,
@@ -5047,6 +5047,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 27996,
+      "title": "국물요리 자주 하는 주부의 냄비뚜껑 고민, 뚜껑세트 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/27996/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n국이나 찌개를 끓이고 나면 냄비째 냉장고에 넣기도, 다른 그릇에 옮겨 담기도 애매하셨을 겁니다. 랩으로 덮자니 국물이 튀고, 뚜껑 없는 냄비를 그대로 넣자니 냉장고 안…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27996/27_5_product1.jpg",
+      "published_label": "15일 전",
+      "views": 53,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 23942,
       "title": "잘못된 자세로 자다 후회한 끝에 알게 된 바디필로우 고르는 법",
       "url": "https://wikidocs.net/blog/@smartliving/23942/",
@@ -5205,21 +5220,6 @@
       "published_label": "8일 전",
       "views": 52,
       "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 27996,
-      "title": "국물요리 자주 하는 주부의 냄비뚜껑 고민, 뚜껑세트 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27996/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n국이나 찌개를 끓이고 나면 냄비째 냉장고에 넣기도, 다른 그릇에 옮겨 담기도 애매하셨을 겁니다. 랩으로 덮자니 국물이 튀고, 뚜껑 없는 냄비를 그대로 넣자니 냉장고 안…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27996/27_5_product1.jpg",
-      "published_label": "15일 전",
-      "views": 52,
-      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -5647,6 +5647,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 27854,
+      "title": "재택근무·수험생을 위한, 독서대 살 때 다들 놓치는 목디스크 예방 체크포인트",
+      "url": "https://wikidocs.net/blog/@smartliving/27854/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n재택근무든 수험 공부든, 책상에 책이나 노트북을 평평하게 눕혀두고 몇 시간씩 들여다보다 보면 목이 앞으로 쭉 빠지는 자세가 됩니다. 처음엔 살짝 뻐근한 정도였는데, 몇…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27854/25_10_product1.jpg",
+      "published_label": "17일 전",
+      "views": 49,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27845,
       "title": "좁은 방 재택근무족을 위한, 전기세 안 드는 미니 에어컨 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/27845/",
@@ -5758,21 +5773,6 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근 무렵이면 발목이 퉁퉁 붓고 신발이 꽉 낀 느낌, 재택근무든 사무직이든 하루 8시간 이상 앉아 있는 분이라면 익숙하실 겁니다. 의자 높이에 맞춰 책상을 조정하다 보…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27995/27_4_product1.jpg",
       "published_label": "15일 전",
-      "views": 48,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 27854,
-      "title": "재택근무·수험생을 위한, 독서대 살 때 다들 놓치는 목디스크 예방 체크포인트",
-      "url": "https://wikidocs.net/blog/@smartliving/27854/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n재택근무든 수험 공부든, 책상에 책이나 노트북을 평평하게 눕혀두고 몇 시간씩 들여다보다 보면 목이 앞으로 쭉 빠지는 자세가 됩니다. 처음엔 살짝 뻐근한 정도였는데, 몇…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27854/25_10_product1.jpg",
-      "published_label": "17일 전",
       "views": 48,
       "daily_views": 0,
       "likes": 0,
@@ -6037,6 +6037,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28193,
+      "title": "방향제값 월 1만원 쓰던 자취생, 원인부터 없애주는 배수구 냄새젤",
+      "url": "https://wikidocs.net/blog/@smartliving/28193/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근하고 문을 여는 순간 훅 끼치는 냄새에 미간부터 찌푸려지신 적 있으실 겁니다. 방향제를 몇 개씩 놔둬도 잠깐 뿐, 시간이 지나면 그 냄새는 다시 스멀스멀 올라오죠.…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28193/29_5_product1.jpg",
+      "published_label": "13일 전",
+      "views": 46,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27746,
       "title": "맞벌이 부부를 위한, 빨래 준비시간 5분 줄여주는 캡슐세탁세제 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/27746/",
@@ -6150,21 +6165,6 @@
       "published_label": "11일 전",
       "views": 45,
       "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28193,
-      "title": "방향제값 월 1만원 쓰던 자취생, 원인부터 없애주는 배수구 냄새젤",
-      "url": "https://wikidocs.net/blog/@smartliving/28193/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n퇴근하고 문을 여는 순간 훅 끼치는 냄새에 미간부터 찌푸려지신 적 있으실 겁니다. 방향제를 몇 개씩 놔둬도 잠깐 뿐, 시간이 지나면 그 냄새는 다시 스멀스멀 올라오죠.…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28193/29_5_product1.jpg",
-      "published_label": "13일 전",
-      "views": 45,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -7162,6 +7162,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22266,
+      "title": "초복(7월 15일) 오기 전에 미리 챙겨야 할 삼계탕 압력솥 3가지",
+      "url": "https://wikidocs.net/blog/@smartliving/22266/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n2026년 초복은 7월 15일, 이제 일주일 남짓 남았습니다. 삼복더위를 이겨내려고 삼계탕 한 그릇 챙겨 먹는 건 오래된 관습이지만, 막상 집에서 직접 끓이려면 손이 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22266/5_3_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 37,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 22493,
       "title": "장마철 갓길 고장·사고 때 안전삼각대 안 챙기면, 2차 사고라는 더 큰 위험으로 돌아옵니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22493/",
@@ -7320,21 +7335,6 @@
       "published_label": "1개월 전",
       "views": 36,
       "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22266,
-      "title": "초복(7월 15일) 오기 전에 미리 챙겨야 할 삼계탕 압력솥 3가지",
-      "url": "https://wikidocs.net/blog/@smartliving/22266/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n2026년 초복은 7월 15일, 이제 일주일 남짓 남았습니다. 삼복더위를 이겨내려고 삼계탕 한 그릇 챙겨 먹는 건 오래된 관습이지만, 막상 집에서 직접 끓이려면 손이 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22266/5_3_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 36,
-      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -8962,6 +8962,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24854,
+      "title": "이번 주말 다시 비 온다는데, 욕실 물때 방치하면 곰팡이 제거비 나갑니다",
+      "url": "https://wikidocs.net/blog/@smartliving/24854/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n샤워를 마치고 나온 뒤 거울에 맺힌 물방울과 바닥 타일 사이사이 남은 물기, 그냥 두고 나가는 날이 많으실 텐데요. 며칠만 지나면 그 자리에 뿌옇게 물때가 앉고, 좀 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24854/17_2_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 19,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24642,
       "title": "자취생이라면, 다들 생수만 쟁여두면 된다지만 미니정수기는 이 기준부터 봐야 합니다",
       "url": "https://wikidocs.net/blog/@smartliving/24642/",
@@ -8999,21 +9014,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23361/10_8_product1.jpg",
       "published_label": "1개월 전",
       "views": 19,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24854,
-      "title": "이번 주말 다시 비 온다는데, 욕실 물때 방치하면 곰팡이 제거비 나갑니다",
-      "url": "https://wikidocs.net/blog/@smartliving/24854/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n샤워를 마치고 나온 뒤 거울에 맺힌 물방울과 바닥 타일 사이사이 남은 물기, 그냥 두고 나가는 날이 많으실 텐데요. 며칠만 지나면 그 자리에 뿌옇게 물때가 앉고, 좀 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24854/17_2_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 18,
       "daily_views": 0,
       "likes": 0,
       "comments": 0,
@@ -9225,8 +9225,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n내비를 보려고 자꾸 고개를 숙이거나 눈을 아래로 내렸다가, 다시 앞을 보는 그 짧은 순간이 은근히 불안하죠. 특히 고속 주행 중엔 시선이 도로에서 떨어지는 찰나가 길게…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22943/6_10_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 9230,
-      "daily_views": 5,
+      "views": 9231,
+      "daily_views": 6,
       "likes": 0,
       "comments": 1,
       "blog_id": 1978,
@@ -9452,8 +9452,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n내비를 보려고 자꾸 고개를 숙이거나 눈을 아래로 내렸다가, 다시 앞을 보는 그 짧은 순간이 은근히 불안하죠. 특히 고속 주행 중엔 시선이 도로에서 떨어지는 찰나가 길게…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22943/6_10_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 9230,
-      "daily_views": 5,
+      "views": 9231,
+      "daily_views": 6,
       "likes": 0,
       "comments": 1,
       "blog_id": 1978,
@@ -9596,6 +9596,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 27996,
+      "title": "국물요리 자주 하는 주부의 냄비뚜껑 고민, 뚜껑세트 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/27996/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n국이나 찌개를 끓이고 나면 냄비째 냉장고에 넣기도, 다른 그릇에 옮겨 담기도 애매하셨을 겁니다. 랩으로 덮자니 국물이 튀고, 뚜껑 없는 냄비를 그대로 넣자니 냉장고 안…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27996/27_5_product1.jpg",
+      "published_label": "15일 전",
+      "views": 53,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24163,
       "title": "여름 러닝 시작한 직장인을 위한 방수 블루투스 이어폰",
       "url": "https://wikidocs.net/blog/@smartliving/24163/",
@@ -9684,21 +9699,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22693,
-      "title": "밤 운전 잦은데 헤드라이트 침침해 답답하던 분들, 복원제 한 번 발랐더니 다시 밝아졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22693/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n밤 운전을 하다 보면 예전 같지 않게 헤드라이트가 침침하게 느껴질 때가 있습니다. 연식이 쌓이면 전조등 커버(플라스틱)가 자외선에 누렇게 변색되고 뿌옇게 흐려지는 '황…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22693/5_2_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 1376,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     }
   ],
   "daily_totals": [
@@ -9924,8 +9924,8 @@
     },
     {
       "date": "2026-08-24",
-      "views": 218
+      "views": 226
     }
   ],
-  "static_generated_at": "2026-08-24T12:33:26+09:00"
+  "static_generated_at": "2026-08-24T13:03:28+09:00"
 }
