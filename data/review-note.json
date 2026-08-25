@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-25T21:01:55+09:00",
+  "latest_snapshot_at": "2026-08-25T21:31:51+09:00",
   "latest_snapshot_date": "2026-08-25",
   "catalog_updated_at": "2026-08-25T00:00:49+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 604,
-    "total_views": 308580,
-    "daily_views": 436,
+    "total_views": 308587,
+    "daily_views": 443,
     "previous_day_views": 441,
     "previous_day_date": "2026-08-24",
-    "current_month_views": 21209,
+    "current_month_views": 21216,
     "days_recorded": 57
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 159152,
-      "daily_views": 130,
+      "total_views": 159156,
+      "daily_views": 134,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 336,
       "captured_posts": 336,
-      "total_views": 114304,
-      "daily_views": 189,
+      "total_views": 114307,
+      "daily_views": 192,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -1153,8 +1153,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n한여름 차박·오토캠핑을 가면, 정작 낮에 쉴 그늘이 없어 뙤약볕에 그대로 노출된 경험 있으실 겁니다. 트렁크 문을 열어 그늘을 만들어봐도 해가 기울면 소용없고, 달궈진…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22492/4_8_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 436,
-      "daily_views": 0,
+      "views": 437,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1312,6 +1312,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 23352,
+      "title": "시트 얼룩 물티슈로만 닦다가 결국 스팀청소기로 해결 봤다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23352/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n아이나 반려동물과 함께 타다 보면 시트에 얼룩이 지고, 물티슈로는 표면만 닦일 뿐 깊은 때는 그대로 남는다.\n\n스팀청소기 하나면 고온 스팀이 섬유 깊숙한 곳까지 파고들…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23352/8_9_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 339,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23109,
       "title": "세 번 잘못 사고 나서야 알게 된 강아지 목욕 후 초강력 흡수 드라이타월 고르는 법",
       "url": "https://wikidocs.net/blog/@petpicknote/23109/",
@@ -1325,21 +1340,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 23352,
-      "title": "시트 얼룩 물티슈로만 닦다가 결국 스팀청소기로 해결 봤다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23352/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n아이나 반려동물과 함께 타다 보면 시트에 얼룩이 지고, 물티슈로는 표면만 닦일 뿐 깊은 때는 그대로 남는다.\n\n스팀청소기 하나면 고온 스팀이 섬유 깊숙한 곳까지 파고들…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23352/8_9_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 338,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 22265,
@@ -1747,6 +1747,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 23525,
+      "title": "주말 홈시네마 즐기고 싶은 자취생·신혼부부를 위한 미니 빔프로젝터",
+      "url": "https://wikidocs.net/blog/@smartliving/23525/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n주말 저녁, 굳이 영화관까지 나가지 않아도 집에서 큰 화면으로 영화를 보고 싶다는 생각, 자취를 하거나 신혼집을 꾸리신 분이라면 한 번쯤 해보셨을 겁니다. 하지만 TV…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23525/11_9_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 154,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 22684,
       "title": "재택근무 프리랜서를 위한, 한 달 전기세 확 줄여주는 절전형 멀티탭 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/22684/",
@@ -1775,21 +1790,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 23525,
-      "title": "주말 홈시네마 즐기고 싶은 자취생·신혼부부를 위한 미니 빔프로젝터",
-      "url": "https://wikidocs.net/blog/@smartliving/23525/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n주말 저녁, 굳이 영화관까지 나가지 않아도 집에서 큰 화면으로 영화를 보고 싶다는 생각, 자취를 하거나 신혼집을 꾸리신 분이라면 한 번쯤 해보셨을 겁니다. 하지만 TV…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23525/11_9_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 153,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 22028,
@@ -2338,8 +2338,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n새로 산 벽시계를 걸어놓고 첫날 밤, 유독 조용한 방 안에서 똑딱거리는 초침 소리가 이렇게 크게 들릴 줄 몰랐던 경험 있으실 겁니다. 낮에는 안 들리던 소리가 불 끄고…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27397/21_8_product1.jpg",
       "published_label": "22일 전",
-      "views": 102,
-      "daily_views": 1,
+      "views": 103,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -2782,6 +2782,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 28198,
+      "title": "폭염에 땀 많이 흘리는 운동인, 하루 한 알로 미네랄 3종 채워주는 종합미네랄",
+      "url": "https://wikidocs.net/blog/@smartliving/28198/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n운동을 마치고 나면 옷이 흠뻑 젖을 만큼 땀을 흘렸는데도, 며칠째 몸이 무겁고 다리에 쥐가 잘 나신 적 있으실 겁니다. 물만 마셔서는 채워지지 않는 무언가가 빠져나간 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28198/29_10_product1.jpg",
+      "published_label": "14일 전",
+      "views": 83,
+      "daily_views": 5,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24009,
       "title": "두 번 잘못 사고 나서야 알게 된 요가매트 두께 고르는 법",
       "url": "https://wikidocs.net/blog/@petpicknote/24009/",
@@ -2795,21 +2810,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28198,
-      "title": "폭염에 땀 많이 흘리는 운동인, 하루 한 알로 미네랄 3종 채워주는 종합미네랄",
-      "url": "https://wikidocs.net/blog/@smartliving/28198/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n운동을 마치고 나면 옷이 흠뻑 젖을 만큼 땀을 흘렸는데도, 며칠째 몸이 무겁고 다리에 쥐가 잘 나신 적 있으실 겁니다. 물만 마셔서는 채워지지 않는 무언가가 빠져나간 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28198/29_10_product1.jpg",
-      "published_label": "14일 전",
-      "views": 82,
-      "daily_views": 4,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 28476,
@@ -2857,6 +2857,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22701,
+      "title": "장거리 휴가 운전에 목이 뻐근하던 분들, 메모리폼 목쿠션 하나로 목이 한결 편해졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22701/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장거리 휴가 운전을 하다 보면, 어느새 목과 어깨가 뻐근하게 굳어 도착할 때쯤엔 뒷목이 뻣뻣해지죠. 시트 헤드레스트는 각도가 안 맞아 목을 제대로 받쳐주지 못하고, 오…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22701/5_10_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 80,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22673,
       "title": "이번 주말 케이펫페어 서울 방문 예정이신 분이라면, 슬링백 이동가방 고를 때 다들 놓치는 체크포인트 세 가지",
       "url": "https://wikidocs.net/blog/@petpicknote/22673/",
@@ -2892,21 +2907,6 @@
       "url": "https://wikidocs.net/blog/@cartemlab/23550/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n고속도로를 한참 달리고 나서 무심코 차 옆면을 손으로 쓸어봤는데, 까끌까끌하다 못해 끈적하게 손끝에 검은 자국이 묻어난 적 있으실 겁니다.\n\n세차장에서 거품 세차까지 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23550/9_1_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 79,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 22701,
-      "title": "장거리 휴가 운전에 목이 뻐근하던 분들, 메모리폼 목쿠션 하나로 목이 한결 편해졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22701/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장거리 휴가 운전을 하다 보면, 어느새 목과 어깨가 뻐근하게 굳어 도착할 때쯤엔 뒷목이 뻣뻣해지죠. 시트 헤드레스트는 각도가 안 맞아 목을 제대로 받쳐주지 못하고, 오…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22701/5_10_thumb.jpg",
       "published_label": "1개월 전",
       "views": 79,
       "daily_views": 0,
@@ -4822,6 +4822,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22695,
+      "title": "휴가지에서 사소한 정비 하나 못 해 쩔쩔맨 뒤에야 알게 된 차량용 공구세트 고르는 법",
+      "url": "https://wikidocs.net/blog/@cartemlab/22695/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n휴가지에서 트렁크 짐을 정리하다 나사 하나가 헐거워진 걸 발견했는데, 맞는 드라이버가 없어 그냥 두고 온 적 있으실 겁니다. 저는 캠핑장에서 번호판 볼트가 덜렁거리는데…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22695/5_4_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 55,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22933,
       "title": "토끼 처음 키우기 시작한 초보 집사라면, 철망형 vs 아크릴 밀폐형 사육장 직접 비교해보니 승자는 이거였습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/22933/",
@@ -4910,21 +4925,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22695,
-      "title": "휴가지에서 사소한 정비 하나 못 해 쩔쩔맨 뒤에야 알게 된 차량용 공구세트 고르는 법",
-      "url": "https://wikidocs.net/blog/@cartemlab/22695/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n휴가지에서 트렁크 짐을 정리하다 나사 하나가 헐거워진 걸 발견했는데, 맞는 드라이버가 없어 그냥 두고 온 적 있으실 겁니다. 저는 캠핑장에서 번호판 볼트가 덜렁거리는데…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22695/5_4_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 54,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 22920,
@@ -9686,13 +9686,13 @@
       "blog_name": "카템랩"
     },
     {
-      "id": 27613,
-      "title": "매일 청소하는 주부를 위한, 욕실 줄눈 물때 방치하면 곰팡이 제거비 나갑니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27613/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n욕실 타일 사이 줄눈이 거뭇거뭇해진 걸 보고도 '나중에 해야지' 미뤄본 적 있으실 겁니다. 매일 물기를 닦아도 줄눈 자체가 까매지기 시작하면 일반 세제로는 좀처럼 지워…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27613/23_2_product1.jpg",
-      "published_label": "20일 전",
-      "views": 51,
+      "id": 28198,
+      "title": "폭염에 땀 많이 흘리는 운동인, 하루 한 알로 미네랄 3종 채워주는 종합미네랄",
+      "url": "https://wikidocs.net/blog/@smartliving/28198/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n운동을 마치고 나면 옷이 흠뻑 젖을 만큼 땀을 흘렸는데도, 며칠째 몸이 무겁고 다리에 쥐가 잘 나신 적 있으실 겁니다. 물만 마셔서는 채워지지 않는 무언가가 빠져나간 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28198/29_10_product1.jpg",
+      "published_label": "14일 전",
+      "views": 83,
       "daily_views": 5,
       "likes": 0,
       "comments": 0,
@@ -9928,8 +9928,8 @@
     },
     {
       "date": "2026-08-25",
-      "views": 436
+      "views": 443
     }
   ],
-  "static_generated_at": "2026-08-25T21:01:56+09:00"
+  "static_generated_at": "2026-08-25T21:31:52+09:00"
 }
