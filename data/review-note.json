@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-27T17:31:52+09:00",
+  "latest_snapshot_at": "2026-08-27T18:01:52+09:00",
   "latest_snapshot_date": "2026-08-27",
   "catalog_updated_at": "2026-08-27T00:00:30+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 624,
-    "total_views": 309671,
-    "daily_views": 339,
+    "total_views": 309695,
+    "daily_views": 344,
     "previous_day_views": 486,
     "previous_day_date": "2026-08-26",
-    "current_month_views": 22300,
+    "current_month_views": 22324,
     "days_recorded": 59
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 159397,
-      "daily_views": 100,
+      "total_views": 159399,
+      "daily_views": 102,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 346,
       "captured_posts": 356,
-      "total_views": 114930,
-      "daily_views": 153,
+      "total_views": 114951,
+      "daily_views": 155,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 35344,
-      "daily_views": 86,
+      "total_views": 35345,
+      "daily_views": 87,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -577,6 +577,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 21913,
+      "title": "신차 구매하신 분이라면, 요즘 다들 시거잭 대신 이걸로 바꾼다는 무선충전거치대 이유가 있었습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/21913/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n새 차 냄새 폴폴 나는데, 시거잭 케이블만 예전 그대로였습니다\n\n신차를 인수하고 처음 시동을 걸었을 때의 그 설렘, 다들 아실 겁니다. 깔끔한 대시보드, 반짝이는 인포…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/21913/1_7_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 1254,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23357,
       "title": "뙤약볕 아래 그늘 없어 고생했다면, 캠핑 타프 그늘막 추천 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@smartliving/23357/",
@@ -590,21 +605,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 21913,
-      "title": "신차 구매하신 분이라면, 요즘 다들 시거잭 대신 이걸로 바꾼다는 무선충전거치대 이유가 있었습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/21913/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n새 차 냄새 폴폴 나는데, 시거잭 케이블만 예전 그대로였습니다\n\n신차를 인수하고 처음 시동을 걸었을 때의 그 설렘, 다들 아실 겁니다. 깔끔한 대시보드, 반짝이는 인포…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/21913/1_7_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 1253,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 22682,
@@ -1678,8 +1678,8 @@
       "excerpt": "구글 스프레드시트 프로젝트 관리: 5인 팀 업무 진척도 시각화 노하우 6가지\n\n5인 규모의 팀은 구글 스프레드시트를 활용하여 프로젝트 업무 진척도를 효과적으로 시각화하고 관리할 수 있습니다. 특히, 조건부 서식, 데이터 유효성 검사, 간트 차트 시각화, 대시보드 구…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25222/15_3_img1.jpg",
       "published_label": "1개월 전",
-      "views": 175,
-      "daily_views": 0,
+      "views": 176,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1888,8 +1888,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n보냉백 vs 미니 아이스박스, 여름 나들이엔 뭐가 나을까요?\n\n여름 휴가철, 계곡이나 바다로 나들이를 갈 때마다 고민되는 게 하나 있습니다. 음료수와 아이스크림, 도시…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/21992/4_6_product1.jpg",
       "published_label": "1개월 전",
-      "views": 145,
-      "daily_views": 0,
+      "views": 146,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -2962,6 +2962,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22935,
+      "title": "주말 나들이 잦은 분들, 문콕·잔기스로 속상했는데 스크래치 제거제로 감쪽같이 지웠다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22935/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n주말 나들이 다녀와 차를 보니 어디서 긁혔는지 문짝에 잔기스가 나 있고, 주차장에서 문콕 자국까지 발견하면 그날 기분이 확 상하죠. 세차장에 맡기자니 비용이 만만치 않…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22935/6_2_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 79,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 28078,
       "title": "반찬 소분 번거로운 1인가구, 냉장고 공간 30% 확보해주는 압축 밀폐용기",
       "url": "https://wikidocs.net/blog/@smartliving/28078/",
@@ -2990,21 +3005,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22935,
-      "title": "주말 나들이 잦은 분들, 문콕·잔기스로 속상했는데 스크래치 제거제로 감쪽같이 지웠다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22935/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n주말 나들이 다녀와 차를 보니 어디서 긁혔는지 문짝에 잔기스가 나 있고, 주차장에서 문콕 자국까지 발견하면 그날 기분이 확 상하죠. 세차장에 맡기자니 비용이 만만치 않…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22935/6_2_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 78,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 25341,
@@ -4102,6 +4102,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28082,
+      "title": "편의점 음식 자주 먹는 직장인 식단, 하루 한 알 아연 15mg 채워주는 영양제",
+      "url": "https://wikidocs.net/blog/@smartliving/28082/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n점심은 편의점 삼각김밥, 저녁은 배달 음식으로 때우는 날이 이어지면, 몸이 예전 같지 않다는 걸 문득 느끼실 때가 있으실 겁니다. 유난히 감기에 자주 걸리거나, 상처가…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28082/28_10_product1.jpg",
+      "published_label": "17일 전",
+      "views": 63,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27301,
       "title": "혹시 아직도 물만 드시고 계신가요? 무더위 탈진 막아주는 전해질 파우더",
       "url": "https://wikidocs.net/blog/@smartliving/27301/",
@@ -4213,21 +4228,6 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n올여름 폭염중대경보가 확대되고 전력수요가 93GW를 넘어서면서, 에어컨을 켤 때마다 다음 달 전기요금 고지서가 걱정되신 분들 많으실 겁니다. 하루 종일 에어컨만 틀자니…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28284/30_10_product1.jpg",
       "published_label": "15일 전",
-      "views": 62,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28082,
-      "title": "편의점 음식 자주 먹는 직장인 식단, 하루 한 알 아연 15mg 채워주는 영양제",
-      "url": "https://wikidocs.net/blog/@smartliving/28082/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n점심은 편의점 삼각김밥, 저녁은 배달 음식으로 때우는 날이 이어지면, 몸이 예전 같지 않다는 걸 문득 느끼실 때가 있으실 겁니다. 유난히 감기에 자주 걸리거나, 상처가…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28082/28_10_product1.jpg",
-      "published_label": "17일 전",
       "views": 62,
       "daily_views": 0,
       "likes": 0,
@@ -8287,6 +8287,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 29598,
+      "title": "계단만 올라도 무릎 시큰한 40대, 하루 한 알로 관절 챙기는 초록입홍합 영양제",
+      "url": "https://wikidocs.net/blog/@smartliving/29598/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n계단 두 층만 올라가도 무릎이 시큰하시다면\n\n지하철역 계단을 오를 때, 혹은 아이를 안고 층계를 오를 때 무릎에서 \"뚝\" 소리가 나거나 시큰한 느낌이 든 적 있으실 겁…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29598/38_4_product1.jpg",
+      "published_label": "11시간 전",
+      "views": 29,
+      "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24158,
       "title": "가스불 켜기 부담스러운 여름 부엌, 에어프라이어 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@smartliving/24158/",
@@ -8330,21 +8345,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 29598,
-      "title": "계단만 올라도 무릎 시큰한 40대, 하루 한 알로 관절 챙기는 초록입홍합 영양제",
-      "url": "https://wikidocs.net/blog/@smartliving/29598/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n계단 두 층만 올라가도 무릎이 시큰하시다면\n\n지하철역 계단을 오를 때, 혹은 아이를 안고 층계를 오를 때 무릎에서 \"뚝\" 소리가 나거나 시큰한 느낌이 든 적 있으실 겁…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29598/38_4_product1.jpg",
-      "published_label": "10시간 전",
-      "views": 28,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 27847,
@@ -8465,6 +8465,21 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
+    },
+    {
+      "id": 29602,
+      "title": "9월 개학 앞둔 초등맘, 4천원대로 넉넉하게 채워주는 대용량 학생 필통",
+      "url": "https://wikidocs.net/blog/@smartliving/29602/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n9월 1일, 벌써 코앞으로 다가왔습니다\n\n여름방학이 끝나가는 게 실감 나지 않으시죠. 대학가 학사일정을 보면 2학기 개강일이 9월 1일로 잡혀 있고, 초·중·고 신학기…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29602/38_8_product1.jpg",
+      "published_label": "11시간 전",
+      "views": 27,
+      "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
     },
     {
       "id": 27919,
@@ -8602,6 +8617,36 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 29600,
+      "title": "샤워 수압 약해 답답한 자취생, 4천원대로 시원하게 뚫어주는 절수 샤워헤드",
+      "url": "https://wikidocs.net/blog/@smartliving/29600/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n샤워할 때마다 답답하셨던 이유\n\n퇴근하고 지친 몸으로 샤워기를 틀었는데 물줄기가 힘없이 졸졸 흐르기만 하면, 씻는 내내 개운함보다 답답함이 먼저 느껴지실 겁니다. 특히…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29600/38_6_product1.jpg",
+      "published_label": "11시간 전",
+      "views": 26,
+      "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 29596,
+      "title": "스케일링 예약값 8만원 아깝던 직장인, 집에서 치석 관리해주는 무선 구강세정기",
+      "url": "https://wikidocs.net/blog/@smartliving/29596/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n스케일링 예약, 자꾸 미루고 계시죠\n\n치과 스케일링 안내 문자를 받고도 \"다음 달에 가야지\" 하며 몇 달째 미루고 계신 분들 많으실 겁니다. 막상 예약을 잡으려니 8만…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29596/38_2_product1.jpg",
+      "published_label": "11시간 전",
+      "views": 26,
+      "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24853,
       "title": "체감 35도 폭염 야외활동엔, 무선 목선풍기 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/24853/",
@@ -8727,7 +8772,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/29604/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n현관에 들어설 때마다 뭔가 허전하셨죠\n\n신혼집에 이사 온 지 얼마 안 됐을 땐 하나하나 꾸미는 재미가 있었는데, 살다 보면 현관이나 거실 한쪽 벽이 어느새 밋밋하게 비…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/29604/38_10_product1.jpg",
-      "published_label": "10시간 전",
+      "published_label": "11시간 전",
       "views": 25,
       "daily_views": 0,
       "likes": 0,
@@ -8737,12 +8782,12 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 29602,
-      "title": "9월 개학 앞둔 초등맘, 4천원대로 넉넉하게 채워주는 대용량 학생 필통",
-      "url": "https://wikidocs.net/blog/@smartliving/29602/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n9월 1일, 벌써 코앞으로 다가왔습니다\n\n여름방학이 끝나가는 게 실감 나지 않으시죠. 대학가 학사일정을 보면 2학기 개강일이 9월 1일로 잡혀 있고, 초·중·고 신학기…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29602/38_8_product1.jpg",
-      "published_label": "10시간 전",
+      "id": 29601,
+      "title": "서랍 뒤지느라 아침마다 바쁜 1인가구, 2천원대로 칸칸이 정리해주는 속옷 정리함",
+      "url": "https://wikidocs.net/blog/@smartliving/29601/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n출근 준비 시간, 서랍 뒤지느라 다 쓰고 계시죠\n\n바쁜 아침, 양말 한 짝을 찾겠다고 서랍을 다 헤집어놓고 결국 짝이 안 맞는 양말을 신고 나가신 적 있으실 겁니다. …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29601/38_7_product1.jpg",
+      "published_label": "11시간 전",
       "views": 25,
       "daily_views": 0,
       "likes": 0,
@@ -8827,12 +8872,12 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 29596,
-      "title": "스케일링 예약값 8만원 아깝던 직장인, 집에서 치석 관리해주는 무선 구강세정기",
-      "url": "https://wikidocs.net/blog/@smartliving/29596/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n스케일링 예약, 자꾸 미루고 계시죠\n\n치과 스케일링 안내 문자를 받고도 \"다음 달에 가야지\" 하며 몇 달째 미루고 계신 분들 많으실 겁니다. 막상 예약을 잡으려니 8만…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29596/38_2_product1.jpg",
-      "published_label": "10시간 전",
+      "id": 29595,
+      "title": "열대야에 에어컨비 아까운 자취생, 전기세 0원대로 시원하게 재워주는 클립 손선풍기",
+      "url": "https://wikidocs.net/blog/@smartliving/29595/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n처서가 지나도 밤은 여전히 뜨겁습니다\n\n분명 달력에는 처서라고 적혀 있는데, 창문을 열어도 후텁지근한 공기만 들어오고 몸은 끈적하게 젖어 있는 밤이 이어지고 있습니다.…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29595/38_1_product1.jpg",
+      "published_label": "11시간 전",
       "views": 24,
       "daily_views": 0,
       "likes": 0,
@@ -8872,12 +8917,12 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 29601,
-      "title": "서랍 뒤지느라 아침마다 바쁜 1인가구, 2천원대로 칸칸이 정리해주는 속옷 정리함",
-      "url": "https://wikidocs.net/blog/@smartliving/29601/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n출근 준비 시간, 서랍 뒤지느라 다 쓰고 계시죠\n\n바쁜 아침, 양말 한 짝을 찾겠다고 서랍을 다 헤집어놓고 결국 짝이 안 맞는 양말을 신고 나가신 적 있으실 겁니다. …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29601/38_7_product1.jpg",
-      "published_label": "10시간 전",
+      "id": 29603,
+      "title": "문틈으로 벌레 들어오던 자취생, 5천원대로 촘촘히 막아주는 방충 실리콘 패킹",
+      "url": "https://wikidocs.net/blog/@smartliving/29603/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n방충망을 달아도 벌레가 계속 들어오는 이유\n\n현관에 방충망도 달고 창문도 꼼꼼히 닫아뒀는데, 자고 일어나면 벽이나 천장에 모기 한 마리씩 붙어 있는 걸 발견해본 적 있…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29603/38_9_product1.jpg",
+      "published_label": "11시간 전",
       "views": 23,
       "daily_views": 0,
       "likes": 0,
@@ -8887,12 +8932,12 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 29600,
-      "title": "샤워 수압 약해 답답한 자취생, 4천원대로 시원하게 뚫어주는 절수 샤워헤드",
-      "url": "https://wikidocs.net/blog/@smartliving/29600/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n샤워할 때마다 답답하셨던 이유\n\n퇴근하고 지친 몸으로 샤워기를 틀었는데 물줄기가 힘없이 졸졸 흐르기만 하면, 씻는 내내 개운함보다 답답함이 먼저 느껴지실 겁니다. 특히…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29600/38_6_product1.jpg",
-      "published_label": "10시간 전",
+      "id": 29597,
+      "title": "세탁기 소음에 아랫집 눈치 보이는 거주자, 1만원대로 진동 잡아주는 세탁기 받침대",
+      "url": "https://wikidocs.net/blog/@smartliving/29597/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n새벽 세탁기 돌릴 때마다 조마조마하시죠\n\n퇴근 후 밀린 빨래를 새벽에 몰아 돌리다가 세탁기 탈수 소리에 흠칫 놀라 발끝으로 걸어가 소리를 줄여본 적 있으실 겁니다. 아…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29597/38_3_product1.jpg",
+      "published_label": "11시간 전",
       "views": 23,
       "daily_views": 0,
       "likes": 0,
@@ -8960,36 +9005,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 29597,
-      "title": "세탁기 소음에 아랫집 눈치 보이는 거주자, 1만원대로 진동 잡아주는 세탁기 받침대",
-      "url": "https://wikidocs.net/blog/@smartliving/29597/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n새벽 세탁기 돌릴 때마다 조마조마하시죠\n\n퇴근 후 밀린 빨래를 새벽에 몰아 돌리다가 세탁기 탈수 소리에 흠칫 놀라 발끝으로 걸어가 소리를 줄여본 적 있으실 겁니다. 아…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29597/38_3_product1.jpg",
-      "published_label": "10시간 전",
-      "views": 22,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 29595,
-      "title": "열대야에 에어컨비 아까운 자취생, 전기세 0원대로 시원하게 재워주는 클립 손선풍기",
-      "url": "https://wikidocs.net/blog/@smartliving/29595/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n처서가 지나도 밤은 여전히 뜨겁습니다\n\n분명 달력에는 처서라고 적혀 있는데, 창문을 열어도 후텁지근한 공기만 들어오고 몸은 끈적하게 젖어 있는 밤이 이어지고 있습니다.…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29595/38_1_product1.jpg",
-      "published_label": "10시간 전",
-      "views": 22,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 25039,
@@ -9102,7 +9117,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/29599/",
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n도마 위에 남은 칼자국, 신경 쓰이지 않으셨나요\n\n집밥을 자주 해 드시는 신혼부부라면 플라스틱 도마 표면에 하나둘 늘어나는 칼자국을 보신 적 있으실 겁니다. 그 틈에 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/29599/38_5_product1.jpg",
-      "published_label": "10시간 전",
+      "published_label": "11시간 전",
       "views": 20,
       "daily_views": 0,
       "likes": 0,
@@ -9180,21 +9195,6 @@
       "published_label": "19일 전",
       "views": 18,
       "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 29603,
-      "title": "문틈으로 벌레 들어오던 자취생, 5천원대로 촘촘히 막아주는 방충 실리콘 패킹",
-      "url": "https://wikidocs.net/blog/@smartliving/29603/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n방충망을 달아도 벌레가 계속 들어오는 이유\n\n현관에 방충망도 달고 창문도 꼼꼼히 닫아뒀는데, 자고 일어나면 벽이나 천장에 모기 한 마리씩 붙어 있는 걸 발견해본 적 있…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29603/38_9_product1.jpg",
-      "published_label": "10시간 전",
-      "views": 17,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -9971,6 +9971,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 21913,
+      "title": "신차 구매하신 분이라면, 요즘 다들 시거잭 대신 이걸로 바꾼다는 무선충전거치대 이유가 있었습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/21913/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n새 차 냄새 폴폴 나는데, 시거잭 케이블만 예전 그대로였습니다\n\n신차를 인수하고 처음 시동을 걸었을 때의 그 설렘, 다들 아실 겁니다. 깔끔한 대시보드, 반짝이는 인포…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/21913/1_7_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 1254,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22488,
       "title": "장마철 밤에 후진하다 아찔했던 뒤에야 알게 된 후방카메라 고르는 법",
       "url": "https://wikidocs.net/blog/@cartemlab/22488/",
@@ -9984,21 +9999,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24651,
-      "title": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/24651/",
-      "excerpt": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지\n\n2026년 르노코리아 차량의 제조사 보증 기간 만료를 앞두고 있다면, 반드시 공식 서비스 네트워크를 통해 차량을 종합적으로 점검하는 것이 중요합니다. 이는 잠재적인 고장을 무상으로 수리받아…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24651/13_2_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 297,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     }
   ],
   "daily_totals": [
@@ -10236,8 +10236,8 @@
     },
     {
       "date": "2026-08-27",
-      "views": 576
+      "views": 600
     }
   ],
-  "static_generated_at": "2026-08-27T17:31:53+09:00"
+  "static_generated_at": "2026-08-27T18:01:53+09:00"
 }
