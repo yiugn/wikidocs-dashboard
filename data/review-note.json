@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-27T23:01:52+09:00",
+  "latest_snapshot_at": "2026-08-27T23:31:53+09:00",
   "latest_snapshot_date": "2026-08-27",
   "catalog_updated_at": "2026-08-27T00:00:30+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 624,
-    "total_views": 309778,
-    "daily_views": 420,
+    "total_views": 309785,
+    "daily_views": 427,
     "previous_day_views": 486,
     "previous_day_date": "2026-08-26",
-    "current_month_views": 22407,
+    "current_month_views": 22414,
     "days_recorded": 59
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 159422,
-      "daily_views": 125,
+      "total_views": 159423,
+      "daily_views": 126,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 346,
       "captured_posts": 356,
-      "total_views": 114996,
-      "daily_views": 193,
+      "total_views": 115000,
+      "daily_views": 197,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 35360,
-      "daily_views": 102,
+      "total_views": 35362,
+      "daily_views": 104,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -973,8 +973,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 블랙박스는 늘 켜져 있으니 당연히 녹화가 잘 되고 있으려니 생각하기 쉽습니다. 그런데 막상 사고가 나 영상을 확인하려는 순간 \"저장된 파일이 없습니다\"라는 문구를 보면, 그만큼…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22694/5_3_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 611,
-      "daily_views": 2,
+      "views": 612,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1768,8 +1768,8 @@
       "excerpt": "✈️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여행 중 배터리 걱정 많으셨다면, 여행 사진과 지도 앱을 하루 종일 켜두다 보니 오후만 되면 스마트폰이 20% 밑으로 떨어져 마음이 조급해졌던 경험이 있으실 겁니다. 특히 항…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24011/10_8_img1.png",
       "published_label": "1개월 전",
-      "views": 158,
-      "daily_views": 2,
+      "views": 159,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -3577,6 +3577,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 28478,
+      "title": "장거리 출장에 목 뻐근한 직장인, 3시간도 편하게 해주는 여행용 목쿠션",
+      "url": "https://wikidocs.net/blog/@smartliving/28478/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 출장길 KTX나 고속버스에서 눈을 붙이려다 목이 이상하게 꺾여 잠에서 깬 경험, 다들 한 번쯤 있으실 겁니다. 목받침 없이 창문에 기대다 보면 도착했을 때 목과 어깨가 뻐근하게…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28478/32_5_product1.jpg",
+      "published_label": "13일 전",
+      "views": 69,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28280,
       "title": "장마 습기로 욕실 곰팡이 걱정되는 가구, 세제 없이 뽀송하게 말려주는 항균 발매트",
       "url": "https://wikidocs.net/blog/@smartliving/28280/",
@@ -3695,21 +3710,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28478,
-      "title": "장거리 출장에 목 뻐근한 직장인, 3시간도 편하게 해주는 여행용 목쿠션",
-      "url": "https://wikidocs.net/blog/@smartliving/28478/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 출장길 KTX나 고속버스에서 눈을 붙이려다 목이 이상하게 꺾여 잠에서 깬 경험, 다들 한 번쯤 있으실 겁니다. 목받침 없이 창문에 기대다 보면 도착했을 때 목과 어깨가 뻐근하게…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28478/32_5_product1.jpg",
-      "published_label": "13일 전",
-      "views": 66,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 28194,
@@ -6202,6 +6202,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28641,
+      "title": "배터리 방전 잦은 재택 직장인, 7000원대부터 고속충전 해주는 맥세이프 거치대",
+      "url": "https://wikidocs.net/blog/@smartliving/28641/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 화상회의 10분 전, 휴대폰 배터리가 15%밖에 안 남은 걸 발견하고 식은땀이 났던 적 있으실 겁니다. 재택근무를 하다 보면 충전기를 꽂아둔 콘센트와 실제로 앉아 있는 자리가 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28641/34_4_product1.jpg",
+      "published_label": "11일 전",
+      "views": 47,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28390,
       "title": "책 쓰러짐 잦은 독서가, 4개 세트로 책장 무너짐 막아주는 L자 북엔드",
       "url": "https://wikidocs.net/blog/@smartliving/28390/",
@@ -6277,21 +6292,6 @@
       "blog_name": "카템랩"
     },
     {
-      "id": 28641,
-      "title": "배터리 방전 잦은 재택 직장인, 7000원대부터 고속충전 해주는 맥세이프 거치대",
-      "url": "https://wikidocs.net/blog/@smartliving/28641/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 화상회의 10분 전, 휴대폰 배터리가 15%밖에 안 남은 걸 발견하고 식은땀이 났던 적 있으실 겁니다. 재택근무를 하다 보면 충전기를 꽂아둔 콘센트와 실제로 앉아 있는 자리가 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28641/34_4_product1.jpg",
-      "published_label": "11일 전",
-      "views": 46,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
       "id": 27246,
       "title": "무더위 야외활동 잦은 직장인을 위한, 책상 열기 식히는 미니 서큘레이터 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/27246/",
@@ -6335,6 +6335,21 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 23825,
+      "title": "여름휴가 캐리어 고민이셨다면, 기내용 캐리어 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/23825/",
+      "excerpt": "🐾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름휴가 캐리어 고를 때마다 헷갈리셨다면, 기내용 캐리어 TOP3로 정리해봤습니다. 짧은 휴가철 여행일수록 수하물을 부치지 않고 기내에 들고 타는 경우가 많은데, 항공사마다 기…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23825/9_8_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 45,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
     },
     {
       "id": 22529,
@@ -6432,21 +6447,6 @@
       "url": "https://wikidocs.net/blog/@petpicknote/24653/",
       "excerpt": "업무 관리 노션 템플릿: 프리랜서 마감일 놓치지 않는 생산성 비결 7가지 프리랜서가 마감일을 놓치지 않고 생산성을 극대화하려면 체계적인 업무 관리 시스템이 필수적입니다. 노션(Notion) 템플릿을 활용하면 복잡한 프로젝트와 여러 클라이언트의 요구사항을 효율적으로 조…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24653/13_4_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 44,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 23825,
-      "title": "여름휴가 캐리어 고민이셨다면, 기내용 캐리어 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/23825/",
-      "excerpt": "🐾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름휴가 캐리어 고를 때마다 헷갈리셨다면, 기내용 캐리어 TOP3로 정리해봤습니다. 짧은 휴가철 여행일수록 수하물을 부치지 않고 기내에 들고 타는 경우가 많은데, 항공사마다 기…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23825/9_8_img1.jpg",
       "published_label": "1개월 전",
       "views": 44,
       "daily_views": 0,
@@ -10236,8 +10236,8 @@
     },
     {
       "date": "2026-08-27",
-      "views": 683
+      "views": 690
     }
   ],
-  "static_generated_at": "2026-08-27T23:01:54+09:00"
+  "static_generated_at": "2026-08-27T23:31:54+09:00"
 }
