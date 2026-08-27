@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-28T05:02:00+09:00",
+  "latest_snapshot_at": "2026-08-28T05:31:51+09:00",
   "latest_snapshot_date": "2026-08-28",
   "catalog_updated_at": "2026-08-28T00:00:29+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 624,
-    "total_views": 309883,
-    "daily_views": 98,
+    "total_views": 309888,
+    "daily_views": 103,
     "previous_day_views": 690,
     "previous_day_date": "2026-08-27",
-    "current_month_views": 22512,
+    "current_month_views": 22517,
     "days_recorded": 60
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 159439,
-      "daily_views": 16,
+      "total_views": 159440,
+      "daily_views": 17,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 356,
       "captured_posts": 356,
-      "total_views": 115054,
-      "daily_views": 54,
+      "total_views": 115056,
+      "daily_views": 56,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 35390,
-      "daily_views": 28,
+      "total_views": 35392,
+      "daily_views": 30,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1342,6 +1342,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 23113,
+      "title": "반려동물 털날림 때문에 고생하신 분이라면, 전용 무선청소기로 바꾸고 나서 청소 시간이 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/23113/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 검은 옷을 입고 외출하려는데, 현관 앞에서 무심코 소파에 스친 것만으로 옷 전체에 하얀 털이 잔뜩 붙어버린 경험 있으실 겁니다. 아무리 청소기를 자주 돌려도 며칠만 지나면 소파…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23113/8_1.jpg",
+      "published_label": "1개월 전",
+      "views": 319,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22265,
       "title": "전세·월세 자취생이라면, 다들 벽걸이 에어컨만 알아보지만 사실 창문형부터 봐야 합니다",
       "url": "https://wikidocs.net/blog/@smartliving/22265/",
@@ -1355,21 +1370,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23113,
-      "title": "반려동물 털날림 때문에 고생하신 분이라면, 전용 무선청소기로 바꾸고 나서 청소 시간이 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/23113/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 검은 옷을 입고 외출하려는데, 현관 앞에서 무심코 소파에 스친 것만으로 옷 전체에 하얀 털이 잔뜩 붙어버린 경험 있으실 겁니다. 아무리 청소기를 자주 돌려도 며칠만 지나면 소파…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23113/8_1.jpg",
-      "published_label": "1개월 전",
-      "views": 318,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 22533,
@@ -1528,8 +1528,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 유산균 제품을 고르려고 검색창에 검색어만 넣어봐도 수십 개의 브랜드가 쏟아져 나와서, 대체 뭘 기준으로 골라야 할지 막막했던 경험 한 번쯤 있으실 겁니다. 가격도 만원대부터 십…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23121/9_6_product1.jpg",
       "published_label": "1개월 전",
-      "views": 225,
-      "daily_views": 0,
+      "views": 226,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -2857,6 +2857,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22701,
+      "title": "장거리 휴가 운전에 목이 뻐근하던 분들, 메모리폼 목쿠션 하나로 목이 한결 편해졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22701/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장거리 휴가 운전을 하다 보면, 어느새 목과 어깨가 뻐근하게 굳어 도착할 때쯤엔 뒷목이 뻣뻣해지죠. 시트 헤드레스트는 각도가 안 맞아 목을 제대로 받쳐주지 못하고, 오래 같은 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22701/5_10_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 82,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24162,
       "title": "아이 재우다 지친 부모를 위한, 모기 걱정 없는 침대 모기장",
       "url": "https://wikidocs.net/blog/@smartliving/24162/",
@@ -2885,21 +2900,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22701,
-      "title": "장거리 휴가 운전에 목이 뻐근하던 분들, 메모리폼 목쿠션 하나로 목이 한결 편해졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22701/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장거리 휴가 운전을 하다 보면, 어느새 목과 어깨가 뻐근하게 굳어 도착할 때쯤엔 뒷목이 뻣뻣해지죠. 시트 헤드레스트는 각도가 안 맞아 목을 제대로 받쳐주지 못하고, 오래 같은 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22701/5_10_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 81,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 23550,
@@ -4117,6 +4117,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28474,
+      "title": "땡볕 출근길 직장인, 8시간 두 손 자유롭게 식혀주는 넥밴드 선풍기",
+      "url": "https://wikidocs.net/blog/@smartliving/28474/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 강원도에 올여름 첫 폭염중대경보가 뜨고, 처서가 코앞인데도 낮 체감온도가 33도를 넘나든다고 하죠. 지하철역까지 걸어가는 10분 남짓한 그 시간에 이미 셔츠가 등에 달라붙어버린…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28474/32_1_product1.jpg",
+      "published_label": "13일 전",
+      "views": 63,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28082,
       "title": "편의점 음식 자주 먹는 직장인 식단, 하루 한 알 아연 15mg 채워주는 영양제",
       "url": "https://wikidocs.net/blog/@smartliving/28082/",
@@ -4273,21 +4288,6 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름철 물놀이만 시켰다 하면 아이 목욕을 몇 번씩 해야 하는 날들, 겪어보신 부모님 많으실 겁니다. 욕조에서 나오자마자 아이는 춥다고 몸을 웅크리고, 젖은 몸으로 잠깐만 서 있…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28564/33_3_product1.jpg",
       "published_label": "12일 전",
-      "views": 62,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28474,
-      "title": "땡볕 출근길 직장인, 8시간 두 손 자유롭게 식혀주는 넥밴드 선풍기",
-      "url": "https://wikidocs.net/blog/@smartliving/28474/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 강원도에 올여름 첫 폭염중대경보가 뜨고, 처서가 코앞인데도 낮 체감온도가 33도를 넘나든다고 하죠. 지하철역까지 걸어가는 10분 남짓한 그 시간에 이미 셔츠가 등에 달라붙어버린…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28474/32_1_product1.jpg",
-      "published_label": "13일 전",
       "views": 62,
       "daily_views": 0,
       "likes": 0,
@@ -5917,6 +5917,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 24225,
+      "title": "계곡 물놀이 튜브 하나로 아이들 물놀이 안전이 훨씬 든든해졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24225/",
+      "excerpt": "📢 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 계곡물이나 워터파크에 아이를 데리고 가면서 저렴한 튜브 하나만 달랑 챙겨 갔다가, 막상 물에 들어가니 바람이 금방 빠지거나 부력이 부족해 마음을 졸였던 경험이 있으실 겁니다. …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24225/11_3_img1.png",
+      "published_label": "1개월 전",
+      "views": 49,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 28821,
       "title": "땀에 젖은 운동복 매일 빠는 헬스족, 1.9만원부터 널어주는 대형 빨래건조대",
       "url": "https://wikidocs.net/blog/@smartliving/28821/",
@@ -6020,21 +6035,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24225,
-      "title": "계곡 물놀이 튜브 하나로 아이들 물놀이 안전이 훨씬 든든해졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24225/",
-      "excerpt": "📢 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 계곡물이나 워터파크에 아이를 데리고 가면서 저렴한 튜브 하나만 달랑 챙겨 갔다가, 막상 물에 들어가니 바람이 금방 빠지거나 부력이 부족해 마음을 졸였던 경험이 있으실 겁니다. …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24225/11_3_img1.png",
-      "published_label": "1개월 전",
-      "views": 48,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 22527,
@@ -10240,8 +10240,8 @@
     },
     {
       "date": "2026-08-28",
-      "views": 98
+      "views": 103
     }
   ],
-  "static_generated_at": "2026-08-28T05:02:01+09:00"
+  "static_generated_at": "2026-08-28T05:31:52+09:00"
 }
