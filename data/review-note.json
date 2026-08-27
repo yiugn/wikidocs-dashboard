@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-27T18:01:52+09:00",
+  "latest_snapshot_at": "2026-08-27T18:31:54+09:00",
   "latest_snapshot_date": "2026-08-27",
   "catalog_updated_at": "2026-08-27T00:00:30+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 624,
-    "total_views": 309695,
-    "daily_views": 344,
+    "total_views": 309700,
+    "daily_views": 349,
     "previous_day_views": 486,
     "previous_day_date": "2026-08-26",
-    "current_month_views": 22324,
+    "current_month_views": 22329,
     "days_recorded": 59
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 159399,
-      "daily_views": 102,
+      "total_views": 159403,
+      "daily_views": 106,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 35345,
-      "daily_views": 87,
+      "total_views": 35346,
+      "daily_views": 88,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -238,8 +238,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n휴가 떠나기 전 타이어를 점검한다며 발로 툭툭 차보거나 눈대중으로 보고 마는 분들 많습니다. 그런데 타이어 공기압은 겉보기로는 웬만큼 빠져도 티가 안 나서, 정작 공기…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22939/6_6_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 4811,
-      "daily_views": 0,
+      "views": 4812,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1813,8 +1813,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n반짝이던 크롬몰딩이 어느새 뿌옇게 흐려지고 얼룩진 걸 발견하고 속상했던 경험 있으실 겁니다.\n\n세차를 해도 원래의 광이 좀처럼 살아나지 않아 답답했던 분들도 많으실 겁…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23969/12_2_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 149,
-      "daily_views": 1,
+      "views": 150,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -2038,8 +2038,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n코엑스 케이펫페어, 유모차 없이는 입장이 안 됩니다\n\n2026 케이펫페어 서울이 7월 17일부터 19일까지 코엑스에서 열립니다. 반가운 소식이지만, 막상 티켓만 끊어놓…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22344/5_1.jpg",
       "published_label": "1개월 전",
-      "views": 132,
-      "daily_views": 0,
+      "views": 133,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -4387,6 +4387,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23762,
+      "title": "블랙박스 살 때 다들 놓치는 체크포인트 한 가지, 상시전원 케이블입니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23762/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n주차 중에 무슨 일이 있었는지 확인하려고 블랙박스 영상을 열었는데, 정작 그 시간에는 녹화가 꺼져 있어서 허탈했던 경험 있으실 겁니다.\n\n배터리 방전이 걱정돼서 아예 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23762/10_4_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 60,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22486,
       "title": "폭염·장맛비 본격적으로 오기 전 미리 챙겨야 할 차량 바디커버 고르는 기준 3가지",
       "url": "https://wikidocs.net/blog/@cartemlab/22486/",
@@ -4545,21 +4560,6 @@
       "published_label": "1개월 전",
       "views": 59,
       "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 23762,
-      "title": "블랙박스 살 때 다들 놓치는 체크포인트 한 가지, 상시전원 케이블입니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23762/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n주차 중에 무슨 일이 있었는지 확인하려고 블랙박스 영상을 열었는데, 정작 그 시간에는 녹화가 꺼져 있어서 허탈했던 경험 있으실 겁니다.\n\n배터리 방전이 걱정돼서 아예 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23762/10_4_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 59,
-      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -5842,6 +5842,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24673,
+      "title": "요즘 다들 히터 대신 이걸로 김서림 잡는다는 방지제, 이유가 있었습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24673/",
+      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마철 비 오는 날 시동을 걸자마자 앞유리에 김이 서려 히터를 최대로 틀고도 한참을 기다려야 했던 경험 있으실 겁니다.\n\n히터로 김서림을 없애는 데는 시간이 걸리고, …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24673/pb_16_7_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 49,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23767,
       "title": "차박 다니시는 분들을 위한, 무릎 위에 음식 올려놓고 불편하게 먹던 차박이 이렇게 바뀌기까지 접이식 테이블 TOP3",
       "url": "https://wikidocs.net/blog/@cartemlab/23767/",
@@ -5945,21 +5960,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24673,
-      "title": "요즘 다들 히터 대신 이걸로 김서림 잡는다는 방지제, 이유가 있었습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24673/",
-      "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n장마철 비 오는 날 시동을 걸자마자 앞유리에 김이 서려 히터를 최대로 틀고도 한참을 기다려야 했던 경험 있으실 겁니다.\n\n히터로 김서림을 없애는 데는 시간이 걸리고, …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24673/pb_16_7_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 48,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 23759,
@@ -9600,8 +9600,8 @@
       "excerpt": "> 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n\n\n휴가 떠나기 전 타이어를 점검한다며 발로 툭툭 차보거나 눈대중으로 보고 마는 분들 많습니다. 그런데 타이어 공기압은 겉보기로는 웬만큼 빠져도 티가 안 나서, 정작 공기…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22939/6_6_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 4811,
-      "daily_views": 0,
+      "views": 4812,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -10236,8 +10236,8 @@
     },
     {
       "date": "2026-08-27",
-      "views": 600
+      "views": 605
     }
   ],
-  "static_generated_at": "2026-08-27T18:01:53+09:00"
+  "static_generated_at": "2026-08-27T18:31:55+09:00"
 }
