@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-28T04:01:54+09:00",
+  "latest_snapshot_at": "2026-08-28T04:31:54+09:00",
   "latest_snapshot_date": "2026-08-28",
   "catalog_updated_at": "2026-08-28T00:00:29+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 624,
-    "total_views": 309869,
-    "daily_views": 84,
+    "total_views": 309880,
+    "daily_views": 95,
     "previous_day_views": 690,
     "previous_day_date": "2026-08-27",
-    "current_month_views": 22498,
+    "current_month_views": 22509,
     "days_recorded": 60
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 159434,
-      "daily_views": 11,
+      "total_views": 159438,
+      "daily_views": 15,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 356,
       "captured_posts": 356,
-      "total_views": 115050,
-      "daily_views": 50,
+      "total_views": 115054,
+      "daily_views": 54,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 35385,
-      "daily_views": 23,
+      "total_views": 35388,
+      "daily_views": 26,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -928,8 +928,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 버스정류장에서 몇 분만 서 있어도 셔츠 등판이 축축하게 젖고, 손등으로 이마를 훔쳐도 금세 다시 땀이 차오르는 요즘이죠. 장마가 지나가자마자 기다렸다는 듯 폭염이 다시 덮쳤고,…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23354/10_1_product1.jpg",
       "published_label": "1개월 전",
-      "views": 707,
-      "daily_views": 0,
+      "views": 708,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -1078,8 +1078,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 공들여 세차를 마쳤는데 물기만 닦고 나면 어딘가 밋밋하고, 옆에 지나가는 광나는 차를 보면 괜히 아쉬웠던 적 있으실 겁니다. 세차는 오염을 걷어낼 뿐, 표면에 광과 발수막을 입…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22487/4_3_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 503,
-      "daily_views": 0,
+      "views": 504,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1723,8 +1723,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 주말 저녁, 굳이 영화관까지 나가지 않아도 집에서 큰 화면으로 영화를 보고 싶다는 생각, 자취를 하거나 신혼집을 꾸리신 분이라면 한 번쯤 해보셨을 겁니다. 하지만 TV만으로는 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23525/11_9_product1.jpg",
       "published_label": "1개월 전",
-      "views": 165,
-      "daily_views": 2,
+      "views": 166,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -2647,6 +2647,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24014,
+      "title": "요즘 다들 두피 마사지기로 바꾼다는데, 이유가 있었습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24014/",
+      "excerpt": "💆 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 요즘 다들 샴푸할 때 손가락 대신 두피 마사지기를 쓴다는데, 이유가 있었습니다. 손가락으로 두피를 문지르는 것과 실리콘 돌기나 진동 기능이 달린 도구로 마사지하는 것은 자극의 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24014/10_10_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 90,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 23973,
       "title": "혹시 아직도 유선 케이블 꽂아야만 카플레이 되는 차, 불편하게 타고 계신가요?",
       "url": "https://wikidocs.net/blog/@cartemlab/23973/",
@@ -2660,21 +2675,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24014,
-      "title": "요즘 다들 두피 마사지기로 바꾼다는데, 이유가 있었습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24014/",
-      "excerpt": "💆 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 요즘 다들 샴푸할 때 손가락 대신 두피 마사지기를 쓴다는데, 이유가 있었습니다. 손가락으로 두피를 문지르는 것과 실리콘 돌기나 진동 기능이 달린 도구로 마사지하는 것은 자극의 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24014/10_10_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 89,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 28476,
@@ -2827,6 +2827,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24009,
+      "title": "두 번 잘못 사고 나서야 알게 된 요가매트 두께 고르는 법",
+      "url": "https://wikidocs.net/blog/@petpicknote/24009/",
+      "excerpt": "🧘 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 처음 홈트레이닝을 시작할 때 가장 저렴한 3~4mm짜리 얇은 매트를 고른 적이 있습니다. 플랭크 자세를 잡을 때마다 팔꿈치가 바닥에 배기고, 무릎을 대는 동작에서는 통증 때문에…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24009/10_6_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 83,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 28383,
       "title": "신생아 목욕시키는 초보 부모, 1초 만에 화상없이 물온도 확인해주는 유아용 탕온계",
       "url": "https://wikidocs.net/blog/@smartliving/28383/",
@@ -2840,21 +2855,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24009,
-      "title": "두 번 잘못 사고 나서야 알게 된 요가매트 두께 고르는 법",
-      "url": "https://wikidocs.net/blog/@petpicknote/24009/",
-      "excerpt": "🧘 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 처음 홈트레이닝을 시작할 때 가장 저렴한 3~4mm짜리 얇은 매트를 고른 적이 있습니다. 플랭크 자세를 잡을 때마다 팔꿈치가 바닥에 배기고, 무릎을 대는 동작에서는 통증 때문에…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24009/10_6_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 82,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 24162,
@@ -4207,6 +4207,36 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24671,
+      "title": "다들 정비는 손으로 하면 된다지만, 사실 먼저 챙길 건 니트릴장갑입니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24671/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 타이어 교체나 배터리 점검처럼 간단한 정비를 하고 나서 손에 밴 기름 냄새 때문에 곤란했던 경험 있으실 겁니다. 맨손으로 정비하면 미끄러움 방지도 안 되고, 화학약품이나 오일이…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24671/pb_16_5_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 62,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
+      "id": 24329,
+      "title": "물자국 남는 세차 반복하다 알게 된 카샴푸 고르는 법",
+      "url": "https://wikidocs.net/blog/@cartemlab/24329/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 정성껏 세차했는데도 마르고 나면 차체에 하얀 물자국이 얼룩덜룩하게 남아있는 걸 본 적 있으실 겁니다. 카샴푸를 아무거나 골라 쓰다가 이 얼룩이 반복되면서, 알고 보니 샴푸 종류…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24329/pb_14_3_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 62,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 28734,
       "title": "장난감값 매달 5만원 쓰는 부모, 교구 1개로 반값 아껴주는 원목 소꿉놀이 교구",
       "url": "https://wikidocs.net/blog/@smartliving/28734/",
@@ -4325,36 +4355,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24671,
-      "title": "다들 정비는 손으로 하면 된다지만, 사실 먼저 챙길 건 니트릴장갑입니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24671/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 타이어 교체나 배터리 점검처럼 간단한 정비를 하고 나서 손에 밴 기름 냄새 때문에 곤란했던 경험 있으실 겁니다. 맨손으로 정비하면 미끄러움 방지도 안 되고, 화학약품이나 오일이…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24671/pb_16_5_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 61,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 24329,
-      "title": "물자국 남는 세차 반복하다 알게 된 카샴푸 고르는 법",
-      "url": "https://wikidocs.net/blog/@cartemlab/24329/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 정성껏 세차했는데도 마르고 나면 차체에 하얀 물자국이 얼룩덜룩하게 남아있는 걸 본 적 있으실 겁니다. 카샴푸를 아무거나 골라 쓰다가 이 얼룩이 반복되면서, 알고 보니 샴푸 종류…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24329/pb_14_3_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 61,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 22486,
@@ -5527,6 +5527,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22285,
+      "title": "휴가철 장거리 앞두신 분이라면, 차량용 공기주입기로 출발 전 공기압 걱정 던다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22285/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 휴가 떠나기 전날 밤, 문득 '타이어 공기압은 괜찮나' 싶어 계기판을 봤더니 경고등이 깜빡, 그런데 이 시간에 문 연 정비소도 주유소도 마땅치 않아 그냥 출발했던 경험 있으실 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22285/3_4_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 51,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 21983,
       "title": "차 트렁크에 짐 자주 싣는 분들을 위한, 장마철 젖은 짐에도 끄떡없는 방수 트렁크매트 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/21983/",
@@ -5647,21 +5662,6 @@
       "blog_name": "카템랩"
     },
     {
-      "id": 22285,
-      "title": "휴가철 장거리 앞두신 분이라면, 차량용 공기주입기로 출발 전 공기압 걱정 던다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22285/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 휴가 떠나기 전날 밤, 문득 '타이어 공기압은 괜찮나' 싶어 계기판을 봤더니 경고등이 깜빡, 그런데 이 시간에 문 연 정비소도 주유소도 마땅치 않아 그냥 출발했던 경험 있으실 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22285/3_4_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 50,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
       "id": 24650,
       "title": "구글 클라우드 서버 가격: 1인 개발자가 월 0원으로 유지할 수 있을까?",
       "url": "https://wikidocs.net/blog/@petpicknote/24650/",
@@ -5670,6 +5670,21 @@
       "published_label": "1개월 전",
       "views": 50,
       "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 23108,
+      "title": "다들 강아지 사료는 브랜드와 단백질 함량만 높으면 된다지만, 피부 트러블 잦은 아이라면 먼저 볼 건 저알레르기 원료입니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/23108/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 강아지가 자꾸 몸을 긁고, 발을 핥고, 눈 주변이 붉어지는 걸 지켜보신 적 있다면 마음이 편치 않으셨을 겁니다. 병원에 가서 이런저런 검사를 받아봐도 뚜렷한 원인이 안 나오는 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23108/3_1.jpg",
+      "published_label": "1개월 전",
+      "views": 50,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -5892,21 +5907,6 @@
       "url": "https://wikidocs.net/blog/@petpicknote/24431/",
       "excerpt": "🔖 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 습도가 높은 여름철에는 샤워를 하고 나와도 금세 다시 끈적해지는 느낌 때문에 고민이셨던 분들이 많으실 겁니다. 특히 땀과 피지가 섞여 등이나 목 뒤쪽에 트러블이 올라오는 경우도…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24431/12_7_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 49,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 23108,
-      "title": "다들 강아지 사료는 브랜드와 단백질 함량만 높으면 된다지만, 피부 트러블 잦은 아이라면 먼저 볼 건 저알레르기 원료입니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/23108/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 강아지가 자꾸 몸을 긁고, 발을 핥고, 눈 주변이 붉어지는 걸 지켜보신 적 있다면 마음이 편치 않으셨을 겁니다. 병원에 가서 이런저런 검사를 받아봐도 뚜렷한 원인이 안 나오는 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23108/3_1.jpg",
       "published_label": "1개월 전",
       "views": 49,
       "daily_views": 0,
@@ -6937,6 +6937,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 27616,
+      "title": "전기세 걱정되는 자취생을 위한, 450kWh 전에 챙기는 미니 벽걸이에어컨",
+      "url": "https://wikidocs.net/blog/@smartliving/27616/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 관리비 고지서에서 전기요금 항목을 보고 흠칫 놀란 적 있으실 겁니다. 원룸이나 자취방은 큰 에어컨을 놓기도 애매하고, 그렇다고 안 틀자니 폭염을 견디기 힘듭니다. 미니 벽걸이 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27616/23_5_product1.jpg",
+      "published_label": "22일 전",
+      "views": 41,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27247,
       "title": "장마철 자취생을 위한, 실내 모기트랩 안 놓으면 물린 자국 병원비 더 나갑니다",
       "url": "https://wikidocs.net/blog/@smartliving/27247/",
@@ -7160,21 +7175,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 27616,
-      "title": "전기세 걱정되는 자취생을 위한, 450kWh 전에 챙기는 미니 벽걸이에어컨",
-      "url": "https://wikidocs.net/blog/@smartliving/27616/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 관리비 고지서에서 전기요금 항목을 보고 흠칫 놀란 적 있으실 겁니다. 원룸이나 자취방은 큰 에어컨을 놓기도 애매하고, 그렇다고 안 틀자니 폭염을 견디기 힘듭니다. 미니 벽걸이 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27616/23_5_product1.jpg",
-      "published_label": "22일 전",
-      "views": 39,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 27528,
@@ -9731,6 +9731,21 @@
   ],
   "rising_posts": [
     {
+      "id": 23525,
+      "title": "주말 홈시네마 즐기고 싶은 자취생·신혼부부를 위한 미니 빔프로젝터",
+      "url": "https://wikidocs.net/blog/@smartliving/23525/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 주말 저녁, 굳이 영화관까지 나가지 않아도 집에서 큰 화면으로 영화를 보고 싶다는 생각, 자취를 하거나 신혼집을 꾸리신 분이라면 한 번쯤 해보셨을 겁니다. 하지만 TV만으로는 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23525/11_9_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 166,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 29599,
       "title": "몇 달마다 도마 바꾸던 신혼부부, 만원대로 위생까지 오래 잡아주는 원목 항균 도마",
       "url": "https://wikidocs.net/blog/@smartliving/29599/",
@@ -9761,21 +9776,6 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 23525,
-      "title": "주말 홈시네마 즐기고 싶은 자취생·신혼부부를 위한 미니 빔프로젝터",
-      "url": "https://wikidocs.net/blog/@smartliving/23525/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 주말 저녁, 굳이 영화관까지 나가지 않아도 집에서 큰 화면으로 영화를 보고 싶다는 생각, 자취를 하거나 신혼집을 꾸리신 분이라면 한 번쯤 해보셨을 겁니다. 하지만 TV만으로는 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23525/11_9_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 165,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
       "id": 24011,
       "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/24011/",
@@ -9804,6 +9804,21 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 27616,
+      "title": "전기세 걱정되는 자취생을 위한, 450kWh 전에 챙기는 미니 벽걸이에어컨",
+      "url": "https://wikidocs.net/blog/@smartliving/27616/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 관리비 고지서에서 전기요금 항목을 보고 흠칫 놀란 적 있으실 겁니다. 원룸이나 자취방은 큰 에어컨을 놓기도 애매하고, 그렇다고 안 틀자니 폭염을 견디기 힘듭니다. 미니 벽걸이 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27616/23_5_product1.jpg",
+      "published_label": "22일 전",
+      "views": 41,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
     },
     {
       "id": 29604,
@@ -9984,21 +9999,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23203,
-      "title": "한여름 야간 운전이 잦으신 분이라면, 차량용 LED 라이트로 시야 밝혔다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23203/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 폭염 속에서도 밤은 여전히 어둡다. 그 어둠 속 도로의 상황을 정확히 보기 위해 조명은 필수다. 차량용 LED 라이트 몇 개만 있어도 차 내부와 주변 시야가 크게 밝아진다. 차…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23203/7_10_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 565,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     }
   ],
   "daily_totals": [
@@ -10240,8 +10240,8 @@
     },
     {
       "date": "2026-08-28",
-      "views": 84
+      "views": 95
     }
   ],
-  "static_generated_at": "2026-08-28T04:01:56+09:00"
+  "static_generated_at": "2026-08-28T04:31:55+09:00"
 }
