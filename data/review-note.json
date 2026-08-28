@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-28T12:01:53+09:00",
+  "latest_snapshot_at": "2026-08-28T12:31:54+09:00",
   "latest_snapshot_date": "2026-08-28",
   "catalog_updated_at": "2026-08-28T00:00:29+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 634,
-    "total_views": 310191,
-    "daily_views": 197,
+    "total_views": 310200,
+    "daily_views": 199,
     "previous_day_views": 690,
     "previous_day_date": "2026-08-27",
-    "current_month_views": 22820,
+    "current_month_views": 22829,
     "days_recorded": 60
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 159474,
-      "daily_views": 51,
+      "total_views": 159475,
+      "daily_views": 52,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 356,
       "captured_posts": 366,
-      "total_views": 115290,
-      "daily_views": 81,
+      "total_views": 115298,
+      "daily_views": 82,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -808,8 +808,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 열대야에 잠 설치던 분이라면 공감하실 텐데요, 밤 11시가 넘었는데도 방 안 공기가 후끈하고, 이불 속으로 손을 넣으면 이미 후끈한 열기가 고여 있죠. 몇 번을 뒤척이다 결국 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/21665/test.jpg",
       "published_label": "1개월 전",
-      "views": 878,
-      "daily_views": 0,
+      "views": 879,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -3682,6 +3682,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 21980,
+      "title": "휴가 다녀올 때마다 시트 틈 모래·과자 부스러기로 스트레스였다면, 차량용 무선청소기 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/21980/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 즐겁게 바다 다녀오고 문 열었더니, 발매트 위에 서걱거리는 모래가 한가득. 뒷좌석 아이 앉던 자리엔 과자 부스러기가 시트 틈으로 쏙 들어가 있고, 반려견 데리고 다녀온 날엔 검…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/21980/2_4_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 67,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 28190,
       "title": "역대 최장 열대야 통근길 지친 직장인, 체감온도 5도 낮춰주는 휴대용 손선풍기",
       "url": "https://wikidocs.net/blog/@smartliving/28190/",
@@ -3695,21 +3710,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 21980,
-      "title": "휴가 다녀올 때마다 시트 틈 모래·과자 부스러기로 스트레스였다면, 차량용 무선청소기 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/21980/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 즐겁게 바다 다녀오고 문 열었더니, 발매트 위에 서걱거리는 모래가 한가득. 뒷좌석 아이 앉던 자리엔 과자 부스러기가 시트 틈으로 쏙 들어가 있고, 반려견 데리고 다녀온 날엔 검…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/21980/2_4_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 66,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 23111,
@@ -8542,6 +8542,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 29685,
+      "title": "기어다니는 아기 키우는 부모, 응급실비 걱정 7천원대로 막아주는 모서리 보호대",
+      "url": "https://wikidocs.net/blog/@smartliving/29685/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 아기가 기어다니기 시작하니, 거실 가구 모서리가 다 위협적으로 보입니다 아기가 배밀이를 지나 이제 막 기어다니기 시작하면, 그동안 신경도 안 쓰던 거실 테이블·서랍장 모서리가 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29685/39_5_product1.jpg",
+      "published_label": "5시간 전",
+      "views": 27,
+      "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 29601,
       "title": "서랍 뒤지느라 아침마다 바쁜 1인가구, 2천원대로 칸칸이 정리해주는 속옷 정리함",
       "url": "https://wikidocs.net/blog/@smartliving/29601/",
@@ -8675,21 +8690,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 29685,
-      "title": "기어다니는 아기 키우는 부모, 응급실비 걱정 7천원대로 막아주는 모서리 보호대",
-      "url": "https://wikidocs.net/blog/@smartliving/29685/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 아기가 기어다니기 시작하니, 거실 가구 모서리가 다 위협적으로 보입니다 아기가 배밀이를 지나 이제 막 기어다니기 시작하면, 그동안 신경도 안 쓰던 거실 테이블·서랍장 모서리가 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29685/39_5_product1.jpg",
-      "published_label": "5시간 전",
-      "views": 26,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 29596,
@@ -8827,6 +8827,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 29686,
+      "title": "주방 날파리에 시달리는 주부, 살충제값 1만원대로 줄여주는 전기 파리채",
+      "url": "https://wikidocs.net/blog/@smartliving/29686/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 과일 한 번 놔뒀다고 날파리가 이렇게 생길 일인가요 늦여름 주방에 과일이나 음식물 쓰레기를 잠깐만 방치해도 어디선가 날파리가 꼬이기 시작합니다. 손으로 잡으려 해도 손바닥 사이…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29686/39_6_product1.jpg",
+      "published_label": "5시간 전",
+      "views": 25,
+      "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 29595,
       "title": "열대야에 에어컨비 아까운 자취생, 전기세 0원대로 시원하게 재워주는 클립 손선풍기",
       "url": "https://wikidocs.net/blog/@smartliving/29595/",
@@ -8917,11 +8932,26 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 29686,
-      "title": "주방 날파리에 시달리는 주부, 살충제값 1만원대로 줄여주는 전기 파리채",
-      "url": "https://wikidocs.net/blog/@smartliving/29686/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 과일 한 번 놔뒀다고 날파리가 이렇게 생길 일인가요 늦여름 주방에 과일이나 음식물 쓰레기를 잠깐만 방치해도 어디선가 날파리가 꼬이기 시작합니다. 손으로 잡으려 해도 손바닥 사이…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29686/39_6_product1.jpg",
+      "id": 29684,
+      "title": "여름휴가 막바지 캠핑족, 1만원대로 감성캠핑 완성해주는 캠핑 스트링라이트",
+      "url": "https://wikidocs.net/blog/@smartliving/29684/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 캠핑장 사진, 밤이 되면 왜 이렇게 밋밋해질까요 낮에는 그럴듯하게 찍히던 캠핑 사이트 사진이, 해가 지고 나면 갑자기 어두컴컴하고 밋밋해지는 경험 다들 있으실 겁니다. 랜턴 하…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29684/39_4_product1.jpg",
+      "published_label": "5시간 전",
+      "views": 24,
+      "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 29683,
+      "title": "기숙사·원룸 자취생, 편의점값 줄여주는 5만원대 미니 냉장고",
+      "url": "https://wikidocs.net/blog/@smartliving/29683/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 냉장고가 없어서 매일 편의점을 들락거리고 계신가요 기숙사나 원룸에 큰 냉장고를 들이기 애매해서, 물 한 병 마시려고 매번 1층 편의점까지 내려갔다 오신 적 있으실 겁니다. 그렇…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29683/39_3_product1.jpg",
       "published_label": "5시간 전",
       "views": 24,
       "daily_views": 0,
@@ -8960,21 +8990,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 29683,
-      "title": "기숙사·원룸 자취생, 편의점값 줄여주는 5만원대 미니 냉장고",
-      "url": "https://wikidocs.net/blog/@smartliving/29683/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 냉장고가 없어서 매일 편의점을 들락거리고 계신가요 기숙사나 원룸에 큰 냉장고를 들이기 애매해서, 물 한 병 마시려고 매번 1층 편의점까지 내려갔다 오신 적 있으실 겁니다. 그렇…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29683/39_3_product1.jpg",
-      "published_label": "5시간 전",
-      "views": 23,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 29599,
@@ -9127,21 +9142,6 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 29684,
-      "title": "여름휴가 막바지 캠핑족, 1만원대로 감성캠핑 완성해주는 캠핑 스트링라이트",
-      "url": "https://wikidocs.net/blog/@smartliving/29684/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 캠핑장 사진, 밤이 되면 왜 이렇게 밋밋해질까요 낮에는 그럴듯하게 찍히던 캠핑 사이트 사진이, 해가 지고 나면 갑자기 어두컴컴하고 밋밋해지는 경험 다들 있으실 겁니다. 랜턴 하…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29684/39_4_product1.jpg",
-      "published_label": "5시간 전",
-      "views": 21,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
       "id": 25037,
       "title": "재택근무 프리랜서를 위한, 충전케이블 2개 줄여주는 마우스패드 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/25037/",
@@ -9277,12 +9277,12 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 23361,
-      "title": "혹시 아직도 뜨끈한 요 위에서 열대야를 버티고 계신가요? 인견 여름요 추천 TOP3",
-      "url": "https://wikidocs.net/blog/@smartliving/23361/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 에어컨을 세게 틀어도 이불 속으로 들어가는 순간 다시 후끈한 열기가 올라와 몇 번이고 이불을 걷었다 덮었다 하며 뒤척였던 밤, 열대야가 이어지는 요즘 다들 겪고 계실 텐데요. …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23361/10_8_product1.jpg",
-      "published_label": "1개월 전",
+      "id": 29681,
+      "title": "가을장마 앞둔 자취생, 눅눅한 원룸 냄새 3만원대로 잡아주는 미니 제습기",
+      "url": "https://wikidocs.net/blog/@smartliving/29681/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장마는 끝났는데, 방에서 나는 눅눅한 냄새는 왜 안 없어질까요 기상청 전망대로라면 폭염을 만드는 북태평양고기압이 8월 하순까지 버티다가, 그 뒤로 곧장 가을장마라 불리는 2차 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29681/39_1_product1.jpg",
+      "published_label": "5시간 전",
       "views": 19,
       "daily_views": 0,
       "likes": 0,
@@ -9292,13 +9292,13 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 29681,
-      "title": "가을장마 앞둔 자취생, 눅눅한 원룸 냄새 3만원대로 잡아주는 미니 제습기",
-      "url": "https://wikidocs.net/blog/@smartliving/29681/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장마는 끝났는데, 방에서 나는 눅눅한 냄새는 왜 안 없어질까요 기상청 전망대로라면 폭염을 만드는 북태평양고기압이 8월 하순까지 버티다가, 그 뒤로 곧장 가을장마라 불리는 2차 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29681/39_1_product1.jpg",
-      "published_label": "5시간 전",
-      "views": 18,
+      "id": 23361,
+      "title": "혹시 아직도 뜨끈한 요 위에서 열대야를 버티고 계신가요? 인견 여름요 추천 TOP3",
+      "url": "https://wikidocs.net/blog/@smartliving/23361/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 에어컨을 세게 틀어도 이불 속으로 들어가는 순간 다시 후끈한 열기가 올라와 몇 번이고 이불을 걷었다 덮었다 하며 뒤척였던 밤, 열대야가 이어지는 요즘 다들 겪고 계실 텐데요. …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23361/10_8_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 19,
       "daily_views": 0,
       "likes": 0,
       "comments": 0,
@@ -10390,8 +10390,8 @@
     },
     {
       "date": "2026-08-28",
-      "views": 406
+      "views": 415
     }
   ],
-  "static_generated_at": "2026-08-28T12:01:54+09:00"
+  "static_generated_at": "2026-08-28T12:31:55+09:00"
 }
