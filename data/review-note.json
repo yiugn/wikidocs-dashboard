@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-28T17:01:55+09:00",
+  "latest_snapshot_at": "2026-08-28T17:31:52+09:00",
   "latest_snapshot_date": "2026-08-28",
   "catalog_updated_at": "2026-08-28T00:00:29+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 634,
-    "total_views": 310312,
-    "daily_views": 269,
+    "total_views": 310313,
+    "daily_views": 270,
     "previous_day_views": 690,
     "previous_day_date": "2026-08-27",
-    "current_month_views": 22941,
+    "current_month_views": 22942,
     "days_recorded": 60
   },
   "blogs": [
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 356,
       "captured_posts": 366,
-      "total_views": 115379,
-      "daily_views": 121,
+      "total_views": 115380,
+      "daily_views": 122,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -2392,6 +2392,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24160,
+      "title": "출근 준비 바쁜 직장인을 위한, 다림질 시간 줄여주는 무선 스팀다리미",
+      "url": "https://wikidocs.net/blog/@smartliving/24160/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 출근 5분 전, 구겨진 셔츠를 발견했을 때의 그 당혹감 출근 준비를 다 끝내고 마지막으로 셔츠를 걸치려는 순간, 옷깃이 잔뜩 구겨져 있는 걸 발견하고 당황했던 경험 한 번쯤 있…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24160/14_5_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 101,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24652,
       "title": "무료 DB, 1인 사업자를 위한 고객 정보 관리 최적 솔루션 4가지 (2026년 최신)",
       "url": "https://wikidocs.net/blog/@petpicknote/24652/",
@@ -2415,21 +2430,6 @@
       "published_label": "1개월 전",
       "views": 100,
       "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24160,
-      "title": "출근 준비 바쁜 직장인을 위한, 다림질 시간 줄여주는 무선 스팀다리미",
-      "url": "https://wikidocs.net/blog/@smartliving/24160/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 출근 5분 전, 구겨진 셔츠를 발견했을 때의 그 당혹감 출근 준비를 다 끝내고 마지막으로 셔츠를 걸치려는 순간, 옷깃이 잔뜩 구겨져 있는 걸 발견하고 당황했던 경험 한 번쯤 있…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24160/14_5_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 100,
-      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -10390,8 +10390,8 @@
     },
     {
       "date": "2026-08-28",
-      "views": 527
+      "views": 528
     }
   ],
-  "static_generated_at": "2026-08-28T17:01:56+09:00"
+  "static_generated_at": "2026-08-28T17:31:54+09:00"
 }
