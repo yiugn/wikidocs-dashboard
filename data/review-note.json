@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-01T02:01:54+09:00",
+  "latest_snapshot_at": "2026-09-01T02:31:58+09:00",
   "latest_snapshot_date": "2026-09-01",
   "catalog_updated_at": "2026-09-01T00:00:33+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 654,
-    "total_views": 312124,
-    "daily_views": 50,
+    "total_views": 312126,
+    "daily_views": 52,
     "previous_day_views": 590,
     "previous_day_date": "2026-08-31",
-    "current_month_views": 50,
+    "current_month_views": 52,
     "days_recorded": 64
   },
   "blogs": [
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 386,
       "captured_posts": 386,
-      "total_views": 116537,
-      "daily_views": 33,
+      "total_views": 116538,
+      "daily_views": 34,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 35764,
-      "daily_views": 9,
+      "total_views": 35765,
+      "daily_views": 10,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1048,8 +1048,8 @@
       "excerpt": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁 ChatGPT는 2026년에도 개인 생산성 혁신의 핵심 도구로 자리매김하고 있습니다. 최신 GPT 모델과 고급 프롬프트 엔지니어링을 활용하면 정보 요약, 아이디어 발상, 콘텐츠 초안 작성…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25219/14_10_img1.jpg",
       "published_label": "1개월 전",
-      "views": 533,
-      "daily_views": 1,
+      "views": 534,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -5857,6 +5857,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 28821,
+      "title": "땀에 젖은 운동복 매일 빠는 헬스족, 1.9만원부터 널어주는 대형 빨래건조대",
+      "url": "https://wikidocs.net/blog/@smartliving/28821/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 땀에 흠뻑 젖은 운동복을 매일 세탁기에 돌리다 보면, 건조대 하나에 옷 몇 벌 널고 나면 자리가 꽉 차 나머지는 어디에 걸어야 할지 난감했던 적 많으실 겁니다. 좁은 건조대에 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28821/36_4_product1.jpg",
+      "published_label": "13일 전",
+      "views": 51,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28819,
       "title": "2학기 준비물 챙기는 초등맘, 9종 1.6만원으로 채워주는 신학기 문구세트",
       "url": "https://wikidocs.net/blog/@smartliving/28819/",
@@ -5960,21 +5975,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28821,
-      "title": "땀에 젖은 운동복 매일 빠는 헬스족, 1.9만원부터 널어주는 대형 빨래건조대",
-      "url": "https://wikidocs.net/blog/@smartliving/28821/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 땀에 흠뻑 젖은 운동복을 매일 세탁기에 돌리다 보면, 건조대 하나에 옷 몇 벌 널고 나면 자리가 꽉 차 나머지는 어디에 걸어야 할지 난감했던 적 많으실 겁니다. 좁은 건조대에 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28821/36_4_product1.jpg",
-      "published_label": "13일 전",
-      "views": 50,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 28818,
@@ -10271,6 +10271,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 25219,
+      "title": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁",
+      "url": "https://wikidocs.net/blog/@petpicknote/25219/",
+      "excerpt": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁 ChatGPT는 2026년에도 개인 생산성 혁신의 핵심 도구로 자리매김하고 있습니다. 최신 GPT 모델과 고급 프롬프트 엔지니어링을 활용하면 정보 요약, 아이디어 발상, 콘텐츠 초안 작성…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25219/14_10_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 534,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24650,
       "title": "구글 클라우드 서버 가격: 1인 개발자가 월 0원으로 유지할 수 있을까?",
       "url": "https://wikidocs.net/blog/@petpicknote/24650/",
@@ -10374,21 +10389,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 25219,
-      "title": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁",
-      "url": "https://wikidocs.net/blog/@petpicknote/25219/",
-      "excerpt": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁 ChatGPT는 2026년에도 개인 생산성 혁신의 핵심 도구로 자리매김하고 있습니다. 최신 GPT 모델과 고급 프롬프트 엔지니어링을 활용하면 정보 요약, 아이디어 발상, 콘텐츠 초안 작성…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25219/14_10_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 533,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 23364,
@@ -10706,8 +10706,8 @@
     },
     {
       "date": "2026-09-01",
-      "views": 50
+      "views": 52
     }
   ],
-  "static_generated_at": "2026-09-01T02:01:56+09:00"
+  "static_generated_at": "2026-09-01T02:31:59+09:00"
 }
