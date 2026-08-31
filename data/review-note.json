@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-31T18:01:56+09:00",
+  "latest_snapshot_at": "2026-08-31T18:31:57+09:00",
   "latest_snapshot_date": "2026-08-31",
   "catalog_updated_at": "2026-08-31T00:00:33+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 654,
-    "total_views": 311999,
-    "daily_views": 273,
+    "total_views": 312001,
+    "daily_views": 275,
     "previous_day_views": 744,
     "previous_day_date": "2026-08-30",
-    "current_month_views": 24628,
+    "current_month_views": 24630,
     "days_recorded": 63
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 159797,
-      "daily_views": 87,
+      "total_views": 159798,
+      "daily_views": 88,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 376,
       "captured_posts": 386,
-      "total_views": 116462,
-      "daily_views": 124,
+      "total_views": 116463,
+      "daily_views": 125,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -1273,8 +1273,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 빨래건조대와 청소도구, 계절 지난 물건들이 뒤섞여 발 디딜 틈조차 없는 베란다를 보며 한숨 쉬어보신 분들 많으실 겁니다. 베란다 좁은 아파트 거주자라면 그 좁은 공간 하나가 집…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25044/18_10_product1.jpg",
       "published_label": "1개월 전",
-      "views": 357,
-      "daily_views": 0,
+      "views": 358,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -6577,6 +6577,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23764,
+      "title": "요즘 다들 삭막한 실내등 대신 이걸로 바꾼다는 차량용 무드등, 이유가 있었습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23764/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 밤에 차를 타면 삭막한 흰색 실내등만 켜져 있어서 분위기가 안 산다고 느끼셨던 경험 있으실 겁니다. 은은한 조명이 켜진 차 안 사진을 보고 나도 이렇게 꾸며보고 싶다고 생각하신…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23764/10_6_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 44,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23554,
       "title": "장거리 앞두신 분이라면, 브레이크 클리너로 소음·끼익거림 줄었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/23554/",
@@ -6755,21 +6770,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23764,
-      "title": "요즘 다들 삭막한 실내등 대신 이걸로 바꾼다는 차량용 무드등, 이유가 있었습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23764/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 밤에 차를 타면 삭막한 흰색 실내등만 켜져 있어서 분위기가 안 산다고 느끼셨던 경험 있으실 겁니다. 은은한 조명이 켜진 차 안 사진을 보고 나도 이렇게 꾸며보고 싶다고 생각하신…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23764/10_6_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 43,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 22523,
@@ -10702,8 +10702,8 @@
     },
     {
       "date": "2026-08-31",
-      "views": 515
+      "views": 517
     }
   ],
-  "static_generated_at": "2026-08-31T18:01:57+09:00"
+  "static_generated_at": "2026-08-31T18:31:58+09:00"
 }
