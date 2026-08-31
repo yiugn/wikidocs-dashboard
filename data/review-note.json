@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-08-31T15:01:59+09:00",
+  "latest_snapshot_at": "2026-08-31T15:31:53+09:00",
   "latest_snapshot_date": "2026-08-31",
   "catalog_updated_at": "2026-08-31T00:00:33+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 654,
-    "total_views": 311917,
-    "daily_views": 220,
+    "total_views": 311934,
+    "daily_views": 237,
     "previous_day_views": 744,
     "previous_day_date": "2026-08-30",
-    "current_month_views": 24546,
+    "current_month_views": 24563,
     "days_recorded": 63
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 159781,
-      "daily_views": 71,
+      "total_views": 159789,
+      "daily_views": 79,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -37,8 +37,8 @@
         "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장맛비가 쏟아지는 날, 주차하고 내리려는데 우산을 차 문 틈으로 펴다 보면 어느새 어깨와 팔이 다 젖어 있죠. 다 쓰고 접어 차에 들일 땐 젖은 우산 바깥면이 시트와 바닥으로 …",
         "thumbnail_url": "https://static.wikidocs.net/images/blog/22692/5_1_thumb.jpg",
         "published_label": "1개월 전",
-        "views": 104894,
-        "daily_views": 9,
+        "views": 104898,
+        "daily_views": 13,
         "likes": 0,
         "comments": 0,
         "blog_id": 1978,
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 376,
       "captured_posts": 386,
-      "total_views": 116401,
-      "daily_views": 92,
+      "total_views": 116409,
+      "daily_views": 100,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 35735,
-      "daily_views": 57,
+      "total_views": 35736,
+      "daily_views": 58,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -103,8 +103,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장맛비가 쏟아지는 날, 주차하고 내리려는데 우산을 차 문 틈으로 펴다 보면 어느새 어깨와 팔이 다 젖어 있죠. 다 쓰고 접어 차에 들일 땐 젖은 우산 바깥면이 시트와 바닥으로 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22692/5_1_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 104894,
-      "daily_views": 9,
+      "views": 104898,
+      "daily_views": 13,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -463,8 +463,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 출고된 지 좀 된 차를 타다 보면, 요즘 차엔 기본인 블루투스가 없어 답답할 때가 많죠. 휴대폰 내비 안내는 폰 스피커로 조그맣게 흘러나오고, 좋아하는 음악은 선을 꽂거나 아예…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22490/4_6_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 2024,
-      "daily_views": 0,
+      "views": 2025,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -2332,6 +2332,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24667,
+      "title": "차박 다니시는 분이라면, 파워 인버터 하나로 220V 가전 걱정 덜었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24667/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 노트북 배터리가 떨어지거나 전기밥솥을 쓰고 싶은데 220V 콘센트가 없어 난감했던 경험 있으실 겁니다. 차량 배터리는 12V·24V인데 우리가 평소 쓰는 가전제품…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24667/pb_16_1_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 108,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23365,
       "title": "다묘가정을 위한, 다들 고양이 모래는 흡수력만 보면 된다지만 진짜 먼저 볼 건 분진량입니다",
       "url": "https://wikidocs.net/blog/@petpicknote/23365/",
@@ -2360,21 +2375,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24667,
-      "title": "차박 다니시는 분이라면, 파워 인버터 하나로 220V 가전 걱정 덜었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24667/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 노트북 배터리가 떨어지거나 전기밥솥을 쓰고 싶은데 220V 콘센트가 없어 난감했던 경험 있으실 겁니다. 차량 배터리는 12V·24V인데 우리가 평소 쓰는 가전제품…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24667/pb_16_1_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 105,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 24652,
@@ -2752,6 +2752,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28644,
+      "title": "새벽 수유하다 불빛에 아기 깨는 부모, 16색 밝기 조절해주는 리모컨 무드등",
+      "url": "https://wikidocs.net/blog/@smartliving/28644/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 새벽 3시, 아기가 칭얼거리는 소리에 눈을 뜨자마자 형광등을 켰다가 아기가 오히려 완전히 잠에서 깨버린 경험, 신생아를 키우는 부모라면 한 번쯤 겪어보셨을 겁니다. 밝은 불빛에…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28644/34_7_product1.jpg",
+      "published_label": "15일 전",
+      "views": 87,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 23557,
       "title": "장거리 통근족을 위한, 안전벨트 커버 바꾸고 목·어깨 쓸림 확 줄었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/23557/",
@@ -2780,21 +2795,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28644,
-      "title": "새벽 수유하다 불빛에 아기 깨는 부모, 16색 밝기 조절해주는 리모컨 무드등",
-      "url": "https://wikidocs.net/blog/@smartliving/28644/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 새벽 3시, 아기가 칭얼거리는 소리에 눈을 뜨자마자 형광등을 켰다가 아기가 오히려 완전히 잠에서 깨버린 경험, 신생아를 키우는 부모라면 한 번쯤 겪어보셨을 겁니다. 밝은 불빛에…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28644/34_7_product1.jpg",
-      "published_label": "15일 전",
-      "views": 86,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 28384,
@@ -3292,6 +3292,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 27392,
+      "title": "다림질 시간 반으로 줄여주는 여행용 미니 다리미, 이렇게 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/27392/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름휴가 캐리어를 싸다가 셔츠나 원피스가 구겨진 걸 보고, 결국 숙소 도착하자마자 다림질부터 해야 했던 경험 있으실 겁니다. 무거운 가정용 다리미를 챙길 수도 없고, 그렇다고 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27392/21_3_product1.jpg",
+      "published_label": "28일 전",
+      "views": 76,
+      "daily_views": 5,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27302,
       "title": "장시간 재택근무하는 직장인을 위한, 노트북스탠드 살 때 놓치는 통풍 체크포인트",
       "url": "https://wikidocs.net/blog/@smartliving/27302/",
@@ -3637,21 +3652,6 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 27392,
-      "title": "다림질 시간 반으로 줄여주는 여행용 미니 다리미, 이렇게 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27392/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름휴가 캐리어를 싸다가 셔츠나 원피스가 구겨진 걸 보고, 결국 숙소 도착하자마자 다림질부터 해야 했던 경험 있으실 겁니다. 무거운 가정용 다리미를 챙길 수도 없고, 그렇다고 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27392/21_3_product1.jpg",
-      "published_label": "28일 전",
-      "views": 71,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
       "id": 28565,
       "title": "책상먼지 매일 치우는 자취생, 흡입력 그대로 30분 청소해주는 핸디청소기",
       "url": "https://wikidocs.net/blog/@smartliving/28565/",
@@ -3802,6 +3802,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22672,
+      "title": "무더위에 사료 상할까 걱정되는 집사라면, 냉각 스텐 식기 하나로 여름철 급식 걱정이 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/22672/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근하고 돌아와 사료 그릇을 확인했는데, 한여름 실내 온도 탓에 사료 표면이 눅눅하거나 미묘하게 쉰내가 나는 걸 느껴보신 적 있으실 겁니다. 물그릇도 마찬가지여서, 아침에 받아…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22672/2_1.jpg",
+      "published_label": "1개월 전",
+      "views": 68,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 28826,
       "title": "물놀이 나가는 영유아 부모, 9900원대 60cm로 태워주는 유아 물놀이 튜브",
       "url": "https://wikidocs.net/blog/@smartliving/28826/",
@@ -3860,21 +3875,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22672,
-      "title": "무더위에 사료 상할까 걱정되는 집사라면, 냉각 스텐 식기 하나로 여름철 급식 걱정이 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/22672/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근하고 돌아와 사료 그릇을 확인했는데, 한여름 실내 온도 탓에 사료 표면이 눅눅하거나 미묘하게 쉰내가 나는 걸 느껴보신 적 있으실 겁니다. 물그릇도 마찬가지여서, 아침에 받아…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22672/2_1.jpg",
-      "published_label": "1개월 전",
-      "views": 67,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 28385,
@@ -5467,6 +5467,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 27620,
+      "title": "재택근무 프리랜서를 위한, 서류 정리 시간 줄여주는 미니 라벨프린터 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/27620/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 재택근무 중 서류 파일을 찾다가 라벨 없이 뒤섞인 박스와 폴더를 보고 한숨 쉬어본 적 있으실 겁니다. 손글씨로 붙인 메모는 시간이 지나면 흐려지고 알아보기도 어렵습니다. 휴대용…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27620/23_9_product1.jpg",
+      "published_label": "26일 전",
+      "views": 54,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24163,
       "title": "여름 러닝 시작한 직장인을 위한 방수 블루투스 이어폰",
       "url": "https://wikidocs.net/blog/@smartliving/24163/",
@@ -5623,21 +5638,6 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근하고 돌아와 세탁기 앞에 서면 세제 계량컵부터 찾아야 하는 것, 은근히 귀찮으실 겁니다. 액체세제는 흘리기 쉽고, 가루세제는 뭉치기 쉬워서 매번 신경 써야 하는데, 맞벌이로…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27746/24_2_product1.jpg",
       "published_label": "25일 전",
-      "views": 53,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 27620,
-      "title": "재택근무 프리랜서를 위한, 서류 정리 시간 줄여주는 미니 라벨프린터 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27620/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 재택근무 중 서류 파일을 찾다가 라벨 없이 뒤섞인 박스와 폴더를 보고 한숨 쉬어본 적 있으실 겁니다. 손글씨로 붙인 메모는 시간이 지나면 흐려지고 알아보기도 어렵습니다. 휴대용…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27620/23_9_product1.jpg",
-      "published_label": "26일 전",
       "views": 53,
       "daily_views": 0,
       "likes": 0,
@@ -6442,6 +6442,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 21680,
+      "title": "여름 휴가철 차박·캠핑족을 위한, 다들 크기만 본다지만 트렁크 정리함은 사실 이걸 먼저 봐야 합니다",
+      "url": "https://wikidocs.net/blog/@smartliving/21680/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름 휴가철 차박·캠핑족을 위한 이야기입니다. 다들 트렁크 정리함은 크기만 크면 된다지만, 사실 먼저 볼 건 분리 구획과 방수 여부입니다. 여름 휴가철 차박이나 캠핑을 준비하다…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/21680/2_7_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 47,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 25343,
       "title": "WBS 관리, IT 프로젝트 매니저가 마감일 지연 줄이는 핵심 노하우 5가지",
       "url": "https://wikidocs.net/blog/@petpicknote/25343/",
@@ -6492,21 +6507,6 @@
       "url": "https://wikidocs.net/blog/@smartliving/27246/",
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 오후 2시, 노트북 화면에 얼굴이 벌겋게 달아오를 때쯤이면 에어컨 바람만으론 부족하다는 걸 느껴보신 분들 많으실 겁니다. 책상 위 서류는 눅눅해지고, 손끝은 자판을 두드릴 때마…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27246/19_1_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 46,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 21680,
-      "title": "여름 휴가철 차박·캠핑족을 위한, 다들 크기만 본다지만 트렁크 정리함은 사실 이걸 먼저 봐야 합니다",
-      "url": "https://wikidocs.net/blog/@smartliving/21680/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름 휴가철 차박·캠핑족을 위한 이야기입니다. 다들 트렁크 정리함은 크기만 크면 된다지만, 사실 먼저 볼 건 분리 구획과 방수 여부입니다. 여름 휴가철 차박이나 캠핑을 준비하다…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/21680/2_7_thumb.jpg",
       "published_label": "1개월 전",
       "views": 46,
       "daily_views": 0,
@@ -9915,8 +9915,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장맛비가 쏟아지는 날, 주차하고 내리려는데 우산을 차 문 틈으로 펴다 보면 어느새 어깨와 팔이 다 젖어 있죠. 다 쓰고 접어 차에 들일 땐 젖은 우산 바깥면이 시트와 바닥으로 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22692/5_1_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 104894,
-      "daily_views": 9,
+      "views": 104898,
+      "daily_views": 13,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -10187,8 +10187,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장맛비가 쏟아지는 날, 주차하고 내리려는데 우산을 차 문 틈으로 펴다 보면 어느새 어깨와 팔이 다 젖어 있죠. 다 쓰고 접어 차에 들일 땐 젖은 우산 바깥면이 시트와 바닥으로 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22692/5_1_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 104894,
-      "daily_views": 9,
+      "views": 104898,
+      "daily_views": 13,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -10204,6 +10204,21 @@
       "published_label": "1일 전",
       "views": 34,
       "daily_views": 6,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 27392,
+      "title": "다림질 시간 반으로 줄여주는 여행용 미니 다리미, 이렇게 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/27392/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름휴가 캐리어를 싸다가 셔츠나 원피스가 구겨진 걸 보고, 결국 숙소 도착하자마자 다림질부터 해야 했던 경험 있으실 겁니다. 무거운 가정용 다리미를 챙길 수도 없고, 그렇다고 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27392/21_3_product1.jpg",
+      "published_label": "28일 전",
+      "views": 76,
+      "daily_views": 5,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -10391,6 +10406,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 24667,
+      "title": "차박 다니시는 분이라면, 파워 인버터 하나로 220V 가전 걱정 덜었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24667/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 노트북 배터리가 떨어지거나 전기밥솥을 쓰고 싶은데 220V 콘센트가 없어 난감했던 경험 있으실 겁니다. 차량 배터리는 12V·24V인데 우리가 평소 쓰는 가전제품…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24667/pb_16_1_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 108,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24009,
       "title": "두 번 잘못 사고 나서야 알게 된 요가매트 두께 고르는 법",
       "url": "https://wikidocs.net/blog/@petpicknote/24009/",
@@ -10419,36 +10449,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23356,
-      "title": "자취생을 위한, 땀에 전 운동복 그날 바로 세탁되는 미니세탁기 이렇게 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/23356/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 운동을 마치고 돌아온 뒤 땀에 흠뻑 젖은 운동복을 세탁기 돌리기엔 양이 애매해서 그냥 빨래바구니에 던져두신 적, 자취하시는 분이라면 다들 한 번쯤 있으실 겁니다. 세탁기 한 번…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23356/10_3_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 8879,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22693,
-      "title": "밤 운전 잦은데 헤드라이트 침침해 답답하던 분들, 복원제 한 번 발랐더니 다시 밝아졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22693/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 밤 운전을 하다 보면 예전 같지 않게 헤드라이트가 침침하게 느껴질 때가 있습니다. 연식이 쌓이면 전조등 커버(플라스틱)가 자외선에 누렇게 변색되고 뿌옇게 흐려지는 '황변'이 생…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22693/5_2_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 1402,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     }
   ],
   "daily_totals": [
@@ -10702,8 +10702,8 @@
     },
     {
       "date": "2026-08-31",
-      "views": 433
+      "views": 450
     }
   ],
-  "static_generated_at": "2026-08-31T15:02:00+09:00"
+  "static_generated_at": "2026-08-31T15:31:54+09:00"
 }
