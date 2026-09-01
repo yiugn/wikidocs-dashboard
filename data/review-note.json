@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-01T11:01:58+09:00",
+  "latest_snapshot_at": "2026-09-01T11:31:57+09:00",
   "latest_snapshot_date": "2026-09-01",
   "catalog_updated_at": "2026-09-01T00:00:33+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 664,
-    "total_views": 312464,
-    "daily_views": 213,
+    "total_views": 312473,
+    "daily_views": 220,
     "previous_day_views": 590,
     "previous_day_date": "2026-08-31",
-    "current_month_views": 390,
+    "current_month_views": 399,
     "days_recorded": 64
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 159879,
-      "daily_views": 64,
+      "total_views": 159883,
+      "daily_views": 68,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 386,
       "captured_posts": 396,
-      "total_views": 116783,
-      "daily_views": 102,
+      "total_views": 116787,
+      "daily_views": 104,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 35802,
-      "daily_views": 47,
+      "total_views": 35803,
+      "daily_views": 48,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -523,8 +523,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 내비 켜고 음악 틀고, 블랙박스에 충전까지 하다 보면 스마트폰 배터리는 오히려 줄어드는 경험, 다들 있으실 겁니다. 특히 오래된 시거잭 충전기를 쓰면 목적지 다 와가도록 배터리…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22288/3_7_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 1822,
-      "daily_views": 0,
+      "views": 1825,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1867,6 +1867,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24885,
+      "title": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법",
+      "url": "https://wikidocs.net/blog/@petpicknote/24885/",
+      "excerpt": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법 현대해상 ECO 마일리지 특약은 연간 주행거리에 따라 자동차 보험료를 환급받는 제도입니다. 특히 연 1만km 이하 주행하는 운전자라면 최대 18.8% (커넥티드 방식 기준)…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24885/14_4_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 148,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 23369,
       "title": "반려동반 캠핑쿨러박스 추천",
       "url": "https://wikidocs.net/blog/@petpicknote/23369/",
@@ -1895,21 +1910,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24885,
-      "title": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법",
-      "url": "https://wikidocs.net/blog/@petpicknote/24885/",
-      "excerpt": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법 현대해상 ECO 마일리지 특약은 연간 주행거리에 따라 자동차 보험료를 환급받는 제도입니다. 특히 연 1만km 이하 주행하는 운전자라면 최대 18.8% (커넥티드 방식 기준)…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24885/14_4_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 147,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 22282,
@@ -3157,6 +3157,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 28474,
+      "title": "땡볕 출근길 직장인, 8시간 두 손 자유롭게 식혀주는 넥밴드 선풍기",
+      "url": "https://wikidocs.net/blog/@smartliving/28474/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 강원도에 올여름 첫 폭염중대경보가 뜨고, 처서가 코앞인데도 낮 체감온도가 33도를 넘나든다고 하죠. 지하철역까지 걸어가는 10분 남짓한 그 시간에 이미 셔츠가 등에 달라붙어버린…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28474/32_1_product1.jpg",
+      "published_label": "18일 전",
+      "views": 80,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28076,
       "title": "설거지 자리 없는 캠핑족, 테이블 공간 50% 확보해주는 접이식 식기건조대",
       "url": "https://wikidocs.net/blog/@smartliving/28076/",
@@ -3185,21 +3200,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28474,
-      "title": "땡볕 출근길 직장인, 8시간 두 손 자유롭게 식혀주는 넥밴드 선풍기",
-      "url": "https://wikidocs.net/blog/@smartliving/28474/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 강원도에 올여름 첫 폭염중대경보가 뜨고, 처서가 코앞인데도 낮 체감온도가 33도를 넘나든다고 하죠. 지하철역까지 걸어가는 10분 남짓한 그 시간에 이미 셔츠가 등에 달라붙어버린…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28474/32_1_product1.jpg",
-      "published_label": "18일 전",
-      "views": 79,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 27303,
@@ -3547,6 +3547,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24475,
+      "title": "마당·베란다 벌레 방치하면, 방충망보다 무서운 게 옵니다",
+      "url": "https://wikidocs.net/blog/@smartliving/24475/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 마당이나 베란다에 모기장, 방충망만 믿고 벌레를 방치하시면 방충망보다 무서운 게 옵니다. 창문 틈 방충망으로는 못 막는 초파리, 날벌레, 매미까지 실외 조명 주변으로 몰려들면서…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24475/15_8_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 73,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24161,
       "title": "베개 세 번 잘못 사고 나서야 알게 된 경추베개 고르는 법",
       "url": "https://wikidocs.net/blog/@smartliving/24161/",
@@ -3627,21 +3642,6 @@
       "url": "https://wikidocs.net/blog/@smartliving/25043/",
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 캠핑장 주차 자리에서 텐트 사이트까지, 아이스박스와 텐트, 코펠까지 양손 가득 짐을 들고 몇 번을 왕복해야 했던 경험 있으실 겁니다. 요즘 다들 캠핑 짐을 손으로 안 든다는 이…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25043/18_9_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 72,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24475,
-      "title": "마당·베란다 벌레 방치하면, 방충망보다 무서운 게 옵니다",
-      "url": "https://wikidocs.net/blog/@smartliving/24475/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 마당이나 베란다에 모기장, 방충망만 믿고 벌레를 방치하시면 방충망보다 무서운 게 옵니다. 창문 틈 방충망으로는 못 막는 초파리, 날벌레, 매미까지 실외 조명 주변으로 몰려들면서…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24475/15_8_product1.jpg",
       "published_label": "1개월 전",
       "views": 72,
       "daily_views": 0,
@@ -4117,6 +4117,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24329,
+      "title": "물자국 남는 세차 반복하다 알게 된 카샴푸 고르는 법",
+      "url": "https://wikidocs.net/blog/@cartemlab/24329/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 정성껏 세차했는데도 마르고 나면 차체에 하얀 물자국이 얼룩덜룩하게 남아있는 걸 본 적 있으실 겁니다. 카샴푸를 아무거나 골라 쓰다가 이 얼룩이 반복되면서, 알고 보니 샴푸 종류…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24329/pb_14_3_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 65,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 28822,
       "title": "반찬 뒤섞이는 냉장고에 지친 주부, 700원대로 칸칸이 정리해주는 정리용기",
       "url": "https://wikidocs.net/blog/@smartliving/28822/",
@@ -4235,21 +4250,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24329,
-      "title": "물자국 남는 세차 반복하다 알게 된 카샴푸 고르는 법",
-      "url": "https://wikidocs.net/blog/@cartemlab/24329/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 정성껏 세차했는데도 마르고 나면 차체에 하얀 물자국이 얼룩덜룩하게 남아있는 걸 본 적 있으실 겁니다. 카샴푸를 아무거나 골라 쓰다가 이 얼룩이 반복되면서, 알고 보니 샴푸 종류…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24329/pb_14_3_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 64,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 23762,
@@ -9457,6 +9457,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 29970,
+      "title": "귀지 답답한 직장인, 진료비 1만원 아껴주는 무선 이어클리너",
+      "url": "https://wikidocs.net/blog/@smartliving/29970/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 면봉으로 귀 후비다가 오히려 더 깊이 밀어 넣은 느낌, 겪어보셨을 겁니다 바쁜 직장인이라면 귀가 답답하고 간지러운데도 병원까지 시간 내서 가기가 쉽지 않습니다. 그렇다고 집에서…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29970/42_9_product1.jpg",
+      "published_label": "4시간 전",
+      "views": 22,
+      "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 29968,
       "title": "재택 직장인, 책상 교체비 10만원 아껴주는 대형 데스크매트",
       "url": "https://wikidocs.net/blog/@smartliving/29968/",
@@ -9635,21 +9650,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 29970,
-      "title": "귀지 답답한 직장인, 진료비 1만원 아껴주는 무선 이어클리너",
-      "url": "https://wikidocs.net/blog/@smartliving/29970/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 면봉으로 귀 후비다가 오히려 더 깊이 밀어 넣은 느낌, 겪어보셨을 겁니다 바쁜 직장인이라면 귀가 답답하고 간지러운데도 병원까지 시간 내서 가기가 쉽지 않습니다. 그렇다고 집에서…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29970/42_9_product1.jpg",
-      "published_label": "4시간 전",
-      "views": 20,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 29814,
@@ -10436,6 +10436,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22288,
+      "title": "매일 내비 켜고 운전하는 분들, 혹시 아직도 느린 시거잭 충전기로 답답하게 다니고 계신가요?",
+      "url": "https://wikidocs.net/blog/@cartemlab/22288/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 내비 켜고 음악 틀고, 블랙박스에 충전까지 하다 보면 스마트폰 배터리는 오히려 줄어드는 경험, 다들 있으실 겁니다. 특히 오래된 시거잭 충전기를 쓰면 목적지 다 와가도록 배터리…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22288/3_7_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 1825,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 25219,
       "title": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁",
       "url": "https://wikidocs.net/blog/@petpicknote/25219/",
@@ -10584,21 +10599,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24651,
-      "title": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/24651/",
-      "excerpt": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지 2026년 르노코리아 차량의 제조사 보증 기간 만료를 앞두고 있다면, 반드시 공식 서비스 네트워크를 통해 차량을 종합적으로 점검하는 것이 중요합니다. 이는 잠재적인 고장을 무상으로 수리받아 수…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24651/13_2_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 312,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     }
   ],
   "daily_totals": [
@@ -10856,8 +10856,8 @@
     },
     {
       "date": "2026-09-01",
-      "views": 390
+      "views": 399
     }
   ],
-  "static_generated_at": "2026-09-01T11:01:59+09:00"
+  "static_generated_at": "2026-09-01T11:31:58+09:00"
 }
