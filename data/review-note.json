@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-02T15:01:57+09:00",
+  "latest_snapshot_at": "2026-09-02T15:31:54+09:00",
   "latest_snapshot_date": "2026-09-02",
   "catalog_updated_at": "2026-09-02T00:00:29+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 674,
-    "total_views": 313171,
-    "daily_views": 256,
+    "total_views": 313179,
+    "daily_views": 261,
     "previous_day_views": 644,
     "previous_day_date": "2026-09-01",
-    "current_month_views": 1097,
+    "current_month_views": 1105,
     "days_recorded": 65
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 160014,
-      "daily_views": 71,
+      "total_views": 160015,
+      "daily_views": 72,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,7 +52,7 @@
       "name": "스마트 리빙",
       "post_count": 396,
       "captured_posts": 406,
-      "total_views": 117270,
+      "total_views": 117273,
       "daily_views": 133,
       "top_post": {
         "id": 21796,
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 35887,
-      "daily_views": 52,
+      "total_views": 35891,
+      "daily_views": 56,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1393,8 +1393,8 @@
       "excerpt": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지 2026년 르노코리아 차량의 제조사 보증 기간 만료를 앞두고 있다면, 반드시 공식 서비스 네트워크를 통해 차량을 종합적으로 점검하는 것이 중요합니다. 이는 잠재적인 고장을 무상으로 수리받아 수…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24651/13_2_img1.jpg",
       "published_label": "1개월 전",
-      "views": 317,
-      "daily_views": 2,
+      "views": 318,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1837,6 +1837,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24885,
+      "title": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법",
+      "url": "https://wikidocs.net/blog/@petpicknote/24885/",
+      "excerpt": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법 현대해상 ECO 마일리지 특약은 연간 주행거리에 따라 자동차 보험료를 환급받는 제도입니다. 특히 연 1만km 이하 주행하는 운전자라면 최대 18.8% (커넥티드 방식 기준)…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24885/14_4_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 150,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22282,
       "title": "폭염에 에어컨만으론 뒷좌석까지 시원하지 않던 분들, 차량용 선풍기 하나로 온도 걱정 던다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22282/",
@@ -1850,21 +1865,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24885,
-      "title": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법",
-      "url": "https://wikidocs.net/blog/@petpicknote/24885/",
-      "excerpt": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법 현대해상 ECO 마일리지 특약은 연간 주행거리에 따라 자동차 보험료를 환급받는 제도입니다. 특히 연 1만km 이하 주행하는 운전자라면 최대 18.8% (커넥티드 방식 기준)…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24885/14_4_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 149,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 24637,
@@ -2647,6 +2647,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23551,
+      "title": "장거리 통근족을 위한, 일반 등받이쿠션 vs 요추 서포트 쿠션 비교해보니 승자는 이거였습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23551/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 출퇴근 시간에 왕복 한두 시간씩 운전하다 보면, 목적지에 도착할 즈음엔 허리 안쪽이 뻐근하게 당기는 느낌을 받으신 적 많으실 겁니다. 그냥 등받이 쿠션 하나 끼워두면 좀 나아지…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23551/9_2_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 93,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24014,
       "title": "요즘 다들 두피 마사지기로 바꾼다는데, 이유가 있었습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/24014/",
@@ -2660,21 +2675,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 23551,
-      "title": "장거리 통근족을 위한, 일반 등받이쿠션 vs 요추 서포트 쿠션 비교해보니 승자는 이거였습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23551/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 출퇴근 시간에 왕복 한두 시간씩 운전하다 보면, 목적지에 도착할 즈음엔 허리 안쪽이 뻐근하게 당기는 느낌을 받으신 적 많으실 겁니다. 그냥 등받이 쿠션 하나 끼워두면 좀 나아지…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23551/9_2_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 92,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 22941,
@@ -9367,6 +9367,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 23818,
+      "title": "산책 후 유독 헥헥댔던 아이라면, 냉감 티셔츠 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/23818/",
+      "excerpt": "🐾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 산책 후 아이가 유독 헥헥댔던 분이라면, 짧은 산책조차 부담스러워하는 모습에 마음이 쓰이셨을 겁니다. 강아지는 몸 전체에 털이 덮여 있어 직사광선을 받으면 체온이 빠르게 오르는…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23818/9_2_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 25,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 30070,
       "title": "2학기 개강한 대학생, 과제 마감 펑크 0번으로 줄여주는 학기용 스터디플래너",
       "url": "https://wikidocs.net/blog/@smartliving/30070/",
@@ -9530,21 +9545,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23818,
-      "title": "산책 후 유독 헥헥댔던 아이라면, 냉감 티셔츠 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/23818/",
-      "excerpt": "🐾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 산책 후 아이가 유독 헥헥댔던 분이라면, 짧은 산책조차 부담스러워하는 모습에 마음이 쓰이셨을 겁니다. 강아지는 몸 전체에 털이 덮여 있어 직사광선을 받으면 체온이 빠르게 오르는…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23818/9_2_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 23,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 30064,
@@ -9967,6 +9967,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 30063,
+      "title": "이유식 튀어 옷 버리는 초보 부모, 세탁비 월 1만원 아껴주는 성장형 하이체어",
+      "url": "https://wikidocs.net/blog/@smartliving/30063/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 이유식 먹이다 옷에 튄 얼룩, 세탁기 돌려도 안 지워진 적 있으실 겁니다 아기를 무릎에 앉히거나 낮은 매트에 앉혀 이유식을 먹이다 보면, 숟가락이 오가는 사이 국물이 옷에 튀는…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30063/43_2_product1.jpg",
+      "published_label": "8시간 전",
+      "views": 16,
+      "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27913,
       "title": "자취생 냉장고 정리비 아끼는, 다회용 지퍼백 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/27913/",
@@ -10004,21 +10019,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27910/26_1_product1.jpg",
       "published_label": "25일 전",
       "views": 14,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 30063,
-      "title": "이유식 튀어 옷 버리는 초보 부모, 세탁비 월 1만원 아껴주는 성장형 하이체어",
-      "url": "https://wikidocs.net/blog/@smartliving/30063/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 이유식 먹이다 옷에 튄 얼룩, 세탁기 돌려도 안 지워진 적 있으실 겁니다 아기를 무릎에 앉히거나 낮은 매트에 앉혀 이유식을 먹이다 보면, 숟가락이 오가는 사이 국물이 옷에 튀는…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30063/43_2_product1.jpg",
-      "published_label": "8시간 전",
-      "views": 13,
       "daily_views": 0,
       "likes": 0,
       "comments": 0,
@@ -10691,6 +10691,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24651,
+      "title": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/24651/",
+      "excerpt": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지 2026년 르노코리아 차량의 제조사 보증 기간 만료를 앞두고 있다면, 반드시 공식 서비스 네트워크를 통해 차량을 종합적으로 점검하는 것이 중요합니다. 이는 잠재적인 고장을 무상으로 수리받아 수…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24651/13_2_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 318,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 25214,
       "title": "**2026년 소방 안전 관리자 선임 전, 한국소방안전원 체크리스트 5가지**",
       "url": "https://wikidocs.net/blog/@petpicknote/25214/",
@@ -10728,21 +10743,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/29600/38_6_product1.jpg",
       "published_label": "6일 전",
       "views": 34,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 29967,
-      "title": "재택 프리랜서, 영수증 정리시간 반으로 줄여주는 미니 문서스캐너",
-      "url": "https://wikidocs.net/blog/@smartliving/29967/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 계약서 사진 찍어 보냈다가 글자가 흐릿해 다시 찍어 보낸 적 있으실 겁니다 재택근무나 프리랜서로 일하다 보면 계약서, 영수증, 견적서 같은 서류를 스마트폰 카메라로 찍어서 보내…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29967/42_6_product1.jpg",
-      "published_label": "1일 전",
-      "views": 33,
       "daily_views": 3,
       "likes": 0,
       "comments": 0,
@@ -11010,8 +11010,8 @@
     },
     {
       "date": "2026-09-02",
-      "views": 453
+      "views": 461
     }
   ],
-  "static_generated_at": "2026-09-02T15:01:58+09:00"
+  "static_generated_at": "2026-09-02T15:31:55+09:00"
 }
