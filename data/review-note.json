@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-04T15:01:56+09:00",
+  "latest_snapshot_at": "2026-09-04T15:31:55+09:00",
   "latest_snapshot_date": "2026-09-04",
   "catalog_updated_at": "2026-09-04T00:00:29+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 694,
-    "total_views": 314271,
-    "daily_views": 208,
+    "total_views": 314280,
+    "daily_views": 217,
     "previous_day_views": 543,
     "previous_day_date": "2026-09-03",
-    "current_month_views": 2197,
+    "current_month_views": 2206,
     "days_recorded": 67
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 160206,
-      "daily_views": 71,
+      "total_views": 160213,
+      "daily_views": 78,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 36050,
-      "daily_views": 50,
+      "total_views": 36052,
+      "daily_views": 52,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1693,8 +1693,8 @@
       "excerpt": "KAMP AI, 2026년 스타트업이 정부 지원으로 AI 모델 개발할 방법 3가지 2026년은 인공지능(AI) 기술이 산업 전반에 걸쳐 혁신을 가속화하는 중요한 시점입니다. 국내 스타트업이 AI 모델 개발 경쟁에서 우위를 점하기 위해서는 정부의 다양한 지원 사업을 효…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25211/14_5_img1.png",
       "published_label": "1개월 전",
-      "views": 181,
-      "daily_views": 0,
+      "views": 182,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -2368,8 +2368,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 다묘가정을 위한 이야기를 해보려 합니다. 고양이를 두 마리 이상 키우다 보면 모래 교체 주기가 훨씬 짧아지고, 화장실 냄새와 먼지 문제도 배로 커지기 마련입니다. 다들 고양이 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23365/7_3_product1.jpg",
       "published_label": "1개월 전",
-      "views": 110,
-      "daily_views": 0,
+      "views": 111,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -2512,6 +2512,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24668,
+      "title": "무더위에 등 축축했던 분들, 쿨시트 추천 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24668/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 무더위에 운전석에 앉으면 에어컨을 세게 틀어도 등과 엉덩이만은 금세 축축해지는 경험, 다들 있으실 겁니다. 시트에 닿는 부위는 통풍이 안 되다 보니 땀이 차기 시작하면 좀처럼 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24668/pb_16_2_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 100,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 27304,
       "title": "곰팡이 실리콘 세 번 뜯어내고 알게 된 욕실 코킹테이프 고르는 법",
       "url": "https://wikidocs.net/blog/@smartliving/27304/",
@@ -2542,14 +2557,14 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 24668,
-      "title": "무더위에 등 축축했던 분들, 쿨시트 추천 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24668/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 무더위에 운전석에 앉으면 에어컨을 세게 틀어도 등과 엉덩이만은 금세 축축해지는 경험, 다들 있으실 겁니다. 시트에 닿는 부위는 통풍이 안 되다 보니 땀이 차기 시작하면 좀처럼 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24668/pb_16_2_thumb.jpg",
+      "id": 23973,
+      "title": "혹시 아직도 유선 케이블 꽂아야만 카플레이 되는 차, 불편하게 타고 계신가요?",
+      "url": "https://wikidocs.net/blog/@cartemlab/23973/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 매번 탈 때마다 케이블을 찾아 꽂아야 하고, 케이블이 꼬여서 짜증났던 경험 있으실 겁니다. 급하게 출발해야 하는데 케이블 인식이 안 돼 몇 번을 다시 꽂았던 분들도 많으실 겁니…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23973/12_6_thumb.jpg",
       "published_label": "1개월 전",
       "views": 99,
-      "daily_views": 0,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -2592,21 +2607,6 @@
       "url": "https://wikidocs.net/blog/@cartemlab/24334/",
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 무더위 절정을 앞두고 워셔액 경고등이 켜졌는데, 마트에 가보니 종류가 너무 많아 뭘 골라야 할지 막막했던 경험 있으실 겁니다. 그냥 아무거나 채웠다가 여름철 벌레 자국이나 먼지…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24334/pb_14_8_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 96,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 23973,
-      "title": "혹시 아직도 유선 케이블 꽂아야만 카플레이 되는 차, 불편하게 타고 계신가요?",
-      "url": "https://wikidocs.net/blog/@cartemlab/23973/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 매번 탈 때마다 케이블을 찾아 꽂아야 하고, 케이블이 꼬여서 짜증났던 경험 있으실 겁니다. 급하게 출발해야 하는데 케이블 인식이 안 돼 몇 번을 다시 꽂았던 분들도 많으실 겁니…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23973/12_6_thumb.jpg",
       "published_label": "1개월 전",
       "views": 96,
       "daily_views": 0,
@@ -2962,6 +2962,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22935,
+      "title": "주말 나들이 잦은 분들, 문콕·잔기스로 속상했는데 스크래치 제거제로 감쪽같이 지웠다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22935/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 주말 나들이 다녀와 차를 보니 어디서 긁혔는지 문짝에 잔기스가 나 있고, 주차장에서 문콕 자국까지 발견하면 그날 기분이 확 상하죠. 세차장에 맡기자니 비용이 만만치 않고, 그냥…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22935/6_2_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 85,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24650,
       "title": "구글 클라우드 서버 가격: 1인 개발자가 월 0원으로 유지할 수 있을까?",
       "url": "https://wikidocs.net/blog/@petpicknote/24650/",
@@ -3035,21 +3050,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22935,
-      "title": "주말 나들이 잦은 분들, 문콕·잔기스로 속상했는데 스크래치 제거제로 감쪽같이 지웠다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22935/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 주말 나들이 다녀와 차를 보니 어디서 긁혔는지 문짝에 잔기스가 나 있고, 주차장에서 문콕 자국까지 발견하면 그날 기분이 확 상하죠. 세차장에 맡기자니 비용이 만만치 않고, 그냥…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22935/6_2_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 84,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 22673,
@@ -6262,6 +6262,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 21977,
+      "title": "출퇴근 차에서 오래 계신 분이라면, 혹시 아직도 한여름 문 열 때 훅 끼치는 냄새 그대로 두고 계신가요?",
+      "url": "https://wikidocs.net/blog/@cartemlab/21977/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 한여름 땡볕에 몇 시간 세워둔 차 문을 열었을 때, 훅 하고 끼쳐오는 그 후끈한 공기 겪어보신 분들 많으실 겁니다. 뜨겁게 달궈진 가죽 시트 특유의 냄새에, 에어컨을 틀 때마다…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/21977/2_1_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 49,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23631,
       "title": "노령견 목 건강 걱정되셨다면, 높이조절 식기대로 편해졌다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/23631/",
@@ -6358,21 +6373,6 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 고속도로를 한참 달리다가 타이어 공기압이 부족한 줄도 모르고 계속 달려서 편마모가 심해졌던 경험 있으실 겁니다. 계기판에 갑자기 타이어 경고등이 떠서야 문제를 알아챘던 아찔한 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23763/10_5_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 48,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 21977,
-      "title": "출퇴근 차에서 오래 계신 분이라면, 혹시 아직도 한여름 문 열 때 훅 끼치는 냄새 그대로 두고 계신가요?",
-      "url": "https://wikidocs.net/blog/@cartemlab/21977/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 한여름 땡볕에 몇 시간 세워둔 차 문을 열었을 때, 훅 하고 끼쳐오는 그 후끈한 공기 겪어보신 분들 많으실 겁니다. 뜨겁게 달궈진 가죽 시트 특유의 냄새에, 에어컨을 틀 때마다…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/21977/2_1_thumb.jpg",
-      "published_label": "2개월 전",
       "views": 48,
       "daily_views": 0,
       "likes": 0,
@@ -6982,6 +6982,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 21984,
+      "title": "장마철 김서림 방지제 안 챙기면, 앞유리 뿌예져 아찔한 순간이 옵니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/21984/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장마철 새벽, 시동 걸고 출발하려는데 앞유리가 순식간에 뿌옇게 서리면서 앞차 브레이크등이 흐릿하게 번지던 경험, 다들 한 번쯤 있으실 겁니다. 손등으로 유리를 쓱 닦아봐도 그때…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/21984/2_7_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 43,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22335,
       "title": "여름철 입맛 없어하는 강아지 때문에 고민이셨다면, 저칼로리 수제간식 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/22335/",
@@ -7108,21 +7123,6 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 휴가 떠나던 고속도로 한복판, 갑자기 핸들이 묵직해지고 계기판에 공기압 경고등이 뜬 그 순간의 막막함은 겪어본 사람만 압니다. 갓길에 세우고 보험사 긴급출동을 부르면, 무더위 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22291/3_10_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 42,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 21984,
-      "title": "장마철 김서림 방지제 안 챙기면, 앞유리 뿌예져 아찔한 순간이 옵니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/21984/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장마철 새벽, 시동 걸고 출발하려는데 앞유리가 순식간에 뿌옇게 서리면서 앞차 브레이크등이 흐릿하게 번지던 경험, 다들 한 번쯤 있으실 겁니다. 손등으로 유리를 쓱 닦아봐도 그때…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/21984/2_7_thumb.jpg",
-      "published_label": "2개월 전",
       "views": 42,
       "daily_views": 1,
       "likes": 0,
@@ -10916,6 +10916,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 23973,
+      "title": "혹시 아직도 유선 케이블 꽂아야만 카플레이 되는 차, 불편하게 타고 계신가요?",
+      "url": "https://wikidocs.net/blog/@cartemlab/23973/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 매번 탈 때마다 케이블을 찾아 꽂아야 하고, 케이블이 꼬여서 짜증났던 경험 있으실 겁니다. 급하게 출발해야 하는데 케이블 인식이 안 돼 몇 번을 다시 꽂았던 분들도 많으실 겁니…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23973/12_6_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 99,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24335,
       "title": "차박 갈 때마다 음식 상하던 분들, 차량용 냉장고 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/24335/",
@@ -11034,21 +11049,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22701,
-      "title": "장거리 휴가 운전에 목이 뻐근하던 분들, 메모리폼 목쿠션 하나로 목이 한결 편해졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22701/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장거리 휴가 운전을 하다 보면, 어느새 목과 어깨가 뻐근하게 굳어 도착할 때쯤엔 뒷목이 뻣뻣해지죠. 시트 헤드레스트는 각도가 안 맞아 목을 제대로 받쳐주지 못하고, 오래 같은 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22701/5_10_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 87,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     }
   ],
   "daily_totals": [
@@ -11318,8 +11318,8 @@
     },
     {
       "date": "2026-09-04",
-      "views": 418
+      "views": 427
     }
   ],
-  "static_generated_at": "2026-09-04T15:01:57+09:00"
+  "static_generated_at": "2026-09-04T15:31:56+09:00"
 }
