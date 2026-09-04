@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-04T19:01:55+09:00",
+  "latest_snapshot_at": "2026-09-04T19:31:55+09:00",
   "latest_snapshot_date": "2026-09-04",
   "catalog_updated_at": "2026-09-04T00:00:29+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 694,
-    "total_views": 314341,
-    "daily_views": 269,
+    "total_views": 314351,
+    "daily_views": 279,
     "previous_day_views": 543,
     "previous_day_date": "2026-09-03",
-    "current_month_views": 2267,
+    "current_month_views": 2277,
     "days_recorded": 67
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 160222,
-      "daily_views": 87,
+      "total_views": 160224,
+      "daily_views": 89,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 416,
       "captured_posts": 426,
-      "total_views": 118057,
-      "daily_views": 120,
+      "total_views": 118059,
+      "daily_views": 122,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 36062,
-      "daily_views": 62,
+      "total_views": 36068,
+      "daily_views": 68,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -163,8 +163,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 내비를 보려고 자꾸 고개를 숙이거나 눈을 아래로 내렸다가, 다시 앞을 보는 그 짧은 순간이 은근히 불안하죠. 특히 고속 주행 중엔 시선이 도로에서 떨어지는 찰나가 길게 느껴집니…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22943/6_10_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 9286,
-      "daily_views": 5,
+      "views": 9287,
+      "daily_views": 6,
       "likes": 0,
       "comments": 1,
       "blog_id": 1978,
@@ -1138,8 +1138,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 캠핑이나 긴 산책을 나갈 때마다 무거운 물병에 딱딱한 그릇까지 챙기느라 가방이 한가득 차버린 경험, 다들 있으실 겁니다. 막상 현장에서 그릇을 꺼내면 바닥이 울퉁불퉁해 물이 자…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23364/7_2_product1.jpg",
       "published_label": "1개월 전",
-      "views": 451,
-      "daily_views": 0,
+      "views": 452,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1453,8 +1453,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 거실을 맨발로 걷다가 발바닥에 사각사각한 모래알이 밟히는 느낌, 다묘가정이라면 하루에도 몇 번씩 겪는 일이실 겁니다. 화장실 문을 정성껏 닫아둬도, 고양이가 볼일을 보고 나와 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22916/4_1.jpg",
       "published_label": "1개월 전",
-      "views": 282,
-      "daily_views": 0,
+      "views": 283,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1822,6 +1822,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24885,
+      "title": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법",
+      "url": "https://wikidocs.net/blog/@petpicknote/24885/",
+      "excerpt": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법 현대해상 ECO 마일리지 특약은 연간 주행거리에 따라 자동차 보험료를 환급받는 제도입니다. 특히 연 1만km 이하 주행하는 운전자라면 최대 18.8% (커넥티드 방식 기준)…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24885/14_4_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 153,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24637,
       "title": "캠핑장 의자 없어 고생한 초보캠퍼라면, 릴렉스체어 추천 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@smartliving/24637/",
@@ -1850,21 +1865,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24885,
-      "title": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법",
-      "url": "https://wikidocs.net/blog/@petpicknote/24885/",
-      "excerpt": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법 현대해상 ECO 마일리지 특약은 연간 주행거리에 따라 자동차 보험료를 환급받는 제도입니다. 특히 연 1만km 이하 주행하는 운전자라면 최대 18.8% (커넥티드 방식 기준)…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24885/14_4_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 152,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 27399,
@@ -2452,6 +2452,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 23107,
+      "title": "여름휴가 동안 반려동물 급여 시간 놓칠까 걱정되는 보호자라면, 스마트 IoT 급식기 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/23107/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름휴가 일정을 확정해두고도 마음 한구석이 편치 않으셨던 적 있으실 겁니다. 비행기 표까지 다 끊어놓고서, \"우리 애 밥은 누가 챙기지\"라는 생각에 다시 취소 버튼을 만지작거리…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23107/2_1.jpg",
+      "published_label": "1개월 전",
+      "views": 103,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24160,
       "title": "출근 준비 바쁜 직장인을 위한, 다림질 시간 줄여주는 무선 스팀다리미",
       "url": "https://wikidocs.net/blog/@smartliving/24160/",
@@ -2465,21 +2480,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23107,
-      "title": "여름휴가 동안 반려동물 급여 시간 놓칠까 걱정되는 보호자라면, 스마트 IoT 급식기 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/23107/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름휴가 일정을 확정해두고도 마음 한구석이 편치 않으셨던 적 있으실 겁니다. 비행기 표까지 다 끊어놓고서, \"우리 애 밥은 누가 챙기지\"라는 생각에 다시 취소 버튼을 만지작거리…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23107/2_1.jpg",
-      "published_label": "1개월 전",
-      "views": 102,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 25218,
@@ -2632,14 +2632,14 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 27393,
-      "title": "잠들기 어려운 직장인을 위한, 다들 볼륨만 본다지만 백색소음기는 주파수가 기준",
-      "url": "https://wikidocs.net/blog/@smartliving/27393/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근하고 침대에 누웠는데 옆집 발소리, 냉장고 돌아가는 소리, 도로 소음까지 자꾸 신경 쓰여 잠들기까지 한참 걸리신 적 있으실 겁니다. 다음 날 피로가 그대로 쌓이면 업무 집중…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27393/21_4_product1.jpg",
+      "id": 24859,
+      "title": "마그네슘 산화형 vs 글리시네이트형, 흡수 편의성과 가격 기준으로 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/24859/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근하고 나면 유독 눈꺼풀이 파르르 떨리거나, 잠자리에 누웠는데 종아리가 뭉치는 느낌이 든 적 있으신가요. 마그네슘이 부족하면 이런 신호가 온다는 이야기를 듣고 영양제를 찾아보…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24859/17_7_product1.jpg",
       "published_label": "1개월 전",
-      "views": 95,
-      "daily_views": 0,
+      "views": 96,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -2647,11 +2647,11 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 24859,
-      "title": "마그네슘 산화형 vs 글리시네이트형, 흡수 편의성과 가격 기준으로 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/24859/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근하고 나면 유독 눈꺼풀이 파르르 떨리거나, 잠자리에 누웠는데 종아리가 뭉치는 느낌이 든 적 있으신가요. 마그네슘이 부족하면 이런 신호가 온다는 이야기를 듣고 영양제를 찾아보…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24859/17_7_product1.jpg",
+      "id": 27393,
+      "title": "잠들기 어려운 직장인을 위한, 다들 볼륨만 본다지만 백색소음기는 주파수가 기준",
+      "url": "https://wikidocs.net/blog/@smartliving/27393/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근하고 침대에 누웠는데 옆집 발소리, 냉장고 돌아가는 소리, 도로 소음까지 자꾸 신경 쓰여 잠들기까지 한참 걸리신 적 있으실 겁니다. 다음 날 피로가 그대로 쌓이면 업무 집중…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27393/21_4_product1.jpg",
       "published_label": "1개월 전",
       "views": 95,
       "daily_views": 0,
@@ -4942,6 +4942,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 22674,
+      "title": "산책 자주 나가는 강아지 보호자라면, 배변봉투 디스펜서로 바꾸고 나서 산책 준비시간이 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/22674/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 현관을 나서기 직전, 목줄을 채우다 말고 다시 서랍을 뒤적이며 배변봉투를 찾아본 경험 있으실 겁니다. 리드줄과 간식, 물병까지는 잘 챙겼는데 정작 봉투가 어디 있는지 몰라 온 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22674/4_1.jpg",
+      "published_label": "1개월 전",
+      "views": 59,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 27997,
       "title": "화장실 냄새로 방향제값만 나가던 자취생을 위한, 배수구 클리너 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/27997/",
@@ -5092,21 +5107,6 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 22674,
-      "title": "산책 자주 나가는 강아지 보호자라면, 배변봉투 디스펜서로 바꾸고 나서 산책 준비시간이 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/22674/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 현관을 나서기 직전, 목줄을 채우다 말고 다시 서랍을 뒤적이며 배변봉투를 찾아본 경험 있으실 겁니다. 리드줄과 간식, 물병까지는 잘 챙겼는데 정작 봉투가 어디 있는지 몰라 온 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22674/4_1.jpg",
-      "published_label": "1개월 전",
-      "views": 58,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
       "id": 23940,
       "title": "여름 캠핑족을 위한, 아이스박스 미지근해질 때마다 후회했다면 쿨러박스 TOP3",
       "url": "https://wikidocs.net/blog/@smartliving/23940/",
@@ -5160,6 +5160,21 @@
       "published_label": "1개월 전",
       "views": 57,
       "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 22351,
+      "title": "다묘가정을 위한, 장마철 화장실 탈취스프레이 하나로 눅눅한 냄새 스트레스가 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/22351/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 창문을 못 여니 냄새가 갈 곳이 없습니다 장마철에는 비가 들이칠까 봐 창문을 활짝 열어두기가 부담스럽습니다. 문제는 환기가 줄어드는 만큼 화장실 냄새도 집안 곳곳에 그대로 머문…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22351/9_1.jpg",
+      "published_label": "1개월 전",
+      "views": 57,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -5315,21 +5330,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 22351,
-      "title": "다묘가정을 위한, 장마철 화장실 탈취스프레이 하나로 눅눅한 냄새 스트레스가 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/22351/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 창문을 못 여니 냄새가 갈 곳이 없습니다 장마철에는 비가 들이칠까 봐 창문을 활짝 열어두기가 부담스럽습니다. 문제는 환기가 줄어드는 만큼 화장실 냄새도 집안 곳곳에 그대로 머문…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22351/9_1.jpg",
-      "published_label": "1개월 전",
-      "views": 56,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 28824,
@@ -6787,6 +6787,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23348,
+      "title": "며칠 세워둔 차 배터리가 방전돼 있던 분들이라면, 태양광 충전기 달아두고 안심했다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23348/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장기 출장이나 휴가로 차를 며칠 세워두면 자연 방전으로 배터리가 죽어있는 경우가 많다. 태양광 충전기 하나면 주차 중에도 미세하게 충전을 유지해줘, 그런 낭패를 예방할 수 있다…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23348/8_6_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 44,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24425,
       "title": "혼자 있는 시간이 많은 강아지라면, 노즈워크 장난감 하나로 짖는 횟수가 줄었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/24425/",
@@ -6975,21 +6990,6 @@
       "published_label": "1개월 전",
       "views": 43,
       "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 23348,
-      "title": "며칠 세워둔 차 배터리가 방전돼 있던 분들이라면, 태양광 충전기 달아두고 안심했다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23348/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장기 출장이나 휴가로 차를 며칠 세워두면 자연 방전으로 배터리가 죽어있는 경우가 많다. 태양광 충전기 하나면 주차 중에도 미세하게 충전을 유지해줘, 그런 낭패를 예방할 수 있다…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23348/8_6_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 43,
-      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -9562,6 +9562,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 30187,
+      "title": "환절기 목 칼칼한 직장인, 감기약값 5천원 아껴주는 매실액기스 스틱",
+      "url": "https://wikidocs.net/blog/@smartliving/30187/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 아침저녁 일교차가 커지니, 목부터 칼칼해집니다 기상청 특보에서도 언급될 만큼 요즘 아침저녁 기온 차이가 10도 안팎까지 벌어지고 있습니다. 출근길엔 쌀쌀하다가 낮에는 아직 덥고…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30187/44_10_product1.jpg",
+      "published_label": "1일 전",
+      "views": 25,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 29876,
       "title": "가을 초입 발 시린 재택근무자, 난방비 월 1만원 아끼는 발난로 온풍기",
       "url": "https://wikidocs.net/blog/@smartliving/29876/",
@@ -9635,21 +9650,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 30187,
-      "title": "환절기 목 칼칼한 직장인, 감기약값 5천원 아껴주는 매실액기스 스틱",
-      "url": "https://wikidocs.net/blog/@smartliving/30187/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 아침저녁 일교차가 커지니, 목부터 칼칼해집니다 기상청 특보에서도 언급될 만큼 요즘 아침저녁 기온 차이가 10도 안팎까지 벌어지고 있습니다. 출근길엔 쌀쌀하다가 낮에는 아직 덥고…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30187/44_10_product1.jpg",
-      "published_label": "1일 전",
-      "views": 24,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 29962,
@@ -10575,8 +10575,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 내비를 보려고 자꾸 고개를 숙이거나 눈을 아래로 내렸다가, 다시 앞을 보는 그 짧은 순간이 은근히 불안하죠. 특히 고속 주행 중엔 시선이 도로에서 떨어지는 찰나가 길게 느껴집니…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22943/6_10_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 9286,
-      "daily_views": 5,
+      "views": 9287,
+      "daily_views": 6,
       "likes": 0,
       "comments": 1,
       "blog_id": 1978,
@@ -10811,6 +10811,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22943,
+      "title": "내비 보느라 자꾸 고개 숙이던 분들, HUD 달고 시선 덜 뺏겨 운전이 편해졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22943/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 내비를 보려고 자꾸 고개를 숙이거나 눈을 아래로 내렸다가, 다시 앞을 보는 그 짧은 순간이 은근히 불안하죠. 특히 고속 주행 중엔 시선이 도로에서 떨어지는 찰나가 길게 느껴집니…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22943/6_10_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 9287,
+      "daily_views": 6,
+      "likes": 0,
+      "comments": 1,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 29970,
       "title": "귀지 답답한 직장인, 진료비 1만원 아껴주는 무선 이어클리너",
       "url": "https://wikidocs.net/blog/@smartliving/29970/",
@@ -10824,21 +10839,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22943,
-      "title": "내비 보느라 자꾸 고개 숙이던 분들, HUD 달고 시선 덜 뺏겨 운전이 편해졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22943/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 내비를 보려고 자꾸 고개를 숙이거나 눈을 아래로 내렸다가, 다시 앞을 보는 그 짧은 순간이 은근히 불안하죠. 특히 고속 주행 중엔 시선이 도로에서 떨어지는 찰나가 길게 느껴집니…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22943/6_10_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 9286,
-      "daily_views": 5,
-      "likes": 0,
-      "comments": 1,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 22693,
@@ -10946,6 +10946,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24885,
+      "title": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법",
+      "url": "https://wikidocs.net/blog/@petpicknote/24885/",
+      "excerpt": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법 현대해상 ECO 마일리지 특약은 연간 주행거리에 따라 자동차 보험료를 환급받는 제도입니다. 특히 연 1만km 이하 주행하는 운전자라면 최대 18.8% (커넥티드 방식 기준)…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24885/14_4_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 153,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 23973,
       "title": "혹시 아직도 유선 케이블 꽂아야만 카플레이 되는 차, 불편하게 타고 계신가요?",
       "url": "https://wikidocs.net/blog/@cartemlab/23973/",
@@ -11028,21 +11043,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/30071/43_10_product1.jpg",
       "published_label": "2일 전",
       "views": 26,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 30186,
-      "title": "퇴근 후 방 분위기 아쉬운 자취생, 카페값 1만원 아껴주는 홈카페 무드조명 세트",
-      "url": "https://wikidocs.net/blog/@smartliving/30186/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 형광등 하나로는 하루의 피로가 풀리지 않습니다 퇴근하고 집에 돌아와 불을 켜면 새하얀 형광등 조명이 방 안을 가득 채웁니다. 밝기는 충분하지만 왠지 마음이 편해지지 않는 느낌,…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30186/44_9_product1.jpg",
-      "published_label": "1일 전",
-      "views": 23,
       "daily_views": 3,
       "likes": 0,
       "comments": 0,
@@ -11318,8 +11318,8 @@
     },
     {
       "date": "2026-09-04",
-      "views": 488
+      "views": 498
     }
   ],
-  "static_generated_at": "2026-09-04T19:01:56+09:00"
+  "static_generated_at": "2026-09-04T19:31:56+09:00"
 }
