@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-04T14:01:55+09:00",
+  "latest_snapshot_at": "2026-09-04T14:32:00+09:00",
   "latest_snapshot_date": "2026-09-04",
   "catalog_updated_at": "2026-09-04T00:00:29+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 694,
-    "total_views": 314255,
-    "daily_views": 192,
+    "total_views": 314261,
+    "daily_views": 198,
     "previous_day_views": 543,
     "previous_day_date": "2026-09-03",
-    "current_month_views": 2181,
+    "current_month_views": 2187,
     "days_recorded": 67
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 160199,
-      "daily_views": 64,
+      "total_views": 160202,
+      "daily_views": 67,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 416,
       "captured_posts": 426,
-      "total_views": 118013,
-      "daily_views": 85,
+      "total_views": 118014,
+      "daily_views": 86,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 36043,
-      "daily_views": 43,
+      "total_views": 36045,
+      "daily_views": 45,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1033,8 +1033,8 @@
       "excerpt": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁 ChatGPT는 2026년에도 개인 생산성 혁신의 핵심 도구로 자리매김하고 있습니다. 최신 GPT 모델과 고급 프롬프트 엔지니어링을 활용하면 정보 요약, 아이디어 발상, 콘텐츠 초안 작성…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25219/14_10_img1.jpg",
       "published_label": "1개월 전",
-      "views": 552,
-      "daily_views": 2,
+      "views": 553,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1483,8 +1483,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장마 때문에 창밖 구경도 시들해진 우리 고양이 비 오는 날이 이어지면서 창가에 앉아 밖을 구경하는 것도 시들해졌는지, 요즘 부쩍 낮잠만 자거나 반대로 밤새 뛰어다니며 캣초딩처럼…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22348/6_1.jpg",
       "published_label": "1개월 전",
-      "views": 250,
-      "daily_views": 0,
+      "views": 251,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -2797,6 +2797,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24335,
+      "title": "차박 갈 때마다 음식 상하던 분들, 차량용 냉장고 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24335/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 아이스박스에 넣어둔 음식이 하루 만에 미지근해져서 아쉬웠던 경험 있으실 겁니다. 얼음을 아무리 많이 넣어도 시간이 지나면 녹아버리고, 여름철엔 그 속도가 더 빨라…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24335/pb_14_9_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 88,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24658,
       "title": "A AGI 인공지능, 2026년 미래 사회 변화를 예측할 3가지 시나리오",
       "url": "https://wikidocs.net/blog/@petpicknote/24658/",
@@ -2870,21 +2885,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24335,
-      "title": "차박 갈 때마다 음식 상하던 분들, 차량용 냉장고 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24335/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 아이스박스에 넣어둔 음식이 하루 만에 미지근해져서 아쉬웠던 경험 있으실 겁니다. 얼음을 아무리 많이 넣어도 시간이 지나면 녹아버리고, 여름철엔 그 속도가 더 빨라…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24335/pb_14_9_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 86,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 23550,
@@ -4117,6 +4117,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24671,
+      "title": "다들 정비는 손으로 하면 된다지만, 사실 먼저 챙길 건 니트릴장갑입니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24671/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 타이어 교체나 배터리 점검처럼 간단한 정비를 하고 나서 손에 밴 기름 냄새 때문에 곤란했던 경험 있으실 겁니다. 맨손으로 정비하면 미끄러움 방지도 안 되고, 화학약품이나 오일이…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24671/pb_16_5_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 66,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 28566,
       "title": "미용실 네일 3만원 아끼는 직장인, 집에서 5분만에 정리해주는 무선 네일드릴",
       "url": "https://wikidocs.net/blog/@smartliving/28566/",
@@ -4175,21 +4190,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24671,
-      "title": "다들 정비는 손으로 하면 된다지만, 사실 먼저 챙길 건 니트릴장갑입니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24671/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 타이어 교체나 배터리 점검처럼 간단한 정비를 하고 나서 손에 밴 기름 냄새 때문에 곤란했던 경험 있으실 겁니다. 맨손으로 정비하면 미끄러움 방지도 안 되고, 화학약품이나 오일이…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24671/pb_16_5_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 65,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 23762,
@@ -9052,6 +9052,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23933,
+      "title": "장마철 컨디션 저하로 고생한 분들을 위한, 비타민D 하나로 달라진 하루",
+      "url": "https://wikidocs.net/blog/@smartliving/23933/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장마철만 되면 유독 몸이 무거워지는 이유 며칠째 창밖이 흐리고, 우산 없이는 한 발짝도 나가기 힘든 날들이 이어지고 있습니다. 이런 날씨가 계속되면 아침에 눈을 떠도 개운하지 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23933/13_1_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 29,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 23359,
       "title": "암막커튼 없이 여름 보내면, 냉방비보다 무서운 청구서가 옵니다",
       "url": "https://wikidocs.net/blog/@smartliving/23359/",
@@ -9195,21 +9210,6 @@
       "published_label": "1개월 전",
       "views": 28,
       "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23933,
-      "title": "장마철 컨디션 저하로 고생한 분들을 위한, 비타민D 하나로 달라진 하루",
-      "url": "https://wikidocs.net/blog/@smartliving/23933/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장마철만 되면 유독 몸이 무거워지는 이유 며칠째 창밖이 흐리고, 우산 없이는 한 발짝도 나가기 힘든 날들이 이어지고 있습니다. 이런 날씨가 계속되면 아침에 눈을 떠도 개운하지 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23933/13_1_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 28,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -10886,6 +10886,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 25219,
+      "title": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁",
+      "url": "https://wikidocs.net/blog/@petpicknote/25219/",
+      "excerpt": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁 ChatGPT는 2026년에도 개인 생산성 혁신의 핵심 도구로 자리매김하고 있습니다. 최신 GPT 모델과 고급 프롬프트 엔지니어링을 활용하면 정보 요약, 아이디어 발상, 콘텐츠 초안 작성…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25219/14_10_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 553,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22698,
       "title": "에어컨 켤 때마다 곰팡이 냄새 나던 차, 살균제 한 번에 냄새 사라졌다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22698/",
@@ -10893,6 +10908,21 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22698/5_7_thumb.jpg",
       "published_label": "1개월 전",
       "views": 510,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
+      "id": 24335,
+      "title": "차박 갈 때마다 음식 상하던 분들, 차량용 냉장고 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24335/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 아이스박스에 넣어둔 음식이 하루 만에 미지근해져서 아쉬웠던 경험 있으실 겁니다. 얼음을 아무리 많이 넣어도 시간이 지나면 녹아버리고, 여름철엔 그 속도가 더 빨라…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24335/pb_14_9_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 88,
       "daily_views": 3,
       "likes": 0,
       "comments": 0,
@@ -10938,21 +10968,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22029/petpicknote_22029_1.jpg",
       "published_label": "2개월 전",
       "views": 9087,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 25219,
-      "title": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁",
-      "url": "https://wikidocs.net/blog/@petpicknote/25219/",
-      "excerpt": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁 ChatGPT는 2026년에도 개인 생산성 혁신의 핵심 도구로 자리매김하고 있습니다. 최신 GPT 모델과 고급 프롬프트 엔지니어링을 활용하면 정보 요약, 아이디어 발상, 콘텐츠 초안 작성…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25219/14_10_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 552,
       "daily_views": 2,
       "likes": 0,
       "comments": 0,
@@ -11028,21 +11043,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24856/17_4_product1.jpg",
       "published_label": "1개월 전",
       "views": 65,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28077,
-      "title": "벽이 휑한 자취생 방, 5천원대로 감성 채워주는 라탄 벽걸이 바구니",
-      "url": "https://wikidocs.net/blog/@smartliving/28077/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근하고 방문을 열었을 때 휑한 벽만 눈에 들어와 마음이 가라앉은 적 있으실 겁니다. 침대와 책상만 덩그러니 놓인 원룸은 아무리 청소를 해도 뭔가 허전한 느낌을 지우기 어렵죠.…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28077/28_5_product1.jpg",
-      "published_label": "25일 전",
-      "views": 64,
       "daily_views": 2,
       "likes": 0,
       "comments": 0,
@@ -11318,8 +11318,8 @@
     },
     {
       "date": "2026-09-04",
-      "views": 402
+      "views": 408
     }
   ],
-  "static_generated_at": "2026-09-04T14:01:56+09:00"
+  "static_generated_at": "2026-09-04T14:32:01+09:00"
 }
