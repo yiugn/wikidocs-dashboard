@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-05T14:01:55+09:00",
+  "latest_snapshot_at": "2026-09-05T14:32:05+09:00",
   "latest_snapshot_date": "2026-09-05",
   "catalog_updated_at": "2026-09-05T00:00:29+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 704,
-    "total_views": 314772,
-    "daily_views": 160,
+    "total_views": 314773,
+    "daily_views": 161,
     "previous_day_views": 542,
     "previous_day_date": "2026-09-04",
-    "current_month_views": 2698,
+    "current_month_views": 2699,
     "days_recorded": 68
   },
   "blogs": [
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 426,
       "captured_posts": 436,
-      "total_views": 118364,
-      "daily_views": 75,
+      "total_views": 118365,
+      "daily_views": 76,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -5827,6 +5827,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28736,
+      "title": "텐트값 10만원대 아까운 캠핑 초보, 3kg대 무게로 혼자 설치해주는 백패킹 미니텐트",
+      "url": "https://wikidocs.net/blog/@smartliving/28736/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 캠핑을 처음 시작하려니 대형 패밀리 텐트부터 눈에 들어오는데, 가격표를 보면 10만원대는 기본이고 무게도 만만치 않아 혼자 들고 다니기엔 부담스럽습니다. 주말마다 근교로 훌쩍 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28736/35_7_product1.jpg",
+      "published_label": "19일 전",
+      "views": 53,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28645,
       "title": "회의실서 발표 자주하는 직장인, 9000원부터 버벅임 없이 넘겨주는 무선 프레젠터",
       "url": "https://wikidocs.net/blog/@smartliving/28645/",
@@ -5900,21 +5915,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28736,
-      "title": "텐트값 10만원대 아까운 캠핑 초보, 3kg대 무게로 혼자 설치해주는 백패킹 미니텐트",
-      "url": "https://wikidocs.net/blog/@smartliving/28736/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 캠핑을 처음 시작하려니 대형 패밀리 텐트부터 눈에 들어오는데, 가격표를 보면 10만원대는 기본이고 무게도 만만치 않아 혼자 들고 다니기엔 부담스럽습니다. 주말마다 근교로 훌쩍 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28736/35_7_product1.jpg",
-      "published_label": "19일 전",
-      "views": 52,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 28639,
@@ -11472,8 +11472,8 @@
     },
     {
       "date": "2026-09-05",
-      "views": 377
+      "views": 378
     }
   ],
-  "static_generated_at": "2026-09-05T14:01:56+09:00"
+  "static_generated_at": "2026-09-05T14:32:06+09:00"
 }
