@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-06T12:01:55+09:00",
+  "latest_snapshot_at": "2026-09-06T12:31:55+09:00",
   "latest_snapshot_date": "2026-09-06",
   "catalog_updated_at": "2026-09-06T00:00:29+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 714,
-    "total_views": 315346,
-    "daily_views": 189,
+    "total_views": 315351,
+    "daily_views": 194,
     "previous_day_views": 545,
     "previous_day_date": "2026-09-05",
-    "current_month_views": 3272,
+    "current_month_views": 3277,
     "days_recorded": 69
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 160379,
-      "daily_views": 57,
+      "total_views": 160381,
+      "daily_views": 59,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 36177,
-      "daily_views": 35,
+      "total_views": 36180,
+      "daily_views": 38,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -628,8 +628,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 요즘 시거잭 하나로는 도무지 부족하다는 말, 공감하시는 분 많을 겁니다. 내비 충전에 블랙박스 상시전원, 폰 두 대에 태블릿까지, 꽂을 건 많은데 시거잭은 하나뿐이니 늘 무언가…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22697/5_6_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 1220,
-      "daily_views": 4,
+      "views": 1221,
+      "daily_views": 5,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -2092,6 +2092,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22289,
+      "title": "다들 여름엔 세차만 자주 하면 된다지만, 사실 먼저 챙길 건 유리막코팅입니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22289/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름엔 세차만 부지런히 하면 차가 깨끗할 거라 생각하기 쉽습니다. 그런데 소나기 한 번 맞으면 앞유리에 빗방울이 뭉쳐 시야를 가리고, 뙤약볕에 물기가 마르며 얼룩이 남죠. 아무…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22289/3_8_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 131,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22526,
       "title": "여름휴가 장거리 이동 앞둔 반려인이라면, 혹시 아직도 차 태울 때 안전벨트 안 채우고 계신가요?",
       "url": "https://wikidocs.net/blog/@petpicknote/22526/",
@@ -2120,21 +2135,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22289,
-      "title": "다들 여름엔 세차만 자주 하면 된다지만, 사실 먼저 챙길 건 유리막코팅입니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22289/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름엔 세차만 부지런히 하면 차가 깨끗할 거라 생각하기 쉽습니다. 그런데 소나기 한 번 맞으면 앞유리에 빗방울이 뭉쳐 시야를 가리고, 뙤약볕에 물기가 마르며 얼룩이 남죠. 아무…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22289/3_8_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 130,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 24654,
@@ -2782,6 +2782,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24658,
+      "title": "A AGI 인공지능, 2026년 미래 사회 변화를 예측할 3가지 시나리오",
+      "url": "https://wikidocs.net/blog/@petpicknote/24658/",
+      "excerpt": "AGI 인공지능, 2026년 미래 사회 변화를 예측할 3가지 시나리오 AGI(인공 일반 지능)의 발전은 2026년을 기점으로 사회 전반에 걸쳐 광범위한 변화를 가져올 것으로 예측됩니다. 전문가들은 AGI의 상용화와 기술 통합 수준에 따라 '인간-AI 협력 심화', '…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24658/13_9_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 91,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24428,
       "title": "다들 자전거 헬멧은 무게만 가벼우면 된다지만, 진짜 기준은 통풍성입니다",
       "url": "https://wikidocs.net/blog/@petpicknote/24428/",
@@ -2810,21 +2825,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24658,
-      "title": "A AGI 인공지능, 2026년 미래 사회 변화를 예측할 3가지 시나리오",
-      "url": "https://wikidocs.net/blog/@petpicknote/24658/",
-      "excerpt": "AGI 인공지능, 2026년 미래 사회 변화를 예측할 3가지 시나리오 AGI(인공 일반 지능)의 발전은 2026년을 기점으로 사회 전반에 걸쳐 광범위한 변화를 가져올 것으로 예측됩니다. 전문가들은 AGI의 상용화와 기술 통합 수준에 따라 '인간-AI 협력 심화', '…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24658/13_9_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 90,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 24335,
@@ -4582,6 +4582,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24004,
+      "title": "강아지 발톱 관리를 미루기 쉬우셨던 분이라면, 발톱깎이 하나로 훨씬 수월해졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24004/",
+      "excerpt": "🐾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 강아지 발톱 관리, 매번 미루다가 어느새 바닥에 또각또각 소리가 나기 시작해서야 부랴부랴 발톱깎이를 찾아본 경험이 한 번쯤은 있으실 겁니다. 특히 어두운 발톱을 가진 아이라면 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24004/10_1_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 63,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 28192,
       "title": "퇴근 후 설거지 시간 아까운 맞벌이 부부, 하루 20분 아껴주는 미니 식기세척기",
       "url": "https://wikidocs.net/blog/@smartliving/28192/",
@@ -4790,21 +4805,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24004,
-      "title": "강아지 발톱 관리를 미루기 쉬우셨던 분이라면, 발톱깎이 하나로 훨씬 수월해졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24004/",
-      "excerpt": "🐾 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 강아지 발톱 관리, 매번 미루다가 어느새 바닥에 또각또각 소리가 나기 시작해서야 부랴부랴 발톱깎이를 찾아본 경험이 한 번쯤은 있으실 겁니다. 특히 어두운 발톱을 가진 아이라면 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24004/10_1_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 61,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 22933,
@@ -11156,6 +11156,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22697,
+      "title": "요즘 다들 시거잭 하나로는 부족하다며 이걸로 바꾼다는 멀티 소켓, 이유가 있었습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22697/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 요즘 시거잭 하나로는 도무지 부족하다는 말, 공감하시는 분 많을 겁니다. 내비 충전에 블랙박스 상시전원, 폰 두 대에 태블릿까지, 꽂을 건 많은데 시거잭은 하나뿐이니 늘 무언가…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22697/5_6_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 1221,
+      "daily_views": 5,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 30368,
       "title": "가을모기 밤잠 설치는 자취생, 3초 분사로 하룻밤 막아주는 모기퇴치 스프레이",
       "url": "https://wikidocs.net/blog/@smartliving/30368/",
@@ -11169,21 +11184,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22697,
-      "title": "요즘 다들 시거잭 하나로는 부족하다며 이걸로 바꾼다는 멀티 소켓, 이유가 있었습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22697/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 요즘 시거잭 하나로는 도무지 부족하다는 말, 공감하시는 분 많을 겁니다. 내비 충전에 블랙박스 상시전원, 폰 두 대에 태블릿까지, 꽂을 건 많은데 시거잭은 하나뿐이니 늘 무언가…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22697/5_6_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 1220,
-      "daily_views": 4,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 24011,
@@ -11244,6 +11244,21 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 24658,
+      "title": "A AGI 인공지능, 2026년 미래 사회 변화를 예측할 3가지 시나리오",
+      "url": "https://wikidocs.net/blog/@petpicknote/24658/",
+      "excerpt": "AGI 인공지능, 2026년 미래 사회 변화를 예측할 3가지 시나리오 AGI(인공 일반 지능)의 발전은 2026년을 기점으로 사회 전반에 걸쳐 광범위한 변화를 가져올 것으로 예측됩니다. 전문가들은 AGI의 상용화와 기술 통합 수준에 따라 '인간-AI 협력 심화', '…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24658/13_9_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 91,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
     },
     {
       "id": 23760,
@@ -11334,21 +11349,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22288,
-      "title": "매일 내비 켜고 운전하는 분들, 혹시 아직도 느린 시거잭 충전기로 답답하게 다니고 계신가요?",
-      "url": "https://wikidocs.net/blog/@cartemlab/22288/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 내비 켜고 음악 틀고, 블랙박스에 충전까지 하다 보면 스마트폰 배터리는 오히려 줄어드는 경험, 다들 있으실 겁니다. 특히 오래된 시거잭 충전기를 쓰면 목적지 다 와가도록 배터리…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22288/3_7_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 1833,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     }
   ],
   "daily_totals": [
@@ -11626,8 +11626,8 @@
     },
     {
       "date": "2026-09-06",
-      "views": 406
+      "views": 411
     }
   ],
-  "static_generated_at": "2026-09-06T12:01:56+09:00"
+  "static_generated_at": "2026-09-06T12:31:56+09:00"
 }
