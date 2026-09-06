@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-06T21:01:55+09:00",
+  "latest_snapshot_at": "2026-09-06T21:31:55+09:00",
   "latest_snapshot_date": "2026-09-06",
   "catalog_updated_at": "2026-09-06T00:00:29+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 714,
-    "total_views": 315540,
-    "daily_views": 319,
+    "total_views": 315548,
+    "daily_views": 322,
     "previous_day_views": 545,
     "previous_day_date": "2026-09-05",
-    "current_month_views": 3466,
+    "current_month_views": 3474,
     "days_recorded": 69
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 160414,
-      "daily_views": 92,
+      "total_views": 160415,
+      "daily_views": 93,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 436,
       "captured_posts": 446,
-      "total_views": 118927,
-      "daily_views": 170,
+      "total_views": 118933,
+      "daily_views": 171,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 36199,
-      "daily_views": 57,
+      "total_views": 36200,
+      "daily_views": 58,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -583,8 +583,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 새 차 냄새 폴폴 나는데, 시거잭 케이블만 예전 그대로였습니다 신차를 인수하고 처음 시동을 걸었을 때의 그 설렘, 다들 아실 겁니다. 깔끔한 대시보드, 반짝이는 인포테인먼트 화…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/21913/1_7_thumb.jpg",
       "published_label": "2개월 전",
-      "views": 1279,
-      "daily_views": 1,
+      "views": 1280,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1882,6 +1882,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 25345,
+      "title": "리브 모바일 친구 결합, 20대 친구끼리 통신비 50% 절감하는 방법 3가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/25345/",
+      "excerpt": "리브 모바일 친구 결합, 20대 친구끼리 통신비 50% 절감하는 방법 3가지 리브 모바일 친구 결합은 KB국민은행의 알뜰폰 서비스인 리브모바일 고객이라면 누구나 친구 또는 지인과 함께 통신비 할인을 받거나 추가 데이터를 제공받을 수 있는 서비스입니다. 특히 2026년…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25345/15_10_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 151,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 27399,
       "title": "저용량 vs 고용량 오메가3, 흡수율과 가격 기준으로 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/27399/",
@@ -1895,21 +1910,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 25345,
-      "title": "리브 모바일 친구 결합, 20대 친구끼리 통신비 50% 절감하는 방법 3가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/25345/",
-      "excerpt": "리브 모바일 친구 결합, 20대 친구끼리 통신비 50% 절감하는 방법 3가지 리브 모바일 친구 결합은 KB국민은행의 알뜰폰 서비스인 리브모바일 고객이라면 누구나 친구 또는 지인과 함께 통신비 할인을 받거나 추가 데이터를 제공받을 수 있는 서비스입니다. 특히 2026년…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25345/15_10_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 150,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 23369,
@@ -5842,6 +5842,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 30461,
+      "title": "출근 5분 전 셔츠 구김 발견한 직장인, 30초 만에 펴주는 미니 스팀다리미",
+      "url": "https://wikidocs.net/blog/@smartliving/30461/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 출근 준비를 다 마치고 셔츠를 딱 입었는데, 옷걸이에 눌려있던 자국이나 구김이 그제야 눈에 들어온 경험 다들 한 번쯤 있으실 겁니다. 이미 5분밖에 안 남은 상황이라 다시 갈아…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30461/47_4_product1.jpg",
+      "published_label": "14시간 전",
+      "views": 53,
+      "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 29690,
       "title": "매일 커피 내려마시는 직장인, 필터값 8천원 한 번으로 끝내주는 다회용 커피필터",
       "url": "https://wikidocs.net/blog/@smartliving/29690/",
@@ -6247,21 +6262,6 @@
       "blog_name": "카템랩"
     },
     {
-      "id": 30461,
-      "title": "출근 5분 전 셔츠 구김 발견한 직장인, 30초 만에 펴주는 미니 스팀다리미",
-      "url": "https://wikidocs.net/blog/@smartliving/30461/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 출근 준비를 다 마치고 셔츠를 딱 입었는데, 옷걸이에 눌려있던 자국이나 구김이 그제야 눈에 들어온 경험 다들 한 번쯤 있으실 겁니다. 이미 5분밖에 안 남은 상황이라 다시 갈아…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30461/47_4_product1.jpg",
-      "published_label": "14시간 전",
-      "views": 50,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
       "id": 28818,
       "title": "열대야에 밤잠 설치는 직장인, 1만원대로 식혀주는 목걸이 선풍기",
       "url": "https://wikidocs.net/blog/@smartliving/28818/",
@@ -6545,6 +6545,21 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 30465,
+      "title": "옆으로 누워 자다 어깨 결리는 직장인, 마사지비 5만원 아껴주는 바디필로우",
+      "url": "https://wikidocs.net/blog/@smartliving/30465/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 옆으로 누워 자는 습관이 있으신 분들은 아침에 유독 한쪽 어깨가 뻐근하게 굳어있는 경험, 낯설지 않으실 겁니다. 일반 베개는 똑바로 누운 자세를 기준으로 만들어진 경우가 많아서…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30465/47_8_product1.jpg",
+      "published_label": "14시간 전",
+      "views": 47,
+      "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
     },
     {
       "id": 29813,
@@ -6862,21 +6877,6 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 30465,
-      "title": "옆으로 누워 자다 어깨 결리는 직장인, 마사지비 5만원 아껴주는 바디필로우",
-      "url": "https://wikidocs.net/blog/@smartliving/30465/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 옆으로 누워 자는 습관이 있으신 분들은 아침에 유독 한쪽 어깨가 뻐근하게 굳어있는 경험, 낯설지 않으실 겁니다. 일반 베개는 똑바로 누운 자세를 기준으로 만들어진 경우가 많아서…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30465/47_8_product1.jpg",
-      "published_label": "14시간 전",
-      "views": 45,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
       "id": 27848,
       "title": "신혼집 꾸미는 분을 위한, 조명 고민 라탄 펜던트조명 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@smartliving/27848/",
@@ -7132,6 +7132,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 30370,
+      "title": "환절기 냄새 신경쓰는 자취생, 월 1만원 아끼며 3개월 가는 디퓨저 세트",
+      "url": "https://wikidocs.net/blog/@smartliving/30370/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 창문을 활짝 열어두기엔 아침저녁으로 쌀쌀해진 요즘, 환기를 자주 못 하다 보니 집안 냄새가 은근히 신경 쓰이시죠. 현관문을 열고 들어올 때 훅 풍기는 냄새에 손님이라도 오면 괜…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30370/46_7_product1.jpg",
+      "published_label": "1일 전",
+      "views": 43,
+      "daily_views": 7,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27750,
       "title": "실외기 없는 원룸 자취생을 위한, 전기세 줄여주는 창문형 에어컨 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/27750/",
@@ -7250,21 +7265,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 30370,
-      "title": "환절기 냄새 신경쓰는 자취생, 월 1만원 아끼며 3개월 가는 디퓨저 세트",
-      "url": "https://wikidocs.net/blog/@smartliving/30370/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 창문을 활짝 열어두기엔 아침저녁으로 쌀쌀해진 요즘, 환기를 자주 못 하다 보니 집안 냄새가 은근히 신경 쓰이시죠. 현관문을 열고 들어올 때 훅 풍기는 냄새에 손님이라도 오면 괜…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30370/46_7_product1.jpg",
-      "published_label": "1일 전",
-      "views": 42,
-      "daily_views": 6,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 30185,
@@ -11141,6 +11141,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 30370,
+      "title": "환절기 냄새 신경쓰는 자취생, 월 1만원 아끼며 3개월 가는 디퓨저 세트",
+      "url": "https://wikidocs.net/blog/@smartliving/30370/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 창문을 활짝 열어두기엔 아침저녁으로 쌀쌀해진 요즘, 환기를 자주 못 하다 보니 집안 냄새가 은근히 신경 쓰이시죠. 현관문을 열고 들어올 때 훅 풍기는 냄새에 손님이라도 오면 괜…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30370/46_7_product1.jpg",
+      "published_label": "1일 전",
+      "views": 43,
+      "daily_views": 7,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 22694,
       "title": "폭염에 블랙박스 메모리카드 방치하면, 정작 사고 순간 녹화가 안 돼 낭패 봅니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22694/",
@@ -11154,21 +11169,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 30370,
-      "title": "환절기 냄새 신경쓰는 자취생, 월 1만원 아끼며 3개월 가는 디퓨저 세트",
-      "url": "https://wikidocs.net/blog/@smartliving/30370/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 창문을 활짝 열어두기엔 아침저녁으로 쌀쌀해진 요즘, 환기를 자주 못 하다 보니 집안 냄새가 은근히 신경 쓰이시죠. 현관문을 열고 들어올 때 훅 풍기는 냄새에 손님이라도 오면 괜…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30370/46_7_product1.jpg",
-      "published_label": "1일 전",
-      "views": 42,
-      "daily_views": 6,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 30364,
@@ -11626,8 +11626,8 @@
     },
     {
       "date": "2026-09-06",
-      "views": 600
+      "views": 608
     }
   ],
-  "static_generated_at": "2026-09-06T21:01:57+09:00"
+  "static_generated_at": "2026-09-06T21:31:56+09:00"
 }
