@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-07T02:01:55+09:00",
+  "latest_snapshot_at": "2026-09-07T02:31:58+09:00",
   "latest_snapshot_date": "2026-09-07",
   "catalog_updated_at": "2026-09-07T00:00:28+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 714,
-    "total_views": 315625,
-    "daily_views": 42,
+    "total_views": 315628,
+    "daily_views": 45,
     "previous_day_views": 643,
     "previous_day_date": "2026-09-06",
-    "current_month_views": 3551,
+    "current_month_views": 3554,
     "days_recorded": 70
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 160426,
-      "daily_views": 5,
+      "total_views": 160428,
+      "daily_views": 7,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 446,
       "captured_posts": 446,
-      "total_views": 118995,
-      "daily_views": 36,
+      "total_views": 118996,
+      "daily_views": 37,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -1738,8 +1738,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 반짝이던 크롬몰딩이 어느새 뿌옇게 흐려지고 얼룩진 걸 발견하고 속상했던 경험 있으실 겁니다. 세차를 해도 원래의 광이 좀처럼 살아나지 않아 답답했던 분들도 많으실 겁니다. 세차…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23969/12_2_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 174,
-      "daily_views": 0,
+      "views": 175,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -5542,6 +5542,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24673,
+      "title": "요즘 다들 히터 대신 이걸로 김서림 잡는다는 방지제, 이유가 있었습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24673/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장마철 비 오는 날 시동을 걸자마자 앞유리에 김이 서려 히터를 최대로 틀고도 한참을 기다려야 했던 경험 있으실 겁니다. 히터로 김서림을 없애는 데는 시간이 걸리고, 그 사이 시…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24673/pb_16_7_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 55,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23560,
       "title": "다들 타이어 펑크만 대비하면 된다지만, 사실 먼저 챙길 건 십자렌치입니다",
       "url": "https://wikidocs.net/blog/@cartemlab/23560/",
@@ -5705,21 +5720,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24673,
-      "title": "요즘 다들 히터 대신 이걸로 김서림 잡는다는 방지제, 이유가 있었습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24673/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장마철 비 오는 날 시동을 걸자마자 앞유리에 김이 서려 히터를 최대로 틀고도 한참을 기다려야 했던 경험 있으실 겁니다. 히터로 김서림을 없애는 데는 시간이 걸리고, 그 사이 시…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24673/pb_16_7_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 54,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 24330,
@@ -9187,6 +9187,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 30068,
+      "title": "옆방 소음에 잠 설치는 자취생, 2만원대로 층간소음 스트레스 줄여주는 백색소음기",
+      "url": "https://wikidocs.net/blog/@smartliving/30068/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 옆방에서 새어 나오는 말소리에 잠들려던 순간 다시 눈이 떠진 적 있으실 겁니다 원룸이나 오피스텔은 벽이 얇아, 옆방 대화 소리나 발소리, 문 여닫는 소리까지 그대로 전해집니다.…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30068/43_7_product1.jpg",
+      "published_label": "4일 전",
+      "views": 30,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 29816,
       "title": "야외활동 많은 캠핑·피크닉족, 물에 젖어도 AS비 안 드는 방수 블루투스 스피커",
       "url": "https://wikidocs.net/blog/@smartliving/29816/",
@@ -9330,21 +9345,6 @@
       "published_label": "19시간 전",
       "views": 29,
       "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 30068,
-      "title": "옆방 소음에 잠 설치는 자취생, 2만원대로 층간소음 스트레스 줄여주는 백색소음기",
-      "url": "https://wikidocs.net/blog/@smartliving/30068/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 옆방에서 새어 나오는 말소리에 잠들려던 순간 다시 눈이 떠진 적 있으실 겁니다 원룸이나 오피스텔은 벽이 얇아, 옆방 대화 소리나 발소리, 문 여닫는 소리까지 그대로 전해집니다.…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30068/43_7_product1.jpg",
-      "published_label": "4일 전",
-      "views": 29,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -11276,6 +11276,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23969,
+      "title": "뿌옇게 변색된 크롬몰딩 방치했다가 얼룩진 뒤에야 알게 된 광택제 고르는 법",
+      "url": "https://wikidocs.net/blog/@cartemlab/23969/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 반짝이던 크롬몰딩이 어느새 뿌옇게 흐려지고 얼룩진 걸 발견하고 속상했던 경험 있으실 겁니다. 세차를 해도 원래의 광이 좀처럼 살아나지 않아 답답했던 분들도 많으실 겁니다. 세차…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23969/12_2_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 175,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22941,
       "title": "디젤차로 장거리 앞두신 분이라면, DPF·인젝터 클리너 넣고 출력이 한결 살아났다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22941/",
@@ -11328,21 +11343,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27391/21_2_product1.jpg",
       "published_label": "1개월 전",
       "views": 68,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28075,
-      "title": "열대야 등 땀에 잠 설치는 분, 1만원대로 체감온도 낮춰주는 홑겹 매트리스커버",
-      "url": "https://wikidocs.net/blog/@smartliving/28075/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 에어컨을 켜놓고 잠들었는데도 등이 축축해서 새벽에 깬 적 있으실 겁니다. 몸을 뒤척일 때마다 매트리스에 닿는 부분이 후끈하고, 그 열기가 밤새 빠져나가지 않으니 얕은 잠만 반복…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28075/28_3_product1.jpg",
-      "published_label": "27일 전",
-      "views": 66,
       "daily_views": 1,
       "likes": 0,
       "comments": 0,
@@ -11630,8 +11630,8 @@
     },
     {
       "date": "2026-09-07",
-      "views": 42
+      "views": 45
     }
   ],
-  "static_generated_at": "2026-09-07T02:01:56+09:00"
+  "static_generated_at": "2026-09-07T02:31:59+09:00"
 }
