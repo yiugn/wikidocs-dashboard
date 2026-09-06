@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-07T01:01:55+09:00",
+  "latest_snapshot_at": "2026-09-07T01:31:54+09:00",
   "latest_snapshot_date": "2026-09-07",
   "catalog_updated_at": "2026-09-07T00:00:28+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 714,
-    "total_views": 315622,
-    "daily_views": 39,
+    "total_views": 315623,
+    "daily_views": 40,
     "previous_day_views": 643,
     "previous_day_date": "2026-09-06",
-    "current_month_views": 3548,
+    "current_month_views": 3549,
     "days_recorded": 70
   },
   "blogs": [
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 446,
       "captured_posts": 446,
-      "total_views": 118992,
-      "daily_views": 33,
+      "total_views": 118993,
+      "daily_views": 34,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -928,8 +928,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 버스정류장에서 몇 분만 서 있어도 셔츠 등판이 축축하게 젖고, 손등으로 이마를 훔쳐도 금세 다시 땀이 차오르는 요즘이죠. 장마가 지나가자마자 기다렸다는 듯 폭염이 다시 덮쳤고,…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23354/10_1_product1.jpg",
       "published_label": "1개월 전",
-      "views": 713,
-      "daily_views": 0,
+      "views": 714,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -11261,6 +11261,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23354,
+      "title": "매일 땡볕 출퇴근하는 직장인을 위한, 폭염특보에도 체감 확 낮춰주는 미스트 선풍기 이렇게 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/23354/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 버스정류장에서 몇 분만 서 있어도 셔츠 등판이 축축하게 젖고, 손등으로 이마를 훔쳐도 금세 다시 땀이 차오르는 요즘이죠. 장마가 지나가자마자 기다렸다는 듯 폭염이 다시 덮쳤고,…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23354/10_1_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 714,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 22941,
       "title": "디젤차로 장거리 앞두신 분이라면, DPF·인젝터 클리너 넣고 출력이 한결 살아났다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22941/",
@@ -11329,21 +11344,6 @@
       "published_label": "2개월 전",
       "views": 55,
       "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 22692,
-      "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
-      "url": "https://wikidocs.net/blog/@cartemlab/22692/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장맛비가 쏟아지는 날, 주차하고 내리려는데 우산을 차 문 틈으로 펴다 보면 어느새 어깨와 팔이 다 젖어 있죠. 다 쓰고 접어 차에 들일 땐 젖은 우산 바깥면이 시트와 바닥으로 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22692/5_1_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 104927,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -11630,8 +11630,8 @@
     },
     {
       "date": "2026-09-07",
-      "views": 39
+      "views": 40
     }
   ],
-  "static_generated_at": "2026-09-07T01:01:56+09:00"
+  "static_generated_at": "2026-09-07T01:31:56+09:00"
 }
