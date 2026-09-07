@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-07T18:02:01+09:00",
+  "latest_snapshot_at": "2026-09-07T18:32:13+09:00",
   "latest_snapshot_date": "2026-09-07",
   "catalog_updated_at": "2026-09-07T00:00:28+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 724,
-    "total_views": 316229,
-    "daily_views": 343,
+    "total_views": 316232,
+    "daily_views": 346,
     "previous_day_views": 643,
     "previous_day_date": "2026-09-06",
-    "current_month_views": 4155,
+    "current_month_views": 4158,
     "days_recorded": 70
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 160483,
-      "daily_views": 62,
+      "total_views": 160484,
+      "daily_views": 63,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 36255,
-      "daily_views": 52,
+      "total_views": 36257,
+      "daily_views": 54,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1453,8 +1453,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 거실을 맨발로 걷다가 발바닥에 사각사각한 모래알이 밟히는 느낌, 다묘가정이라면 하루에도 몇 번씩 겪는 일이실 겁니다. 화장실 문을 정성껏 닫아둬도, 고양이가 볼일을 보고 나와 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22916/4_1.jpg",
       "published_label": "1개월 전",
-      "views": 283,
-      "daily_views": 0,
+      "views": 284,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -3967,6 +3967,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22521,
+      "title": "여름철 산책이 걱정되는 반려인이라면, 쿨링조끼 하나로 폭염 산책 스트레스가 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/22521/",
+      "excerpt": "title: \"여름철 산책이 걱정되는 반려인이라면, 쿨링조끼 하나로 폭염 산책 스트레스가 확 줄었다는 후기가 많습니다\" tags: [의류·외출악세서리] 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 요즘 낮 시간대에 잠깐만…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22521/1_1.jpg",
+      "published_label": "2개월 전",
+      "views": 69,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 28733,
       "title": "냉방병에 속 더부룩한 사무직, 하루 900원대로 편하게 챙겨주는 포스트바이오틱스 유산균",
       "url": "https://wikidocs.net/blog/@smartliving/28733/",
@@ -4018,21 +4033,6 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 병원 진료 날, 이동장 문을 여는 순간부터 발톱을 세우고 버티는 고양이를 억지로 욱여넣어 본 적 있으실 겁니다. 천으로 된 소프트 캐리어는 아이가 안에서 몸을 비틀며 힘을 주면…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23111/6_1.jpg",
       "published_label": "1개월 전",
-      "views": 68,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22521,
-      "title": "여름철 산책이 걱정되는 반려인이라면, 쿨링조끼 하나로 폭염 산책 스트레스가 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/22521/",
-      "excerpt": "title: \"여름철 산책이 걱정되는 반려인이라면, 쿨링조끼 하나로 폭염 산책 스트레스가 확 줄었다는 후기가 많습니다\" tags: [의류·외출악세서리] 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 요즘 낮 시간대에 잠깐만…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22521/1_1.jpg",
-      "published_label": "2개월 전",
       "views": 68,
       "daily_views": 0,
       "likes": 0,
@@ -8587,6 +8587,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 23558,
+      "title": "신차 구매하신 분이라면, 휠너트 도난방지캡 안 챙기면 순정 휠너트 도난당하는 손해로 돌아옵니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23558/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 주차장에 세워둔 차로 돌아왔는데 왠지 휠 한쪽이 헐거워 보여서 자세히 봤더니 너트 하나가 없어져 있던 걸 본 적 있으실 겁니다. 알루미늄 휠은 되팔기 쉬워서 노리는 경우가 실제…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23558/9_8_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 34,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23821,
       "title": "혹시 아직도 캐디 없이 거리 감으로만 치고 계신가요?",
       "url": "https://wikidocs.net/blog/@petpicknote/23821/",
@@ -8705,21 +8720,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23558,
-      "title": "신차 구매하신 분이라면, 휠너트 도난방지캡 안 챙기면 순정 휠너트 도난당하는 손해로 돌아옵니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23558/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 주차장에 세워둔 차로 돌아왔는데 왠지 휠 한쪽이 헐거워 보여서 자세히 봤더니 너트 하나가 없어져 있던 걸 본 적 있으실 겁니다. 알루미늄 휠은 되팔기 쉬워서 노리는 경우가 실제…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23558/9_8_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 33,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 25221,
@@ -11780,8 +11780,8 @@
     },
     {
       "date": "2026-09-07",
-      "views": 646
+      "views": 649
     }
   ],
-  "static_generated_at": "2026-09-07T18:02:03+09:00"
+  "static_generated_at": "2026-09-07T18:32:14+09:00"
 }
