@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-07T17:01:56+09:00",
+  "latest_snapshot_at": "2026-09-07T17:32:09+09:00",
   "latest_snapshot_date": "2026-09-07",
   "catalog_updated_at": "2026-09-07T00:00:28+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 724,
-    "total_views": 316219,
-    "daily_views": 333,
+    "total_views": 316224,
+    "daily_views": 338,
     "previous_day_views": 643,
     "previous_day_date": "2026-09-06",
-    "current_month_views": 4145,
+    "current_month_views": 4150,
     "days_recorded": 70
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 160480,
-      "daily_views": 59,
+      "total_views": 160482,
+      "daily_views": 61,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 446,
       "captured_posts": 456,
-      "total_views": 119486,
-      "daily_views": 224,
+      "total_views": 119488,
+      "daily_views": 226,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 36253,
-      "daily_views": 50,
+      "total_views": 36254,
+      "daily_views": 51,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1768,8 +1768,8 @@
       "excerpt": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준) AWS S3에 1TB 이상의 데이터를 저장할 때 예상치 못한 과금 폭탄을 피하기 위해서는 스토리지 클래스 선택, 수명 주기 관리, S3 Intelligent-Tier…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25344/15_9_img1.jpg",
       "published_label": "1개월 전",
-      "views": 165,
-      "daily_views": 0,
+      "views": 166,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -2203,8 +2203,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 노트북 배터리가 떨어지거나 전기밥솥을 쓰고 싶은데 220V 콘센트가 없어 난감했던 경험 있으실 겁니다. 차량 배터리는 12V·24V인데 우리가 평소 쓰는 가전제품…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24667/pb_16_1_thumb.jpg",
       "published_label": "1개월 전",
-      "views": 122,
-      "daily_views": 4,
+      "views": 123,
+      "daily_views": 5,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -6562,6 +6562,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 29813,
+      "title": "8말9초 이사 앞둔 원룸 자취생, 못질 없이 옷장 공간 늘려주는 도어훅 옷걸이",
+      "url": "https://wikidocs.net/blog/@smartliving/29813/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 8말9초 이사철, 원룸 옷장이 벌써부터 좁게 느껴지시나요 가을 이사철이 시작되는 8말9초, 새 원룸으로 짐을 옮기면서 가장 먼저 부딪히는 문제가 바로 옷장 수납 공간입니다. 원…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29813/40_7_product1.jpg",
+      "published_label": "8일 전",
+      "views": 48,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27527,
       "title": "세 번 잘못 사고 재구매 비용 날린 끝에 알게 된 미니프린터 고르는 법",
       "url": "https://wikidocs.net/blog/@smartliving/27527/",
@@ -6605,21 +6620,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 29813,
-      "title": "8말9초 이사 앞둔 원룸 자취생, 못질 없이 옷장 공간 늘려주는 도어훅 옷걸이",
-      "url": "https://wikidocs.net/blog/@smartliving/29813/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 8말9초 이사철, 원룸 옷장이 벌써부터 좁게 느껴지시나요 가을 이사철이 시작되는 8말9초, 새 원룸으로 짐을 옮기면서 가장 먼저 부딪히는 문제가 바로 옷장 수납 공간입니다. 원…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29813/40_7_product1.jpg",
-      "published_label": "8일 전",
-      "views": 47,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 29684,
@@ -9292,6 +9292,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22936,
+      "title": "다들 세차는 스펀지로 문지르면 된다지만, 사실 잔기스 줄이려면 워시미트부터 봐야 합니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22936/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 셀프세차를 하며 스펀지로 차를 벅벅 문지르다 보면, 정작 오염은 지워도 잔기스(스월 마크)가 늘어 햇빛 아래 거미줄처럼 보인 적 있으실 겁니다. 세차를 열심히 할수록 차가 더 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22936/6_3_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 30,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22679,
       "title": "복날마다 기력 없어하는 반려동물 보호자라면, 초복 보양식 영양죽 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/22679/",
@@ -9447,21 +9462,6 @@
       "url": "https://wikidocs.net/blog/@cartemlab/23765/",
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 에어컨을 세게 틀어도 목 뒤로 훅훅 올라오는 열기 때문에 신호 대기 중 땀이 목덜미를 타고 흐른 경험 있으실 겁니다. 에어컨 바람은 얼굴 쪽만 시원하고 정작 뒷목은 여전히 후끈…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23765/10_7_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 29,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 22936,
-      "title": "다들 세차는 스펀지로 문지르면 된다지만, 사실 잔기스 줄이려면 워시미트부터 봐야 합니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22936/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 셀프세차를 하며 스펀지로 차를 벅벅 문지르다 보면, 정작 오염은 지워도 잔기스(스월 마크)가 늘어 햇빛 아래 거미줄처럼 보인 적 있으실 겁니다. 세차를 열심히 할수록 차가 더 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22936/6_3_thumb.jpg",
       "published_label": "1개월 전",
       "views": 29,
       "daily_views": 0,
@@ -9982,6 +9982,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 25039,
+      "title": "사무직 직장인을 위한, 파스값 날린 끝에 알게 된 어깨마사지기 고르는 법",
+      "url": "https://wikidocs.net/blog/@smartliving/25039/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근 후 어깨가 돌덩이처럼 뭉쳐 손으로 눌러봐도 시원한 느낌이 전혀 안 들었던 밤, 결국 참다못해 약국에서 파스 한 통을 사서 붙였던 경험 있으실 겁니다. 사무직 직장인이라면 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25039/18_5_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 26,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24861,
       "title": "눈 피로 심한 직장인이 참다 병원비 날린 끝에 알게 된 눈마사지기 고르는 법",
       "url": "https://wikidocs.net/blog/@smartliving/24861/",
@@ -10050,21 +10065,6 @@
       "published_label": "10일 전",
       "views": 25,
       "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 25039,
-      "title": "사무직 직장인을 위한, 파스값 날린 끝에 알게 된 어깨마사지기 고르는 법",
-      "url": "https://wikidocs.net/blog/@smartliving/25039/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근 후 어깨가 돌덩이처럼 뭉쳐 손으로 눌러봐도 시원한 느낌이 전혀 안 들었던 밤, 결국 참다못해 약국에서 파스 한 통을 사서 붙였던 경험 있으실 겁니다. 사무직 직장인이라면 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25039/18_5_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 25,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -11456,6 +11456,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 24667,
+      "title": "차박 다니시는 분이라면, 파워 인버터 하나로 220V 가전 걱정 덜었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24667/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 노트북 배터리가 떨어지거나 전기밥솥을 쓰고 싶은데 220V 콘센트가 없어 난감했던 경험 있으실 겁니다. 차량 배터리는 12V·24V인데 우리가 평소 쓰는 가전제품…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24667/pb_16_1_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 123,
+      "daily_views": 5,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 29690,
       "title": "매일 커피 내려마시는 직장인, 필터값 8천원 한 번으로 끝내주는 다회용 커피필터",
       "url": "https://wikidocs.net/blog/@smartliving/29690/",
@@ -11484,21 +11499,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22943,
-      "title": "내비 보느라 자꾸 고개 숙이던 분들, HUD 달고 시선 덜 뺏겨 운전이 편해졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22943/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 내비를 보려고 자꾸 고개를 숙이거나 눈을 아래로 내렸다가, 다시 앞을 보는 그 짧은 순간이 은근히 불안하죠. 특히 고속 주행 중엔 시선이 도로에서 떨어지는 찰나가 길게 느껴집니…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22943/6_10_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 9299,
-      "daily_views": 4,
-      "likes": 0,
-      "comments": 1,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     }
   ],
   "daily_totals": [
@@ -11780,8 +11780,8 @@
     },
     {
       "date": "2026-09-07",
-      "views": 636
+      "views": 641
     }
   ],
-  "static_generated_at": "2026-09-07T17:01:57+09:00"
+  "static_generated_at": "2026-09-07T17:32:10+09:00"
 }
