@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-09T02:01:54+09:00",
+  "latest_snapshot_at": "2026-09-09T02:31:58+09:00",
   "latest_snapshot_date": "2026-09-09",
   "catalog_updated_at": "2026-09-09T00:00:30+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 734,
-    "total_views": 316906,
-    "daily_views": 47,
+    "total_views": 316913,
+    "daily_views": 54,
     "previous_day_views": 539,
     "previous_day_date": "2026-09-08",
-    "current_month_views": 4832,
+    "current_month_views": 4839,
     "days_recorded": 72
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 160629,
-      "daily_views": 13,
+      "total_views": 160634,
+      "daily_views": 18,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 466,
       "captured_posts": 466,
-      "total_views": 119918,
-      "daily_views": 26,
+      "total_views": 119920,
+      "daily_views": 28,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -538,8 +538,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차 안이 더워서 에어컨부터 세게 트는 분들 많으실 텐데, 막상 바람을 쐬어보면 시원한 느낌보다 텁텁하고 퀴퀴한 냄새가 먼저 코를 찌르는 경우가 있습니다. 폭염이 이어지면서 에어…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22926/8_6_product1.jpg",
       "published_label": "2개월 전",
-      "views": 1768,
-      "daily_views": 0,
+      "views": 1769,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -2152,6 +2152,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24667,
+      "title": "차박 다니시는 분이라면, 파워 인버터 하나로 220V 가전 걱정 덜었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24667/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 노트북 배터리가 떨어지거나 전기밥솥을 쓰고 싶은데 220V 콘센트가 없어 난감했던 경험 있으실 겁니다. 차량 배터리는 12V·24V인데 우리가 평소 쓰는 가전제품…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24667/pb_16_1_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 127,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 27299,
       "title": "다들 커튼이면 된다지만, 자외선 차단율 보고 고른 우드 블라인드 기준",
       "url": "https://wikidocs.net/blog/@smartliving/27299/",
@@ -2165,21 +2180,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24667,
-      "title": "차박 다니시는 분이라면, 파워 인버터 하나로 220V 가전 걱정 덜었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24667/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 노트북 배터리가 떨어지거나 전기밥솥을 쓰고 싶은데 220V 콘센트가 없어 난감했던 경험 있으실 겁니다. 차량 배터리는 12V·24V인데 우리가 평소 쓰는 가전제품…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24667/pb_16_1_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 126,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 23823,
@@ -3517,6 +3517,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 21988,
+      "title": "다들 세차하면 차체만 닦는다지만, 사실 먼저 볼 건 휠에 시커멓게 낀 브레이크 분진입니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/21988/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 주말에 큰맘 먹고 세차하신 분들 많으실 겁니다. 차체는 물기 한 방울까지 닦아 반짝반짝하게 만들어 놓고, 정작 쪼그려 앉아 휠을 들여다보면 손가락으로 쓱 문질러도 시커먼 게 묻…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/21988/2_9_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 76,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 28481,
       "title": "노트북 발열 시달리는 재택근무자, 듀얼팬으로 열 잡아주는 접이식 쿨러거치대",
       "url": "https://wikidocs.net/blog/@smartliving/28481/",
@@ -3570,21 +3585,6 @@
       "published_label": "1개월 전",
       "views": 75,
       "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 21988,
-      "title": "다들 세차하면 차체만 닦는다지만, 사실 먼저 볼 건 휠에 시커멓게 낀 브레이크 분진입니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/21988/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 주말에 큰맘 먹고 세차하신 분들 많으실 겁니다. 차체는 물기 한 방울까지 닦아 반짝반짝하게 만들어 놓고, 정작 쪼그려 앉아 휠을 들여다보면 손가락으로 쓱 문질러도 시커먼 게 묻…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/21988/2_9_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 75,
-      "daily_views": 0,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -5257,6 +5257,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24330,
+      "title": "신차 구매하신 분이라면, 블랙박스 달고 나서 사고 났을 때 도움 받았다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24330/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 신차를 받고 나서 가장 먼저 챙겨야 할 용품이 뭘까 고민해보신 적 있으실 겁니다. 블랙박스 없이 운전하다가 접촉사고가 났는데 정확한 상황을 증명할 방법이 없어 답답했다는 이야기…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24330/pb_14_4_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 58,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 21909,
       "title": "휴가철 장거리 운전하시는 분이라면, 하이패스 단말기 달고 나서 정체 구간에서 도움 받았다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/21909/",
@@ -5660,21 +5675,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24330,
-      "title": "신차 구매하신 분이라면, 블랙박스 달고 나서 사고 났을 때 도움 받았다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24330/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 신차를 받고 나서 가장 먼저 챙겨야 할 용품이 뭘까 고민해보신 적 있으실 겁니다. 블랙박스 없이 운전하다가 접촉사고가 났는데 정확한 상황을 증명할 방법이 없어 답답했다는 이야기…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24330/pb_14_4_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 55,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 23768,
@@ -6577,6 +6577,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 29684,
+      "title": "여름휴가 막바지 캠핑족, 1만원대로 감성캠핑 완성해주는 캠핑 스트링라이트",
+      "url": "https://wikidocs.net/blog/@smartliving/29684/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 캠핑장 사진, 밤이 되면 왜 이렇게 밋밋해질까요 낮에는 그럴듯하게 찍히던 캠핑 사이트 사진이, 해가 지고 나면 갑자기 어두컴컴하고 밋밋해지는 경험 다들 있으실 겁니다. 랜턴 하…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29684/39_4_product1.jpg",
+      "published_label": "11일 전",
+      "views": 49,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24333,
       "title": "중복 폭염 앞둔 장거리족을 위한, 통풍시트 깔고 나서 땀참이 확 줄었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/24333/",
@@ -6643,21 +6658,6 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 혼자 사는 자취방에 들어설 때마다 뭔가 허전하다는 느낌, 그런데 막상 큰 가구나 액자를 들이자니 부담스럽고 이사할 때 짐만 늘어난다는 생각이 드셨을 겁니다. 흰 벽만 덩그러니 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/30512/48_6_product1.jpg",
       "published_label": "1일 전",
-      "views": 48,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 29684,
-      "title": "여름휴가 막바지 캠핑족, 1만원대로 감성캠핑 완성해주는 캠핑 스트링라이트",
-      "url": "https://wikidocs.net/blog/@smartliving/29684/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 캠핑장 사진, 밤이 되면 왜 이렇게 밋밋해질까요 낮에는 그럴듯하게 찍히던 캠핑 사이트 사진이, 해가 지고 나면 갑자기 어두컴컴하고 밋밋해지는 경험 다들 있으실 겁니다. 랜턴 하…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29684/39_4_product1.jpg",
-      "published_label": "11일 전",
       "views": 48,
       "daily_views": 0,
       "likes": 0,
@@ -11396,6 +11396,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 24330,
+      "title": "신차 구매하신 분이라면, 블랙박스 달고 나서 사고 났을 때 도움 받았다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24330/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 신차를 받고 나서 가장 먼저 챙겨야 할 용품이 뭘까 고민해보신 적 있으실 겁니다. 블랙박스 없이 운전하다가 접촉사고가 났는데 정확한 상황을 증명할 방법이 없어 답답했다는 이야기…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24330/pb_14_4_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 58,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 29687,
       "title": "하루종일 서서 일하는 직장인, 마사지샵 4만원값 집에서 아껴주는 발마사지기",
       "url": "https://wikidocs.net/blog/@smartliving/29687/",
@@ -11501,6 +11516,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22926,
+      "title": "다들 에어컨 온도만 낮추면 된다지만, 차량용 에어컨 필터는 사실 이걸 먼저 봐야 합니다",
+      "url": "https://wikidocs.net/blog/@smartliving/22926/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차 안이 더워서 에어컨부터 세게 트는 분들 많으실 텐데, 막상 바람을 쐬어보면 시원한 느낌보다 텁텁하고 퀴퀴한 냄새가 먼저 코를 찌르는 경우가 있습니다. 폭염이 이어지면서 에어…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22926/8_6_product1.jpg",
+      "published_label": "2개월 전",
+      "views": 1769,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 23346,
       "title": "차박 갔다가 딱딱한 바닥에 허리 배기던 분들을 위한 에어매트리스 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/23346/",
@@ -11591,6 +11621,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 24667,
+      "title": "차박 다니시는 분이라면, 파워 인버터 하나로 220V 가전 걱정 덜었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24667/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 노트북 배터리가 떨어지거나 전기밥솥을 쓰고 싶은데 220V 콘센트가 없어 난감했던 경험 있으실 겁니다. 차량 배터리는 12V·24V인데 우리가 평소 쓰는 가전제품…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24667/pb_16_1_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 127,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 27397,
       "title": "똑딱 소리에 잠 설친 끝에 알게 된 무소음 벽시계 고르는 법",
       "url": "https://wikidocs.net/blog/@smartliving/27397/",
@@ -11598,51 +11643,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27397/21_8_product1.jpg",
       "published_label": "1개월 전",
       "views": 119,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24334,
-      "title": "무더위 절정 오기 전 미리 챙겨야 할 워셔액 종류별 선택 기준",
-      "url": "https://wikidocs.net/blog/@cartemlab/24334/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 무더위 절정을 앞두고 워셔액 경고등이 켜졌는데, 마트에 가보니 종류가 너무 많아 뭘 골라야 할지 막막했던 경험 있으실 겁니다. 그냥 아무거나 채웠다가 여름철 벌레 자국이나 먼지…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24334/pb_14_8_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 98,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 23557,
-      "title": "장거리 통근족을 위한, 안전벨트 커버 바꾸고 목·어깨 쓸림 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23557/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 매일 같은 자리로 벨트를 매다 보면 목과 어깨 한 지점만 계속 눌리고 쓸려서 자국이 남았던 경험 있으실 겁니다. 여름엔 그 부분이 땀에 젖어 따갑고, 겨울엔 뻣뻣한 원단이 옷 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23557/9_7_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 93,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 21684,
-      "title": "멤브레인 vs 기계식, 무선 키보드 직접 비교해보니 승자는 이거였습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/21684/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 멤브레인 키보드 vs 기계식 키보드, 직접 비교해보니 재택근무 환경에선 승자가 명확히 갈렸습니다. 하루 종일 타이핑하다 보면 손가락 끝이 뻐근하고, 특히 노트북 기본 키보드나 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/21684/2_9_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 87,
       "daily_views": 1,
       "likes": 0,
       "comments": 0,
@@ -11938,8 +11938,8 @@
     },
     {
       "date": "2026-09-09",
-      "views": 47
+      "views": 54
     }
   ],
-  "static_generated_at": "2026-09-09T02:01:56+09:00"
+  "static_generated_at": "2026-09-09T02:31:59+09:00"
 }
