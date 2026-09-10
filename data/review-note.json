@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-10T21:31:59+09:00",
+  "latest_snapshot_at": "2026-09-10T22:01:56+09:00",
   "latest_snapshot_date": "2026-09-10",
   "catalog_updated_at": "2026-09-10T00:00:30+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 754,
-    "total_views": 317942,
-    "daily_views": 310,
+    "total_views": 317948,
+    "daily_views": 316,
     "previous_day_views": 628,
     "previous_day_date": "2026-09-09",
-    "current_month_views": 5868,
+    "current_month_views": 5874,
     "days_recorded": 73
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 160856,
-      "daily_views": 85,
+      "total_views": 160859,
+      "daily_views": 88,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 476,
       "captured_posts": 486,
-      "total_views": 120572,
-      "daily_views": 169,
+      "total_views": 120573,
+      "daily_views": 170,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 36514,
-      "daily_views": 56,
+      "total_views": 36516,
+      "daily_views": 58,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1747,6 +1747,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 25344,
+      "title": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준)",
+      "url": "https://wikidocs.net/blog/@petpicknote/25344/",
+      "excerpt": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준) AWS S3에 1TB 이상의 데이터를 저장할 때 예상치 못한 과금 폭탄을 피하기 위해서는 스토리지 클래스 선택, 수명 주기 관리, S3 Intelligent-Tier…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25344/15_9_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 171,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 23201,
       "title": "한여름 장거리 앞두신 분이라면, 배터리 보조제 넣고 출발 전 점검했다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/23201/",
@@ -1760,21 +1775,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 25344,
-      "title": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준)",
-      "url": "https://wikidocs.net/blog/@petpicknote/25344/",
-      "excerpt": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준) AWS S3에 1TB 이상의 데이터를 저장할 때 예상치 못한 과금 폭탄을 피하기 위해서는 스토리지 클래스 선택, 수명 주기 관리, S3 Intelligent-Tier…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25344/15_9_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 170,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 21990,
@@ -2437,6 +2437,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 23973,
+      "title": "혹시 아직도 유선 케이블 꽂아야만 카플레이 되는 차, 불편하게 타고 계신가요?",
+      "url": "https://wikidocs.net/blog/@cartemlab/23973/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 매번 탈 때마다 케이블을 찾아 꽂아야 하고, 케이블이 꼬여서 짜증났던 경험 있으실 겁니다. 급하게 출발해야 하는데 케이블 인식이 안 돼 몇 번을 다시 꽂았던 분들도 많으실 겁니…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23973/12_6_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 107,
+      "daily_views": 5,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22941,
       "title": "디젤차로 장거리 앞두신 분이라면, DPF·인젝터 클리너 넣고 출력이 한결 살아났다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22941/",
@@ -2495,21 +2510,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23973,
-      "title": "혹시 아직도 유선 케이블 꽂아야만 카플레이 되는 차, 불편하게 타고 계신가요?",
-      "url": "https://wikidocs.net/blog/@cartemlab/23973/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 매번 탈 때마다 케이블을 찾아 꽂아야 하고, 케이블이 꼬여서 짜증났던 경험 있으실 겁니다. 급하게 출발해야 하는데 케이블 인식이 안 돼 몇 번을 다시 꽂았던 분들도 많으실 겁니…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23973/12_6_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 105,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 24668,
@@ -2617,6 +2617,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24009,
+      "title": "두 번 잘못 사고 나서야 알게 된 요가매트 두께 고르는 법",
+      "url": "https://wikidocs.net/blog/@petpicknote/24009/",
+      "excerpt": "🧘 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 처음 홈트레이닝을 시작할 때 가장 저렴한 3~4mm짜리 얇은 매트를 고른 적이 있습니다. 플랭크 자세를 잡을 때마다 팔꿈치가 바닥에 배기고, 무릎을 대는 동작에서는 통증 때문에…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24009/10_6_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 101,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 21989,
       "title": "여름휴가 떠나기 전 미리 챙겨야 할 방수 세면파우치 3가지",
       "url": "https://wikidocs.net/blog/@smartliving/21989/",
@@ -2645,21 +2660,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24009,
-      "title": "두 번 잘못 사고 나서야 알게 된 요가매트 두께 고르는 법",
-      "url": "https://wikidocs.net/blog/@petpicknote/24009/",
-      "excerpt": "🧘 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 처음 홈트레이닝을 시작할 때 가장 저렴한 3~4mm짜리 얇은 매트를 고른 적이 있습니다. 플랭크 자세를 잡을 때마다 팔꿈치가 바닥에 배기고, 무릎을 대는 동작에서는 통증 때문에…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24009/10_6_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 100,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 28474,
@@ -6637,6 +6637,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24333,
+      "title": "중복 폭염 앞둔 장거리족을 위한, 통풍시트 깔고 나서 땀참이 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24333/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 초복이 지나고 중복이 다가오는 요즘, 에어컨을 세게 틀어도 등과 엉덩이만은 계속 땀이 차는 느낌 받아보신 적 있으실 겁니다. 장거리 출퇴근이나 여행으로 오래 앉아있다 보면 이 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24333/pb_14_7_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 49,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24427,
       "title": "무더위에 운동하시는 분이라면, 전해질 보충제 하나로 어지러움이 줄었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/24427/",
@@ -6695,21 +6710,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24333,
-      "title": "중복 폭염 앞둔 장거리족을 위한, 통풍시트 깔고 나서 땀참이 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24333/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 초복이 지나고 중복이 다가오는 요즘, 에어컨을 세게 틀어도 등과 엉덩이만은 계속 땀이 차는 느낌 받아보신 적 있으실 겁니다. 장거리 출퇴근이나 여행으로 오래 앉아있다 보면 이 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24333/pb_14_7_thumb.jpg",
-      "published_label": "1개월 전",
-      "views": 48,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 25343,
@@ -10662,7 +10662,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/30763/",
       "excerpt": "추석 선물 쌓여가는 주부, 선반 공간 40% 확보해주는 선물세트 수납박스 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 베란다 한쪽에 명절 선물 상자들이 하나둘 쌓이기 시작하면, 정작 필요한 물건을 꺼낼 때마다 상자를 이리…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/30763/51_4_product1.jpg",
-      "published_label": "14시간 전",
+      "published_label": "15시간 전",
       "views": 21,
       "daily_views": 0,
       "likes": 0,
@@ -10812,7 +10812,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/30768/",
       "excerpt": "카페·출장 다니는 프리랜서, 목 결림 줄여주는 150g 알루미늄 노트북거치대 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 카페에 자리 잡고 노트북을 펼친 지 한 시간쯤 지나면 목이 뻐근해지고 어깨가 뭉쳐오신 적 있으신가요…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/30768/51_9_product1.jpg",
-      "published_label": "14시간 전",
+      "published_label": "15시간 전",
       "views": 17,
       "daily_views": 0,
       "likes": 0,
@@ -10827,7 +10827,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/30766/",
       "excerpt": "신생아 처음 키우는 초보 부모, 손끝 상처 걱정 없이 깎아주는 아기 손톱가위 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 잠든 아기 손을 조심스레 잡고 손톱을 깎으려는데, 손이 파르르 떨려서 결국 다음날로 미룬 적 있으신…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/30766/51_7_product1.jpg",
-      "published_label": "14시간 전",
+      "published_label": "15시간 전",
       "views": 17,
       "daily_views": 0,
       "likes": 0,
@@ -10887,7 +10887,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/30765/",
       "excerpt": "손님 오기 전 욕실 급한 자취생, 문지르기 없이 3분 만에 닦아주는 변기 세정제 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 친구가 30분 뒤에 도착한다는 연락을 받고 화장실 문을 열었다가 변기 안쪽 누런 물때에 한숨부터…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/30765/51_6_product1.jpg",
-      "published_label": "14시간 전",
+      "published_label": "15시간 전",
       "views": 16,
       "daily_views": 0,
       "likes": 0,
@@ -10902,7 +10902,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/30761/",
       "excerpt": "가을철 베란다 벌레 나오는 주부, 3초 분사로 싹 잡아주는 벌레 퇴치 스프레이 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 빨래를 널러 베란다 문을 열었다가 화들짝 놀라 문을 도로 닫아버린 적 있으신가요. 여름 모기는 그…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/30761/51_2_product1.jpg",
-      "published_label": "14시간 전",
+      "published_label": "15시간 전",
       "views": 16,
       "daily_views": 0,
       "likes": 0,
@@ -10917,7 +10917,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/30760/",
       "excerpt": "난방 틀기 애매한 원룸 자취생, 전기세 2천원대로 데워주는 미니 온풍기 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근하고 현관문을 열자마자 훅 끼쳐오는 서늘한 공기에 어깨부터 움츠러든 적 있으신가요. 발끝이 시려 양말…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/30760/51_1_product1.jpg",
-      "published_label": "14시간 전",
+      "published_label": "15시간 전",
       "views": 16,
       "daily_views": 0,
       "likes": 0,
@@ -11052,7 +11052,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/30762/",
       "excerpt": "이불빨래 미루는 맞벌이 부부, 세탁비 5천원 아껴주는 순면 차렵이불커버 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근하고 돌아와 침대에 눕는 순간, 이불에서 나는 살짝 텁텁한 냄새에 미간이 찌푸려진 적 있으신가요. 세…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/30762/51_3_product1.jpg",
-      "published_label": "14시간 전",
+      "published_label": "15시간 전",
       "views": 12,
       "daily_views": 0,
       "likes": 0,
@@ -11067,7 +11067,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/30769/",
       "excerpt": "휑한 원룸 벽 신경 쓰이는 자취생, 못질 없이 5분이면 완성되는 캔버스 아트 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 이사 온 지 몇 달이 지났는데도 벽이 여전히 휑해서, 사진 찍을 때마다 배경이 아쉬웠던 적 있으신가…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/30769/51_10_product1.jpg",
-      "published_label": "14시간 전",
+      "published_label": "15시간 전",
       "views": 11,
       "daily_views": 0,
       "likes": 0,
@@ -11082,9 +11082,24 @@
       "url": "https://wikidocs.net/blog/@smartliving/30764/",
       "excerpt": "추석 전 전·만두소 준비하는 주부, 다지는 시간 20분 줄여주는 미트초퍼 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 전·만두소 만들 재료를 도마 위에 잔뜩 올려놓고 칼로 다지기 시작하면, 몇 분 지나지 않아 손목이 뻐근…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/30764/51_5_product1.jpg",
-      "published_label": "14시간 전",
+      "published_label": "15시간 전",
       "views": 11,
       "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 30606,
+      "title": "밀폐용기 물때·냄새 지겨운 주부, 7천원대로 위생 챙겨주는 스텐 저장용기",
+      "url": "https://wikidocs.net/blog/@smartliving/30606/",
+      "excerpt": "밀폐용기 물때·냄새 지겨운 주부, 7천원대로 위생 챙겨주는 스텐 저장용기 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 김치나 카레처럼 색이 진한 반찬을 담았던 플라스틱 밀폐용기, 아무리 씻어도 노란 물이 배거나 냄새가 은…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30606/49_9_product1.jpg",
+      "published_label": "2일 전",
+      "views": 11,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -11100,21 +11115,6 @@
       "published_label": "1일 전",
       "views": 10,
       "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 30606,
-      "title": "밀폐용기 물때·냄새 지겨운 주부, 7천원대로 위생 챙겨주는 스텐 저장용기",
-      "url": "https://wikidocs.net/blog/@smartliving/30606/",
-      "excerpt": "밀폐용기 물때·냄새 지겨운 주부, 7천원대로 위생 챙겨주는 스텐 저장용기 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 김치나 카레처럼 색이 진한 반찬을 담았던 플라스틱 밀폐용기, 아무리 씻어도 노란 물이 배거나 냄새가 은…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30606/49_9_product1.jpg",
-      "published_label": "2일 전",
-      "views": 10,
-      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -11157,7 +11157,7 @@
       "url": "https://wikidocs.net/blog/@smartliving/30767/",
       "excerpt": "야근 스트레스로 잠 못 드는 직장인, 카페인 없이 편안한 밤 도와주는 테아닌 영양제 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 야근 끝내고 침대에 누우면 몸은 분명 피곤한데, 머릿속에서는 낮에 있었던 회의 내용이 계속 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/30767/51_8_product1.jpg",
-      "published_label": "14시간 전",
+      "published_label": "15시간 전",
       "views": 8,
       "daily_views": 0,
       "likes": 0,
@@ -11726,6 +11726,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 23973,
+      "title": "혹시 아직도 유선 케이블 꽂아야만 카플레이 되는 차, 불편하게 타고 계신가요?",
+      "url": "https://wikidocs.net/blog/@cartemlab/23973/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 매번 탈 때마다 케이블을 찾아 꽂아야 하고, 케이블이 꼬여서 짜증났던 경험 있으실 겁니다. 급하게 출발해야 하는데 케이블 인식이 안 돼 몇 번을 다시 꽂았던 분들도 많으실 겁니…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23973/12_6_thumb.jpg",
+      "published_label": "1개월 전",
+      "views": 107,
+      "daily_views": 5,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24336,
       "title": "장거리·오지로 자주 떠나는 분이라면, 점프스타터 하나로 방전 걱정 덜었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/24336/",
@@ -11754,6 +11769,21 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 25344,
+      "title": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준)",
+      "url": "https://wikidocs.net/blog/@petpicknote/25344/",
+      "excerpt": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준) AWS S3에 1TB 이상의 데이터를 저장할 때 예상치 못한 과금 폭탄을 피하기 위해서는 스토리지 클래스 선택, 수명 주기 관리, S3 Intelligent-Tier…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25344/15_9_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 171,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
     },
     {
       "id": 24428,
@@ -11919,36 +11949,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24011,
-      "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24011/",
-      "excerpt": "✈️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여행 중 배터리 걱정 많으셨다면, 여행 사진과 지도 앱을 하루 종일 켜두다 보니 오후만 되면 스마트폰이 20% 밑으로 떨어져 마음이 조급해졌던 경험이 있으실 겁니다. 특히 항…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24011/10_8_img1.png",
-      "published_label": "1개월 전",
-      "views": 190,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 25344,
-      "title": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준)",
-      "url": "https://wikidocs.net/blog/@petpicknote/25344/",
-      "excerpt": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준) AWS S3에 1TB 이상의 데이터를 저장할 때 예상치 못한 과금 폭탄을 피하기 위해서는 스토리지 클래스 선택, 수명 주기 관리, S3 Intelligent-Tier…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25344/15_9_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 170,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     }
   ],
   "daily_totals": [
@@ -12242,8 +12242,8 @@
     },
     {
       "date": "2026-09-10",
-      "views": 455
+      "views": 461
     }
   ],
-  "static_generated_at": "2026-09-10T21:32:00+09:00"
+  "static_generated_at": "2026-09-10T22:01:57+09:00"
 }
