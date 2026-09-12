@@ -3,8 +3,8 @@
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
   "latest_snapshot_at": "2026-09-12T22:31:56+09:00",
   "latest_snapshot_date": "2026-09-12",
-  "catalog_updated_at": "2026-09-12T00:00:32+09:00",
-  "is_today_realtime": true,
+  "catalog_updated_at": "2026-09-13T00:00:29+09:00",
+  "is_today_realtime": false,
   "refresh_minutes": 30,
   "tracked_slugs": [
     "smartliving",
@@ -16,8 +16,8 @@
     "posts": 754,
     "total_views": 318593,
     "daily_views": 366,
-    "previous_day_views": 266,
-    "previous_day_date": "2026-09-11",
+    "previous_day_views": 366,
+    "previous_day_date": "2026-09-12",
     "current_month_views": 6519,
     "days_recorded": 75
   },
@@ -12253,5 +12253,5 @@
       "views": 366
     }
   ],
-  "static_generated_at": "2026-09-12T23:31:00+09:00"
+  "static_generated_at": "2026-09-13T00:00:42+09:00"
 }
