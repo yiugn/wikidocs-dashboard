@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-14T07:01:58+09:00",
+  "latest_snapshot_at": "2026-09-14T08:31:57+09:00",
   "latest_snapshot_date": "2026-09-14",
   "catalog_updated_at": "2026-09-14T00:00:28+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 754,
-    "total_views": 318936,
-    "daily_views": 57,
+    "total_views": 318945,
+    "daily_views": 66,
     "previous_day_views": 286,
     "previous_day_date": "2026-09-13",
-    "current_month_views": 6862,
+    "current_month_views": 6871,
     "days_recorded": 77
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 161172,
-      "daily_views": 14,
+      "total_views": 161175,
+      "daily_views": 17,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 486,
       "captured_posts": 486,
-      "total_views": 121030,
-      "daily_views": 35,
+      "total_views": 121033,
+      "daily_views": 38,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 36734,
-      "daily_views": 8,
+      "total_views": 36737,
+      "daily_views": 11,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1018,8 +1018,8 @@
       "excerpt": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁 ChatGPT는 2026년에도 개인 생산성 혁신의 핵심 도구로 자리매김하고 있습니다. 최신 GPT 모델과 고급 프롬프트 엔지니어링을 활용하면 정보 요약, 아이디어 발상, 콘텐츠 초안 작성…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25219/14_10_img1.jpg",
       "published_label": "1개월 전",
-      "views": 590,
-      "daily_views": 2,
+      "views": 591,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1423,8 +1423,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 하루 8시간 노트북 앞 재택근무자를 위한 쿨링패드 이렇게 골랐습니다 여름철 재택근무, 에어컨을 틀어도 노트북 아래쪽 손목 받침대가 후끈하게 달아오르는 걸 느껴보신 분들 많으실 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/21996/4_10_product1.jpg",
       "published_label": "2개월 전",
-      "views": 299,
-      "daily_views": 0,
+      "views": 300,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -1927,6 +1927,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 22344,
+      "title": "이번 주말 케이펫페어 방문 예정이신 분이라면, 가기 전에 챙겨야 할 강아지 유모차 TOP3",
+      "url": "https://wikidocs.net/blog/@petpicknote/22344/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 코엑스 케이펫페어, 유모차 없이는 입장이 안 됩니다 2026 케이펫페어 서울이 7월 17일부터 19일까지 코엑스에서 열립니다. 반가운 소식이지만, 막상 티켓만 끊어놓고 정작 현…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22344/5_1.jpg",
+      "published_label": "2개월 전",
+      "views": 151,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 27399,
       "title": "저용량 vs 고용량 오메가3, 흡수율과 가격 기준으로 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/27399/",
@@ -1970,21 +1985,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22344,
-      "title": "이번 주말 케이펫페어 방문 예정이신 분이라면, 가기 전에 챙겨야 할 강아지 유모차 TOP3",
-      "url": "https://wikidocs.net/blog/@petpicknote/22344/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 코엑스 케이펫페어, 유모차 없이는 입장이 안 됩니다 2026 케이펫페어 서울이 7월 17일부터 19일까지 코엑스에서 열립니다. 반가운 소식이지만, 막상 티켓만 끊어놓고 정작 현…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22344/5_1.jpg",
-      "published_label": "2개월 전",
-      "views": 150,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 25214,
@@ -5272,6 +5272,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 23975,
+      "title": "본격적인 무더위 시작 전에 챙겨야 할 에어컨 냉매 충전 키트 3가지",
+      "url": "https://wikidocs.net/blog/@cartemlab/23975/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 에어컨을 최대로 틀어도 예전만큼 시원하지 않다고 느끼셨던 경험 있으실 겁니다. 송풍구에서 나오는 바람이 미지근하게 느껴져 당황했던 순간도 있으셨을 겁니다. 에어컨이 예전 같지 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23975/12_8_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 60,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23764,
       "title": "요즘 다들 삭막한 실내등 대신 이걸로 바꾼다는 차량용 무드등, 이유가 있었습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/23764/",
@@ -5407,21 +5422,6 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 23975,
-      "title": "본격적인 무더위 시작 전에 챙겨야 할 에어컨 냉매 충전 키트 3가지",
-      "url": "https://wikidocs.net/blog/@cartemlab/23975/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 에어컨을 최대로 틀어도 예전만큼 시원하지 않다고 느끼셨던 경험 있으실 겁니다. 송풍구에서 나오는 바람이 미지근하게 느껴져 당황했던 순간도 있으셨을 겁니다. 에어컨이 예전 같지 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23975/12_8_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 59,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
       "id": 22485,
       "title": "여름 뙤약볕에 핸들 뜨거워 손도 못 대던 분들, 핸들커버 씌우니 바로 잡을 만해졌다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22485/",
@@ -5502,6 +5502,21 @@
       "url": "https://wikidocs.net/blog/@petpicknote/22680/",
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 작고 동그란 몸을 웅크리고 있다가, 밤이 되면 부스럭거리며 케이지 안을 바쁘게 돌아다니는 고슴도치를 처음 데려오신 분이라면 낯선 것투성이일 겁니다. 강아지나 고양이와 달리 정보…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22680/10_1.jpg",
+      "published_label": "2개월 전",
+      "views": 59,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 22529,
+      "title": "고양이와 함께 첫 여름을 보내는 집사라면, 냉감방석 하나로 낮잠 자세가 달라졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/22529/",
+      "excerpt": "title: \"고양이와 함께 첫 여름을 보내는 집사라면, 냉감방석 하나로 낮잠 자세가 달라졌다는 후기가 많습니다\" tags: [하우스·침구용품] 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 고양이를 처음 입양하고 맞이하는…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22529/8_1.jpg",
       "published_label": "2개월 전",
       "views": 59,
       "daily_views": 1,
@@ -5623,21 +5638,6 @@
       "excerpt": "🔖 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 습도가 높은 여름철에는 샤워를 하고 나와도 금세 다시 끈적해지는 느낌 때문에 고민이셨던 분들이 많으실 겁니다. 특히 땀과 피지가 섞여 등이나 목 뒤쪽에 트러블이 올라오는 경우도…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24431/12_7_img1.jpg",
       "published_label": "1개월 전",
-      "views": 58,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22529,
-      "title": "고양이와 함께 첫 여름을 보내는 집사라면, 냉감방석 하나로 낮잠 자세가 달라졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/22529/",
-      "excerpt": "title: \"고양이와 함께 첫 여름을 보내는 집사라면, 냉감방석 하나로 낮잠 자세가 달라졌다는 후기가 많습니다\" tags: [하우스·침구용품] 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 고양이를 처음 입양하고 맞이하는…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22529/8_1.jpg",
-      "published_label": "2개월 전",
       "views": 58,
       "daily_views": 0,
       "likes": 0,
@@ -5857,6 +5857,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22930,
+      "title": "여름휴가 차박·드라이브족을 위한, 모기 걱정 없이 창문 열게 해주는 차량용 모기퇴치기 이렇게 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/22930/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 짧은 일정으로 근교 차박이나 드라이브 여행을 떠났다가, 밤이 되니 어디선가 모기가 들어와 잠을 설쳤던 경험 있으실 겁니다. 장마 기간 동안 고인 물이 늘면서 모기 개체수가 부쩍…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22930/8_10_product1.jpg",
+      "published_label": "2개월 전",
+      "views": 57,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 23768,
       "title": "배터리 방전 두 번 겪고 나서야 알게 된 충전기 고르는 법",
       "url": "https://wikidocs.net/blog/@cartemlab/23768/",
@@ -5992,21 +6007,6 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 22930,
-      "title": "여름휴가 차박·드라이브족을 위한, 모기 걱정 없이 창문 열게 해주는 차량용 모기퇴치기 이렇게 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/22930/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 짧은 일정으로 근교 차박이나 드라이브 여행을 떠났다가, 밤이 되니 어디선가 모기가 들어와 잠을 설쳤던 경험 있으실 겁니다. 장마 기간 동안 고인 물이 늘면서 모기 개체수가 부쩍…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22930/8_10_product1.jpg",
-      "published_label": "2개월 전",
-      "views": 56,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
       "id": 22931,
       "title": "힘 좋은 대형견 보호자를 위한, 장난감을 금방 물어뜯어 버리던 아이가 달라지기까지 터프 저작장난감 TOP3",
       "url": "https://wikidocs.net/blog/@petpicknote/22931/",
@@ -6080,6 +6080,21 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 23967,
+      "title": "장거리 운전 잦으신 분이라면, 콘솔 암레스트 쿠션 하나로 팔·어깨 피로가 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23967/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 팔을 콘솔 위에 올리고 운전하다 보면 딱딱한 플라스틱 모서리에 팔꿈치가 배겨서 저릿했던 경험 있으실 겁니다. 장거리를 달릴수록 그 부위가 점점 뻐근해져서 팔을 자꾸 자세를 바꿔…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23967/12_1_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 54,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
     },
     {
       "id": 22938,
@@ -6185,21 +6200,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23967,
-      "title": "장거리 운전 잦으신 분이라면, 콘솔 암레스트 쿠션 하나로 팔·어깨 피로가 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23967/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 팔을 콘솔 위에 올리고 운전하다 보면 딱딱한 플라스틱 모서리에 팔꿈치가 배겨서 저릿했던 경험 있으실 겁니다. 장거리를 달릴수록 그 부위가 점점 뻐근해져서 팔을 자꾸 자세를 바꿔…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23967/12_1_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 53,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 23767,
@@ -7867,6 +7867,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22489,
+      "title": "다들 타이어는 공기압만 보면 된다지만, 사실 여름엔 갈라짐부터 챙겨야 합니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22489/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 타이어 관리라고 하면 다들 공기압부터 떠올리시죠. 물론 공기압도 중요하지만, 한여름 뙤약볕에 세워둔 차의 타이어 측면을 자세히 보면 잔갈라짐이 생기기 시작한 걸 발견할 때가 있…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22489/4_5_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 41,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 25217,
       "title": "JIRA 프로젝트 관리, 2026년 대규모 프로젝트의 마감일 준수 전략 6단계",
       "url": "https://wikidocs.net/blog/@petpicknote/25217/",
@@ -8097,21 +8112,6 @@
       "url": "https://wikidocs.net/blog/@cartemlab/23559/",
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 정성 들여 세차하고 물기까지 닦았는데, 햇볕에 말라가며 유리창에 하얗게 물자국이 남아있던 걸 발견하고 허탈했던 경험 있으실 겁니다. 손으로 만져보면 타월 자체도 뻣뻣해서 오히려…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23559/9_9_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 40,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 22489,
-      "title": "다들 타이어는 공기압만 보면 된다지만, 사실 여름엔 갈라짐부터 챙겨야 합니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22489/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 타이어 관리라고 하면 다들 공기압부터 떠올리시죠. 물론 공기압도 중요하지만, 한여름 뙤약볕에 세워둔 차의 타이어 측면을 자세히 보면 잔갈라짐이 생기기 시작한 걸 발견할 때가 있…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22489/4_5_thumb.jpg",
       "published_label": "2개월 전",
       "views": 40,
       "daily_views": 0,
@@ -11377,14 +11377,14 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 29573,
-      "title": "뜨거운 냄비 자주 옮기는 주부, 3000원대로 식탁 지켜주는 실리콘 냄비받침",
-      "url": "https://wikidocs.net/blog/@smartliving/29573/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 뜨거운 냄비를 식탁에 바로 올렸다가 흰 자국이 남아 속상했던 경험, 주부라면 한 번쯤 있으실 겁니다. 급하게 행주나 손에 잡히는 아무 천을 깔아보지만, 두께가 얇아 손까지 뜨거…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29573/37_7_product1.jpg",
+      "id": 29569,
+      "title": "이유식 시작한 아기 부모, 9900원대로 식탁 얼룩 막아주는 방수 커버",
+      "url": "https://wikidocs.net/blog/@smartliving/29569/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 이유식을 시작하고 나서부터 식탁 의자에 손이 잘 안 간다고 느껴보신 부모님들 많으실 겁니다. 아기가 숟가락을 휘두를 때마다 이유식이 사방으로 튀고, 원목 의자 틈새에 낀 음식물…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29569/37_3_product1.jpg",
       "published_label": "18일 전",
-      "views": 3,
-      "daily_views": 0,
+      "views": 4,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -11392,11 +11392,11 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 29569,
-      "title": "이유식 시작한 아기 부모, 9900원대로 식탁 얼룩 막아주는 방수 커버",
-      "url": "https://wikidocs.net/blog/@smartliving/29569/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 이유식을 시작하고 나서부터 식탁 의자에 손이 잘 안 간다고 느껴보신 부모님들 많으실 겁니다. 아기가 숟가락을 휘두를 때마다 이유식이 사방으로 튀고, 원목 의자 틈새에 낀 음식물…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29569/37_3_product1.jpg",
+      "id": 29573,
+      "title": "뜨거운 냄비 자주 옮기는 주부, 3000원대로 식탁 지켜주는 실리콘 냄비받침",
+      "url": "https://wikidocs.net/blog/@smartliving/29573/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 뜨거운 냄비를 식탁에 바로 올렸다가 흰 자국이 남아 속상했던 경험, 주부라면 한 번쯤 있으실 겁니다. 급하게 행주나 손에 잡히는 아무 천을 깔아보지만, 두께가 얇아 손까지 뜨거…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29573/37_7_product1.jpg",
       "published_label": "18일 전",
       "views": 3,
       "daily_views": 0,
@@ -11702,8 +11702,8 @@
       "excerpt": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁 ChatGPT는 2026년에도 개인 생산성 혁신의 핵심 도구로 자리매김하고 있습니다. 최신 GPT 모델과 고급 프롬프트 엔지니어링을 활용하면 정보 요약, 아이디어 발상, 콘텐츠 초안 작성…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25219/14_10_img1.jpg",
       "published_label": "1개월 전",
-      "views": 590,
-      "daily_views": 2,
+      "views": 591,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -11906,6 +11906,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 21996,
+      "title": "하루 8시간 노트북 앞 재택근무자를 위한 쿨링패드 이렇게 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/21996/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 하루 8시간 노트북 앞 재택근무자를 위한 쿨링패드 이렇게 골랐습니다 여름철 재택근무, 에어컨을 틀어도 노트북 아래쪽 손목 받침대가 후끈하게 달아오르는 걸 느껴보신 분들 많으실 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/21996/4_10_product1.jpg",
+      "published_label": "2개월 전",
+      "views": 300,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24011,
       "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/24011/",
@@ -11921,34 +11936,19 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 24160,
-      "title": "출근 준비 바쁜 직장인을 위한, 다림질 시간 줄여주는 무선 스팀다리미",
-      "url": "https://wikidocs.net/blog/@smartliving/24160/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 출근 5분 전, 구겨진 셔츠를 발견했을 때의 그 당혹감 출근 준비를 다 끝내고 마지막으로 셔츠를 걸치려는 순간, 옷깃이 잔뜩 구겨져 있는 걸 발견하고 당황했던 경험 한 번쯤 있…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24160/14_5_product1.jpg",
+      "id": 22344,
+      "title": "이번 주말 케이펫페어 방문 예정이신 분이라면, 가기 전에 챙겨야 할 강아지 유모차 TOP3",
+      "url": "https://wikidocs.net/blog/@petpicknote/22344/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 코엑스 케이펫페어, 유모차 없이는 입장이 안 됩니다 2026 케이펫페어 서울이 7월 17일부터 19일까지 코엑스에서 열립니다. 반가운 소식이지만, 막상 티켓만 끊어놓고 정작 현…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22344/5_1.jpg",
       "published_label": "2개월 전",
-      "views": 109,
+      "views": 151,
       "daily_views": 1,
       "likes": 0,
       "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23557,
-      "title": "장거리 통근족을 위한, 안전벨트 커버 바꾸고 목·어깨 쓸림 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23557/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 매일 같은 자리로 벨트를 매다 보면 목과 어깨 한 지점만 계속 눌리고 쓸려서 자국이 남았던 경험 있으실 겁니다. 여름엔 그 부분이 땀에 젖어 따갑고, 겨울엔 뻣뻣한 원단이 옷 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23557/9_7_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 106,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
     }
   ],
   "daily_totals": [
@@ -12258,8 +12258,8 @@
     },
     {
       "date": "2026-09-14",
-      "views": 57
+      "views": 66
     }
   ],
-  "static_generated_at": "2026-09-14T08:01:01+09:00"
+  "static_generated_at": "2026-09-14T08:31:58+09:00"
 }
