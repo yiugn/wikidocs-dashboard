@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-14T11:01:59+09:00",
+  "latest_snapshot_at": "2026-09-14T12:31:57+09:00",
   "latest_snapshot_date": "2026-09-14",
   "catalog_updated_at": "2026-09-14T00:00:28+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 754,
-    "total_views": 318992,
-    "daily_views": 113,
+    "total_views": 319001,
+    "daily_views": 122,
     "previous_day_views": 286,
     "previous_day_date": "2026-09-13",
-    "current_month_views": 6918,
+    "current_month_views": 6927,
     "days_recorded": 77
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 161198,
-      "daily_views": 40,
+      "total_views": 161202,
+      "daily_views": 44,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 486,
       "captured_posts": 486,
-      "total_views": 121047,
-      "daily_views": 52,
+      "total_views": 121050,
+      "daily_views": 55,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 36747,
-      "daily_views": 21,
+      "total_views": 36749,
+      "daily_views": 23,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -358,8 +358,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 고속도로 한복판에서 차가 갑자기 멈춰 서고, 견인차는 한참을 기다려야 한다는데 뒤로는 차들이 쌩쌩 달리는 그 막막함. 저는 시골길에서 지인 차가 도랑에 빠졌는데 마땅한 견인 도…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22942/6_9_thumb.jpg",
       "published_label": "2개월 전",
-      "views": 2712,
-      "daily_views": 3,
+      "views": 2713,
+      "daily_views": 4,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1018,8 +1018,8 @@
       "excerpt": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁 ChatGPT는 2026년에도 개인 생산성 혁신의 핵심 도구로 자리매김하고 있습니다. 최신 GPT 모델과 고급 프롬프트 엔지니어링을 활용하면 정보 요약, 아이디어 발상, 콘텐츠 초안 작성…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25219/14_10_img1.jpg",
       "published_label": "1개월 전",
-      "views": 591,
-      "daily_views": 3,
+      "views": 592,
+      "daily_views": 4,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1252,6 +1252,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22528,
+      "title": "세 번 잘못 사고 나서야 알게 된 강아지 발톱깎이 고르는 법",
+      "url": "https://wikidocs.net/blog/@petpicknote/22528/",
+      "excerpt": "title: \"세 번 잘못 사고 나서야 알게 된 강아지 발톱깎이 고르는 법\" tags: [미용·목욕용품] 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 강아지 발톱깎이, 별거 아니라고 생각하고 아무거나 처음 눈에 띄는 걸 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22528/7_1.jpg",
+      "published_label": "2개월 전",
+      "views": 382,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22553,
       "title": "장마철 눅눅한 욕실에서 손 씻을 때마다 찝찝했다면, 자동 손세정기 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@smartliving/22553/",
@@ -1265,21 +1280,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22528,
-      "title": "세 번 잘못 사고 나서야 알게 된 강아지 발톱깎이 고르는 법",
-      "url": "https://wikidocs.net/blog/@petpicknote/22528/",
-      "excerpt": "title: \"세 번 잘못 사고 나서야 알게 된 강아지 발톱깎이 고르는 법\" tags: [미용·목욕용품] 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 강아지 발톱깎이, 별거 아니라고 생각하고 아무거나 처음 눈에 띄는 걸 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22528/7_1.jpg",
-      "published_label": "2개월 전",
-      "views": 381,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 25044,
@@ -1633,8 +1633,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 아침마다 영양제 챙겨 먹으려고 마음은 먹지만, 막상 화장대 앞에 서면 어떤 성분이 들어있는지 라벨 뒷면 깨알 같은 글씨를 한참 들여다보다 그냥 아무거나 집어 드신 경험, 다들 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23355/10_2_product1.jpg",
       "published_label": "2개월 전",
-      "views": 200,
-      "daily_views": 0,
+      "views": 201,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -2902,6 +2902,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 28276,
+      "title": "부모님 집들이 선물 고민하는 자녀, 사진 인화비 없이 수백 장 보여주는 와이파이 디지털액자",
+      "url": "https://wikidocs.net/blog/@smartliving/28276/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 부모님 댁에 갈 때마다 뭘 선물해야 좋아하실지 매번 고민하신 적 많으실 겁니다. 옷이나 건강식품은 이미 넘쳐나고, 막상 손주 사진이라도 인화해드리려니 사진관 다녀오는 것도 일이…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/28276/30_2_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 94,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24656,
       "title": "업무 관리 어플, 5인 팀의 피드백 누락 줄이는 실시간 공유 기능 6가지",
       "url": "https://wikidocs.net/blog/@petpicknote/24656/",
@@ -2922,21 +2937,6 @@
       "url": "https://wikidocs.net/blog/@smartliving/28383/",
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 밤 10시, 겨우 재우고 나온 줄 알았던 아기가 목욕만 시작하면 자지러지게 우신 적 있으신가요? 손등으로 몇 번을 확인해도 \"이게 미지근한 건지 뜨거운 건지\" 계속 불안한 채로…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28383/31_1_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 93,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 28276,
-      "title": "부모님 집들이 선물 고민하는 자녀, 사진 인화비 없이 수백 장 보여주는 와이파이 디지털액자",
-      "url": "https://wikidocs.net/blog/@smartliving/28276/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 부모님 댁에 갈 때마다 뭘 선물해야 좋아하실지 매번 고민하신 적 많으실 겁니다. 옷이나 건강식품은 이미 넘쳐나고, 막상 손주 사진이라도 인화해드리려니 사진관 다녀오는 것도 일이…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28276/30_2_product1.jpg",
       "published_label": "1개월 전",
       "views": 93,
       "daily_views": 0,
@@ -3802,6 +3802,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23762,
+      "title": "블랙박스 살 때 다들 놓치는 체크포인트 한 가지, 상시전원 케이블입니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23762/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 주차 중에 무슨 일이 있었는지 확인하려고 블랙박스 영상을 열었는데, 정작 그 시간에는 녹화가 꺼져 있어서 허탈했던 경험 있으실 겁니다. 배터리 방전이 걱정돼서 아예 주차녹화 기…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23762/10_4_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 73,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 28568,
       "title": "침구 진드기 걱정되는 가정, 10초 분사로 집먼지진드기까지 잡아주는 퇴치 스프레이",
       "url": "https://wikidocs.net/blog/@smartliving/28568/",
@@ -3875,21 +3890,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23762,
-      "title": "블랙박스 살 때 다들 놓치는 체크포인트 한 가지, 상시전원 케이블입니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23762/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 주차 중에 무슨 일이 있었는지 확인하려고 블랙박스 영상을 열었는데, 정작 그 시간에는 녹화가 꺼져 있어서 허탈했던 경험 있으실 겁니다. 배터리 방전이 걱정돼서 아예 주차녹화 기…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23762/10_4_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 72,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 22672,
@@ -4177,6 +4177,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23759,
+      "title": "장거리 운전 잦으신 분이라면, 차량용 수납함 하나로 잡동사니 정리 확실히 됐다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23759/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 운전하다가 조수석이나 뒷좌석 바닥에 굴러다니는 이런저런 잡동사니를 보고 한숨 쉬어보신 적 있으실 겁니다. 급하게 브레이크를 밟았을 때 물건이 좌석 틈으로 굴러 들어가서, 신호 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23759/10_1_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 68,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 21910,
       "title": "장마철 짐칸에서 음식 상하던 차박이, 차량용 냉장고 하나로 달라지기까지 TOP3",
       "url": "https://wikidocs.net/blog/@cartemlab/21910/",
@@ -4460,21 +4475,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23759,
-      "title": "장거리 운전 잦으신 분이라면, 차량용 수납함 하나로 잡동사니 정리 확실히 됐다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23759/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 운전하다가 조수석이나 뒷좌석 바닥에 굴러다니는 이런저런 잡동사니를 보고 한숨 쉬어보신 적 있으실 겁니다. 급하게 브레이크를 밟았을 때 물건이 좌석 틈으로 굴러 들어가서, 신호 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23759/10_1_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 66,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 22285,
@@ -10942,6 +10942,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 30605,
+      "title": "책상 서랍 뒤죽박죽인 재택근무 직장인, 3천원대로 정리 끝내주는 칸막이 트레이",
+      "url": "https://wikidocs.net/blog/@smartliving/30605/",
+      "excerpt": "책상 서랍 뒤죽박죽인 재택근무 직장인, 3천원대로 정리 끝내주는 칸막이 트레이 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 급하게 볼펜이나 포스트잇을 찾으려고 서랍을 열었는데, 클립·영수증·충전 케이블이 뒤섞여 원하는 물…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30605/49_8_product1.jpg",
+      "published_label": "6일 전",
+      "views": 17,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 30278,
       "title": "주말마다 캠핑 가는 캠핑족, 조리 준비시간 20분 줄여주는 캠핑 키친스탠드",
       "url": "https://wikidocs.net/blog/@smartliving/30278/",
@@ -10993,21 +11008,6 @@
       "excerpt": "장시간 모니터 보는 재택근무자, 눈 피로 확 풀어주는 온열 아이마스크 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 오후 3시쯤 되면 모니터 글씨가 흐릿해 보이고 눈두덩이가 뻑뻑해지는 느낌, 익숙하시죠. 잠깐 눈을 감아봐도…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/30691/50_4_product1.jpg",
       "published_label": "5일 전",
-      "views": 16,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 30605,
-      "title": "책상 서랍 뒤죽박죽인 재택근무 직장인, 3천원대로 정리 끝내주는 칸막이 트레이",
-      "url": "https://wikidocs.net/blog/@smartliving/30605/",
-      "excerpt": "책상 서랍 뒤죽박죽인 재택근무 직장인, 3천원대로 정리 끝내주는 칸막이 트레이 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 급하게 볼펜이나 포스트잇을 찾으려고 서랍을 열었는데, 클립·영수증·충전 케이블이 뒤섞여 원하는 물…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30605/49_8_product1.jpg",
-      "published_label": "6일 전",
       "views": 16,
       "daily_views": 0,
       "likes": 0,
@@ -11670,8 +11670,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 고속도로 한복판에서 차가 갑자기 멈춰 서고, 견인차는 한참을 기다려야 한다는데 뒤로는 차들이 쌩쌩 달리는 그 막막함. 저는 시골길에서 지인 차가 도랑에 빠졌는데 마땅한 견인 도…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22942/6_9_thumb.jpg",
       "published_label": "2개월 전",
-      "views": 2712,
-      "daily_views": 3,
+      "views": 2713,
+      "daily_views": 4,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -11696,6 +11696,36 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22942,
+      "title": "고속도로에서 차 퍼졌는데 견인 방법 몰라 쩔쩔맨 뒤에야 알게 된 견인 로프 고르는 법",
+      "url": "https://wikidocs.net/blog/@cartemlab/22942/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 고속도로 한복판에서 차가 갑자기 멈춰 서고, 견인차는 한참을 기다려야 한다는데 뒤로는 차들이 쌩쌩 달리는 그 막막함. 저는 시골길에서 지인 차가 도랑에 빠졌는데 마땅한 견인 도…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22942/6_9_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 2713,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
+      "id": 25219,
+      "title": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁",
+      "url": "https://wikidocs.net/blog/@petpicknote/25219/",
+      "excerpt": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁 ChatGPT는 2026년에도 개인 생산성 혁신의 핵심 도구로 자리매김하고 있습니다. 최신 GPT 모델과 고급 프롬프트 엔지니어링을 활용하면 정보 요약, 아이디어 발상, 콘텐츠 초안 작성…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25219/14_10_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 592,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 25211,
       "title": "KAMP AI, 2026년 스타트업이 정부 지원으로 AI 모델 개발할 방법 3가지",
       "url": "https://wikidocs.net/blog/@petpicknote/25211/",
@@ -11709,21 +11739,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22942,
-      "title": "고속도로에서 차 퍼졌는데 견인 방법 몰라 쩔쩔맨 뒤에야 알게 된 견인 로프 고르는 법",
-      "url": "https://wikidocs.net/blog/@cartemlab/22942/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 고속도로 한복판에서 차가 갑자기 멈춰 서고, 견인차는 한참을 기다려야 한다는데 뒤로는 차들이 쌩쌩 달리는 그 막막함. 저는 시골길에서 지인 차가 도랑에 빠졌는데 마땅한 견인 도…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22942/6_9_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 2712,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 23367,
@@ -11754,21 +11769,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 25219,
-      "title": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁",
-      "url": "https://wikidocs.net/blog/@petpicknote/25219/",
-      "excerpt": "ChatGPT 공식 가이드: 2026년 개인 생산성 2배 높이는 7가지 핵심 팁 ChatGPT는 2026년에도 개인 생산성 혁신의 핵심 도구로 자리매김하고 있습니다. 최신 GPT 모델과 고급 프롬프트 엔지니어링을 활용하면 정보 요약, 아이디어 발상, 콘텐츠 초안 작성…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25219/14_10_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 591,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 24336,
@@ -11906,6 +11906,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 23759,
+      "title": "장거리 운전 잦으신 분이라면, 차량용 수납함 하나로 잡동사니 정리 확실히 됐다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23759/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 운전하다가 조수석이나 뒷좌석 바닥에 굴러다니는 이런저런 잡동사니를 보고 한숨 쉬어보신 적 있으실 겁니다. 급하게 브레이크를 밟았을 때 물건이 좌석 틈으로 굴러 들어가서, 신호 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23759/10_1_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 68,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23767,
       "title": "차박 다니시는 분들을 위한, 무릎 위에 음식 올려놓고 불편하게 먹던 차박이 이렇게 바뀌기까지 접이식 테이블 TOP3",
       "url": "https://wikidocs.net/blog/@cartemlab/23767/",
@@ -11928,21 +11943,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24164/14_9_product1.jpg",
       "published_label": "2개월 전",
       "views": 33,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24471,
-      "title": "혹시 아직도 손으로 변기 솔질만 반복하고 계신가요? 무선 변기청소기 선택 기준",
-      "url": "https://wikidocs.net/blog/@smartliving/24471/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 혹시 아직도 변기 솔을 들고 쪼그려 앉아 팔 힘으로 문질러 닦고 계신가요? 아무리 세게 문질러도 변기 안쪽 곡선 부분, 물때가 낀 테두리 아래쪽은 손에 닿기도 힘들고 힘도 잘 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24471/15_4_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 28,
       "daily_views": 2,
       "likes": 0,
       "comments": 0,
@@ -12258,8 +12258,8 @@
     },
     {
       "date": "2026-09-14",
-      "views": 113
+      "views": 122
     }
   ],
-  "static_generated_at": "2026-09-14T12:01:00+09:00"
+  "static_generated_at": "2026-09-14T12:31:58+09:00"
 }
