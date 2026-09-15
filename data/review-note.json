@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-15T13:01:58+09:00",
+  "latest_snapshot_at": "2026-09-15T13:31:57+09:00",
   "latest_snapshot_date": "2026-09-15",
   "catalog_updated_at": "2026-09-15T00:00:30+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 754,
-    "total_views": 319278,
-    "daily_views": 133,
+    "total_views": 319287,
+    "daily_views": 142,
     "previous_day_views": 266,
     "previous_day_date": "2026-09-14",
-    "current_month_views": 7204,
+    "current_month_views": 7213,
     "days_recorded": 78
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 161302,
-      "daily_views": 37,
+      "total_views": 161305,
+      "daily_views": 40,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 486,
       "captured_posts": 486,
-      "total_views": 121189,
-      "daily_views": 81,
+      "total_views": 121193,
+      "daily_views": 85,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 36787,
-      "daily_views": 15,
+      "total_views": 36789,
+      "daily_views": 17,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -523,8 +523,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 내비 켜고 음악 틀고, 블랙박스에 충전까지 하다 보면 스마트폰 배터리는 오히려 줄어드는 경험, 다들 있으실 겁니다. 특히 오래된 시거잭 충전기를 쓰면 목적지 다 와가도록 배터리…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22288/3_7_thumb.jpg",
       "published_label": "2개월 전",
-      "views": 1843,
-      "daily_views": 2,
+      "views": 1844,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -2128,8 +2128,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름엔 세차만 부지런히 하면 차가 깨끗할 거라 생각하기 쉽습니다. 그런데 소나기 한 번 맞으면 앞유리에 빗방울이 뭉쳐 시야를 가리고, 뙤약볕에 물기가 마르며 얼룩이 남죠. 아무…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22289/3_8_thumb.jpg",
       "published_label": "2개월 전",
-      "views": 134,
-      "daily_views": 0,
+      "views": 135,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -2482,6 +2482,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24658,
+      "title": "A AGI 인공지능, 2026년 미래 사회 변화를 예측할 3가지 시나리오",
+      "url": "https://wikidocs.net/blog/@petpicknote/24658/",
+      "excerpt": "AGI 인공지능, 2026년 미래 사회 변화를 예측할 3가지 시나리오 AGI(인공 일반 지능)의 발전은 2026년을 기점으로 사회 전반에 걸쳐 광범위한 변화를 가져올 것으로 예측됩니다. 전문가들은 AGI의 상용화와 기술 통합 수준에 따라 '인간-AI 협력 심화', '…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24658/13_9_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 108,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24652,
       "title": "무료 DB, 1인 사업자를 위한 고객 정보 관리 최적 솔루션 4가지 (2026년 최신)",
       "url": "https://wikidocs.net/blog/@petpicknote/24652/",
@@ -2555,21 +2570,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24658,
-      "title": "A AGI 인공지능, 2026년 미래 사회 변화를 예측할 3가지 시나리오",
-      "url": "https://wikidocs.net/blog/@petpicknote/24658/",
-      "excerpt": "AGI 인공지능, 2026년 미래 사회 변화를 예측할 3가지 시나리오 AGI(인공 일반 지능)의 발전은 2026년을 기점으로 사회 전반에 걸쳐 광범위한 변화를 가져올 것으로 예측됩니다. 전문가들은 AGI의 상용화와 기술 통합 수준에 따라 '인간-AI 협력 심화', '…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24658/13_9_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 106,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 28277,
@@ -4027,6 +4027,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 30507,
+      "title": "즉석밥 매일 사먹던 자취생, 월 3만원 아껴주는 냉동밥 소분용기",
+      "url": "https://wikidocs.net/blog/@smartliving/30507/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근하고 씻고 나면 밥솥 취사 버튼 누르는 것조차 귀찮아서, 결국 편의점에서 즉석밥 하나를 집어 드는 날이 많으실 겁니다. 그렇게 하루 이틀 사 먹다 보면 한 달 즉석밥 값만 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30507/48_1_product1.jpg",
+      "published_label": "8일 전",
+      "views": 71,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28826,
       "title": "물놀이 나가는 영유아 부모, 9900원대 60cm로 태워주는 유아 물놀이 튜브",
       "url": "https://wikidocs.net/blog/@smartliving/28826/",
@@ -4070,21 +4085,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 30507,
-      "title": "즉석밥 매일 사먹던 자취생, 월 3만원 아껴주는 냉동밥 소분용기",
-      "url": "https://wikidocs.net/blog/@smartliving/30507/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근하고 씻고 나면 밥솥 취사 버튼 누르는 것조차 귀찮아서, 결국 편의점에서 즉석밥 하나를 집어 드는 날이 많으실 겁니다. 그렇게 하루 이틀 사 먹다 보면 한 달 즉석밥 값만 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30507/48_1_product1.jpg",
-      "published_label": "8일 전",
-      "views": 70,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 28733,
@@ -8212,6 +8212,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 30462,
+      "title": "초가을 야간 캠핑 나서는 캠핑족, 배터리값 5천원 아껴주는 미니 캠핑 랜턴",
+      "url": "https://wikidocs.net/blog/@smartliving/30462/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 낮에는 아직 반팔도 괜찮을 만큼 따뜻하지만, 해가 지고 나면 캠핑장 기온이 뚝 떨어지는 계절이 왔습니다. 이럴 때일수록 밤에 텐트 안팎을 밝혀줄 조명이 중요한데, 헤드랜턴 하나…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30462/47_5_product1.jpg",
+      "published_label": "9일 전",
+      "views": 40,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 30066,
       "title": "가을 밤 기온 10도 떨어지는 캠핑족, 감기약값 1만원 아껴주는 사계절 캠핑 침낭",
       "url": "https://wikidocs.net/blog/@smartliving/30066/",
@@ -8400,21 +8415,6 @@
       "published_label": "8일 전",
       "views": 39,
       "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 30462,
-      "title": "초가을 야간 캠핑 나서는 캠핑족, 배터리값 5천원 아껴주는 미니 캠핑 랜턴",
-      "url": "https://wikidocs.net/blog/@smartliving/30462/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 낮에는 아직 반팔도 괜찮을 만큼 따뜻하지만, 해가 지고 나면 캠핑장 기온이 뚝 떨어지는 계절이 왔습니다. 이럴 때일수록 밤에 텐트 안팎을 밝혀줄 조명이 중요한데, 헤드랜턴 하나…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30462/47_5_product1.jpg",
-      "published_label": "9일 전",
-      "views": 39,
-      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -9202,6 +9202,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 23552,
+      "title": "야간에 갓길 정차 잦은 분들이 두 번 아찔한 순간 겪고 나서야 알게 된 반사조끼 고르는 법",
+      "url": "https://wikidocs.net/blog/@cartemlab/23552/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 야간 도로 갓길에 비상등만 켜놓고 서 있는데, 뒤에서 오는 차 헤드라이트가 훅 다가오다 마지막 순간에야 방향을 트는 걸 보고 등골이 서늘했던 경험 있으실 겁니다. 그날 이후로 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23552/9_3_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 33,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24229,
       "title": "폼롤러 살 때 놓치는 체크포인트 세 가지를 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/24229/",
@@ -9357,21 +9372,6 @@
       "url": "https://wikidocs.net/blog/@cartemlab/23765/",
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 에어컨을 세게 틀어도 목 뒤로 훅훅 올라오는 열기 때문에 신호 대기 중 땀이 목덜미를 타고 흐른 경험 있으실 겁니다. 에어컨 바람은 얼굴 쪽만 시원하고 정작 뒷목은 여전히 후끈…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23765/10_7_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 32,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 23552,
-      "title": "야간에 갓길 정차 잦은 분들이 두 번 아찔한 순간 겪고 나서야 알게 된 반사조끼 고르는 법",
-      "url": "https://wikidocs.net/blog/@cartemlab/23552/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 야간 도로 갓길에 비상등만 켜놓고 서 있는데, 뒤에서 오는 차 헤드라이트가 훅 다가오다 마지막 순간에야 방향을 트는 걸 보고 등골이 서늘했던 경험 있으실 겁니다. 그날 이후로 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23552/9_3_thumb.jpg",
       "published_label": "2개월 전",
       "views": 32,
       "daily_views": 0,
@@ -10192,6 +10192,36 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 30186,
+      "title": "퇴근 후 방 분위기 아쉬운 자취생, 카페값 1만원 아껴주는 홈카페 무드조명 세트",
+      "url": "https://wikidocs.net/blog/@smartliving/30186/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 형광등 하나로는 하루의 피로가 풀리지 않습니다 퇴근하고 집에 돌아와 불을 켜면 새하얀 형광등 조명이 방 안을 가득 채웁니다. 밝기는 충분하지만 왠지 마음이 편해지지 않는 느낌,…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30186/44_9_product1.jpg",
+      "published_label": "12일 전",
+      "views": 27,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 30065,
+      "title": "환절기 비 잦아진 원룸 자취생, 건조비 3천원 아껴주는 미니 실내 빨래건조대",
+      "url": "https://wikidocs.net/blog/@smartliving/30065/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 빨래를 널었는데 이틀이 지나도 눅눅한 냄새가 가시지 않은 적 있으실 겁니다 환절기에는 비 오는 날이 잦아지고 습도까지 높아지면서, 베란다에 널어둔 빨래가 좀처럼 마르지 않습니다…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30065/43_4_product1.jpg",
+      "published_label": "13일 전",
+      "views": 27,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24645,
       "title": "요즘 다들 베갯잇부터 인견으로 바꾼다는, 여름 인견 베개커버 이유가 있었습니다",
       "url": "https://wikidocs.net/blog/@smartliving/24645/",
@@ -10237,42 +10267,12 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 30186,
-      "title": "퇴근 후 방 분위기 아쉬운 자취생, 카페값 1만원 아껴주는 홈카페 무드조명 세트",
-      "url": "https://wikidocs.net/blog/@smartliving/30186/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 형광등 하나로는 하루의 피로가 풀리지 않습니다 퇴근하고 집에 돌아와 불을 켜면 새하얀 형광등 조명이 방 안을 가득 채웁니다. 밝기는 충분하지만 왠지 마음이 편해지지 않는 느낌,…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30186/44_9_product1.jpg",
-      "published_label": "12일 전",
-      "views": 26,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
       "id": 30184,
       "title": "환절기에도 안 사라지는 초파리, 스프레이값 월 1만원 아껴주는 실내 파리트랩",
       "url": "https://wikidocs.net/blog/@smartliving/30184/",
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름은 끝났는데, 초파리는 여전히 사라지지 않습니다 날씨가 선선해지면 벌레도 자연히 줄어들 거라 생각하기 쉽지만, 실제로는 환절기에도 초파리와 날파리가 좀처럼 사라지지 않는 경…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/30184/44_7_product1.jpg",
       "published_label": "12일 전",
-      "views": 26,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 30065,
-      "title": "환절기 비 잦아진 원룸 자취생, 건조비 3천원 아껴주는 미니 실내 빨래건조대",
-      "url": "https://wikidocs.net/blog/@smartliving/30065/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 빨래를 널었는데 이틀이 지나도 눅눅한 냄새가 가시지 않은 적 있으실 겁니다 환절기에는 비 오는 날이 잦아지고 습도까지 높아지면서, 베란다에 널어둔 빨래가 좀처럼 마르지 않습니다…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30065/43_4_product1.jpg",
-      "published_label": "13일 전",
       "views": 26,
       "daily_views": 0,
       "likes": 0,
@@ -11696,6 +11696,36 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24658,
+      "title": "A AGI 인공지능, 2026년 미래 사회 변화를 예측할 3가지 시나리오",
+      "url": "https://wikidocs.net/blog/@petpicknote/24658/",
+      "excerpt": "AGI 인공지능, 2026년 미래 사회 변화를 예측할 3가지 시나리오 AGI(인공 일반 지능)의 발전은 2026년을 기점으로 사회 전반에 걸쳐 광범위한 변화를 가져올 것으로 예측됩니다. 전문가들은 AGI의 상용화와 기술 통합 수준에 따라 '인간-AI 협력 심화', '…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24658/13_9_img1.jpg",
+      "published_label": "1개월 전",
+      "views": 108,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 22288,
+      "title": "매일 내비 켜고 운전하는 분들, 혹시 아직도 느린 시거잭 충전기로 답답하게 다니고 계신가요?",
+      "url": "https://wikidocs.net/blog/@cartemlab/22288/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 내비 켜고 음악 틀고, 블랙박스에 충전까지 하다 보면 스마트폰 배터리는 오히려 줄어드는 경험, 다들 있으실 겁니다. 특히 오래된 시거잭 충전기를 쓰면 목적지 다 와가도록 배터리…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22288/3_7_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 1844,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24335,
       "title": "차박 갈 때마다 음식 상하던 분들, 차량용 냉장고 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/24335/",
@@ -11756,21 +11786,6 @@
       "blog_name": "카템랩"
     },
     {
-      "id": 22288,
-      "title": "매일 내비 켜고 운전하는 분들, 혹시 아직도 느린 시거잭 충전기로 답답하게 다니고 계신가요?",
-      "url": "https://wikidocs.net/blog/@cartemlab/22288/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 내비 켜고 음악 틀고, 블랙박스에 충전까지 하다 보면 스마트폰 배터리는 오히려 줄어드는 경험, 다들 있으실 겁니다. 특히 오래된 시거잭 충전기를 쓰면 목적지 다 와가도록 배터리…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22288/3_7_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 1843,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
       "id": 22924,
       "title": "가깝게 짧게 떠나는 여름휴가족이라면, 물 금방 미지근해지는 문제 보냉 텀블러 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@smartliving/22924/",
@@ -11801,19 +11816,19 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 24658,
-      "title": "A AGI 인공지능, 2026년 미래 사회 변화를 예측할 3가지 시나리오",
-      "url": "https://wikidocs.net/blog/@petpicknote/24658/",
-      "excerpt": "AGI 인공지능, 2026년 미래 사회 변화를 예측할 3가지 시나리오 AGI(인공 일반 지능)의 발전은 2026년을 기점으로 사회 전반에 걸쳐 광범위한 변화를 가져올 것으로 예측됩니다. 전문가들은 AGI의 상용화와 기술 통합 수준에 따라 '인간-AI 협력 심화', '…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24658/13_9_img1.jpg",
-      "published_label": "1개월 전",
-      "views": 106,
+      "id": 30507,
+      "title": "즉석밥 매일 사먹던 자취생, 월 3만원 아껴주는 냉동밥 소분용기",
+      "url": "https://wikidocs.net/blog/@smartliving/30507/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근하고 씻고 나면 밥솥 취사 버튼 누르는 것조차 귀찮아서, 결국 편의점에서 즉석밥 하나를 집어 드는 날이 많으실 겁니다. 그렇게 하루 이틀 사 먹다 보면 한 달 즉석밥 값만 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30507/48_1_product1.jpg",
+      "published_label": "8일 전",
+      "views": 71,
       "daily_views": 2,
       "likes": 0,
       "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
     },
     {
       "id": 30514,
@@ -11859,6 +11874,21 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
+    },
+    {
+      "id": 30462,
+      "title": "초가을 야간 캠핑 나서는 캠핑족, 배터리값 5천원 아껴주는 미니 캠핑 랜턴",
+      "url": "https://wikidocs.net/blog/@smartliving/30462/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 낮에는 아직 반팔도 괜찮을 만큼 따뜻하지만, 해가 지고 나면 캠핑장 기온이 뚝 떨어지는 계절이 왔습니다. 이럴 때일수록 밤에 텐트 안팎을 밝혀줄 조명이 중요한데, 헤드랜턴 하나…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30462/47_5_product1.jpg",
+      "published_label": "9일 전",
+      "views": 40,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
     },
     {
       "id": 29876,
@@ -11913,36 +11943,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22692/5_1_thumb.jpg",
       "published_label": "2개월 전",
       "views": 104950,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 22925,
-      "title": "폭염에 산책 나가기 겁나는 반려견 보호자를 위한, 체온 확 낮춰주는 강아지 쿨링조끼 이렇게 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/22925/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 산책 나가야 하는 시간인데 창밖 햇볕이 너무 뜨거워서, 반려견 목줄을 잡고도 한참을 망설였던 경험 있으실 겁니다. 폭염특보가 전국 대부분 지역으로 확대되는 요즘 같은 날씨엔, …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22925/8_5_product1.jpg",
-      "published_label": "2개월 전",
-      "views": 2599,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22283,
-      "title": "여름 휴가 차박 갈 때마다 등 배기고 잠 설쳤다면, 차박매트 추천 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22283/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 설레는 마음으로 떠난 여름 휴가 차박, 그런데 막상 뒷좌석을 접고 누웠더니 등에 배기는 딱딱한 바닥과 시트 사이 틈이 밤새 신경 쓰였던 경험, 한 번쯤 있으실 겁니다. 얇은 담…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22283/3_2_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 2183,
       "daily_views": 1,
       "likes": 0,
       "comments": 0,
@@ -12262,8 +12262,8 @@
     },
     {
       "date": "2026-09-15",
-      "views": 133
+      "views": 142
     }
   ],
-  "static_generated_at": "2026-09-15T13:01:59+09:00"
+  "static_generated_at": "2026-09-15T13:31:58+09:00"
 }
