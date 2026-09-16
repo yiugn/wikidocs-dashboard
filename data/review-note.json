@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-16T17:01:58+09:00",
+  "latest_snapshot_at": "2026-09-16T18:31:57+09:00",
   "latest_snapshot_date": "2026-09-16",
   "catalog_updated_at": "2026-09-16T00:00:34+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 754,
-    "total_views": 319549,
-    "daily_views": 173,
+    "total_views": 319556,
+    "daily_views": 180,
     "previous_day_views": 231,
     "previous_day_date": "2026-09-15",
-    "current_month_views": 7475,
+    "current_month_views": 7482,
     "days_recorded": 79
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 161380,
-      "daily_views": 44,
+      "total_views": 161382,
+      "daily_views": 46,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 486,
       "captured_posts": 486,
-      "total_views": 121308,
-      "daily_views": 76,
+      "total_views": 121309,
+      "daily_views": 77,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 36861,
-      "daily_views": 53,
+      "total_views": 36865,
+      "daily_views": 57,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -853,8 +853,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박의 로망은 크지만, 막상 트렁크 바닥에 누우면 딱딱하고 울퉁불퉁해서 잠을 설치기 일쑤다. 에어매트리스 하나면 그 딱딱함을 완전히 없애고, 집 침대 못지않은 편안함으로 하룻밤…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23346/8_4_thumb.jpg",
       "published_label": "2개월 전",
-      "views": 828,
-      "daily_views": 1,
+      "views": 829,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1348,8 +1348,8 @@
       "excerpt": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지 2026년 르노코리아 차량의 제조사 보증 기간 만료를 앞두고 있다면, 반드시 공식 서비스 네트워크를 통해 차량을 종합적으로 점검하는 것이 중요합니다. 이는 잠재적인 고장을 무상으로 수리받아 수…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24651/13_2_img1.jpg",
       "published_label": "2개월 전",
-      "views": 344,
-      "daily_views": 3,
+      "views": 345,
+      "daily_views": 4,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1612,6 +1612,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 24011,
+      "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24011/",
+      "excerpt": "✈️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여행 중 배터리 걱정 많으셨다면, 여행 사진과 지도 앱을 하루 종일 켜두다 보니 오후만 되면 스마트폰이 20% 밑으로 떨어져 마음이 조급해졌던 경험이 있으실 겁니다. 특히 항…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24011/10_8_img1.png",
+      "published_label": "2개월 전",
+      "views": 207,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24430,
       "title": "실내 클라이밍 홀드 살 때 놓치는 체크포인트 세 가지",
       "url": "https://wikidocs.net/blog/@petpicknote/24430/",
@@ -1620,21 +1635,6 @@
       "published_label": "2개월 전",
       "views": 206,
       "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 24011,
-      "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24011/",
-      "excerpt": "✈️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여행 중 배터리 걱정 많으셨다면, 여행 사진과 지도 앱을 하루 종일 켜두다 보니 오후만 되면 스마트폰이 20% 밑으로 떨어져 마음이 조급해졌던 경험이 있으실 겁니다. 특히 항…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24011/10_8_img1.png",
-      "published_label": "2개월 전",
-      "views": 206,
-      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1723,8 +1723,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 반짝이던 크롬몰딩이 어느새 뿌옇게 흐려지고 얼룩진 걸 발견하고 속상했던 경험 있으실 겁니다. 세차를 해도 원래의 광이 좀처럼 살아나지 않아 답답했던 분들도 많으실 겁니다. 세차…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23969/12_2_thumb.jpg",
       "published_label": "2개월 전",
-      "views": 189,
-      "daily_views": 1,
+      "views": 190,
+      "daily_views": 2,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -2227,6 +2227,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24655,
+      "title": "동영상 클라우드: 1TB 이상 대용량 파일 관리를 위한 무료 플랜 3가지 (2026년 기준)",
+      "url": "https://wikidocs.net/blog/@petpicknote/24655/",
+      "excerpt": "동영상 클라우드: 1TB 이상 대용량 파일 관리를 위한 무료 플랜 3가지 (2026년 기준) 1TB 이상의 대용량 동영상 파일을 무료로 관리할 수 있는 클라우드 서비스는 현실적으로 매우 제한적입니다. 2026년 현재, 대부분의 클라우드 서비스는 무료 플랜에서 제공하는…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24655/13_6_img1.png",
+      "published_label": "2개월 전",
+      "views": 123,
+      "daily_views": 5,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 27252,
       "title": "발각질제거기 살 때 다들 놓치는 각질 흡입력 체크포인트 한 가지",
       "url": "https://wikidocs.net/blog/@smartliving/27252/",
@@ -2255,21 +2270,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24655,
-      "title": "동영상 클라우드: 1TB 이상 대용량 파일 관리를 위한 무료 플랜 3가지 (2026년 기준)",
-      "url": "https://wikidocs.net/blog/@petpicknote/24655/",
-      "excerpt": "동영상 클라우드: 1TB 이상 대용량 파일 관리를 위한 무료 플랜 3가지 (2026년 기준) 1TB 이상의 대용량 동영상 파일을 무료로 관리할 수 있는 클라우드 서비스는 현실적으로 매우 제한적입니다. 2026년 현재, 대부분의 클라우드 서비스는 무료 플랜에서 제공하는…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24655/13_6_img1.png",
-      "published_label": "2개월 전",
-      "views": 122,
-      "daily_views": 4,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 27397,
@@ -7117,6 +7117,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 22525,
+      "title": "실내 활동이 늘어난 강아지 보호자를 위한, 노즈워크 매트 하나로 폭염철 스트레스 문제행동이 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/22525/",
+      "excerpt": "title: \"실내 활동이 늘어난 강아지 보호자를 위한, 노즈워크 매트 하나로 폭염철 스트레스 문제행동이 확 줄었다는 후기가 많습니다\" tags: [장난감·놀이용품] 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 낮 최고기…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22525/4_1.jpg",
+      "published_label": "2개월 전",
+      "views": 47,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 30516,
       "title": "하루 8시간 모니터 보는 재택근무자, 1만원대로 눈부심 줄여주는 스크린 라이트바",
       "url": "https://wikidocs.net/blog/@smartliving/30516/",
@@ -7212,21 +7227,6 @@
       "url": "https://wikidocs.net/blog/@petpicknote/23371/",
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 반려동물과 잠옷을 맞춰 입고 싶으신 분이라면, 커플 파자마로 바꾸고 나서 사진 찍는 재미가 확 늘었다는 후기가 많습니다. 매일 함께 자고 함께 일어나는 반려동물과 잠옷 스타일까…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23371/7_9_product1.jpg",
-      "published_label": "2개월 전",
-      "views": 46,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22525,
-      "title": "실내 활동이 늘어난 강아지 보호자를 위한, 노즈워크 매트 하나로 폭염철 스트레스 문제행동이 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/22525/",
-      "excerpt": "title: \"실내 활동이 늘어난 강아지 보호자를 위한, 노즈워크 매트 하나로 폭염철 스트레스 문제행동이 확 줄었다는 후기가 많습니다\" tags: [장난감·놀이용품] 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 낮 최고기…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22525/4_1.jpg",
       "published_label": "2개월 전",
       "views": 46,
       "daily_views": 0,
@@ -9127,6 +9127,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 29964,
+      "title": "어지럼증 잦은 자취 여성, 병원비 5만원 아끼며 채워주는 철분엽산 영양제",
+      "url": "https://wikidocs.net/blog/@smartliving/29964/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 지하철 계단 오르다 순간 핑 도는 느낌, 여러 번 겪어보셨을 겁니다 아침 챙겨 먹을 시간도 없이 출근했다가, 오후쯤 되면 유독 머리가 무겁고 손끝이 차가워지는 날이 있으실 겁니…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29964/42_3_product1.jpg",
+      "published_label": "15일 전",
+      "views": 34,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 29868,
       "title": "9월 모기 기승인 자취생, 리필 1개로 45일 버티게 해주는 전자모기향 매트",
       "url": "https://wikidocs.net/blog/@smartliving/29868/",
@@ -9342,21 +9357,6 @@
       "url": "https://wikidocs.net/blog/@smartliving/29971/",
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 옆으로 누워 자고 일어난 아침, 허리가 뻐근해서 몸을 잘 못 편 적 있으실 겁니다 똑바로 누우면 답답하고, 엎드리면 목이 아파서 결국 옆으로 누워 자는 분들 많으실 겁니다. 그…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/29971/42_10_product1.jpg",
-      "published_label": "15일 전",
-      "views": 33,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 29964,
-      "title": "어지럼증 잦은 자취 여성, 병원비 5만원 아끼며 채워주는 철분엽산 영양제",
-      "url": "https://wikidocs.net/blog/@smartliving/29964/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 지하철 계단 오르다 순간 핑 도는 느낌, 여러 번 겪어보셨을 겁니다 아침 챙겨 먹을 시간도 없이 출근했다가, 오후쯤 되면 유독 머리가 무겁고 손끝이 차가워지는 날이 있으실 겁니…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29964/42_3_product1.jpg",
       "published_label": "15일 전",
       "views": 33,
       "daily_views": 0,
@@ -11696,6 +11696,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 24655,
+      "title": "동영상 클라우드: 1TB 이상 대용량 파일 관리를 위한 무료 플랜 3가지 (2026년 기준)",
+      "url": "https://wikidocs.net/blog/@petpicknote/24655/",
+      "excerpt": "동영상 클라우드: 1TB 이상 대용량 파일 관리를 위한 무료 플랜 3가지 (2026년 기준) 1TB 이상의 대용량 동영상 파일을 무료로 관리할 수 있는 클라우드 서비스는 현실적으로 매우 제한적입니다. 2026년 현재, 대부분의 클라우드 서비스는 무료 플랜에서 제공하는…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24655/13_6_img1.png",
+      "published_label": "2개월 전",
+      "views": 123,
+      "daily_views": 5,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22692,
       "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
       "url": "https://wikidocs.net/blog/@cartemlab/22692/",
@@ -11741,13 +11756,13 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 24655,
-      "title": "동영상 클라우드: 1TB 이상 대용량 파일 관리를 위한 무료 플랜 3가지 (2026년 기준)",
-      "url": "https://wikidocs.net/blog/@petpicknote/24655/",
-      "excerpt": "동영상 클라우드: 1TB 이상 대용량 파일 관리를 위한 무료 플랜 3가지 (2026년 기준) 1TB 이상의 대용량 동영상 파일을 무료로 관리할 수 있는 클라우드 서비스는 현실적으로 매우 제한적입니다. 2026년 현재, 대부분의 클라우드 서비스는 무료 플랜에서 제공하는…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24655/13_6_img1.png",
+      "id": 24651,
+      "title": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/24651/",
+      "excerpt": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지 2026년 르노코리아 차량의 제조사 보증 기간 만료를 앞두고 있다면, 반드시 공식 서비스 네트워크를 통해 차량을 종합적으로 점검하는 것이 중요합니다. 이는 잠재적인 고장을 무상으로 수리받아 수…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24651/13_2_img1.jpg",
       "published_label": "2개월 전",
-      "views": 122,
+      "views": 345,
       "daily_views": 4,
       "likes": 0,
       "comments": 0,
@@ -11831,13 +11846,13 @@
       "blog_name": "카템랩"
     },
     {
-      "id": 24651,
-      "title": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/24651/",
-      "excerpt": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지 2026년 르노코리아 차량의 제조사 보증 기간 만료를 앞두고 있다면, 반드시 공식 서비스 네트워크를 통해 차량을 종합적으로 점검하는 것이 중요합니다. 이는 잠재적인 고장을 무상으로 수리받아 수…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24651/13_2_img1.jpg",
+      "id": 24657,
+      "title": "노션 업무 관리, 사회 초년생이 입사 첫 달에 빠르게 익힐 사용법 5단계",
+      "url": "https://wikidocs.net/blog/@petpicknote/24657/",
+      "excerpt": "노션 업무 관리, 사회 초년생이 입사 첫 달에 빠르게 익힐 사용법 5단계 사회 초년생이라면 입사 첫 달에 새로운 업무 환경과 방대한 정보를 마주하며 막막함을 느낄 수 있습니다. 노션(Notion)은 이러한 혼란을 체계적으로 정리하고 업무 효율을 극대화하는 강력한 도구…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24657/13_8_img1.jpg",
       "published_label": "2개월 전",
-      "views": 344,
+      "views": 236,
       "daily_views": 3,
       "likes": 0,
       "comments": 0,
@@ -11846,13 +11861,13 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 24657,
-      "title": "노션 업무 관리, 사회 초년생이 입사 첫 달에 빠르게 익힐 사용법 5단계",
-      "url": "https://wikidocs.net/blog/@petpicknote/24657/",
-      "excerpt": "노션 업무 관리, 사회 초년생이 입사 첫 달에 빠르게 익힐 사용법 5단계 사회 초년생이라면 입사 첫 달에 새로운 업무 환경과 방대한 정보를 마주하며 막막함을 느낄 수 있습니다. 노션(Notion)은 이러한 혼란을 체계적으로 정리하고 업무 효율을 극대화하는 강력한 도구…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24657/13_8_img1.jpg",
+      "id": 24011,
+      "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24011/",
+      "excerpt": "✈️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여행 중 배터리 걱정 많으셨다면, 여행 사진과 지도 앱을 하루 종일 켜두다 보니 오후만 되면 스마트폰이 20% 밑으로 떨어져 마음이 조급해졌던 경험이 있으실 겁니다. 특히 항…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24011/10_8_img1.png",
       "published_label": "2개월 전",
-      "views": 236,
+      "views": 207,
       "daily_views": 3,
       "likes": 0,
       "comments": 0,
@@ -11921,34 +11936,19 @@
       "blog_name": "카템랩"
     },
     {
-      "id": 24011,
-      "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24011/",
-      "excerpt": "✈️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여행 중 배터리 걱정 많으셨다면, 여행 사진과 지도 앱을 하루 종일 켜두다 보니 오후만 되면 스마트폰이 20% 밑으로 떨어져 마음이 조급해졌던 경험이 있으실 겁니다. 특히 항…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24011/10_8_img1.png",
+      "id": 23346,
+      "title": "차박 갔다가 딱딱한 바닥에 허리 배기던 분들을 위한 에어매트리스 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23346/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박의 로망은 크지만, 막상 트렁크 바닥에 누우면 딱딱하고 울퉁불퉁해서 잠을 설치기 일쑤다. 에어매트리스 하나면 그 딱딱함을 완전히 없애고, 집 침대 못지않은 편안함으로 하룻밤…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23346/8_4_thumb.jpg",
       "published_label": "2개월 전",
-      "views": 206,
+      "views": 829,
       "daily_views": 2,
       "likes": 0,
       "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 23525,
-      "title": "주말 홈시네마 즐기고 싶은 자취생·신혼부부를 위한 미니 빔프로젝터",
-      "url": "https://wikidocs.net/blog/@smartliving/23525/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 주말 저녁, 굳이 영화관까지 나가지 않아도 집에서 큰 화면으로 영화를 보고 싶다는 생각, 자취를 하거나 신혼집을 꾸리신 분이라면 한 번쯤 해보셨을 겁니다. 하지만 TV만으로는 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23525/11_9_product1.jpg",
-      "published_label": "2개월 전",
-      "views": 185,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
     }
   ],
   "daily_totals": [
@@ -12266,8 +12266,8 @@
     },
     {
       "date": "2026-09-16",
-      "views": 173
+      "views": 180
     }
   ],
-  "static_generated_at": "2026-09-16T18:01:02+09:00"
+  "static_generated_at": "2026-09-16T18:31:58+09:00"
 }
