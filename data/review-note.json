@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-18T05:01:58+09:00",
+  "latest_snapshot_at": "2026-09-18T06:31:56+09:00",
   "latest_snapshot_date": "2026-09-18",
   "catalog_updated_at": "2026-09-18T00:00:32+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 754,
-    "total_views": 319916,
-    "daily_views": 53,
+    "total_views": 319921,
+    "daily_views": 58,
     "previous_day_views": 249,
     "previous_day_date": "2026-09-17",
-    "current_month_views": 7842,
+    "current_month_views": 7847,
     "days_recorded": 81
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 161502,
-      "daily_views": 18,
+      "total_views": 161504,
+      "daily_views": 20,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 36980,
-      "daily_views": 19,
+      "total_views": 36983,
+      "daily_views": 22,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -898,8 +898,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 에어컨을 틀어놔도 거실 한쪽 구석, 특히 반려동물이 자주 머무는 바닥 쪽은 여전히 후텁지근하게 느껴지실 때가 많으실 겁니다. 찬 공기는 위쪽에서만 맴돌고, 정작 바닥에 배를 붙…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23115/10_1.jpg",
       "published_label": "2개월 전",
-      "views": 760,
-      "daily_views": 0,
+      "views": 761,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1237,6 +1237,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22528,
+      "title": "세 번 잘못 사고 나서야 알게 된 강아지 발톱깎이 고르는 법",
+      "url": "https://wikidocs.net/blog/@petpicknote/22528/",
+      "excerpt": "title: \"세 번 잘못 사고 나서야 알게 된 강아지 발톱깎이 고르는 법\" tags: [미용·목욕용품] 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 강아지 발톱깎이, 별거 아니라고 생각하고 아무거나 처음 눈에 띄는 걸 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22528/7_1.jpg",
+      "published_label": "2개월 전",
+      "views": 385,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22544,
       "title": "아이 키우는 집이라면, 장마철 흙탕물 자국 걱정 확 줄여주는 무선 물걸레청소기 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/22544/",
@@ -1250,21 +1265,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22528,
-      "title": "세 번 잘못 사고 나서야 알게 된 강아지 발톱깎이 고르는 법",
-      "url": "https://wikidocs.net/blog/@petpicknote/22528/",
-      "excerpt": "title: \"세 번 잘못 사고 나서야 알게 된 강아지 발톱깎이 고르는 법\" tags: [미용·목욕용품] 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 강아지 발톱깎이, 별거 아니라고 생각하고 아무거나 처음 눈에 띄는 걸 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22528/7_1.jpg",
-      "published_label": "2개월 전",
-      "views": 384,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 22553,
@@ -1822,6 +1822,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 22344,
+      "title": "이번 주말 케이펫페어 방문 예정이신 분이라면, 가기 전에 챙겨야 할 강아지 유모차 TOP3",
+      "url": "https://wikidocs.net/blog/@petpicknote/22344/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 코엑스 케이펫페어, 유모차 없이는 입장이 안 됩니다 2026 케이펫페어 서울이 7월 17일부터 19일까지 코엑스에서 열립니다. 반가운 소식이지만, 막상 티켓만 끊어놓고 정작 현…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22344/5_1.jpg",
+      "published_label": "2개월 전",
+      "views": 161,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22282,
       "title": "폭염에 에어컨만으론 뒷좌석까지 시원하지 않던 분들, 차량용 선풍기 하나로 온도 걱정 던다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22282/",
@@ -1852,21 +1867,6 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 22344,
-      "title": "이번 주말 케이펫페어 방문 예정이신 분이라면, 가기 전에 챙겨야 할 강아지 유모차 TOP3",
-      "url": "https://wikidocs.net/blog/@petpicknote/22344/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 코엑스 케이펫페어, 유모차 없이는 입장이 안 됩니다 2026 케이펫페어 서울이 7월 17일부터 19일까지 코엑스에서 열립니다. 반가운 소식이지만, 막상 티켓만 끊어놓고 정작 현…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22344/5_1.jpg",
-      "published_label": "2개월 전",
-      "views": 160,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
       "id": 22684,
       "title": "재택근무 프리랜서를 위한, 한 달 전기세 확 줄여주는 절전형 멀티탭 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/22684/",
@@ -1888,8 +1888,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 노트북 배터리가 떨어지거나 전기밥솥을 쓰고 싶은데 220V 콘센트가 없어 난감했던 경험 있으실 겁니다. 차량 배터리는 12V·24V인데 우리가 평소 쓰는 가전제품…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24667/pb_16_1_thumb.jpg",
       "published_label": "2개월 전",
-      "views": 156,
-      "daily_views": 0,
+      "views": 157,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -4642,6 +4642,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23764,
+      "title": "요즘 다들 삭막한 실내등 대신 이걸로 바꾼다는 차량용 무드등, 이유가 있었습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23764/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 밤에 차를 타면 삭막한 흰색 실내등만 켜져 있어서 분위기가 안 산다고 느끼셨던 경험 있으실 겁니다. 은은한 조명이 켜진 차 안 사진을 보고 나도 이렇게 꾸며보고 싶다고 생각하신…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23764/10_6_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 65,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23345,
       "title": "만약의 사고에서 창문이 안 열린다면 어떻게 하시겠습니까?",
       "url": "https://wikidocs.net/blog/@cartemlab/23345/",
@@ -4740,21 +4755,6 @@
       "published_label": "2개월 전",
       "views": 64,
       "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 23764,
-      "title": "요즘 다들 삭막한 실내등 대신 이걸로 바꾼다는 차량용 무드등, 이유가 있었습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23764/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 밤에 차를 타면 삭막한 흰색 실내등만 켜져 있어서 분위기가 안 산다고 느끼셨던 경험 있으실 겁니다. 은은한 조명이 켜진 차 안 사진을 보고 나도 이렇게 꾸며보고 싶다고 생각하신…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23764/10_6_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 64,
-      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -11726,6 +11726,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 23764,
+      "title": "요즘 다들 삭막한 실내등 대신 이걸로 바꾼다는 차량용 무드등, 이유가 있었습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23764/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 밤에 차를 타면 삭막한 흰색 실내등만 켜져 있어서 분위기가 안 산다고 느끼셨던 경험 있으실 겁니다. 은은한 조명이 켜진 차 안 사진을 보고 나도 이렇게 꾸며보고 싶다고 생각하신…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23764/10_6_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 65,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23358,
       "title": "여름 물놀이 앞둔 영유아 부모를 위한, 안전 걱정 확 줄여주는 유아 물놀이 장난감 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/23358/",
@@ -11769,6 +11784,21 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 23115,
+      "title": "반려동물과 실내에서 오래 보내는 분이라면, 서큘레이터 하나로 후텁지근함이 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/23115/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 에어컨을 틀어놔도 거실 한쪽 구석, 특히 반려동물이 자주 머무는 바닥 쪽은 여전히 후텁지근하게 느껴지실 때가 많으실 겁니다. 찬 공기는 위쪽에서만 맴돌고, 정작 바닥에 배를 붙…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23115/10_1.jpg",
+      "published_label": "2개월 전",
+      "views": 761,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
     },
     {
       "id": 22694,
@@ -11846,6 +11876,51 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 22528,
+      "title": "세 번 잘못 사고 나서야 알게 된 강아지 발톱깎이 고르는 법",
+      "url": "https://wikidocs.net/blog/@petpicknote/22528/",
+      "excerpt": "title: \"세 번 잘못 사고 나서야 알게 된 강아지 발톱깎이 고르는 법\" tags: [미용·목욕용품] 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 강아지 발톱깎이, 별거 아니라고 생각하고 아무거나 처음 눈에 띄는 걸 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22528/7_1.jpg",
+      "published_label": "2개월 전",
+      "views": 385,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 22344,
+      "title": "이번 주말 케이펫페어 방문 예정이신 분이라면, 가기 전에 챙겨야 할 강아지 유모차 TOP3",
+      "url": "https://wikidocs.net/blog/@petpicknote/22344/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 코엑스 케이펫페어, 유모차 없이는 입장이 안 됩니다 2026 케이펫페어 서울이 7월 17일부터 19일까지 코엑스에서 열립니다. 반가운 소식이지만, 막상 티켓만 끊어놓고 정작 현…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22344/5_1.jpg",
+      "published_label": "2개월 전",
+      "views": 161,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 24667,
+      "title": "차박 다니시는 분이라면, 파워 인버터 하나로 220V 가전 걱정 덜었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24667/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 노트북 배터리가 떨어지거나 전기밥솥을 쓰고 싶은데 220V 콘센트가 없어 난감했던 경험 있으실 겁니다. 차량 배터리는 12V·24V인데 우리가 평소 쓰는 가전제품…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24667/pb_16_1_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 157,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 21991,
       "title": "반지하나 오래된 집이라면, 장마철 화장실 냄새 줄여주는 배수구 트랩 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/21991/",
@@ -11868,81 +11943,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24668/pb_16_2_thumb.jpg",
       "published_label": "2개월 전",
       "views": 108,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 24009,
-      "title": "두 번 잘못 사고 나서야 알게 된 요가매트 두께 고르는 법",
-      "url": "https://wikidocs.net/blog/@petpicknote/24009/",
-      "excerpt": "🧘 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 처음 홈트레이닝을 시작할 때 가장 저렴한 3~4mm짜리 얇은 매트를 고른 적이 있습니다. 플랭크 자세를 잡을 때마다 팔꿈치가 바닥에 배기고, 무릎을 대는 동작에서는 통증 때문에…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24009/10_6_img1.jpg",
-      "published_label": "2개월 전",
-      "views": 108,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 24335,
-      "title": "차박 갈 때마다 음식 상하던 분들, 차량용 냉장고 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24335/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 아이스박스에 넣어둔 음식이 하루 만에 미지근해져서 아쉬웠던 경험 있으실 겁니다. 얼음을 아무리 많이 넣어도 시간이 지나면 녹아버리고, 여름철엔 그 속도가 더 빨라…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24335/pb_14_9_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 106,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 24014,
-      "title": "요즘 다들 두피 마사지기로 바꾼다는데, 이유가 있었습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24014/",
-      "excerpt": "💆 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 요즘 다들 샴푸할 때 손가락 대신 두피 마사지기를 쓴다는데, 이유가 있었습니다. 손가락으로 두피를 문지르는 것과 실리콘 돌기나 진동 기능이 달린 도구로 마사지하는 것은 자극의 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24014/10_10_img1.jpg",
-      "published_label": "2개월 전",
-      "views": 105,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22935,
-      "title": "주말 나들이 잦은 분들, 문콕·잔기스로 속상했는데 스크래치 제거제로 감쪽같이 지웠다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22935/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 주말 나들이 다녀와 차를 보니 어디서 긁혔는지 문짝에 잔기스가 나 있고, 주차장에서 문콕 자국까지 발견하면 그날 기분이 확 상하죠. 세차장에 맡기자니 비용이 만만치 않고, 그냥…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22935/6_2_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 103,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 23550,
-      "title": "장거리 운전 잦으신 분이라면, 타르 제거제로 차량 겉면 찐득한 자국 말끔히 지웠다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23550/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 고속도로를 한참 달리고 나서 무심코 차 옆면을 손으로 쓸어봤는데, 까끌까끌하다 못해 끈적하게 손끝에 검은 자국이 묻어난 적 있으실 겁니다. 세차장에서 거품 세차까지 했는데도 그…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23550/9_1_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 102,
       "daily_views": 1,
       "likes": 0,
       "comments": 0,
@@ -12274,8 +12274,8 @@
     },
     {
       "date": "2026-09-18",
-      "views": 53
+      "views": 58
     }
   ],
-  "static_generated_at": "2026-09-18T06:01:01+09:00"
+  "static_generated_at": "2026-09-18T06:31:57+09:00"
 }
