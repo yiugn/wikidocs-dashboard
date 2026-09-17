@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-17T10:31:57+09:00",
+  "latest_snapshot_at": "2026-09-17T11:01:57+09:00",
   "latest_snapshot_date": "2026-09-17",
   "catalog_updated_at": "2026-09-17T00:00:34+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 754,
-    "total_views": 319724,
-    "daily_views": 110,
+    "total_views": 319729,
+    "daily_views": 115,
     "previous_day_views": 238,
     "previous_day_date": "2026-09-16",
-    "current_month_views": 7650,
+    "current_month_views": 7655,
     "days_recorded": 80
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 161420,
-      "daily_views": 25,
+      "total_views": 161423,
+      "daily_views": 28,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 36915,
-      "daily_views": 37,
+      "total_views": 36917,
+      "daily_views": 39,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1348,8 +1348,8 @@
       "excerpt": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지 2026년 르노코리아 차량의 제조사 보증 기간 만료를 앞두고 있다면, 반드시 공식 서비스 네트워크를 통해 차량을 종합적으로 점검하는 것이 중요합니다. 이는 잠재적인 고장을 무상으로 수리받아 수…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24651/13_2_img1.jpg",
       "published_label": "2개월 전",
-      "views": 347,
-      "daily_views": 2,
+      "views": 348,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1558,8 +1558,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 한밤중에 \"케엑, 케엑\" 소리가 들려 놀라 일어나 보면, 카펫 위에 축축한 헤어볼을 게워낸 고양이가 태연하게 그루밍을 이어가고 있는 모습을 보신 적 있으실 겁니다. 처음 한두 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23110/5_1.jpg",
       "published_label": "2개월 전",
-      "views": 224,
-      "daily_views": 0,
+      "views": 225,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -2557,6 +2557,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 24668,
+      "title": "무더위에 등 축축했던 분들, 쿨시트 추천 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24668/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 무더위에 운전석에 앉으면 에어컨을 세게 틀어도 등과 엉덩이만은 금세 축축해지는 경험, 다들 있으실 겁니다. 시트에 닿는 부위는 통풍이 안 되다 보니 땀이 차기 시작하면 좀처럼 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24668/pb_16_2_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 107,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 24009,
       "title": "두 번 잘못 사고 나서야 알게 된 요가매트 두께 고르는 법",
       "url": "https://wikidocs.net/blog/@petpicknote/24009/",
@@ -2585,21 +2600,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24668,
-      "title": "무더위에 등 축축했던 분들, 쿨시트 추천 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24668/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 무더위에 운전석에 앉으면 에어컨을 세게 틀어도 등과 엉덩이만은 금세 축축해지는 경험, 다들 있으실 겁니다. 시트에 닿는 부위는 통풍이 안 되다 보니 땀이 차기 시작하면 좀처럼 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24668/pb_16_2_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 106,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 23107,
@@ -3802,6 +3802,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23762,
+      "title": "블랙박스 살 때 다들 놓치는 체크포인트 한 가지, 상시전원 케이블입니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23762/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 주차 중에 무슨 일이 있었는지 확인하려고 블랙박스 영상을 열었는데, 정작 그 시간에는 녹화가 꺼져 있어서 허탈했던 경험 있으실 겁니다. 배터리 방전이 걱정돼서 아예 주차녹화 기…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23762/10_4_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 74,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 28280,
       "title": "장마 습기로 욕실 곰팡이 걱정되는 가구, 세제 없이 뽀송하게 말려주는 항균 발매트",
       "url": "https://wikidocs.net/blog/@smartliving/28280/",
@@ -3830,21 +3845,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23762,
-      "title": "블랙박스 살 때 다들 놓치는 체크포인트 한 가지, 상시전원 케이블입니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23762/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 주차 중에 무슨 일이 있었는지 확인하려고 블랙박스 영상을 열었는데, 정작 그 시간에는 녹화가 꺼져 있어서 허탈했던 경험 있으실 겁니다. 배터리 방전이 걱정돼서 아예 주차녹화 기…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23762/10_4_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 73,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 22672,
@@ -5542,6 +5542,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 23760,
+      "title": "장마철 사이드미러 김서림 안 챙기면, 차선 변경할 때 시야 확보 못해 아찔한 순간으로 돌아옵니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23760/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 비 오는 날 사이드미러가 뿌옇게 습기 차서, 뒤에서 오는 차가 안 보였던 경험 있으실 겁니다. 앞유리는 와이퍼로 닦으면 그만이지만, 사이드미러는 딱히 방법이 없어서 창문을 살짝…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23760/10_2_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 59,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22287,
       "title": "여름 벌레 자국·물때로 지저분했던 차, 카샴푸 세트로 셀프세차하니 광 난다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22287/",
@@ -5682,21 +5697,6 @@
       "url": "https://wikidocs.net/blog/@cartemlab/24673/",
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장마철 비 오는 날 시동을 걸자마자 앞유리에 김이 서려 히터를 최대로 틀고도 한참을 기다려야 했던 경험 있으실 겁니다. 히터로 김서림을 없애는 데는 시간이 걸리고, 그 사이 시…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24673/pb_16_7_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 58,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 23760,
-      "title": "장마철 사이드미러 김서림 안 챙기면, 차선 변경할 때 시야 확보 못해 아찔한 순간으로 돌아옵니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23760/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 비 오는 날 사이드미러가 뿌옇게 습기 차서, 뒤에서 오는 차가 안 보였던 경험 있으실 겁니다. 앞유리는 와이퍼로 닦으면 그만이지만, 사이드미러는 딱히 방법이 없어서 창문을 살짝…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23760/10_2_thumb.jpg",
       "published_label": "2개월 전",
       "views": 58,
       "daily_views": 0,
@@ -11681,6 +11681,21 @@
   ],
   "rising_posts": [
     {
+      "id": 24651,
+      "title": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/24651/",
+      "excerpt": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지 2026년 르노코리아 차량의 제조사 보증 기간 만료를 앞두고 있다면, 반드시 공식 서비스 네트워크를 통해 차량을 종합적으로 점검하는 것이 중요합니다. 이는 잠재적인 고장을 무상으로 수리받아 수…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24651/13_2_img1.jpg",
+      "published_label": "2개월 전",
+      "views": 348,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22271,
       "title": "여름 차박·캠핑족이라면, 텐트 안 모기 때문에 잠 설쳤다면 초경량 모기장 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@smartliving/22271/",
@@ -11754,21 +11769,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24651,
-      "title": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/24651/",
-      "excerpt": "르노 정비, 2026년 보증 기간 만료 전 반드시 확인할 점검 항목 6가지 2026년 르노코리아 차량의 제조사 보증 기간 만료를 앞두고 있다면, 반드시 공식 서비스 네트워크를 통해 차량을 종합적으로 점검하는 것이 중요합니다. 이는 잠재적인 고장을 무상으로 수리받아 수…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24651/13_2_img1.jpg",
-      "published_label": "2개월 전",
-      "views": 347,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 24009,
@@ -12270,8 +12270,8 @@
     },
     {
       "date": "2026-09-17",
-      "views": 110
+      "views": 115
     }
   ],
-  "static_generated_at": "2026-09-17T10:31:58+09:00"
+  "static_generated_at": "2026-09-17T11:01:58+09:00"
 }
