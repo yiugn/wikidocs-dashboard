@@ -5,7 +5,7 @@
     "max_pages": 0
   },
   "catalog_updated_at": "2026-09-19T00:00:35+09:00",
-  "latest_snapshot_at": "2026-09-19T07:01:57+09:00",
+  "latest_snapshot_at": "2026-09-19T07:31:58+09:00",
   "latest_snapshot_date": "2026-09-19",
   "snapshot_count": 82,
   "daily_snapshot_count": 82,
@@ -13,50 +13,50 @@
     "blogs": 14,
     "posts": 3811,
     "captured_posts": 3811,
-    "total_views": 1225584,
-    "daily_views": 522,
+    "total_views": 1225636,
+    "daily_views": 574,
     "previous_day_views": 2446,
     "previous_day_date": "2026-09-18",
-    "current_month_views": 62330
+    "current_month_views": 62382
   },
   "month_summary": {
     "current_month": "2026-09",
-    "current_month_views": 62330,
+    "current_month_views": 62382,
     "current_month_blog_views": [
       {
         "blog_id": 1725,
         "blog_name": "지식 저장소",
         "blog_slug": "knarchive",
-        "views": 24035,
-        "total_views": 468426
+        "views": 24056,
+        "total_views": 468447
       },
       {
         "blog_id": 1724,
         "blog_name": "지식 발전소",
         "blog_slug": "infoplant",
-        "views": 7853,
-        "total_views": 157289
+        "views": 7857,
+        "total_views": 157293
       },
       {
         "blog_id": 1783,
         "blog_name": "인사이트 브리지",
         "blog_slug": "insightbridge",
-        "views": 6620,
-        "total_views": 74258
+        "views": 6630,
+        "total_views": 74268
       },
       {
         "blog_id": 1977,
         "blog_name": "스마트 리빙",
         "blog_slug": "smartliving",
-        "views": 5047,
-        "total_views": 121551
+        "views": 5049,
+        "total_views": 121553
       },
       {
         "blog_id": 1799,
         "blog_name": "모든 것의 역사",
         "blog_slug": "history",
-        "views": 3850,
-        "total_views": 45281
+        "views": 3855,
+        "total_views": 45286
       },
       {
         "blog_id": 1795,
@@ -69,22 +69,22 @@
         "blog_id": 1800,
         "blog_name": "학문의 서재",
         "blog_slug": "studylibrary",
-        "views": 2098,
-        "total_views": 42444
+        "views": 2099,
+        "total_views": 42445
       },
       {
         "blog_id": 1978,
         "blog_name": "카템 연구소",
         "blog_slug": "cartemlab",
-        "views": 1795,
-        "total_views": 161610
+        "views": 1798,
+        "total_views": 161613
       },
       {
         "blog_id": 2211,
         "blog_name": "테크 인사이트",
         "blog_slug": "techinsight",
-        "views": 1537,
-        "total_views": 13580
+        "views": 1538,
+        "total_views": 13581
       },
       {
         "blog_id": 84,
@@ -97,22 +97,22 @@
         "blog_id": 2213,
         "blog_name": "SoloBiz Stack",
         "blog_slug": "solobizstack",
-        "views": 1334,
-        "total_views": 9536
+        "views": 1336,
+        "total_views": 9538
       },
       {
         "blog_id": 1986,
         "blog_name": "펫 픽 노트",
         "blog_slug": "petpicknote",
-        "views": 1330,
-        "total_views": 37085
+        "views": 1332,
+        "total_views": 37087
       },
       {
         "blog_id": 2210,
         "blog_name": "뉴스 시그널",
         "blog_slug": "newssignal",
-        "views": 1270,
-        "total_views": 13800
+        "views": 1271,
+        "total_views": 13801
       },
       {
         "blog_id": 2212,
@@ -140,7 +140,7 @@
       },
       {
         "month": "2026-09",
-        "views": 62330,
+        "views": 62382,
         "is_current_month": true
       }
     ],
@@ -153,8 +153,8 @@
       "slug": "knarchive",
       "post_count": 1618,
       "captured_posts": 1618,
-      "total_views": 468426,
-      "daily_views": 225,
+      "total_views": 468447,
+      "daily_views": 246,
       "top_post": {
         "id": 15722,
         "title": "넷플릭스 영화 추천, 주말 킬링타임 보장하는 평점 9점 이상 명작 5편",
@@ -1251,14 +1251,14 @@
           "excerpt": "2026년 기준, 온라인 사기로부터 개인 정보를 보호하기 위해서는 최신 보안 기술 활용과 함께 생활 습관 개선이 필수적입니다. 특히, 2단계 인증 활성화, 강력한 비밀번호 사용, 출처 불분명한 링크 클릭 금지, 그리고 주기적인 개인정보 노출 여부 확인을 통해 사기 피…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/20158/펜잔스_풀,콘월,잉글랜드,2022,빙,5K벽지_3840x2160[10wallpaper.com].jpg",
           "published_label": "3개월 전",
-          "views": 866,
+          "views": 867,
           "likes": 0,
           "comments": 0,
           "source_page": 21,
           "blog_id": 1725,
           "blog_name": "지식 저장소",
           "blog_slug": "knarchive",
-          "daily_views": 1
+          "daily_views": 2
         },
         {
           "id": 14509,
@@ -1661,6 +1661,22 @@
           "daily_views": 0
         },
         {
+          "id": 15766,
+          "title": "유튜브 인기 동영상 순위, 2026년 조회수 1억뷰 돌파한 5가지 성공 비결",
+          "url": "https://wikidocs.net/blog/@knarchive/15766/",
+          "excerpt": "유튜브는 단순한 동영상 공유 플랫폼을 넘어, 전 세계 문화, 경제, 사회 전반에 지대한 영향을 미치는 거대한 생태계로 자리매김했습니다. 특히 2026년 현재, 유튜브는 인공지능 기술의 발전과 사용자들의 미디어 소비 행태 변화에 발맞춰 끊임없이 진화하고 있으며, 이러한…",
+          "thumbnail_url": "https://static.wikidocs.net/images/blog/15766/금속,_꽃,_꽃잎,_가을,_클로즈업,_5K벽지_3840x2160[10wallpaper.com].jpg",
+          "published_label": "3개월 전",
+          "views": 730,
+          "likes": 0,
+          "comments": 0,
+          "source_page": 42,
+          "blog_id": 1725,
+          "blog_name": "지식 저장소",
+          "blog_slug": "knarchive",
+          "daily_views": 2
+        },
+        {
           "id": 14716,
           "title": "스크린 골프 가격 비교, 필드 라운딩 준비물과 복장 매너를 현직자가 정리한 가이드",
           "url": "https://wikidocs.net/blog/@knarchive/14716/",
@@ -1671,22 +1687,6 @@
           "likes": 0,
           "comments": 0,
           "source_page": 118,
-          "blog_id": 1725,
-          "blog_name": "지식 저장소",
-          "blog_slug": "knarchive",
-          "daily_views": 0
-        },
-        {
-          "id": 15766,
-          "title": "유튜브 인기 동영상 순위, 2026년 조회수 1억뷰 돌파한 5가지 성공 비결",
-          "url": "https://wikidocs.net/blog/@knarchive/15766/",
-          "excerpt": "유튜브는 단순한 동영상 공유 플랫폼을 넘어, 전 세계 문화, 경제, 사회 전반에 지대한 영향을 미치는 거대한 생태계로 자리매김했습니다. 특히 2026년 현재, 유튜브는 인공지능 기술의 발전과 사용자들의 미디어 소비 행태 변화에 발맞춰 끊임없이 진화하고 있으며, 이러한…",
-          "thumbnail_url": "https://static.wikidocs.net/images/blog/15766/금속,_꽃,_꽃잎,_가을,_클로즈업,_5K벽지_3840x2160[10wallpaper.com].jpg",
-          "published_label": "3개월 전",
-          "views": 728,
-          "likes": 0,
-          "comments": 0,
-          "source_page": 42,
           "blog_id": 1725,
           "blog_name": "지식 저장소",
           "blog_slug": "knarchive",
@@ -1796,8 +1796,8 @@
       "slug": "cartemlab",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 161610,
-      "daily_views": 29,
+      "total_views": 161613,
+      "daily_views": 32,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -2414,14 +2414,14 @@
           "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 노트북 배터리가 떨어지거나 전기밥솥을 쓰고 싶은데 220V 콘센트가 없어 난감했던 경험 있으실 겁니다. 차량 배터리는 12V·24V인데 우리가 평소 쓰는 가전제품…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/24667/pb_16_1_thumb.jpg",
           "published_label": "2개월 전",
-          "views": 161,
+          "views": 163,
           "likes": 0,
           "comments": 0,
           "source_page": 1,
           "blog_id": 1978,
           "blog_name": "카템 연구소",
           "blog_slug": "cartemlab",
-          "daily_views": 0
+          "daily_views": 2
         },
         {
           "id": 22282,
@@ -2654,14 +2654,14 @@
           "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 주말 나들이 다녀와 차를 보니 어디서 긁혔는지 문짝에 잔기스가 나 있고, 주차장에서 문콕 자국까지 발견하면 그날 기분이 확 상하죠. 세차장에 맡기자니 비용이 만만치 않고, 그냥…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/22935/6_2_thumb.jpg",
           "published_label": "2개월 전",
-          "views": 104,
+          "views": 105,
           "likes": 0,
           "comments": 0,
           "source_page": 8,
           "blog_id": 1978,
           "blog_name": "카템 연구소",
           "blog_slug": "cartemlab",
-          "daily_views": 0
+          "daily_views": 1
         },
         {
           "id": 23550,
@@ -3439,8 +3439,8 @@
       "slug": "infoplant",
       "post_count": 346,
       "captured_posts": 346,
-      "total_views": 157289,
-      "daily_views": 48,
+      "total_views": 157293,
+      "daily_views": 52,
       "top_post": {
         "id": 20376,
         "title": "민생회복 소비쿠폰 2026 신청 방법과 지급일, 최대 60만원 받는 조건 정리",
@@ -4409,14 +4409,14 @@
           "excerpt": "자율주행 기술은 21세기 모빌리티 산업의 가장 혁신적인 변화를 주도하며, 인류의 삶과 산업 생태계 전반에 걸쳐 지대한 영향을 미 미치고 있습니다. 운전자의 개입을 최소화하거나 완전히 없애는 것을 목표로 하는 이 기술은 교통 안전성 향상, 이동 효율성 증대, 그리고 운…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/14065/황야,_높은_산,_호수,_하얀_구름벽지_3840x2160[10wallpaper.com].jpg",
           "published_label": "3개월 전",
-          "views": 623,
+          "views": 624,
           "likes": 0,
           "comments": 0,
           "source_page": 34,
           "blog_id": 1724,
           "blog_name": "지식 발전소",
           "blog_slug": "infoplant",
-          "daily_views": 0
+          "daily_views": 1
         },
         {
           "id": 14063,
@@ -5082,8 +5082,8 @@
       "slug": "smartliving",
       "post_count": 486,
       "captured_posts": 486,
-      "total_views": 121551,
-      "daily_views": 41,
+      "total_views": 121553,
+      "daily_views": 43,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -6725,8 +6725,8 @@
       "slug": "insightbridge",
       "post_count": 242,
       "captured_posts": 242,
-      "total_views": 74258,
-      "daily_views": 46,
+      "total_views": 74268,
+      "daily_views": 56,
       "top_post": {
         "id": 18164,
         "title": "클로드 오퍼스 4.8 코딩, GPT-5.5보다 진짜 나은가 따져봤습니다 2026",
@@ -6744,20 +6744,20 @@
         "daily_views": 1
       },
       "top_daily_post": {
-        "id": 17301,
-        "title": "SCHD 슈드, 무조건 사두면 되는 안전템? 2026년 꼭 알아야 할 단점 4가지",
-        "url": "https://wikidocs.net/blog/@insightbridge/17301/",
-        "excerpt": "배당 투자에 관심 있는 분들이라면 SCHD, 일명 '슈드'를 한 번쯤 들어보셨을 겁니다. 그리고 이렇게 생각하실지도 모르겠습니다. \"슈드는 미국 우량 배당주 100개에 분산하니까, 그냥 적금처럼 사서 묻어두면 되는 안전한 ETF 아닌가?\" 결론부터 단정해서 말씀드리면…",
-        "thumbnail_url": "https://static.wikidocs.net/images/blog/17301/빙하_호수,_통나무_오두막,_2022,_햄비이,_노르웨이,_4K,_사진벽지_3840x2160[10wallpaper.com].jpg",
+        "id": 17293,
+        "title": "퇴직금 IRP 일시금으로 빼면 손해? 2026년 연금 수령 절세 5가지",
+        "url": "https://wikidocs.net/blog/@insightbridge/17293/",
+        "excerpt": "퇴사하면서 IRP 계좌에 꽂힌 퇴직금, 많은 분들이 이렇게 생각하십니다. \"어차피 내 돈인데 빨리 빼서 쓰는 게 낫지, 연금이니 뭐니 묶어두면 손해 아냐?\" 결론부터 단정해서 말씀드립니다. 그렇게 생각하셨다면 적게는 수백만 원, 많게는 수천만 원을 그냥 국가에 헌납하…",
+        "thumbnail_url": "https://static.wikidocs.net/images/blog/17293/올레_순,_노르웨이,_해안,_마을,_2021,_빙,_5K,_사진벽지_5120x2880[10wallpaper.com].jpg",
         "published_label": "3개월 전",
-        "views": 794,
+        "views": 300,
         "likes": 0,
         "comments": 0,
-        "source_page": 24,
+        "source_page": 25,
         "blog_id": 1783,
         "blog_name": "인사이트 브리지",
         "blog_slug": "insightbridge",
-        "daily_views": 3
+        "daily_views": 5
       },
       "posts": [
         {
@@ -6815,14 +6815,14 @@
           "excerpt": "비만 치료제를 알아보는 분들 중 어떤 분들은 이렇게 생각하실지도 모르겠습니다. \"위고비든 마운자로든 결국 살 빠지는 주사 아니냐, 둘 중 아무거나 싼 거 맞으면 되는 거 아니냐?\" 결론부터 말씀드리면, 그렇게 생각하셨다면 큰 오산입니다. 두 약은 작용 기전, 평균 감…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/18159/864884.jpg",
           "published_label": "3개월 전",
-          "views": 1105,
+          "views": 1106,
           "likes": 0,
           "comments": 0,
           "source_page": 23,
           "blog_id": 1783,
           "blog_name": "인사이트 브리지",
           "blog_slug": "insightbridge",
-          "daily_views": 0
+          "daily_views": 1
         },
         {
           "id": 19954,
@@ -6943,14 +6943,14 @@
           "excerpt": "배당 투자에 관심 있는 분들이라면 SCHD, 일명 '슈드'를 한 번쯤 들어보셨을 겁니다. 그리고 이렇게 생각하실지도 모르겠습니다. \"슈드는 미국 우량 배당주 100개에 분산하니까, 그냥 적금처럼 사서 묻어두면 되는 안전한 ETF 아닌가?\" 결론부터 단정해서 말씀드리면…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/17301/빙하_호수,_통나무_오두막,_2022,_햄비이,_노르웨이,_4K,_사진벽지_3840x2160[10wallpaper.com].jpg",
           "published_label": "3개월 전",
-          "views": 794,
+          "views": 795,
           "likes": 0,
           "comments": 0,
           "source_page": 24,
           "blog_id": 1783,
           "blog_name": "인사이트 브리지",
           "blog_slug": "insightbridge",
-          "daily_views": 3
+          "daily_views": 4
         },
         {
           "id": 19875,
@@ -6975,14 +6975,14 @@
           "excerpt": "연말정산을 앞두고 연금저축과 IRP(개인형 퇴직연금) 이야기가 나오면, 많은 분들이 이렇게 생각하실지도 모르겠습니다. \"900만원 꽉 채워 넣고 148만원 돌려받으면 그냥 무조건 이득 아닌가?\" 결론부터 말씀드리면, 그렇게만 생각하셨다면 절반은 맞고 절반은 큰 오산입…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/17296/709027.jpg",
           "published_label": "3개월 전",
-          "views": 686,
+          "views": 687,
           "likes": 0,
           "comments": 0,
           "source_page": 24,
           "blog_id": 1783,
           "blog_name": "인사이트 브리지",
           "blog_slug": "insightbridge",
-          "daily_views": 0
+          "daily_views": 1
         },
         {
           "id": 18979,
@@ -7865,6 +7865,22 @@
           "daily_views": 0
         },
         {
+          "id": 17293,
+          "title": "퇴직금 IRP 일시금으로 빼면 손해? 2026년 연금 수령 절세 5가지",
+          "url": "https://wikidocs.net/blog/@insightbridge/17293/",
+          "excerpt": "퇴사하면서 IRP 계좌에 꽂힌 퇴직금, 많은 분들이 이렇게 생각하십니다. \"어차피 내 돈인데 빨리 빼서 쓰는 게 낫지, 연금이니 뭐니 묶어두면 손해 아냐?\" 결론부터 단정해서 말씀드립니다. 그렇게 생각하셨다면 적게는 수백만 원, 많게는 수천만 원을 그냥 국가에 헌납하…",
+          "thumbnail_url": "https://static.wikidocs.net/images/blog/17293/올레_순,_노르웨이,_해안,_마을,_2021,_빙,_5K,_사진벽지_5120x2880[10wallpaper.com].jpg",
+          "published_label": "3개월 전",
+          "views": 300,
+          "likes": 0,
+          "comments": 0,
+          "source_page": 25,
+          "blog_id": 1783,
+          "blog_name": "인사이트 브리지",
+          "blog_slug": "insightbridge",
+          "daily_views": 5
+        },
+        {
           "id": 18158,
           "title": "파킹통장 금리, 광고 숫자만 보면 호구? 2026년 똑똑하게 고르는 법",
           "url": "https://wikidocs.net/blog/@insightbridge/18158/",
@@ -7911,22 +7927,6 @@
           "blog_name": "인사이트 브리지",
           "blog_slug": "insightbridge",
           "daily_views": 0
-        },
-        {
-          "id": 17293,
-          "title": "퇴직금 IRP 일시금으로 빼면 손해? 2026년 연금 수령 절세 5가지",
-          "url": "https://wikidocs.net/blog/@insightbridge/17293/",
-          "excerpt": "퇴사하면서 IRP 계좌에 꽂힌 퇴직금, 많은 분들이 이렇게 생각하십니다. \"어차피 내 돈인데 빨리 빼서 쓰는 게 낫지, 연금이니 뭐니 묶어두면 손해 아냐?\" 결론부터 단정해서 말씀드립니다. 그렇게 생각하셨다면 적게는 수백만 원, 많게는 수천만 원을 그냥 국가에 헌납하…",
-          "thumbnail_url": "https://static.wikidocs.net/images/blog/17293/올레_순,_노르웨이,_해안,_마을,_2021,_빙,_5K,_사진벽지_5120x2880[10wallpaper.com].jpg",
-          "published_label": "3개월 전",
-          "views": 296,
-          "likes": 0,
-          "comments": 0,
-          "source_page": 25,
-          "blog_id": 1783,
-          "blog_name": "인사이트 브리지",
-          "blog_slug": "insightbridge",
-          "daily_views": 1
         },
         {
           "id": 19540,
@@ -8368,8 +8368,8 @@
       "slug": "history",
       "post_count": 194,
       "captured_posts": 194,
-      "total_views": 45281,
-      "daily_views": 18,
+      "total_views": 45286,
+      "daily_views": 23,
       "top_post": {
         "id": 19207,
         "title": "네덜란드 국토의 4분의 1은 바다를 메운 땅이다: 간척으로 쌓은 800년 전쟁",
@@ -8490,14 +8490,14 @@
           "excerpt": "주택 구입은 개인의 생애 주기에서 가장 중요한 재정적 결정 중 하나이며, 특히 생애 최초로 내 집 마련의 꿈을 꾸는 신혼부부에게는 복잡하고 막연하게 느껴질 수 있는 과정입니다. 정부는 이러한 청년층과 신혼부부의 주거 안정을 도모하고 저출산 문제를 해결하기 위해 다양한…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/20006/hd-wallpaper-1337565.jpg",
           "published_label": "3개월 전",
-          "views": 839,
+          "views": 840,
           "likes": 0,
           "comments": 0,
           "source_page": 14,
           "blog_id": 1799,
           "blog_name": "모든 것의 역사",
           "blog_slug": "history",
-          "daily_views": 0
+          "daily_views": 1
         },
         {
           "id": 20002,
@@ -9626,14 +9626,14 @@
           "excerpt": "2026년 현재, 자동차 보험은 단순한 사고 발생 후의 보상을 넘어, 첨단 기술과 데이터 기반의 예방 및 관리 시스템으로 진화하고 있습니다. 특히 메리츠 다이렉트 자동차 보험과 같은 온라인 전문 보험사는 합리적인 보험료와 편리한 서비스를 강점으로 내세우며 시장 점유율…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/20139/686634.jpg",
           "published_label": "3개월 전",
-          "views": 141,
+          "views": 142,
           "likes": 0,
           "comments": 0,
           "source_page": 13,
           "blog_id": 1799,
           "blog_name": "모든 것의 역사",
           "blog_slug": "history",
-          "daily_views": 0
+          "daily_views": 1
         },
         {
           "id": 25456,
@@ -11286,8 +11286,8 @@
       "slug": "studylibrary",
       "post_count": 128,
       "captured_posts": 128,
-      "total_views": 42444,
-      "daily_views": 13,
+      "total_views": 42445,
+      "daily_views": 14,
       "top_post": {
         "id": 18998,
         "title": "왜 우리는 도움을 준 사람보다 도움을 받은 사람을 더 좋아하게 되는가 — 벤저민 프랭클린 효과의 역설",
@@ -12208,14 +12208,14 @@
           "excerpt": "고급 레스토랑의 메뉴판을 펼쳤을 때, 가격 옆에 붙어 있어야 할 '원'이나 '₩', '$' 같은 기호가 슬그머니 사라져 있는 것을 눈치챈 적이 있으신가요? 분명히 가격은 적혀 있는데, 화폐 단위만 쏙 빠져 있습니다. 이것은 디자이너의 미적 취향이나 단순한 실수가 아니…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/18996/겨울,_아침,_눈,_외로운_나무,_2021,_풍경,_5K,_사진벽지_3840x2160[10wallpaper.com].jpg",
           "published_label": "3개월 전",
-          "views": 118,
+          "views": 119,
           "likes": 0,
           "comments": 0,
           "source_page": 10,
           "blog_id": 1800,
           "blog_name": "학문의 서재",
           "blog_slug": "studylibrary",
-          "daily_views": 0
+          "daily_views": 1
         },
         {
           "id": 26207,
@@ -12929,8 +12929,8 @@
       "slug": "petpicknote",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 37085,
-      "daily_views": 32,
+      "total_views": 37087,
+      "daily_views": 34,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -13275,14 +13275,14 @@
           "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 한여름 산책을 다녀오면 물그릇 앞에서 몇 번 핥는 시늉만 하다가 그대로 엎드려버리는 반려동물, 많이 보셨을 겁니다. 더위에 지쳐 입맛도 없고 물도 잘 안 마시다 보면 탈수와 기…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/23349/7_1_product1.jpg",
           "published_label": "2개월 전",
-          "views": 295,
+          "views": 296,
           "likes": 0,
           "comments": 0,
           "source_page": 9,
           "blog_id": 1986,
           "blog_name": "펫 픽 노트",
           "blog_slug": "petpicknote",
-          "daily_views": 0
+          "daily_views": 1
         },
         {
           "id": 22916,
@@ -16215,8 +16215,8 @@
       "slug": "newssignal",
       "post_count": 66,
       "captured_posts": 66,
-      "total_views": 13800,
-      "daily_views": 2,
+      "total_views": 13801,
+      "daily_views": 3,
       "top_post": {
         "id": 26849,
         "title": "2026년 세법개정안 발표: 기획재정부, 소득세 과표구간 조정안 공개 총정리",
@@ -16827,6 +16827,22 @@
           "daily_views": 0
         },
         {
+          "id": 25999,
+          "title": "트럼프 '301조 관세' 24일 발효, 한국 12.5% 강제노동 관세까지 겹치는 이유",
+          "url": "https://wikidocs.net/blog/@newssignal/25999/",
+          "excerpt": "미국의 '10% 글로벌 관세'가 2026년 7월 24일 0시(현지시간)를 기해 만료됐다. 그러나 관세가 사라진 것이 아니라 곧바로 무역법 301조에 근거한 새로운 관세로 대체됐다. 트럼프 행정부는 24일 0시 1분부터 60개국을 대상으로 최대 12.5%의 '강제노동 …",
+          "thumbnail_url": "https://static.wikidocs.net/images/blog/25999/thumb.jpg",
+          "published_label": "1개월 전",
+          "views": 142,
+          "likes": 0,
+          "comments": 0,
+          "source_page": 7,
+          "blog_id": 2210,
+          "blog_name": "뉴스 시그널",
+          "blog_slug": "newssignal",
+          "daily_views": 1
+        },
+        {
           "id": 26126,
           "title": "한국은행 기준금리 3년 6개월 만에 인상, 2.75%로 오른 이유가 궁금하신가요",
           "url": "https://wikidocs.net/blog/@newssignal/26126/",
@@ -16837,22 +16853,6 @@
           "likes": 0,
           "comments": 0,
           "source_page": 6,
-          "blog_id": 2210,
-          "blog_name": "뉴스 시그널",
-          "blog_slug": "newssignal",
-          "daily_views": 0
-        },
-        {
-          "id": 25999,
-          "title": "트럼프 '301조 관세' 24일 발효, 한국 12.5% 강제노동 관세까지 겹치는 이유",
-          "url": "https://wikidocs.net/blog/@newssignal/25999/",
-          "excerpt": "미국의 '10% 글로벌 관세'가 2026년 7월 24일 0시(현지시간)를 기해 만료됐다. 그러나 관세가 사라진 것이 아니라 곧바로 무역법 301조에 근거한 새로운 관세로 대체됐다. 트럼프 행정부는 24일 0시 1분부터 60개국을 대상으로 최대 12.5%의 '강제노동 …",
-          "thumbnail_url": "https://static.wikidocs.net/images/blog/25999/thumb.jpg",
-          "published_label": "1개월 전",
-          "views": 141,
-          "likes": 0,
-          "comments": 0,
-          "source_page": 7,
           "blog_id": 2210,
           "blog_name": "뉴스 시그널",
           "blog_slug": "newssignal",
@@ -17314,8 +17314,8 @@
       "slug": "techinsight",
       "post_count": 67,
       "captured_posts": 67,
-      "total_views": 13580,
-      "daily_views": 8,
+      "total_views": 13581,
+      "daily_views": 9,
       "top_post": {
         "id": 26999,
         "title": "구글, 제미나이 3.5 프로 정식 출시 — 3차례 연기 끝에 GPT-5.6 넘어선 벤치마크",
@@ -17708,14 +17708,14 @@
           "excerpt": "AI 안전성 논의에서 \"언젠가 일어날 수 있다\"고 가정으로만 이야기되던 시나리오가 실제로 벌어졌습니다. 오픈AI가 7월 21일 스스로 공개한 내용은 이렇습니다. 내부 사이버 보안 평가 도중, 자사 모델이 격리 환경을 스스로 빠져나가 외부 회사의 운영 데이터베이스에 침…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/26359/thumb.jpg",
           "published_label": "1개월 전",
-          "views": 185,
+          "views": 186,
           "likes": 0,
           "comments": 0,
           "source_page": 4,
           "blog_id": 2211,
           "blog_name": "테크 인사이트",
           "blog_slug": "techinsight",
-          "daily_views": 1
+          "daily_views": 2
         },
         {
           "id": 26132,
@@ -18429,8 +18429,8 @@
       "slug": "solobizstack",
       "post_count": 109,
       "captured_posts": 109,
-      "total_views": 9536,
-      "daily_views": 12,
+      "total_views": 9538,
+      "daily_views": 14,
       "top_post": {
         "id": 26420,
         "title": "맥북 생산성 4.9점의 비밀, 31000명이 매일 쓰는 Raycast 완전 정리",
@@ -18438,14 +18438,14 @@
         "excerpt": "맥북 생산성 4.9점의 비밀, 31000명이 매일 쓰는 Raycast 완전 정리 맥을 처음 산 사람이라면 누구나 스팟라이트(Spotlight)로 앱을 검색하는 습관을 자연스럽게 들이게 됩니다. 그런데 맥 사용자들 사이에서 이 스팟라이트를 통째로 대체하는 것으로도 모자…",
         "thumbnail_url": "https://static.wikidocs.net/images/blog/26420/raycast_thumb.png",
         "published_label": "1개월 전",
-        "views": 1954,
+        "views": 1955,
         "likes": 0,
         "comments": 0,
         "source_page": 6,
         "blog_id": 2213,
         "blog_name": "SoloBiz Stack",
         "blog_slug": "solobizstack",
-        "daily_views": 0
+        "daily_views": 1
       },
       "top_daily_post": {
         "id": 26510,
@@ -18471,14 +18471,14 @@
           "excerpt": "맥북 생산성 4.9점의 비밀, 31000명이 매일 쓰는 Raycast 완전 정리 맥을 처음 산 사람이라면 누구나 스팟라이트(Spotlight)로 앱을 검색하는 습관을 자연스럽게 들이게 됩니다. 그런데 맥 사용자들 사이에서 이 스팟라이트를 통째로 대체하는 것으로도 모자…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/26420/raycast_thumb.png",
           "published_label": "1개월 전",
-          "views": 1954,
+          "views": 1955,
           "likes": 0,
           "comments": 0,
           "source_page": 6,
           "blog_id": 2213,
           "blog_name": "SoloBiz Stack",
           "blog_slug": "solobizstack",
-          "daily_views": 0
+          "daily_views": 1
         },
         {
           "id": 27117,
@@ -18967,14 +18967,14 @@
           "excerpt": "Business Process Automation for Solopreneurs: The Complete Guide Photo by Bluestonex on Unsplash Table of Contents Why \"Automation\" Sounds Complicate…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/25152/seq3.jpg",
           "published_label": "2개월 전",
-          "views": 76,
+          "views": 77,
           "likes": 0,
           "comments": 0,
           "source_page": 11,
           "blog_id": 2213,
           "blog_name": "SoloBiz Stack",
           "blog_slug": "solobizstack",
-          "daily_views": 0
+          "daily_views": 1
         },
         {
           "id": 26829,
@@ -30328,8 +30328,8 @@
       "blog_id": 1783,
       "blog_name": "인사이트 브리지",
       "blog_slug": "insightbridge",
-      "total_views": 74258,
-      "daily_views": 46,
+      "total_views": 74268,
+      "daily_views": 56,
       "is_realtime_today": true
     },
     {
@@ -30346,8 +30346,8 @@
       "blog_id": 1799,
       "blog_name": "모든 것의 역사",
       "blog_slug": "history",
-      "total_views": 45281,
-      "daily_views": 18,
+      "total_views": 45286,
+      "daily_views": 23,
       "is_realtime_today": true
     },
     {
@@ -30355,8 +30355,8 @@
       "blog_id": 1800,
       "blog_name": "학문의 서재",
       "blog_slug": "studylibrary",
-      "total_views": 42444,
-      "daily_views": 13,
+      "total_views": 42445,
+      "daily_views": 14,
       "is_realtime_today": true
     },
     {
@@ -30364,8 +30364,8 @@
       "blog_id": 1724,
       "blog_name": "지식 발전소",
       "blog_slug": "infoplant",
-      "total_views": 157289,
-      "daily_views": 48,
+      "total_views": 157293,
+      "daily_views": 52,
       "is_realtime_today": true
     },
     {
@@ -30373,8 +30373,8 @@
       "blog_id": 1725,
       "blog_name": "지식 저장소",
       "blog_slug": "knarchive",
-      "total_views": 468426,
-      "daily_views": 225,
+      "total_views": 468447,
+      "daily_views": 246,
       "is_realtime_today": true
     },
     {
@@ -30382,8 +30382,8 @@
       "blog_id": 1978,
       "blog_name": "카템 연구소",
       "blog_slug": "cartemlab",
-      "total_views": 161610,
-      "daily_views": 29,
+      "total_views": 161613,
+      "daily_views": 32,
       "is_realtime_today": true
     },
     {
@@ -30391,8 +30391,8 @@
       "blog_id": 1986,
       "blog_name": "펫 픽 노트",
       "blog_slug": "petpicknote",
-      "total_views": 37085,
-      "daily_views": 32,
+      "total_views": 37087,
+      "daily_views": 34,
       "is_realtime_today": true
     },
     {
@@ -30400,8 +30400,8 @@
       "blog_id": 1977,
       "blog_name": "스마트 리빙",
       "blog_slug": "smartliving",
-      "total_views": 121551,
-      "daily_views": 41,
+      "total_views": 121553,
+      "daily_views": 43,
       "is_realtime_today": true
     },
     {
@@ -30409,8 +30409,8 @@
       "blog_id": 2210,
       "blog_name": "뉴스 시그널",
       "blog_slug": "newssignal",
-      "total_views": 13800,
-      "daily_views": 2,
+      "total_views": 13801,
+      "daily_views": 3,
       "is_realtime_today": true
     },
     {
@@ -30418,8 +30418,8 @@
       "blog_id": 2211,
       "blog_name": "테크 인사이트",
       "blog_slug": "techinsight",
-      "total_views": 13580,
-      "daily_views": 8,
+      "total_views": 13581,
+      "daily_views": 9,
       "is_realtime_today": true
     },
     {
@@ -30436,8 +30436,8 @@
       "blog_id": 2213,
       "blog_name": "SoloBiz Stack",
       "blog_slug": "solobizstack",
-      "total_views": 9536,
-      "daily_views": 12,
+      "total_views": 9538,
+      "daily_views": 14,
       "is_realtime_today": true
     }
   ],
@@ -30452,7 +30452,7 @@
       "total_views": 29760,
       "daily_views": 21,
       "interval_views": 0,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -30464,7 +30464,7 @@
       "total_views": 74258,
       "daily_views": 46,
       "interval_views": 0,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -30476,7 +30476,7 @@
       "total_views": 43897,
       "daily_views": 22,
       "interval_views": 0,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -30488,7 +30488,7 @@
       "total_views": 45281,
       "daily_views": 18,
       "interval_views": 0,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -30500,7 +30500,7 @@
       "total_views": 42444,
       "daily_views": 13,
       "interval_views": 0,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -30512,7 +30512,7 @@
       "total_views": 157289,
       "daily_views": 48,
       "interval_views": 0,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -30524,7 +30524,7 @@
       "total_views": 468426,
       "daily_views": 225,
       "interval_views": 0,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -30536,7 +30536,7 @@
       "total_views": 161610,
       "daily_views": 29,
       "interval_views": 0,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -30548,7 +30548,7 @@
       "total_views": 37085,
       "daily_views": 32,
       "interval_views": 0,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -30560,7 +30560,7 @@
       "total_views": 121551,
       "daily_views": 41,
       "interval_views": 0,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -30572,7 +30572,7 @@
       "total_views": 13800,
       "daily_views": 2,
       "interval_views": 0,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -30584,7 +30584,7 @@
       "total_views": 13580,
       "daily_views": 8,
       "interval_views": 0,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -30596,7 +30596,7 @@
       "total_views": 7067,
       "daily_views": 5,
       "interval_views": 0,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -30608,15 +30608,183 @@
       "total_views": 9536,
       "daily_views": 12,
       "interval_views": 0,
+      "is_realtime_today": false
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-19",
+      "collected_at": "2026-09-19T07:31:58+09:00",
+      "blog_id": 1795,
+      "blog_name": "AI 테크 최신 정보 매거진",
+      "blog_slug": "aitechnote",
+      "total_views": 29760,
+      "daily_views": 21,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-19",
+      "collected_at": "2026-09-19T07:31:58+09:00",
+      "blog_id": 1783,
+      "blog_name": "인사이트 브리지",
+      "blog_slug": "insightbridge",
+      "total_views": 74268,
+      "daily_views": 56,
+      "interval_views": 10,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-19",
+      "collected_at": "2026-09-19T07:31:58+09:00",
+      "blog_id": 84,
+      "blog_name": "systrader79의 트레이딩 이야기",
+      "blog_slug": "systrader79",
+      "total_views": 43897,
+      "daily_views": 22,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-19",
+      "collected_at": "2026-09-19T07:31:58+09:00",
+      "blog_id": 1799,
+      "blog_name": "모든 것의 역사",
+      "blog_slug": "history",
+      "total_views": 45286,
+      "daily_views": 23,
+      "interval_views": 5,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-19",
+      "collected_at": "2026-09-19T07:31:58+09:00",
+      "blog_id": 1800,
+      "blog_name": "학문의 서재",
+      "blog_slug": "studylibrary",
+      "total_views": 42445,
+      "daily_views": 14,
+      "interval_views": 1,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-19",
+      "collected_at": "2026-09-19T07:31:58+09:00",
+      "blog_id": 1724,
+      "blog_name": "지식 발전소",
+      "blog_slug": "infoplant",
+      "total_views": 157293,
+      "daily_views": 52,
+      "interval_views": 4,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-19",
+      "collected_at": "2026-09-19T07:31:58+09:00",
+      "blog_id": 1725,
+      "blog_name": "지식 저장소",
+      "blog_slug": "knarchive",
+      "total_views": 468447,
+      "daily_views": 246,
+      "interval_views": 21,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-19",
+      "collected_at": "2026-09-19T07:31:58+09:00",
+      "blog_id": 1978,
+      "blog_name": "카템 연구소",
+      "blog_slug": "cartemlab",
+      "total_views": 161613,
+      "daily_views": 32,
+      "interval_views": 3,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-19",
+      "collected_at": "2026-09-19T07:31:58+09:00",
+      "blog_id": 1986,
+      "blog_name": "펫 픽 노트",
+      "blog_slug": "petpicknote",
+      "total_views": 37087,
+      "daily_views": 34,
+      "interval_views": 2,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-19",
+      "collected_at": "2026-09-19T07:31:58+09:00",
+      "blog_id": 1977,
+      "blog_name": "스마트 리빙",
+      "blog_slug": "smartliving",
+      "total_views": 121553,
+      "daily_views": 43,
+      "interval_views": 2,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-19",
+      "collected_at": "2026-09-19T07:31:58+09:00",
+      "blog_id": 2210,
+      "blog_name": "뉴스 시그널",
+      "blog_slug": "newssignal",
+      "total_views": 13801,
+      "daily_views": 3,
+      "interval_views": 1,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-19",
+      "collected_at": "2026-09-19T07:31:58+09:00",
+      "blog_id": 2211,
+      "blog_name": "테크 인사이트",
+      "blog_slug": "techinsight",
+      "total_views": 13581,
+      "daily_views": 9,
+      "interval_views": 1,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-19",
+      "collected_at": "2026-09-19T07:31:58+09:00",
+      "blog_id": 2212,
+      "blog_name": "라이프 솔루션",
+      "blog_slug": "lifesolution",
+      "total_views": 7067,
+      "daily_views": 5,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-19",
+      "collected_at": "2026-09-19T07:31:58+09:00",
+      "blog_id": 2213,
+      "blog_name": "SoloBiz Stack",
+      "blog_slug": "solobizstack",
+      "total_views": 9538,
+      "daily_views": 14,
+      "interval_views": 2,
       "is_realtime_today": true
     }
   ],
   "intraday_summary": {
     "date": "2026-09-19",
     "interval_minutes": 30,
-    "snapshot_count": 1,
+    "snapshot_count": 2,
     "first_collected_at": "2026-09-19T07:01:57+09:00",
-    "last_collected_at": "2026-09-19T07:01:57+09:00",
+    "last_collected_at": "2026-09-19T07:31:58+09:00",
     "is_realtime": true
   },
   "observed_start_date": "2026-06-30",
@@ -31126,6 +31294,38 @@
       "daily_views": 5
     },
     {
+      "id": 17293,
+      "title": "퇴직금 IRP 일시금으로 빼면 손해? 2026년 연금 수령 절세 5가지",
+      "url": "https://wikidocs.net/blog/@insightbridge/17293/",
+      "excerpt": "퇴사하면서 IRP 계좌에 꽂힌 퇴직금, 많은 분들이 이렇게 생각하십니다. \"어차피 내 돈인데 빨리 빼서 쓰는 게 낫지, 연금이니 뭐니 묶어두면 손해 아냐?\" 결론부터 단정해서 말씀드립니다. 그렇게 생각하셨다면 적게는 수백만 원, 많게는 수천만 원을 그냥 국가에 헌납하…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/17293/올레_순,_노르웨이,_해안,_마을,_2021,_빙,_5K,_사진벽지_5120x2880[10wallpaper.com].jpg",
+      "published_label": "3개월 전",
+      "views": 300,
+      "likes": 0,
+      "comments": 0,
+      "source_page": 25,
+      "blog_id": 1783,
+      "blog_name": "인사이트 브리지",
+      "blog_slug": "insightbridge",
+      "daily_views": 5
+    },
+    {
+      "id": 17301,
+      "title": "SCHD 슈드, 무조건 사두면 되는 안전템? 2026년 꼭 알아야 할 단점 4가지",
+      "url": "https://wikidocs.net/blog/@insightbridge/17301/",
+      "excerpt": "배당 투자에 관심 있는 분들이라면 SCHD, 일명 '슈드'를 한 번쯤 들어보셨을 겁니다. 그리고 이렇게 생각하실지도 모르겠습니다. \"슈드는 미국 우량 배당주 100개에 분산하니까, 그냥 적금처럼 사서 묻어두면 되는 안전한 ETF 아닌가?\" 결론부터 단정해서 말씀드리면…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/17301/빙하_호수,_통나무_오두막,_2022,_햄비이,_노르웨이,_4K,_사진벽지_3840x2160[10wallpaper.com].jpg",
+      "published_label": "3개월 전",
+      "views": 795,
+      "likes": 0,
+      "comments": 0,
+      "source_page": 24,
+      "blog_id": 1783,
+      "blog_name": "인사이트 브리지",
+      "blog_slug": "insightbridge",
+      "daily_views": 4
+    },
+    {
       "id": 18301,
       "title": "올라마와 LM 스튜디오 비교, 내 PC에서 LLM을 직접 돌릴 때 무엇을 고를까",
       "url": "https://wikidocs.net/blog/@aitechnote/18301/",
@@ -31139,22 +31339,6 @@
       "blog_id": 1795,
       "blog_name": "AI 테크 최신 정보 매거진",
       "blog_slug": "aitechnote",
-      "daily_views": 3
-    },
-    {
-      "id": 17301,
-      "title": "SCHD 슈드, 무조건 사두면 되는 안전템? 2026년 꼭 알아야 할 단점 4가지",
-      "url": "https://wikidocs.net/blog/@insightbridge/17301/",
-      "excerpt": "배당 투자에 관심 있는 분들이라면 SCHD, 일명 '슈드'를 한 번쯤 들어보셨을 겁니다. 그리고 이렇게 생각하실지도 모르겠습니다. \"슈드는 미국 우량 배당주 100개에 분산하니까, 그냥 적금처럼 사서 묻어두면 되는 안전한 ETF 아닌가?\" 결론부터 단정해서 말씀드리면…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/17301/빙하_호수,_통나무_오두막,_2022,_햄비이,_노르웨이,_4K,_사진벽지_3840x2160[10wallpaper.com].jpg",
-      "published_label": "3개월 전",
-      "views": 794,
-      "likes": 0,
-      "comments": 0,
-      "source_page": 24,
-      "blog_id": 1783,
-      "blog_name": "인사이트 브리지",
-      "blog_slug": "insightbridge",
       "daily_views": 3
     },
     {
@@ -31270,6 +31454,22 @@
       "daily_views": 3
     },
     {
+      "id": 14163,
+      "title": "MBTI 검사 무료 사이트 및 성격 유형 해석, 지금 당장 해봐야 할 2026년 최신판",
+      "url": "https://wikidocs.net/blog/@knarchive/14163/",
+      "excerpt": "마이어스-브릭스 유형 지표(MBTI)는 오늘날 전 세계적으로 가장 널리 사용되는 성격 평가 도구 중 하나로, 수많은 사람들이 자신과 타인을 이해하는 데 활용하고 있습니다. 특히 2026년 현재, MBTI는 단순한 성격 테스트를 넘어 문화 현상으로 자리 잡았으며, 인공…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/14163/Tianshan,red,대협곡,2021,여행,4K,포토벽지_3840x2160[10wallpaper.com].jpg",
+      "published_label": "3개월 전",
+      "views": 80,
+      "likes": 0,
+      "comments": 0,
+      "source_page": 154,
+      "blog_id": 1725,
+      "blog_name": "지식 저장소",
+      "blog_slug": "knarchive",
+      "daily_views": 3
+    },
+    {
       "id": 27296,
       "title": "돌쟁이 아기 키우는 집, 문 끼임사고 방치하면 응급실비 나갑니다",
       "url": "https://wikidocs.net/blog/@smartliving/27296/",
@@ -31350,6 +31550,22 @@
       "daily_views": 2
     },
     {
+      "id": 20158,
+      "title": "개인 정보 보호 방법 2026년 최신, 온라인 사기 90% 막는 실전 노하우",
+      "url": "https://wikidocs.net/blog/@knarchive/20158/",
+      "excerpt": "2026년 기준, 온라인 사기로부터 개인 정보를 보호하기 위해서는 최신 보안 기술 활용과 함께 생활 습관 개선이 필수적입니다. 특히, 2단계 인증 활성화, 강력한 비밀번호 사용, 출처 불분명한 링크 클릭 금지, 그리고 주기적인 개인정보 노출 여부 확인을 통해 사기 피…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/20158/펜잔스_풀,콘월,잉글랜드,2022,빙,5K벽지_3840x2160[10wallpaper.com].jpg",
+      "published_label": "3개월 전",
+      "views": 867,
+      "likes": 0,
+      "comments": 0,
+      "source_page": 21,
+      "blog_id": 1725,
+      "blog_name": "지식 저장소",
+      "blog_slug": "knarchive",
+      "daily_views": 2
+    },
+    {
       "id": 20566,
       "title": "2026 보령머드축제 일정과 라인업, 7월 24일 ZEROBASEONE 개막·다이나믹 듀오 예매 방법",
       "url": "https://wikidocs.net/blog/@knarchive/20566/",
@@ -31382,6 +31598,22 @@
       "daily_views": 2
     },
     {
+      "id": 15766,
+      "title": "유튜브 인기 동영상 순위, 2026년 조회수 1억뷰 돌파한 5가지 성공 비결",
+      "url": "https://wikidocs.net/blog/@knarchive/15766/",
+      "excerpt": "유튜브는 단순한 동영상 공유 플랫폼을 넘어, 전 세계 문화, 경제, 사회 전반에 지대한 영향을 미치는 거대한 생태계로 자리매김했습니다. 특히 2026년 현재, 유튜브는 인공지능 기술의 발전과 사용자들의 미디어 소비 행태 변화에 발맞춰 끊임없이 진화하고 있으며, 이러한…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/15766/금속,_꽃,_꽃잎,_가을,_클로즈업,_5K벽지_3840x2160[10wallpaper.com].jpg",
+      "published_label": "3개월 전",
+      "views": 730,
+      "likes": 0,
+      "comments": 0,
+      "source_page": 42,
+      "blog_id": 1725,
+      "blog_name": "지식 저장소",
+      "blog_slug": "knarchive",
+      "daily_views": 2
+    },
+    {
       "id": 19190,
       "title": "Zed 에디터 2026 리뷰 - 네이티브 AI와 속도로 VS Code를 대체할 수 있을까 솔로 개발자 선택 기준",
       "url": "https://wikidocs.net/blog/@aitechnote/19190/",
@@ -31411,6 +31643,22 @@
       "blog_id": 2211,
       "blog_name": "테크 인사이트",
       "blog_slug": "techinsight",
+      "daily_views": 2
+    },
+    {
+      "id": 19979,
+      "title": "미래에셋 해외 주식 수수료, 2026년 개정 후 달라진 점 4가지 분석",
+      "url": "https://wikidocs.net/blog/@knarchive/19979/",
+      "excerpt": "글로벌 금융 시장의 역동적인 변화 속에서 해외 주식 투자는 국내 투자자들에게 선택이 아닌 필수로 자리매김하고 있습니다. 특히 미래에셋증권과 같은 선도적인 증권사들은 이러한 흐름에 발맞춰 해외 주식 거래 환경을 지속적으로 개선하고 있는데요. 2026년이라는 특정 시점을…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/19979/NC500을_따라_있는_Kylesku_다리,_스코틀랜드,_고원,_빙,_5K벽지_3840x2160[10wallpaper.com].jpg",
+      "published_label": "3개월 전",
+      "views": 660,
+      "likes": 0,
+      "comments": 0,
+      "source_page": 22,
+      "blog_id": 1725,
+      "blog_name": "지식 저장소",
+      "blog_slug": "knarchive",
       "daily_views": 2
     },
     {
@@ -31494,96 +31742,16 @@
       "daily_views": 2
     },
     {
-      "id": 14112,
-      "title": "중고차 허위매물 피하는 법, 2026년 사회초년생이 엔카 케이카에서 실패 없이 구매하는 비결.",
-      "url": "https://wikidocs.net/blog/@knarchive/14112/",
-      "excerpt": "2026년, 대한민국 중고차 시장은 과거와는 확연히 다른 역동적인 변화를 겪고 있으며, 이는 특히 생애 첫차 구매를 고려하는 사회초년생들에게 새로운 기회이자 동시에 복잡한 도전으로 다가오고 있습니다. 과거 '정보 비대칭성'이라는 고질적인 문제로 인해 소비자의 불신이 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/14112/여름,_항구,_어촌,_함노이,_노르웨이,_5K벽지_3840x2160[10wallpaper.com].jpg",
+      "id": 14160,
+      "title": "구축 아파트 턴키 인테리어 주의사항, 몰라서 손해보는 실패 없는 계약 가이드",
+      "url": "https://wikidocs.net/blog/@knarchive/14160/",
+      "excerpt": "오늘날 주거 공간은 단순히 삶을 영위하는 물리적 환경을 넘어, 개인의 취향과 라이프스타일을 반영하는 중요한 요소로 자리매김하고 있습니다. 특히 재건축이 어려운 구축 아파트의 경우, 인테리어 리모델링은 주거 가치를 높이고 삶의 질을 향상시키는 핵심적인 방안으로 인식되고…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/14160/555105.jpg",
       "published_label": "3개월 전",
-      "views": 365,
+      "views": 373,
       "likes": 0,
       "comments": 0,
-      "source_page": 159,
-      "blog_id": 1725,
-      "blog_name": "지식 저장소",
-      "blog_slug": "knarchive",
-      "daily_views": 2
-    },
-    {
-      "id": 14513,
-      "title": "중고차 허위매물 피하는 법, 2026년 초보자도 실패 없는 엔카 케이카 활용 가이드입니다.",
-      "url": "https://wikidocs.net/blog/@knarchive/14513/",
-      "excerpt": "중고차 시장은 합리적인 가격으로 차량을 구매할 수 있는 매력적인 대안이지만, 동시에 허위매물(Fake Listings)이라는 고질적인 문제로 인해 소비자들의 불안감을 야기하는 곳이기도 합니다. 특히 2026년 현재, 온라인 플랫폼을 통한 중고차 거래가 주류로 자리 잡…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/14513/일몰,_레이크_루이스,_밴프_국립_공원,_캐나다,_5K벽지_3840x2160[10wallpaper.com].jpg",
-      "published_label": "3개월 전",
-      "views": 320,
-      "likes": 0,
-      "comments": 0,
-      "source_page": 131,
-      "blog_id": 1725,
-      "blog_name": "지식 저장소",
-      "blog_slug": "knarchive",
-      "daily_views": 2
-    },
-    {
-      "id": 20394,
-      "title": "2026 초복 보양식 추천 7가지와 삼계탕 집에서 끓이는 법, 복날 중복 말복 날짜",
-      "url": "https://wikidocs.net/blog/@knarchive/20394/",
-      "excerpt": "2026년 초복은 7월 15일 수요일이며, 이날부터 중복(7월 25일)과 말복(8월 14일)으로 이어지는 삼복더위가 본격적으로 시작됩니다. 무더위에 떨어진 기력을 되살리려면 삼계탕 같은 보양식이 가장 먼저 떠오르겠지만, 사실 복날에 먹을 수 있는 보양식은 삼계탕 하나…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/20394/디지털_우주_갤럭시_2017_4K_HD벽지_3840x2160[10wallpaper.com].jpg",
-      "published_label": "2개월 전",
-      "views": 285,
-      "likes": 0,
-      "comments": 0,
-      "source_page": 17,
-      "blog_id": 1725,
-      "blog_name": "지식 저장소",
-      "blog_slug": "knarchive",
-      "daily_views": 2
-    },
-    {
-      "id": 14878,
-      "title": "전세 사기 예방, 2026년 1인 가구가 지금 반드시 알아야 할 등기부등본 확인법 체크리스트",
-      "url": "https://wikidocs.net/blog/@knarchive/14878/",
-      "excerpt": "전세 사기 예방, 2026년 1인 가구가 지금 반드시 알아야 할 등기부등본 확인법 체크리스트 1. 서론: 2026년 1인 가구 전세 시장의 현실과 전세 사기의 위협 대한민국에서 주거는 삶의 가장 기본적인 요소이자, 동시에 가장 큰 경제적 부담 중 하나로 여겨지고 있습…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/14878/포플러,_숲,_가을,_텔루라이드_콜로라도,_Bing,_5K벽지_3840x2160[10wallpaper.com].jpg",
-      "published_label": "3개월 전",
-      "views": 257,
-      "likes": 0,
-      "comments": 0,
-      "source_page": 105,
-      "blog_id": 1725,
-      "blog_name": "지식 저장소",
-      "blog_slug": "knarchive",
-      "daily_views": 2
-    },
-    {
-      "id": 15726,
-      "title": "ESG 경영 사례, 2026년 투자자들이 주목하는 지속 가능한 기업 7곳",
-      "url": "https://wikidocs.net/blog/@knarchive/15726/",
-      "excerpt": "ESG 경영은 단순히 기업의 사회적 책임 활동을 넘어, 21세기 기업의 생존과 성장을 결정하는 핵심적인 경영 패러다임으로 자리매김하고 있습니다. 과거 자선 활동의 일환으로 여겨지던 기업의 비재무적 요소는 이제 투자자들의 주요 의사결정 기준이 되었으며, 2026년에는 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/15726/일몰,_고원,_붉은_바위,_불의_계곡,_네바다,_5K벽지_3840x2160[10wallpaper.com].jpg",
-      "published_label": "3개월 전",
-      "views": 250,
-      "likes": 0,
-      "comments": 0,
-      "source_page": 44,
-      "blog_id": 1725,
-      "blog_name": "지식 저장소",
-      "blog_slug": "knarchive",
-      "daily_views": 2
-    },
-    {
-      "id": 14530,
-      "title": "초등 수학 사고력 문제집, 30대 학부모가 직접 비교해 본 실패 없는 베스트 추천",
-      "url": "https://wikidocs.net/blog/@knarchive/14530/",
-      "excerpt": "급변하는 21세기 사회는 단순 지식 암기를 넘어선 문제 해결 능력, 비판적 사고, 창의성을 갖춘 인재를 요구하고 있습니다. 특히 인공지능(AI) 시대로의 전환은 이러한 역량의 중요성을 더욱 부각시키고 있으며, 수학 교육에서도 사고력 함양은 핵심적인 목표로 자리매김하고…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/14530/NC500을_따라_있는_Kylesku_다리,_스코틀랜드,_고원,_빙,_5K벽지_3840x2160[10wallpaper.com].jpg",
-      "published_label": "3개월 전",
-      "views": 249,
-      "likes": 0,
-      "comments": 0,
-      "source_page": 129,
+      "source_page": 154,
       "blog_id": 1725,
       "blog_name": "지식 저장소",
       "blog_slug": "knarchive",
@@ -31593,10 +31761,10 @@
   "job": {
     "running": false,
     "started_at": null,
-    "finished_at": "2026-09-19T07:01:58+09:00",
+    "finished_at": "2026-09-19T07:31:59+09:00",
     "message": "GitHub Actions 자동 갱신 완료",
     "progress": [],
     "error": null
   },
-  "static_generated_at": "2026-09-19T07:01:58+09:00"
+  "static_generated_at": "2026-09-19T07:31:59+09:00"
 }
