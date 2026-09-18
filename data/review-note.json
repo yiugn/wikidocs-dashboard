@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-18T16:01:57+09:00",
+  "latest_snapshot_at": "2026-09-18T16:31:58+09:00",
   "latest_snapshot_date": "2026-09-18",
   "catalog_updated_at": "2026-09-18T00:00:32+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 754,
-    "total_views": 320067,
-    "daily_views": 204,
+    "total_views": 320074,
+    "daily_views": 211,
     "previous_day_views": 249,
     "previous_day_date": "2026-09-17",
-    "current_month_views": 7993,
+    "current_month_views": 8000,
     "days_recorded": 81
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 161547,
-      "daily_views": 63,
+      "total_views": 161549,
+      "daily_views": 65,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 486,
       "captured_posts": 486,
-      "total_views": 121487,
-      "daily_views": 69,
+      "total_views": 121491,
+      "daily_views": 73,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 37033,
-      "daily_views": 72,
+      "total_views": 37034,
+      "daily_views": 73,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -952,6 +952,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 23732,
+      "title": "캠핑장 밤에 랜턴 하나 없어 당황했다면, 무선 캠핑랜턴 TOP3로 정리해봤습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/23732/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 해가 완전히 떨어진 캠핑장, 텐트 안을 밝히려고 스마트폰 손전등을 켰다가 30분도 안 돼 배터리가 절반 넘게 닳아버린 경험, 캠핑을 몇 번 다녀보신 분이라면 한 번쯤 겪어보셨을…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23732/12_2_product1.jpg",
+      "published_label": "2개월 전",
+      "views": 665,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 22694,
       "title": "폭염에 블랙박스 메모리카드 방치하면, 정작 사고 순간 녹화가 안 돼 낭패 봅니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22694/",
@@ -965,21 +980,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 23732,
-      "title": "캠핑장 밤에 랜턴 하나 없어 당황했다면, 무선 캠핑랜턴 TOP3로 정리해봤습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/23732/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 해가 완전히 떨어진 캠핑장, 텐트 안을 밝히려고 스마트폰 손전등을 켰다가 30분도 안 돼 배터리가 절반 넘게 닳아버린 경험, 캠핑을 몇 번 다녀보신 분이라면 한 번쯤 겪어보셨을…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23732/12_2_product1.jpg",
-      "published_label": "2개월 전",
-      "views": 664,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 22699,
@@ -1468,8 +1468,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 현관문을 열자마자 여기저기 흩어진 가족들 신발이 발 디딜 틈 없이 널려있는 모습, 신발 많은 4인 가족이라면 매일 마주치는 익숙한 풍경일 겁니다. 아이들 운동화에 어른 구두, …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23120/9_5_product1.jpg",
       "published_label": "2개월 전",
-      "views": 260,
-      "daily_views": 0,
+      "views": 261,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -2197,6 +2197,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 22696,
+      "title": "여름철 끈적이고 퀴퀴하던 차 실내, 크리너 하나로 새 차 냄새 났다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22696/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름철 차 문을 열면 훅 끼치는 퀴퀴한 냄새, 그리고 핸들과 시트에 손이 닿을 때 느껴지는 끈적임. 땀과 습기, 음식 부스러기가 뒤섞이면 실내가 금세 지저분해지고 냄새가 배죠.…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22696/5_5_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 127,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 27299,
       "title": "다들 커튼이면 된다지만, 자외선 차단율 보고 고른 우드 블라인드 기준",
       "url": "https://wikidocs.net/blog/@smartliving/27299/",
@@ -2227,19 +2242,19 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 22696,
-      "title": "여름철 끈적이고 퀴퀴하던 차 실내, 크리너 하나로 새 차 냄새 났다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22696/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름철 차 문을 열면 훅 끼치는 퀴퀴한 냄새, 그리고 핸들과 시트에 손이 닿을 때 느껴지는 끈적임. 땀과 습기, 음식 부스러기가 뒤섞이면 실내가 금세 지저분해지고 냄새가 배죠.…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22696/5_5_thumb.jpg",
+      "id": 22690,
+      "title": "야외활동 많은 현장직을 위한, 폭염 체감이 확 달라지는 웨어러블 넥쿨러 이렇게 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/22690/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장마전선이 태풍의 영향으로 북쪽으로 밀려 올라가고 나면, 그 뒤에 남는 건 후텁지근한 폭염이라는 예보가 나온 상황입니다. 실외에서 일하는 시간이 긴 현장직이라면 이런 날씨 변화…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22690/6_9_product1.jpg",
       "published_label": "2개월 전",
-      "views": 125,
+      "views": 124,
       "daily_views": 1,
       "likes": 0,
       "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
     },
     {
       "id": 27397,
@@ -2263,21 +2278,6 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 샌들이나 슬리퍼를 신는 여름철, 발뒤꿈치가 갈라져 스타킹에 자꾸 걸리거나 각질이 하얗게 일어나 신경 쓰였던 분들 많으실 겁니다. 겉으로 잘 안 보인다고 방치했다가 여름 막바지에…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27252/19_7_product1.jpg",
       "published_label": "1개월 전",
-      "views": 123,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22690,
-      "title": "야외활동 많은 현장직을 위한, 폭염 체감이 확 달라지는 웨어러블 넥쿨러 이렇게 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/22690/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장마전선이 태풍의 영향으로 북쪽으로 밀려 올라가고 나면, 그 뒤에 남는 건 후텁지근한 폭염이라는 예보가 나온 상황입니다. 실외에서 일하는 시간이 긴 현장직이라면 이런 날씨 변화…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22690/6_9_product1.jpg",
-      "published_label": "2개월 전",
       "views": 123,
       "daily_views": 0,
       "likes": 0,
@@ -6022,6 +6022,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 22931,
+      "title": "힘 좋은 대형견 보호자를 위한, 장난감을 금방 물어뜯어 버리던 아이가 달라지기까지 터프 저작장난감 TOP3",
+      "url": "https://wikidocs.net/blog/@petpicknote/22931/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 힘 좋은 대형견 보호자를 위한 이야기입니다. 귀엽게 생긴 봉제 인형 장난감을 사줘도 채 하루를 못 버티고 솜뭉치가 된 모습으로 돌아오는 경우, 다들 한 번쯤 겪어보셨을 겁니다.…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22931/8_1.jpg",
+      "published_label": "2개월 전",
+      "views": 56,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 28569,
       "title": "잠들기까지 1시간 걸리던 직장인, 15분 온열로 숙면시켜주는 아이마스크",
       "url": "https://wikidocs.net/blog/@smartliving/28569/",
@@ -6095,21 +6110,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 22931,
-      "title": "힘 좋은 대형견 보호자를 위한, 장난감을 금방 물어뜯어 버리던 아이가 달라지기까지 터프 저작장난감 TOP3",
-      "url": "https://wikidocs.net/blog/@petpicknote/22931/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 힘 좋은 대형견 보호자를 위한 이야기입니다. 귀엽게 생긴 봉제 인형 장난감을 사줘도 채 하루를 못 버티고 솜뭉치가 된 모습으로 돌아오는 경우, 다들 한 번쯤 겪어보셨을 겁니다.…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22931/8_1.jpg",
-      "published_label": "2개월 전",
-      "views": 55,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 22030,
@@ -8197,6 +8197,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24165,
+      "title": "재택근무 프리랜서를 위한, 손목 편해지는 무선 마우스",
+      "url": "https://wikidocs.net/blog/@smartliving/24165/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 하루 종일 마우스를 붙잡고 있는 재택근무, 손목이 먼저 보냅니다 재택근무를 시작하고 나서 하루 종일 모니터 앞에 앉아 마우스를 붙잡고 있다 보면, 어느 순간부터 손목 안쪽이 저…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24165/14_10_product1.jpg",
+      "published_label": "2개월 전",
+      "views": 41,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24157,
       "title": "좁은 원룸살이 자취생을 위한, 체감온도 낮춰주는 타워팬 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/24157/",
@@ -8430,21 +8445,6 @@
       "published_label": "1개월 전",
       "views": 40,
       "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24165,
-      "title": "재택근무 프리랜서를 위한, 손목 편해지는 무선 마우스",
-      "url": "https://wikidocs.net/blog/@smartliving/24165/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 하루 종일 마우스를 붙잡고 있는 재택근무, 손목이 먼저 보냅니다 재택근무를 시작하고 나서 하루 종일 모니터 앞에 앉아 마우스를 붙잡고 있다 보면, 어느 순간부터 손목 안쪽이 저…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24165/14_10_product1.jpg",
-      "published_label": "2개월 전",
-      "views": 40,
-      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -11771,6 +11771,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22696,
+      "title": "여름철 끈적이고 퀴퀴하던 차 실내, 크리너 하나로 새 차 냄새 났다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22696/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름철 차 문을 열면 훅 끼치는 퀴퀴한 냄새, 그리고 핸들과 시트에 손이 닿을 때 느껴지는 끈적임. 땀과 습기, 음식 부스러기가 뒤섞이면 실내가 금세 지저분해지고 냄새가 배죠.…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22696/5_5_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 127,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23764,
       "title": "요즘 다들 삭막한 실내등 대신 이걸로 바꾼다는 차량용 무드등, 이유가 있었습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/23764/",
@@ -11934,21 +11949,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 25218,
-      "title": "시프티 외근, 잦은 출장이 있는 직장인이 놓치기 쉬운 근태 처리 4가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/25218/",
-      "excerpt": "시프티 외근, 잦은 출장이 있는 직장인이 놓치기 쉬운 근태 처리 4가지 외근과 출장이 잦은 직장인이라면 시프티를 활용한 근태 처리 시 세심한 주의가 필요합니다. 특히 이동 시간의 근로시간 인정 여부, 휴일 및 연장근로 처리, 식대 등 경비 정산, 그리고 사전 승인 절…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25218/14_9_img1.png",
-      "published_label": "1개월 전",
-      "views": 110,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     }
   ],
   "daily_totals": [
@@ -12274,8 +12274,8 @@
     },
     {
       "date": "2026-09-18",
-      "views": 204
+      "views": 211
     }
   ],
-  "static_generated_at": "2026-09-18T16:01:58+09:00"
+  "static_generated_at": "2026-09-18T16:31:59+09:00"
 }
