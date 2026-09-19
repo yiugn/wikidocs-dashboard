@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-19T20:01:58+09:00",
+  "latest_snapshot_at": "2026-09-19T20:31:57+09:00",
   "latest_snapshot_date": "2026-09-19",
   "catalog_updated_at": "2026-09-19T00:00:35+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 754,
-    "total_views": 320404,
-    "daily_views": 260,
+    "total_views": 320407,
+    "daily_views": 263,
     "previous_day_views": 281,
     "previous_day_date": "2026-09-18",
-    "current_month_views": 8330,
+    "current_month_views": 8333,
     "days_recorded": 82
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 161671,
-      "daily_views": 90,
+      "total_views": 161672,
+      "daily_views": 91,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 37130,
-      "daily_views": 77,
+      "total_views": 37132,
+      "daily_views": 79,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -163,8 +163,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 내비를 보려고 자꾸 고개를 숙이거나 눈을 아래로 내렸다가, 다시 앞을 보는 그 짧은 순간이 은근히 불안하죠. 특히 고속 주행 중엔 시선이 도로에서 떨어지는 찰나가 길게 느껴집니…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22943/6_10_thumb.jpg",
       "published_label": "2개월 전",
-      "views": 9376,
-      "daily_views": 4,
+      "views": 9377,
+      "daily_views": 5,
       "likes": 0,
       "comments": 1,
       "blog_id": 1978,
@@ -1393,8 +1393,8 @@
       "excerpt": "무료 데이터베이스, 초보 개발자가 사이드 프로젝트에 활용할 툴 4가지 초보 개발자가 사이드 프로젝트를 시작할 때 비용 부담 없이 쉽게 사용할 수 있는 데이터베이스는 프로젝트의 성공에 중요한 역할을 합니다. 특히 데이터의 특성과 프로젝트의 규모를 고려하여 적절한 툴을 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24659/13_10_img1.jpg",
       "published_label": "2개월 전",
-      "views": 322,
-      "daily_views": 1,
+      "views": 324,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -11475,8 +11475,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 내비를 보려고 자꾸 고개를 숙이거나 눈을 아래로 내렸다가, 다시 앞을 보는 그 짧은 순간이 은근히 불안하죠. 특히 고속 주행 중엔 시선이 도로에서 떨어지는 찰나가 길게 느껴집니…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22943/6_10_thumb.jpg",
       "published_label": "2개월 전",
-      "views": 9376,
-      "daily_views": 4,
+      "views": 9377,
+      "daily_views": 5,
       "likes": 0,
       "comments": 1,
       "blog_id": 1978,
@@ -11681,6 +11681,21 @@
   ],
   "rising_posts": [
     {
+      "id": 22943,
+      "title": "내비 보느라 자꾸 고개 숙이던 분들, HUD 달고 시선 덜 뺏겨 운전이 편해졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22943/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 내비를 보려고 자꾸 고개를 숙이거나 눈을 아래로 내렸다가, 다시 앞을 보는 그 짧은 순간이 은근히 불안하죠. 특히 고속 주행 중엔 시선이 도로에서 떨어지는 찰나가 길게 느껴집니…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22943/6_10_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 9377,
+      "daily_views": 5,
+      "likes": 0,
+      "comments": 1,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22288,
       "title": "매일 내비 켜고 운전하는 분들, 혹시 아직도 느린 시거잭 충전기로 답답하게 다니고 계신가요?",
       "url": "https://wikidocs.net/blog/@cartemlab/22288/",
@@ -11691,21 +11706,6 @@
       "daily_views": 5,
       "likes": 0,
       "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 22943,
-      "title": "내비 보느라 자꾸 고개 숙이던 분들, HUD 달고 시선 덜 뺏겨 운전이 편해졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22943/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 내비를 보려고 자꾸 고개를 숙이거나 눈을 아래로 내렸다가, 다시 앞을 보는 그 짧은 순간이 은근히 불안하죠. 특히 고속 주행 중엔 시선이 도로에서 떨어지는 찰나가 길게 느껴집니…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22943/6_10_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 9376,
-      "daily_views": 4,
-      "likes": 0,
-      "comments": 1,
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
@@ -11754,6 +11754,21 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
+    },
+    {
+      "id": 24659,
+      "title": "무료 데이터베이스, 초보 개발자가 사이드 프로젝트에 활용할 툴 4가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/24659/",
+      "excerpt": "무료 데이터베이스, 초보 개발자가 사이드 프로젝트에 활용할 툴 4가지 초보 개발자가 사이드 프로젝트를 시작할 때 비용 부담 없이 쉽게 사용할 수 있는 데이터베이스는 프로젝트의 성공에 중요한 역할을 합니다. 특히 데이터의 특성과 프로젝트의 규모를 고려하여 적절한 툴을 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24659/13_10_img1.jpg",
+      "published_label": "2개월 전",
+      "views": 324,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
     },
     {
       "id": 22935,
@@ -11934,21 +11949,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 23194,
-      "title": "에어컨만으론 뒷좌석까지 시원하지 않던 분들, 차량용 선풍기 하나로 더위 걱정 덜었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23194/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 폭염이 본격화되면서 차 실내 온도는 순식간에 35도를 넘어간다. 에어컨을 풀로 가동해도 뒷좌석과 구석진 곳은 찜통인데, 앞쪽 공기만 돈다는 게 문제다. 선풍기 하나면 그 냉기를…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23194/7_1_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 214,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     }
   ],
   "daily_totals": [
@@ -12278,8 +12278,8 @@
     },
     {
       "date": "2026-09-19",
-      "views": 260
+      "views": 263
     }
   ],
-  "static_generated_at": "2026-09-19T20:01:59+09:00"
+  "static_generated_at": "2026-09-19T20:31:58+09:00"
 }
