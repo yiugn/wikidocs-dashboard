@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-20T07:01:59+09:00",
+  "latest_snapshot_at": "2026-09-20T07:31:58+09:00",
   "latest_snapshot_date": "2026-09-20",
   "catalog_updated_at": "2026-09-20T00:00:33+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 754,
-    "total_views": 320496,
-    "daily_views": 68,
+    "total_views": 320501,
+    "daily_views": 73,
     "previous_day_views": 284,
     "previous_day_date": "2026-09-19",
-    "current_month_views": 8422,
+    "current_month_views": 8427,
     "days_recorded": 83
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 161708,
-      "daily_views": 28,
+      "total_views": 161709,
+      "daily_views": 29,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 486,
       "captured_posts": 486,
-      "total_views": 121629,
-      "daily_views": 19,
+      "total_views": 121631,
+      "daily_views": 21,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 37159,
-      "daily_views": 21,
+      "total_views": 37161,
+      "daily_views": 23,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -613,8 +613,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 요즘 시거잭 하나로는 도무지 부족하다는 말, 공감하시는 분 많을 겁니다. 내비 충전에 블랙박스 상시전원, 폰 두 대에 태블릿까지, 꽂을 건 많은데 시거잭은 하나뿐이니 늘 무언가…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22697/5_6_thumb.jpg",
       "published_label": "2개월 전",
-      "views": 1248,
-      "daily_views": 0,
+      "views": 1249,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -3277,6 +3277,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 25341,
+      "title": "20대 직장인 건강 검진: 반드시 받아야 할 기본 항목 5가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/25341/",
+      "excerpt": "20대 직장인 건강 검진: 반드시 받아야 할 기본 항목 5가지 20대 직장인이라면 국가에서 제공하는 일반 건강검진을 기본으로, 개인의 생활 습관과 가족력을 고려하여 몇 가지 추가 검사를 고려하는 것이 중요합니다. 특히 사회생활 시작으로 인한 스트레스와 불규칙한 생활 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25341/15_6_img1.png",
+      "published_label": "1개월 전",
+      "views": 83,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 25340,
       "title": "**방화벽, 중소기업이 해킹 위협 90% 줄일 때 필요한 기능 7가지**",
       "url": "https://wikidocs.net/blog/@petpicknote/25340/",
@@ -3380,21 +3395,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 25341,
-      "title": "20대 직장인 건강 검진: 반드시 받아야 할 기본 항목 5가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/25341/",
-      "excerpt": "20대 직장인 건강 검진: 반드시 받아야 할 기본 항목 5가지 20대 직장인이라면 국가에서 제공하는 일반 건강검진을 기본으로, 개인의 생활 습관과 가족력을 고려하여 몇 가지 추가 검사를 고려하는 것이 중요합니다. 특히 사회생활 시작으로 인한 스트레스와 불규칙한 생활 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25341/15_6_img1.png",
-      "published_label": "1개월 전",
-      "views": 82,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 27392,
@@ -4867,6 +4867,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 22677,
+      "title": "혹시 아직도 장마 끝나가는 반려동물 하우스, 눅눅한 채로 그냥 두고 계신가요?",
+      "url": "https://wikidocs.net/blog/@petpicknote/22677/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 강아지 하우스 안에 손을 넣어봤는데 눅눅한 습기가 손끝에 그대로 느껴진 적 있으실 겁니다. 방석을 들춰보면 은은하게 퀴퀴한 냄새가 올라오고, 아이는 그 안에서 자꾸 몸을 긁적이…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22677/7_1.jpg",
+      "published_label": "2개월 전",
+      "views": 64,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22676,
       "title": "털갈이 심한 대형견 보호자라면, 언더코트 브러시 하나로 집안 털날림이 확 줄었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/22676/",
@@ -5037,21 +5052,6 @@
       "url": "https://wikidocs.net/blog/@petpicknote/23631/",
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 반려견이 밥그릇 앞에 웅크리고 앉아 목을 잔뜩 숙인 채 사료를 먹는 모습, 무심코 지나치기 쉽지만 사실 이 자세는 생각보다 몸에 부담을 줍니다. 특히 나이가 들면서 목과 어깨 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23631/8_1_img1.jpg",
-      "published_label": "2개월 전",
-      "views": 63,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22677,
-      "title": "혹시 아직도 장마 끝나가는 반려동물 하우스, 눅눅한 채로 그냥 두고 계신가요?",
-      "url": "https://wikidocs.net/blog/@petpicknote/22677/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 강아지 하우스 안에 손을 넣어봤는데 눅눅한 습기가 손끝에 그대로 느껴진 적 있으실 겁니다. 방석을 들춰보면 은은하게 퀴퀴한 냄새가 올라오고, 아이는 그 안에서 자꾸 몸을 긁적이…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22677/7_1.jpg",
       "published_label": "2개월 전",
       "views": 63,
       "daily_views": 0,
@@ -8872,6 +8872,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 30277,
+      "title": "퇴근 후 발 시린 사무직, 마사지숍 3만원 아껴주는 휴대용 족욕기",
+      "url": "https://wikidocs.net/blog/@smartliving/30277/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 발끝부터 시려오면, 하루의 피로가 다 풀리지 않습니다 책상 밑에서 발끝이 시려오는 걸 느낀 게 한두 번이 아니실 겁니다. 종일 앉아 있다 보면 다리 쪽 혈액순환이 더뎌지면서 퇴…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30277/45_1_product1.jpg",
+      "published_label": "16일 전",
+      "views": 36,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 29872,
       "title": "설거지 후 눅눅한 수저 찜찜한 자취생, 반나절 만에 말려주는 커트러리 건조대",
       "url": "https://wikidocs.net/blog/@smartliving/29872/",
@@ -9042,21 +9057,6 @@
       "url": "https://wikidocs.net/blog/@smartliving/30286/",
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 책상 밑 냉기, 난방 없이도 잡을 수 있습니다 아직 난방을 틀 정도는 아닌데, 앉아 있다 보면 손끝 발끝부터 시려오는 계절입니다. 매번 핫팩을 뜯어 쓰자니 한 달이면 팩값만 8…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/30286/45_10_product1.jpg",
-      "published_label": "16일 전",
-      "views": 35,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 30277,
-      "title": "퇴근 후 발 시린 사무직, 마사지숍 3만원 아껴주는 휴대용 족욕기",
-      "url": "https://wikidocs.net/blog/@smartliving/30277/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 발끝부터 시려오면, 하루의 피로가 다 풀리지 않습니다 책상 밑에서 발끝이 시려오는 걸 느낀 게 한두 번이 아니실 겁니다. 종일 앉아 있다 보면 다리 쪽 혈액순환이 더뎌지면서 퇴…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30277/45_1_product1.jpg",
       "published_label": "16일 전",
       "views": 35,
       "daily_views": 0,
@@ -10162,6 +10162,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 30065,
+      "title": "환절기 비 잦아진 원룸 자취생, 건조비 3천원 아껴주는 미니 실내 빨래건조대",
+      "url": "https://wikidocs.net/blog/@smartliving/30065/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 빨래를 널었는데 이틀이 지나도 눅눅한 냄새가 가시지 않은 적 있으실 겁니다 환절기에는 비 오는 날이 잦아지고 습도까지 높아지면서, 베란다에 널어둔 빨래가 좀처럼 마르지 않습니다…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30065/43_4_product1.jpg",
+      "published_label": "18일 전",
+      "views": 28,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 29682,
       "title": "밤마다 땀 많이 흘리는 사람, 매트리스 교체비 8천원대로 막아주는 방수 커버",
       "url": "https://wikidocs.net/blog/@smartliving/29682/",
@@ -10303,21 +10318,6 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 형광등 하나로는 하루의 피로가 풀리지 않습니다 퇴근하고 집에 돌아와 불을 켜면 새하얀 형광등 조명이 방 안을 가득 채웁니다. 밝기는 충분하지만 왠지 마음이 편해지지 않는 느낌,…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/30186/44_9_product1.jpg",
       "published_label": "17일 전",
-      "views": 27,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 30065,
-      "title": "환절기 비 잦아진 원룸 자취생, 건조비 3천원 아껴주는 미니 실내 빨래건조대",
-      "url": "https://wikidocs.net/blog/@smartliving/30065/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 빨래를 널었는데 이틀이 지나도 눅눅한 냄새가 가시지 않은 적 있으실 겁니다 환절기에는 비 오는 날이 잦아지고 습도까지 높아지면서, 베란다에 널어둔 빨래가 좀처럼 마르지 않습니다…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30065/43_4_product1.jpg",
-      "published_label": "18일 전",
       "views": 27,
       "daily_views": 0,
       "likes": 0,
@@ -11876,6 +11876,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22697,
+      "title": "요즘 다들 시거잭 하나로는 부족하다며 이걸로 바꾼다는 멀티 소켓, 이유가 있었습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22697/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 요즘 시거잭 하나로는 도무지 부족하다는 말, 공감하시는 분 많을 겁니다. 내비 충전에 블랙박스 상시전원, 폰 두 대에 태블릿까지, 꽂을 건 많은데 시거잭은 하나뿐이니 늘 무언가…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22697/5_6_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 1249,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22350,
       "title": "야간 산책 자주 나가는 강아지 보호자를 위한, 반사조끼 안 챙기면 사고 위험으로 돌아옵니다",
       "url": "https://wikidocs.net/blog/@petpicknote/22350/",
@@ -11928,21 +11943,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22528/7_1.jpg",
       "published_label": "2개월 전",
       "views": 387,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 23109,
-      "title": "세 번 잘못 사고 나서야 알게 된 강아지 목욕 후 초강력 흡수 드라이타월 고르는 법",
-      "url": "https://wikidocs.net/blog/@petpicknote/23109/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 목욕을 마친 강아지가 몸을 부르르 털면서 사방으로 물방울을 튀기는 모습, 한 번쯤 겪어보셨을 겁니다. 급한 대로 집에 있는 일반 수건으로 닦아보지만, 아무리 문질러도 속털까지는…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23109/4_1.jpg",
-      "published_label": "2개월 전",
-      "views": 366,
       "daily_views": 1,
       "likes": 0,
       "comments": 0,
@@ -12282,8 +12282,8 @@
     },
     {
       "date": "2026-09-20",
-      "views": 68
+      "views": 73
     }
   ],
-  "static_generated_at": "2026-09-20T07:02:00+09:00"
+  "static_generated_at": "2026-09-20T07:31:59+09:00"
 }
