@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-20T23:01:57+09:00",
+  "latest_snapshot_at": "2026-09-20T23:31:57+09:00",
   "latest_snapshot_date": "2026-09-20",
   "catalog_updated_at": "2026-09-20T00:00:33+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 754,
-    "total_views": 320691,
-    "daily_views": 263,
+    "total_views": 320696,
+    "daily_views": 268,
     "previous_day_views": 284,
     "previous_day_date": "2026-09-19",
-    "current_month_views": 8617,
+    "current_month_views": 8622,
     "days_recorded": 83
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 161774,
-      "daily_views": 94,
+      "total_views": 161776,
+      "daily_views": 96,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 486,
       "captured_posts": 486,
-      "total_views": 121717,
-      "daily_views": 107,
+      "total_views": 121719,
+      "daily_views": 109,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 37200,
-      "daily_views": 62,
+      "total_views": 37201,
+      "daily_views": 63,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1153,8 +1153,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 한여름 차박·오토캠핑을 가면, 정작 낮에 쉴 그늘이 없어 뙤약볕에 그대로 노출된 경험 있으실 겁니다. 트렁크 문을 열어 그늘을 만들어봐도 해가 기울면 소용없고, 달궈진 차 옆에…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22492/4_8_thumb.jpg",
       "published_label": "2개월 전",
-      "views": 448,
-      "daily_views": 0,
+      "views": 449,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -2188,8 +2188,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 새로 산 벽시계를 걸어놓고 첫날 밤, 유독 조용한 방 안에서 똑딱거리는 초침 소리가 이렇게 크게 들릴 줄 몰랐던 경험 있으실 겁니다. 낮에는 안 들리던 소리가 불 끄고 눕자마자…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27397/21_8_product1.jpg",
       "published_label": "1개월 전",
-      "views": 130,
-      "daily_views": 4,
+      "views": 131,
+      "daily_views": 5,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -3247,6 +3247,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 21907,
+      "title": "장거리 통근족을 위한, 여름 땡볕 실내온도 낮춰주는 햇빛가리개 이렇게 골랐습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/21907/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근길, 차 문을 여는 순간 훅 끼치는 그 열기 지하 주차장이 아니라 회사 앞 노상에 세워두고 8시간 근무를 마치고 나온 날, 차 문 손잡이부터 뜨끈했던 경험 있으실 겁니다. …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/21907/1_1_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 84,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23766,
       "title": "무더위 절정 오기 전에 챙겨야 할 냉각수 누수 관리 3가지",
       "url": "https://wikidocs.net/blog/@cartemlab/23766/",
@@ -3285,21 +3300,6 @@
       "published_label": "2개월 전",
       "views": 83,
       "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 21907,
-      "title": "장거리 통근족을 위한, 여름 땡볕 실내온도 낮춰주는 햇빛가리개 이렇게 골랐습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/21907/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근길, 차 문을 여는 순간 훅 끼치는 그 열기 지하 주차장이 아니라 회사 앞 노상에 세워두고 8시간 근무를 마치고 나온 날, 차 문 손잡이부터 뜨끈했던 경험 있으실 겁니다. …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/21907/1_1_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 83,
-      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -5107,6 +5107,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 22914,
+      "title": "이번 주말 반려동반 여름축제 나들이 앞둔 분이라면, 그늘막 텐트 하나로 뙤약볕 걱정이 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/22914/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 7월 들어 전국 곳곳에서 반려견 동반 여름 축제 소식이 부쩍 늘었습니다. 강원 홍천의 반려문화축제, 광주 펫크닉, 남양주 봉선사의 반려견 선명상 축제까지, 이번 주말 어디로 나…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22914/3_1.jpg",
+      "published_label": "2개월 전",
+      "views": 63,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 30368,
       "title": "가을모기 밤잠 설치는 자취생, 3초 분사로 하룻밤 막아주는 모기퇴치 스프레이",
       "url": "https://wikidocs.net/blog/@smartliving/30368/",
@@ -5255,21 +5270,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 22914,
-      "title": "이번 주말 반려동반 여름축제 나들이 앞둔 분이라면, 그늘막 텐트 하나로 뙤약볕 걱정이 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/22914/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 7월 들어 전국 곳곳에서 반려견 동반 여름 축제 소식이 부쩍 늘었습니다. 강원 홍천의 반려문화축제, 광주 펫크닉, 남양주 봉선사의 반려견 선명상 축제까지, 이번 주말 어디로 나…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22914/3_1.jpg",
-      "published_label": "2개월 전",
-      "views": 62,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 22336,
@@ -10852,6 +10852,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 30371,
+      "title": "선 정리 안 되는 재택근무자, 멀티탭 3구 숨겨 화재위험 줄여주는 케이블 트레이",
+      "url": "https://wikidocs.net/blog/@smartliving/30371/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 책상 밑을 슬쩍 들여다보면 전선이 뒤엉켜 먼지까지 뽀얗게 쌓여있는 걸 보고 흠칫하신 적 있으실 텐데요. 재택근무가 길어지면서 모니터, 노트북, 조명까지 콘센트에 꽂을 게 늘어나…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30371/46_8_product1.jpg",
+      "published_label": "15일 전",
+      "views": 21,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 30181,
       "title": "아침저녁 쌀쌀해진 초가을 자취생, 난방비 월 5천원 아껴주는 누빔 매트리스 패드",
       "url": "https://wikidocs.net/blog/@smartliving/30181/",
@@ -10888,21 +10903,6 @@
       "excerpt": "책상 서랍 뒤죽박죽인 재택근무 직장인, 3천원대로 정리 끝내주는 칸막이 트레이 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 급하게 볼펜이나 포스트잇을 찾으려고 서랍을 열었는데, 클립·영수증·충전 케이블이 뒤섞여 원하는 물…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/30605/49_8_product1.jpg",
       "published_label": "12일 전",
-      "views": 20,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 30371,
-      "title": "선 정리 안 되는 재택근무자, 멀티탭 3구 숨겨 화재위험 줄여주는 케이블 트레이",
-      "url": "https://wikidocs.net/blog/@smartliving/30371/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 책상 밑을 슬쩍 들여다보면 전선이 뒤엉켜 먼지까지 뽀얗게 쌓여있는 걸 보고 흠칫하신 적 있으실 텐데요. 재택근무가 길어지면서 모니터, 노트북, 조명까지 콘센트에 꽂을 게 늘어나…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30371/46_8_product1.jpg",
-      "published_label": "15일 전",
       "views": 20,
       "daily_views": 0,
       "likes": 0,
@@ -11726,6 +11726,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 27397,
+      "title": "똑딱 소리에 잠 설친 끝에 알게 된 무소음 벽시계 고르는 법",
+      "url": "https://wikidocs.net/blog/@smartliving/27397/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 새로 산 벽시계를 걸어놓고 첫날 밤, 유독 조용한 방 안에서 똑딱거리는 초침 소리가 이렇게 크게 들릴 줄 몰랐던 경험 있으실 겁니다. 낮에는 안 들리던 소리가 불 끄고 눕자마자…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27397/21_8_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 131,
+      "daily_views": 5,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 22283,
       "title": "여름 휴가 차박 갈 때마다 등 배기고 잠 설쳤다면, 차박매트 추천 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22283/",
@@ -11739,21 +11754,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 27397,
-      "title": "똑딱 소리에 잠 설친 끝에 알게 된 무소음 벽시계 고르는 법",
-      "url": "https://wikidocs.net/blog/@smartliving/27397/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 새로 산 벽시계를 걸어놓고 첫날 밤, 유독 조용한 방 안에서 똑딱거리는 초침 소리가 이렇게 크게 들릴 줄 몰랐던 경험 있으실 겁니다. 낮에는 안 들리던 소리가 불 끄고 눕자마자…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27397/21_8_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 130,
-      "daily_views": 4,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 28081,
@@ -12282,8 +12282,8 @@
     },
     {
       "date": "2026-09-20",
-      "views": 263
+      "views": 268
     }
   ],
-  "static_generated_at": "2026-09-20T23:01:59+09:00"
+  "static_generated_at": "2026-09-20T23:31:58+09:00"
 }
