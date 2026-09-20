@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-20T08:01:56+09:00",
+  "latest_snapshot_at": "2026-09-20T09:31:58+09:00",
   "latest_snapshot_date": "2026-09-20",
   "catalog_updated_at": "2026-09-20T00:00:33+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 754,
-    "total_views": 320504,
-    "daily_views": 76,
+    "total_views": 320516,
+    "daily_views": 88,
     "previous_day_views": 284,
     "previous_day_date": "2026-09-19",
-    "current_month_views": 8430,
+    "current_month_views": 8442,
     "days_recorded": 83
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 161711,
-      "daily_views": 31,
+      "total_views": 161713,
+      "daily_views": 33,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 486,
       "captured_posts": 486,
-      "total_views": 121632,
-      "daily_views": 22,
+      "total_views": 121639,
+      "daily_views": 29,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 37161,
-      "daily_views": 23,
+      "total_views": 37164,
+      "daily_views": 26,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1752,7 +1752,7 @@
       "url": "https://wikidocs.net/blog/@petpicknote/25344/",
       "excerpt": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준) AWS S3에 1TB 이상의 데이터를 저장할 때 예상치 못한 과금 폭탄을 피하기 위해서는 스토리지 클래스 선택, 수명 주기 관리, S3 Intelligent-Tier…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25344/15_9_img1.jpg",
-      "published_label": "1개월 전",
+      "published_label": "2개월 전",
       "views": 174,
       "daily_views": 0,
       "likes": 0,
@@ -1857,7 +1857,7 @@
       "url": "https://wikidocs.net/blog/@petpicknote/25345/",
       "excerpt": "리브 모바일 친구 결합, 20대 친구끼리 통신비 50% 절감하는 방법 3가지 리브 모바일 친구 결합은 KB국민은행의 알뜰폰 서비스인 리브모바일 고객이라면 누구나 친구 또는 지인과 함께 통신비 할인을 받거나 추가 데이터를 제공받을 수 있는 서비스입니다. 특히 2026년…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25345/15_10_img1.jpg",
-      "published_label": "1개월 전",
+      "published_label": "2개월 전",
       "views": 162,
       "daily_views": 0,
       "likes": 0,
@@ -2167,6 +2167,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24655,
+      "title": "동영상 클라우드: 1TB 이상 대용량 파일 관리를 위한 무료 플랜 3가지 (2026년 기준)",
+      "url": "https://wikidocs.net/blog/@petpicknote/24655/",
+      "excerpt": "동영상 클라우드: 1TB 이상 대용량 파일 관리를 위한 무료 플랜 3가지 (2026년 기준) 1TB 이상의 대용량 동영상 파일을 무료로 관리할 수 있는 클라우드 서비스는 현실적으로 매우 제한적입니다. 2026년 현재, 대부분의 클라우드 서비스는 무료 플랜에서 제공하는…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24655/13_6_img1.png",
+      "published_label": "2개월 전",
+      "views": 130,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22696,
       "title": "여름철 끈적이고 퀴퀴하던 차 실내, 크리너 하나로 새 차 냄새 났다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22696/",
@@ -2180,21 +2195,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 24655,
-      "title": "동영상 클라우드: 1TB 이상 대용량 파일 관리를 위한 무료 플랜 3가지 (2026년 기준)",
-      "url": "https://wikidocs.net/blog/@petpicknote/24655/",
-      "excerpt": "동영상 클라우드: 1TB 이상 대용량 파일 관리를 위한 무료 플랜 3가지 (2026년 기준) 1TB 이상의 대용량 동영상 파일을 무료로 관리할 수 있는 클라우드 서비스는 현실적으로 매우 제한적입니다. 2026년 현재, 대부분의 클라우드 서비스는 무료 플랜에서 제공하는…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24655/13_6_img1.png",
-      "published_label": "2개월 전",
-      "views": 129,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 23823,
@@ -2452,6 +2452,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 23557,
+      "title": "장거리 통근족을 위한, 안전벨트 커버 바꾸고 목·어깨 쓸림 확 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/23557/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 매일 같은 자리로 벨트를 매다 보면 목과 어깨 한 지점만 계속 눌리고 쓸려서 자국이 남았던 경험 있으실 겁니다. 여름엔 그 부분이 땀에 젖어 따갑고, 겨울엔 뻣뻣한 원단이 옷 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23557/9_7_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 112,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 25218,
       "title": "시프티 외근, 잦은 출장이 있는 직장인이 놓치기 쉬운 근태 처리 4가지",
       "url": "https://wikidocs.net/blog/@petpicknote/25218/",
@@ -2480,21 +2495,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23557,
-      "title": "장거리 통근족을 위한, 안전벨트 커버 바꾸고 목·어깨 쓸림 확 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/23557/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 매일 같은 자리로 벨트를 매다 보면 목과 어깨 한 지점만 계속 눌리고 쓸려서 자국이 남았던 경험 있으실 겁니다. 여름엔 그 부분이 땀에 젖어 따갑고, 겨울엔 뻣뻣한 원단이 옷 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23557/9_7_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 111,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 24009,
@@ -3282,7 +3282,7 @@
       "url": "https://wikidocs.net/blog/@petpicknote/25341/",
       "excerpt": "20대 직장인 건강 검진: 반드시 받아야 할 기본 항목 5가지 20대 직장인이라면 국가에서 제공하는 일반 건강검진을 기본으로, 개인의 생활 습관과 가족력을 고려하여 몇 가지 추가 검사를 고려하는 것이 중요합니다. 특히 사회생활 시작으로 인한 스트레스와 불규칙한 생활 …",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25341/15_6_img1.png",
-      "published_label": "1개월 전",
+      "published_label": "2개월 전",
       "views": 83,
       "daily_views": 1,
       "likes": 0,
@@ -3297,7 +3297,7 @@
       "url": "https://wikidocs.net/blog/@petpicknote/25340/",
       "excerpt": "방화벽, 중소기업이 해킹 위협 90% 줄일 때 필요한 기능 7가지 중소기업은 대기업에 비해 사이버 보안 인프라와 전문 인력 부족으로 인해 해킹 위협에 더욱 취약합니다. 2024년 기준, 국내 랜섬웨어 피해 사례의 90% 이상과 전체 사이버 공격 피해의 92%가 중소·…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25340/15_5_img1.jpg",
-      "published_label": "1개월 전",
+      "published_label": "2개월 전",
       "views": 83,
       "daily_views": 0,
       "likes": 0,
@@ -3472,6 +3472,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 23526,
+      "title": "출근 전 옷 구겨짐 걱정하는 직장인이라면, 미니 스타일러 추천 TOP3",
+      "url": "https://wikidocs.net/blog/@smartliving/23526/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 출근 준비를 하다가 옷장에서 꺼낸 셔츠에 구김이 자글자글한 걸 발견하면, 그날 하루가 시작부터 조급해지죠. 다리미를 꺼내 다리기엔 시간이 빠듯하고, 그렇다고 구겨진 채로 입고 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23526/11_10_product1.jpg",
+      "published_label": "2개월 전",
+      "views": 81,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 21980,
       "title": "휴가 다녀올 때마다 시트 틈 모래·과자 부스러기로 스트레스였다면, 차량용 무선청소기 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/21980/",
@@ -3523,21 +3538,6 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 한밤중 텐트 안에서 귓가를 스치는 \"앵-\" 소리에 잠을 설쳐보신 분 많으실 겁니다. 손전등을 켜고 벽면을 훑어봐도 모기는 이미 어디론가 숨어버린 뒤죠. 아침에 일어나면 팔뚝이며…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28073/28_1_product1.jpg",
       "published_label": "1개월 전",
-      "views": 80,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23526,
-      "title": "출근 전 옷 구겨짐 걱정하는 직장인이라면, 미니 스타일러 추천 TOP3",
-      "url": "https://wikidocs.net/blog/@smartliving/23526/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 출근 준비를 하다가 옷장에서 꺼낸 셔츠에 구김이 자글자글한 걸 발견하면, 그날 하루가 시작부터 조급해지죠. 다리미를 꺼내 다리기엔 시간이 빠듯하고, 그렇다고 구겨진 채로 입고 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23526/11_10_product1.jpg",
-      "published_label": "2개월 전",
       "views": 80,
       "daily_views": 0,
       "likes": 0,
@@ -3637,6 +3637,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 27296,
+      "title": "돌쟁이 아기 키우는 집, 문 끼임사고 방치하면 응급실비 나갑니다",
+      "url": "https://wikidocs.net/blog/@smartliving/27296/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 아이가 걸음마를 떼기 시작하면 집안 곳곳이 다 위험해 보이실 겁니다. 특히 방문이나 화장실 문 앞에서 아이 손이 문틈에 딸려 들어가는 순간, 그 짧은 비명 소리는 부모 심장을 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27296/20_1_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 78,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28820,
       "title": "무더위에 과일주스 갈아마시는 자취생, 1.5만원대로 만들어주는 휴대용 블렌더",
       "url": "https://wikidocs.net/blog/@smartliving/28820/",
@@ -3672,21 +3687,6 @@
       "url": "https://wikidocs.net/blog/@smartliving/28194/",
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 신혼집 옷장을 열 때마다 옷이 서로 뒤엉켜 있어 원하는 옷 하나 꺼내려면 옆에 있던 옷까지 다 흐트러지신 적 있으실 겁니다. 행거 하나 더 놓기엔 방이 좁고, 그렇다고 옷을 줄…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/28194/29_6_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 77,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 27296,
-      "title": "돌쟁이 아기 키우는 집, 문 끼임사고 방치하면 응급실비 나갑니다",
-      "url": "https://wikidocs.net/blog/@smartliving/27296/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 아이가 걸음마를 떼기 시작하면 집안 곳곳이 다 위험해 보이실 겁니다. 특히 방문이나 화장실 문 앞에서 아이 손이 문틈에 딸려 들어가는 순간, 그 짧은 비명 소리는 부모 심장을 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27296/20_1_product1.jpg",
       "published_label": "1개월 전",
       "views": 77,
       "daily_views": 0,
@@ -4207,6 +4207,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 23111,
+      "title": "고양이 소프트캐리어 vs 하드캐리어, 직접 비교해보니 승자는 이거였습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/23111/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 병원 진료 날, 이동장 문을 여는 순간부터 발톱을 세우고 버티는 고양이를 억지로 욱여넣어 본 적 있으실 겁니다. 천으로 된 소프트 캐리어는 아이가 안에서 몸을 비틀며 힘을 주면…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23111/6_1.jpg",
+      "published_label": "2개월 전",
+      "views": 70,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 28733,
       "title": "냉방병에 속 더부룩한 사무직, 하루 900원대로 편하게 챙겨주는 포스트바이오틱스 유산균",
       "url": "https://wikidocs.net/blog/@smartliving/28733/",
@@ -4325,21 +4340,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 23111,
-      "title": "고양이 소프트캐리어 vs 하드캐리어, 직접 비교해보니 승자는 이거였습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/23111/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 병원 진료 날, 이동장 문을 여는 순간부터 발톱을 세우고 버티는 고양이를 억지로 욱여넣어 본 적 있으실 겁니다. 천으로 된 소프트 캐리어는 아이가 안에서 몸을 비틀며 힘을 주면…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23111/6_1.jpg",
-      "published_label": "2개월 전",
-      "views": 69,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 28570,
@@ -4842,7 +4842,7 @@
       "url": "https://wikidocs.net/blog/@petpicknote/25342/",
       "excerpt": "QMS, 제조업체 불량률 10% 감소 위한 핵심 품질 관리 시스템 6가지 제조업체가 제품 불량률을 10% 이상 줄이기 위해서는 단순히 품질 관리 시스템(QMS)을 도입하는 것을 넘어, 데이터 기반의 통합적인 접근 방식이 필수적입니다. 이를 위해 ISO 9001 인증을…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25342/15_7_img1.jpg",
-      "published_label": "1개월 전",
+      "published_label": "2개월 전",
       "views": 64,
       "daily_views": 0,
       "likes": 0,
@@ -4957,6 +4957,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 27396,
+      "title": "장마 끝난 지금 챙기면 모기약값 아끼는 실내 UV포충램프 TOP3",
+      "url": "https://wikidocs.net/blog/@smartliving/27396/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장마가 끝났다고 안심하셨다면 다시 생각해보셔야 합니다. 장마 후반부에 이어진 게릴라성 집중호우로 곳곳에 고인 물이 모기 서식지가 되면서, 정작 비가 그친 지금부터 모기가 급격히…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27396/21_7_product1.jpg",
+      "published_label": "1개월 전",
+      "views": 64,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 27395,
       "title": "좁은 원룸에 사는 자취생을 위한, 전기세 안 오르는 저전력 냉풍기 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/27395/",
@@ -4965,6 +4980,21 @@
       "published_label": "1개월 전",
       "views": 64,
       "daily_views": 0,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
+      "id": 24163,
+      "title": "여름 러닝 시작한 직장인을 위한 방수 블루투스 이어폰",
+      "url": "https://wikidocs.net/blog/@smartliving/24163/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근 후 시작한 러닝, 땀에 젖은 이어폰이 자꾸 말썽입니다 퇴근하고 스트레스도 풀 겸 큰맘 먹고 러닝을 시작하셨는데, 뛴 지 얼마 되지도 않아 이어폰이 자꾸 지지직거리거나 한쪽…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24163/14_8_product1.jpg",
+      "published_label": "2개월 전",
+      "views": 64,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -5098,36 +5128,6 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 에어컨 리모컨을 손에 쥐고도 온도를 못 낮추고 계신 분들 많으실 겁니다. 이미 전기요금 고지서 한 번 맞아본 자취생이라면, 설정 온도를 1도만 내려도 다음 달 요금이 얼마나 오…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27992/27_1_product1.jpg",
       "published_label": "1개월 전",
-      "views": 63,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 27396,
-      "title": "장마 끝난 지금 챙기면 모기약값 아끼는 실내 UV포충램프 TOP3",
-      "url": "https://wikidocs.net/blog/@smartliving/27396/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 장마가 끝났다고 안심하셨다면 다시 생각해보셔야 합니다. 장마 후반부에 이어진 게릴라성 집중호우로 곳곳에 고인 물이 모기 서식지가 되면서, 정작 비가 그친 지금부터 모기가 급격히…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27396/21_7_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 63,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24163,
-      "title": "여름 러닝 시작한 직장인을 위한 방수 블루투스 이어폰",
-      "url": "https://wikidocs.net/blog/@smartliving/24163/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근 후 시작한 러닝, 땀에 젖은 이어폰이 자꾸 말썽입니다 퇴근하고 스트레스도 풀 겸 큰맘 먹고 러닝을 시작하셨는데, 뛴 지 얼마 되지도 않아 이어폰이 자꾸 지지직거리거나 한쪽…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24163/14_8_product1.jpg",
-      "published_label": "2개월 전",
       "views": 63,
       "daily_views": 0,
       "likes": 0,
@@ -6082,6 +6082,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22938,
+      "title": "한여름 등에 땀 차는 통근족이라면, 대자리 방석 깔고 시트가 뽀송해졌다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/22938/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 한여름 통근길, 시트에 등과 엉덩이가 밀착돼 땀이 차면 셔츠와 바지가 축축하게 젖어 불쾌하죠. 에어컨 바람은 앞으로만 오고, 정작 몸이 닿는 시트 면은 통풍이 안 돼 열과 땀이…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22938/6_5_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 56,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22931,
       "title": "힘 좋은 대형견 보호자를 위한, 장난감을 금방 물어뜯어 버리던 아이가 달라지기까지 터프 저작장난감 TOP3",
       "url": "https://wikidocs.net/blog/@petpicknote/22931/",
@@ -6147,21 +6162,6 @@
       "url": "https://wikidocs.net/blog/@cartemlab/23767/",
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박하면서 무릎에 그릇을 올려놓고 먹다가 흔들려서 국물을 쏟았던 경험 있으실 겁니다. 한 손엔 컵을 들고 노트북은 무릎 위에 올려놓은 채 낑낑댔던 순간도 있으셨을 겁니다. 테이…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23767/10_9_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 55,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 22938,
-      "title": "한여름 등에 땀 차는 통근족이라면, 대자리 방석 깔고 시트가 뽀송해졌다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/22938/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 한여름 통근길, 시트에 등과 엉덩이가 밀착돼 땀이 차면 셔츠와 바지가 축축하게 젖어 불쾌하죠. 에어컨 바람은 앞으로만 오고, 정작 몸이 닿는 시트 면은 통풍이 안 돼 열과 땀이…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22938/6_5_thumb.jpg",
       "published_label": "2개월 전",
       "views": 55,
       "daily_views": 0,
@@ -6592,6 +6592,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 22268,
+      "title": "여름 장거리 운전 앞두고 카시트 안 챙기면, 땀띠와 냄새로 돌아옵니다",
+      "url": "https://wikidocs.net/blog/@smartliving/22268/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름휴가철 장거리 운전, 에어컨을 아무리 세게 틀어도 등과 엉덩이에 닿는 시트만큼은 계속 축축하게 느껴지실 겁니다. 특히 가죽 시트 차량이라면 한여름 뙤약볕에 달궈진 시트에 앉…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22268/5_5_product1.jpg",
+      "published_label": "2개월 전",
+      "views": 52,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24333,
       "title": "중복 폭염 앞둔 장거리족을 위한, 통풍시트 깔고 나서 땀참이 확 줄었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/24333/",
@@ -6620,6 +6635,21 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
+    },
+    {
+      "id": 24427,
+      "title": "무더위에 운동하시는 분이라면, 전해질 보충제 하나로 어지러움이 줄었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@petpicknote/24427/",
+      "excerpt": "🔖 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 낮 최고기온이 30도를 훌쩍 넘고 체감온도가 31도 안팎까지 오르는 날이 이어지면서, 야외에서 운동을 하거나 등산·러닝을 즐기시는 분들 중에는 평소보다 쉽게 어지러움을 느끼거나…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24427/12_3_img1.jpg",
+      "published_label": "2개월 전",
+      "views": 51,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
     },
     {
       "id": 30511,
@@ -6815,36 +6845,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 22268,
-      "title": "여름 장거리 운전 앞두고 카시트 안 챙기면, 땀띠와 냄새로 돌아옵니다",
-      "url": "https://wikidocs.net/blog/@smartliving/22268/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름휴가철 장거리 운전, 에어컨을 아무리 세게 틀어도 등과 엉덩이에 닿는 시트만큼은 계속 축축하게 느껴지실 겁니다. 특히 가죽 시트 차량이라면 한여름 뙤약볕에 달궈진 시트에 앉…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22268/5_5_product1.jpg",
-      "published_label": "2개월 전",
-      "views": 51,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24427,
-      "title": "무더위에 운동하시는 분이라면, 전해질 보충제 하나로 어지러움이 줄었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@petpicknote/24427/",
-      "excerpt": "🔖 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 낮 최고기온이 30도를 훌쩍 넘고 체감온도가 31도 안팎까지 오르는 날이 이어지면서, 야외에서 운동을 하거나 등산·러닝을 즐기시는 분들 중에는 평소보다 쉽게 어지러움을 느끼거나…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24427/12_3_img1.jpg",
-      "published_label": "2개월 전",
-      "views": 50,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 30373,
@@ -7077,7 +7077,7 @@
       "url": "https://wikidocs.net/blog/@petpicknote/25343/",
       "excerpt": "WBS 관리, IT 프로젝트 매니저가 마감일 지연 줄이는 핵심 노하우 5가지 IT 프로젝트의 성공적인 마감일 준수는 효과적인 WBS(작업 분해 구조) 관리에 달려 있습니다. WBS를 통해 프로젝트 범위를 명확히 하고, 세분화된 작업을 정의하며, 자원 할당과 리스크 관…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25343/15_8_img1.png",
-      "published_label": "1개월 전",
+      "published_label": "2개월 전",
       "views": 48,
       "daily_views": 0,
       "likes": 0,
@@ -7357,6 +7357,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 29686,
+      "title": "주방 날파리에 시달리는 주부, 살충제값 1만원대로 줄여주는 전기 파리채",
+      "url": "https://wikidocs.net/blog/@smartliving/29686/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 과일 한 번 놔뒀다고 날파리가 이렇게 생길 일인가요 늦여름 주방에 과일이나 음식물 쓰레기를 잠깐만 방치해도 어디선가 날파리가 꼬이기 시작합니다. 손으로 잡으려 해도 손바닥 사이…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/29686/39_6_product1.jpg",
+      "published_label": "23일 전",
+      "views": 46,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28389,
       "title": "에어프라이어 쓰는 자취생, 150매로 반년 쓰며 설거지 줄여주는 종이호일",
       "url": "https://wikidocs.net/blog/@smartliving/28389/",
@@ -7603,21 +7618,6 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 전자레인지 문 열 때마다 훅 끼치는 냄새, 원인은 방치된 찌든 때입니다 바쁜 아침, 편의점 도시락이나 냉동식품을 데우려고 전자레인지 문을 열었는데 튄 국물 자국과 눌어붙은 얼룩…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/29812/40_6_product1.jpg",
       "published_label": "21일 전",
-      "views": 45,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 29686,
-      "title": "주방 날파리에 시달리는 주부, 살충제값 1만원대로 줄여주는 전기 파리채",
-      "url": "https://wikidocs.net/blog/@smartliving/29686/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 과일 한 번 놔뒀다고 날파리가 이렇게 생길 일인가요 늦여름 주방에 과일이나 음식물 쓰레기를 잠깐만 방치해도 어디선가 날파리가 꼬이기 시작합니다. 손으로 잡으려 해도 손바닥 사이…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29686/39_6_product1.jpg",
-      "published_label": "23일 전",
       "views": 45,
       "daily_views": 0,
       "likes": 0,
@@ -10072,6 +10072,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 30184,
+      "title": "환절기에도 안 사라지는 초파리, 스프레이값 월 1만원 아껴주는 실내 파리트랩",
+      "url": "https://wikidocs.net/blog/@smartliving/30184/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름은 끝났는데, 초파리는 여전히 사라지지 않습니다 날씨가 선선해지면 벌레도 자연히 줄어들 거라 생각하기 쉽지만, 실제로는 환절기에도 초파리와 날파리가 좀처럼 사라지지 않는 경…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30184/44_7_product1.jpg",
+      "published_label": "17일 전",
+      "views": 29,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 29969,
       "title": "잦은 비에 욕실 눅눅한 자취생, 제거비 3만원 아껴주는 욕실제습함",
       "url": "https://wikidocs.net/blog/@smartliving/29969/",
@@ -10145,21 +10160,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 30184,
-      "title": "환절기에도 안 사라지는 초파리, 스프레이값 월 1만원 아껴주는 실내 파리트랩",
-      "url": "https://wikidocs.net/blog/@smartliving/30184/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여름은 끝났는데, 초파리는 여전히 사라지지 않습니다 날씨가 선선해지면 벌레도 자연히 줄어들 거라 생각하기 쉽지만, 실제로는 환절기에도 초파리와 날파리가 좀처럼 사라지지 않는 경…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30184/44_7_product1.jpg",
-      "published_label": "17일 전",
-      "views": 28,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 30065,
@@ -11756,6 +11756,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24655,
+      "title": "동영상 클라우드: 1TB 이상 대용량 파일 관리를 위한 무료 플랜 3가지 (2026년 기준)",
+      "url": "https://wikidocs.net/blog/@petpicknote/24655/",
+      "excerpt": "동영상 클라우드: 1TB 이상 대용량 파일 관리를 위한 무료 플랜 3가지 (2026년 기준) 1TB 이상의 대용량 동영상 파일을 무료로 관리할 수 있는 클라우드 서비스는 현실적으로 매우 제한적입니다. 2026년 현재, 대부분의 클라우드 서비스는 무료 플랜에서 제공하는…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24655/13_6_img1.png",
+      "published_label": "2개월 전",
+      "views": 130,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24160,
       "title": "출근 준비 바쁜 직장인을 위한, 다림질 시간 줄여주는 무선 스팀다리미",
       "url": "https://wikidocs.net/blog/@smartliving/24160/",
@@ -11928,21 +11943,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23364/7_2_product1.jpg",
       "published_label": "2개월 전",
       "views": 465,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22528,
-      "title": "세 번 잘못 사고 나서야 알게 된 강아지 발톱깎이 고르는 법",
-      "url": "https://wikidocs.net/blog/@petpicknote/22528/",
-      "excerpt": "title: \"세 번 잘못 사고 나서야 알게 된 강아지 발톱깎이 고르는 법\" tags: [미용·목욕용품] 🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 강아지 발톱깎이, 별거 아니라고 생각하고 아무거나 처음 눈에 띄는 걸 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22528/7_1.jpg",
-      "published_label": "2개월 전",
-      "views": 387,
       "daily_views": 1,
       "likes": 0,
       "comments": 0,
@@ -12282,8 +12282,8 @@
     },
     {
       "date": "2026-09-20",
-      "views": 76
+      "views": 88
     }
   ],
-  "static_generated_at": "2026-09-20T09:01:00+09:00"
+  "static_generated_at": "2026-09-20T09:31:59+09:00"
 }
