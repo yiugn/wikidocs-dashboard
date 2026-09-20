@@ -5,7 +5,7 @@
     "max_pages": 0
   },
   "catalog_updated_at": "2026-09-21T00:00:31+09:00",
-  "latest_snapshot_at": "2026-09-21T04:31:57+09:00",
+  "latest_snapshot_at": "2026-09-21T05:01:57+09:00",
   "latest_snapshot_date": "2026-09-21",
   "snapshot_count": 84,
   "daily_snapshot_count": 84,
@@ -13,22 +13,22 @@
     "blogs": 14,
     "posts": 3811,
     "captured_posts": 3811,
-    "total_views": 1228847,
-    "daily_views": 253,
+    "total_views": 1228857,
+    "daily_views": 263,
     "previous_day_views": 1794,
     "previous_day_date": "2026-09-20",
-    "current_month_views": 65593
+    "current_month_views": 65603
   },
   "month_summary": {
     "current_month": "2026-09",
-    "current_month_views": 65593,
+    "current_month_views": 65603,
     "current_month_blog_views": [
       {
         "blog_id": 1725,
         "blog_name": "지식 저장소",
         "blog_slug": "knarchive",
-        "views": 25333,
-        "total_views": 469724
+        "views": 25340,
+        "total_views": 469731
       },
       {
         "blog_id": 1724,
@@ -41,8 +41,8 @@
         "blog_id": 1783,
         "blog_name": "인사이트 브리지",
         "blog_slug": "insightbridge",
-        "views": 6905,
-        "total_views": 74543
+        "views": 6906,
+        "total_views": 74544
       },
       {
         "blog_id": 1977,
@@ -90,8 +90,8 @@
         "blog_id": 84,
         "blog_name": "systrader79의 트레이딩 이야기",
         "blog_slug": "systrader79",
-        "views": 1532,
-        "total_views": 44085
+        "views": 1533,
+        "total_views": 44086
       },
       {
         "blog_id": 1986,
@@ -104,8 +104,8 @@
         "blog_id": 2213,
         "blog_name": "SoloBiz Stack",
         "blog_slug": "solobizstack",
-        "views": 1388,
-        "total_views": 9590
+        "views": 1389,
+        "total_views": 9591
       },
       {
         "blog_id": 2210,
@@ -140,7 +140,7 @@
       },
       {
         "month": "2026-09",
-        "views": 65593,
+        "views": 65603,
         "is_current_month": true
       }
     ],
@@ -153,8 +153,8 @@
       "slug": "knarchive",
       "post_count": 1618,
       "captured_posts": 1618,
-      "total_views": 469724,
-      "daily_views": 98,
+      "total_views": 469731,
+      "daily_views": 105,
       "top_post": {
         "id": 15722,
         "title": "넷플릭스 영화 추천, 주말 킬링타임 보장하는 평점 9점 이상 명작 5편",
@@ -483,14 +483,14 @@
           "excerpt": "마블 시네마틱 유니버스(Marvel Cinematic Universe, 이하 MCU)는 단순한 영화 프랜차이즈를 넘어선 21세기 대중문화의 가장 강력한 서사적 현상으로 자리매김했습니다. 2008년 '아이언맨'을 시작으로, MCU는 상호 연결된 영화와 드라마 시리즈를 …",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/14969/칭하이_티베트_고원,_2021,_초원,_야생_동물,_5K,_사진벽지_3840x2160[10wallpaper.com].jpg",
           "published_label": "3개월 전",
-          "views": 1635,
+          "views": 1636,
           "likes": 0,
           "comments": 0,
           "source_page": 101,
           "blog_id": 1725,
           "blog_name": "지식 저장소",
           "blog_slug": "knarchive",
-          "daily_views": 0
+          "daily_views": 1
         },
         {
           "id": 20274,
@@ -6725,8 +6725,8 @@
       "slug": "insightbridge",
       "post_count": 242,
       "captured_posts": 242,
-      "total_views": 74543,
-      "daily_views": 37,
+      "total_views": 74544,
+      "daily_views": 38,
       "top_post": {
         "id": 18164,
         "title": "클로드 오퍼스 4.8 코딩, GPT-5.5보다 진짜 나은가 따져봤습니다 2026",
@@ -7737,6 +7737,22 @@
           "daily_views": 0
         },
         {
+          "id": 19387,
+          "title": "구글 클라우드 무료 크레딧 300달러, 90일 안 털리기",
+          "url": "https://wikidocs.net/blog/@insightbridge/19387/",
+          "excerpt": "구글 클라우드 무료 크레딧을 검색하는 분들 중 상당수가 이런 생각을 품고 들어옵니다. \"공짜로 30만원어치 서버를 준다는데, 90일 지나면 카드에서 돈이 줄줄 빠져나가는 거 아닌가?\" 결론부터 단정하겠습니다. 그 걱정은 거의 대부분 오해입니다. 구글 클라우드 신규 가…",
+          "thumbnail_url": "https://static.wikidocs.net/images/blog/19387/정글,_호수,_여름,_아이브제,_그라이나우,_독일,_5K벽지_3840x2160[10wallpaper.com].jpg",
+          "published_label": "3개월 전",
+          "views": 328,
+          "likes": 0,
+          "comments": 0,
+          "source_page": 17,
+          "blog_id": 1783,
+          "blog_name": "인사이트 브리지",
+          "blog_slug": "insightbridge",
+          "daily_views": 2
+        },
+        {
           "id": 17299,
           "title": "2028 유산취득세 개편, 자녀 1명도 10억까지 비과세? 진짜 따져봤다",
           "url": "https://wikidocs.net/blog/@insightbridge/17299/",
@@ -7767,22 +7783,6 @@
           "blog_name": "인사이트 브리지",
           "blog_slug": "insightbridge",
           "daily_views": 2
-        },
-        {
-          "id": 19387,
-          "title": "구글 클라우드 무료 크레딧 300달러, 90일 안 털리기",
-          "url": "https://wikidocs.net/blog/@insightbridge/19387/",
-          "excerpt": "구글 클라우드 무료 크레딧을 검색하는 분들 중 상당수가 이런 생각을 품고 들어옵니다. \"공짜로 30만원어치 서버를 준다는데, 90일 지나면 카드에서 돈이 줄줄 빠져나가는 거 아닌가?\" 결론부터 단정하겠습니다. 그 걱정은 거의 대부분 오해입니다. 구글 클라우드 신규 가…",
-          "thumbnail_url": "https://static.wikidocs.net/images/blog/19387/정글,_호수,_여름,_아이브제,_그라이나우,_독일,_5K벽지_3840x2160[10wallpaper.com].jpg",
-          "published_label": "3개월 전",
-          "views": 327,
-          "likes": 0,
-          "comments": 0,
-          "source_page": 17,
-          "blog_id": 1783,
-          "blog_name": "인사이트 브리지",
-          "blog_slug": "insightbridge",
-          "daily_views": 1
         },
         {
           "id": 19870,
@@ -10011,8 +10011,8 @@
       "slug": "systrader79",
       "post_count": 77,
       "captured_posts": 77,
-      "total_views": 44085,
-      "daily_views": 2,
+      "total_views": 44086,
+      "daily_views": 3,
       "top_post": {
         "id": 1347,
         "title": "자연어로 코딩없이 웹크롤링 하는 방법 - firecrawl",
@@ -10581,14 +10581,14 @@
           "excerpt": "💡 핵심 결론: 미국 연방 공휴일을 앞둔 약 8거래일 동안 가솔린 ETF인 UGA는 같은 길이의 아무 구간보다 평균 약 3배 높은 수익을 냈고, 명절 다음 첫 거래일에는 가장 큰 하락이 집중되었습니다. \"명절 전에 오르고 명절 후에 되돌린다\"는 이 패턴은 USO·UG…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/16807/555105.jpg",
           "published_label": "3개월 전",
-          "views": 172,
+          "views": 173,
           "likes": 0,
           "comments": 0,
           "source_page": 6,
           "blog_id": 84,
           "blog_name": "systrader79의 트레이딩 이야기",
           "blog_slug": "systrader79",
-          "daily_views": 0
+          "daily_views": 1
         },
         {
           "id": 19866,
@@ -18429,8 +18429,8 @@
       "slug": "solobizstack",
       "post_count": 109,
       "captured_posts": 109,
-      "total_views": 9590,
-      "daily_views": 3,
+      "total_views": 9591,
+      "daily_views": 4,
       "top_post": {
         "id": 26420,
         "title": "맥북 생산성 4.9점의 비밀, 31000명이 매일 쓰는 Raycast 완전 정리",
@@ -19857,6 +19857,22 @@
           "daily_views": 0
         },
         {
+          "id": 25782,
+          "title": "Freshsales vs Copper CRM: Which One Actually Closes More Deals?",
+          "url": "https://wikidocs.net/blog/@solobizstack/25782/",
+          "excerpt": "Freshsales vs Copper CRM: Which One Actually Closes More Deals? Photo by Andrew Neel on Unsplash Table of Contents Why Freshsales and Copper Both Sho…",
+          "thumbnail_url": "https://static.wikidocs.net/images/blog/25782/batch4_seq7.jpg",
+          "published_label": "1개월 전",
+          "views": 44,
+          "likes": 0,
+          "comments": 0,
+          "source_page": 8,
+          "blog_id": 2213,
+          "blog_name": "SoloBiz Stack",
+          "blog_slug": "solobizstack",
+          "daily_views": 1
+        },
+        {
           "id": 25554,
           "title": "5 Ways to Cut Email Overload as a Solo Business Owner",
           "url": "https://wikidocs.net/blog/@solobizstack/25554/",
@@ -19867,22 +19883,6 @@
           "likes": 0,
           "comments": 0,
           "source_page": 9,
-          "blog_id": 2213,
-          "blog_name": "SoloBiz Stack",
-          "blog_slug": "solobizstack",
-          "daily_views": 0
-        },
-        {
-          "id": 25782,
-          "title": "Freshsales vs Copper CRM: Which One Actually Closes More Deals?",
-          "url": "https://wikidocs.net/blog/@solobizstack/25782/",
-          "excerpt": "Freshsales vs Copper CRM: Which One Actually Closes More Deals? Photo by Andrew Neel on Unsplash Table of Contents Why Freshsales and Copper Both Sho…",
-          "thumbnail_url": "https://static.wikidocs.net/images/blog/25782/batch4_seq7.jpg",
-          "published_label": "1개월 전",
-          "views": 43,
-          "likes": 0,
-          "comments": 0,
-          "source_page": 8,
           "blog_id": 2213,
           "blog_name": "SoloBiz Stack",
           "blog_slug": "solobizstack",
@@ -30580,8 +30580,8 @@
       "blog_id": 1783,
       "blog_name": "인사이트 브리지",
       "blog_slug": "insightbridge",
-      "total_views": 74543,
-      "daily_views": 37,
+      "total_views": 74544,
+      "daily_views": 38,
       "is_realtime_today": true
     },
     {
@@ -30589,8 +30589,8 @@
       "blog_id": 84,
       "blog_name": "systrader79의 트레이딩 이야기",
       "blog_slug": "systrader79",
-      "total_views": 44085,
-      "daily_views": 2,
+      "total_views": 44086,
+      "daily_views": 3,
       "is_realtime_today": true
     },
     {
@@ -30625,8 +30625,8 @@
       "blog_id": 1725,
       "blog_name": "지식 저장소",
       "blog_slug": "knarchive",
-      "total_views": 469724,
-      "daily_views": 98,
+      "total_views": 469731,
+      "daily_views": 105,
       "is_realtime_today": true
     },
     {
@@ -30688,8 +30688,8 @@
       "blog_id": 2213,
       "blog_name": "SoloBiz Stack",
       "blog_slug": "solobizstack",
-      "total_views": 9590,
-      "daily_views": 3,
+      "total_views": 9591,
+      "daily_views": 4,
       "is_realtime_today": true
     }
   ],
@@ -30872,7 +30872,7 @@
       "total_views": 29929,
       "daily_views": 10,
       "interval_views": 3,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "04:31",
@@ -30884,7 +30884,7 @@
       "total_views": 74543,
       "daily_views": 37,
       "interval_views": 14,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "04:31",
@@ -30896,7 +30896,7 @@
       "total_views": 44085,
       "daily_views": 2,
       "interval_views": 2,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "04:31",
@@ -30908,7 +30908,7 @@
       "total_views": 45427,
       "daily_views": 18,
       "interval_views": 5,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "04:31",
@@ -30920,7 +30920,7 @@
       "total_views": 42552,
       "daily_views": 11,
       "interval_views": 4,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "04:31",
@@ -30932,7 +30932,7 @@
       "total_views": 157651,
       "daily_views": 25,
       "interval_views": 15,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "04:31",
@@ -30944,7 +30944,7 @@
       "total_views": 469724,
       "daily_views": 98,
       "interval_views": 34,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "04:31",
@@ -30956,7 +30956,7 @@
       "total_views": 161789,
       "daily_views": 13,
       "interval_views": 7,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "04:31",
@@ -30968,7 +30968,7 @@
       "total_views": 37209,
       "daily_views": 8,
       "interval_views": 2,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "04:31",
@@ -30980,7 +30980,7 @@
       "total_views": 121734,
       "daily_views": 15,
       "interval_views": 10,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "04:31",
@@ -30992,7 +30992,7 @@
       "total_views": 13867,
       "daily_views": 4,
       "interval_views": 0,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "04:31",
@@ -31004,7 +31004,7 @@
       "total_views": 13646,
       "daily_views": 8,
       "interval_views": 4,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "04:31",
@@ -31016,7 +31016,7 @@
       "total_views": 7101,
       "daily_views": 1,
       "interval_views": 1,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "04:31",
@@ -31028,15 +31028,183 @@
       "total_views": 9590,
       "daily_views": 3,
       "interval_views": 3,
+      "is_realtime_today": false
+    },
+    {
+      "date": "05:01",
+      "snapshot_date": "2026-09-21",
+      "collected_at": "2026-09-21T05:01:57+09:00",
+      "blog_id": 1795,
+      "blog_name": "AI 테크 최신 정보 매거진",
+      "blog_slug": "aitechnote",
+      "total_views": 29929,
+      "daily_views": 10,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "05:01",
+      "snapshot_date": "2026-09-21",
+      "collected_at": "2026-09-21T05:01:57+09:00",
+      "blog_id": 1783,
+      "blog_name": "인사이트 브리지",
+      "blog_slug": "insightbridge",
+      "total_views": 74544,
+      "daily_views": 38,
+      "interval_views": 1,
+      "is_realtime_today": true
+    },
+    {
+      "date": "05:01",
+      "snapshot_date": "2026-09-21",
+      "collected_at": "2026-09-21T05:01:57+09:00",
+      "blog_id": 84,
+      "blog_name": "systrader79의 트레이딩 이야기",
+      "blog_slug": "systrader79",
+      "total_views": 44086,
+      "daily_views": 3,
+      "interval_views": 1,
+      "is_realtime_today": true
+    },
+    {
+      "date": "05:01",
+      "snapshot_date": "2026-09-21",
+      "collected_at": "2026-09-21T05:01:57+09:00",
+      "blog_id": 1799,
+      "blog_name": "모든 것의 역사",
+      "blog_slug": "history",
+      "total_views": 45427,
+      "daily_views": 18,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "05:01",
+      "snapshot_date": "2026-09-21",
+      "collected_at": "2026-09-21T05:01:57+09:00",
+      "blog_id": 1800,
+      "blog_name": "학문의 서재",
+      "blog_slug": "studylibrary",
+      "total_views": 42552,
+      "daily_views": 11,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "05:01",
+      "snapshot_date": "2026-09-21",
+      "collected_at": "2026-09-21T05:01:57+09:00",
+      "blog_id": 1724,
+      "blog_name": "지식 발전소",
+      "blog_slug": "infoplant",
+      "total_views": 157651,
+      "daily_views": 25,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "05:01",
+      "snapshot_date": "2026-09-21",
+      "collected_at": "2026-09-21T05:01:57+09:00",
+      "blog_id": 1725,
+      "blog_name": "지식 저장소",
+      "blog_slug": "knarchive",
+      "total_views": 469731,
+      "daily_views": 105,
+      "interval_views": 7,
+      "is_realtime_today": true
+    },
+    {
+      "date": "05:01",
+      "snapshot_date": "2026-09-21",
+      "collected_at": "2026-09-21T05:01:57+09:00",
+      "blog_id": 1978,
+      "blog_name": "카템 연구소",
+      "blog_slug": "cartemlab",
+      "total_views": 161789,
+      "daily_views": 13,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "05:01",
+      "snapshot_date": "2026-09-21",
+      "collected_at": "2026-09-21T05:01:57+09:00",
+      "blog_id": 1986,
+      "blog_name": "펫 픽 노트",
+      "blog_slug": "petpicknote",
+      "total_views": 37209,
+      "daily_views": 8,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "05:01",
+      "snapshot_date": "2026-09-21",
+      "collected_at": "2026-09-21T05:01:57+09:00",
+      "blog_id": 1977,
+      "blog_name": "스마트 리빙",
+      "blog_slug": "smartliving",
+      "total_views": 121734,
+      "daily_views": 15,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "05:01",
+      "snapshot_date": "2026-09-21",
+      "collected_at": "2026-09-21T05:01:57+09:00",
+      "blog_id": 2210,
+      "blog_name": "뉴스 시그널",
+      "blog_slug": "newssignal",
+      "total_views": 13867,
+      "daily_views": 4,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "05:01",
+      "snapshot_date": "2026-09-21",
+      "collected_at": "2026-09-21T05:01:57+09:00",
+      "blog_id": 2211,
+      "blog_name": "테크 인사이트",
+      "blog_slug": "techinsight",
+      "total_views": 13646,
+      "daily_views": 8,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "05:01",
+      "snapshot_date": "2026-09-21",
+      "collected_at": "2026-09-21T05:01:57+09:00",
+      "blog_id": 2212,
+      "blog_name": "라이프 솔루션",
+      "blog_slug": "lifesolution",
+      "total_views": 7101,
+      "daily_views": 1,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "05:01",
+      "snapshot_date": "2026-09-21",
+      "collected_at": "2026-09-21T05:01:57+09:00",
+      "blog_id": 2213,
+      "blog_name": "SoloBiz Stack",
+      "blog_slug": "solobizstack",
+      "total_views": 9591,
+      "daily_views": 4,
+      "interval_views": 1,
       "is_realtime_today": true
     }
   ],
   "intraday_summary": {
     "date": "2026-09-21",
     "interval_minutes": 30,
-    "snapshot_count": 2,
+    "snapshot_count": 3,
     "first_collected_at": "2026-09-21T02:01:57+09:00",
-    "last_collected_at": "2026-09-21T04:31:57+09:00",
+    "last_collected_at": "2026-09-21T05:01:57+09:00",
     "is_realtime": true
   },
   "observed_start_date": "2026-06-30",
@@ -31626,6 +31794,22 @@
       "daily_views": 3
     },
     {
+      "id": 21521,
+      "title": "2026년 1인가구 전세, 카뱅 vs 새마을금고 누가 더 유리할까",
+      "url": "https://wikidocs.net/blog/@knarchive/21521/",
+      "excerpt": "The search results provide a good amount of information for \"2026년 1인가구 전세\" (2026 single-person household jeonse) and related topics. Here's a summar…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/21521/pixabay_3078581_20260703_000635_271149.jpg",
+      "published_label": "2개월 전",
+      "views": 587,
+      "likes": 0,
+      "comments": 0,
+      "source_page": 6,
+      "blog_id": 1725,
+      "blog_name": "지식 저장소",
+      "blog_slug": "knarchive",
+      "daily_views": 3
+    },
+    {
       "id": 24011,
       "title": "여행 중 배터리 걱정 많으셨다면, 초소형 보조배터리 TOP3로 정리해봤습니다",
       "url": "https://wikidocs.net/blog/@petpicknote/24011/",
@@ -31898,6 +32082,22 @@
       "daily_views": 2
     },
     {
+      "id": 19387,
+      "title": "구글 클라우드 무료 크레딧 300달러, 90일 안 털리기",
+      "url": "https://wikidocs.net/blog/@insightbridge/19387/",
+      "excerpt": "구글 클라우드 무료 크레딧을 검색하는 분들 중 상당수가 이런 생각을 품고 들어옵니다. \"공짜로 30만원어치 서버를 준다는데, 90일 지나면 카드에서 돈이 줄줄 빠져나가는 거 아닌가?\" 결론부터 단정하겠습니다. 그 걱정은 거의 대부분 오해입니다. 구글 클라우드 신규 가…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/19387/정글,_호수,_여름,_아이브제,_그라이나우,_독일,_5K벽지_3840x2160[10wallpaper.com].jpg",
+      "published_label": "3개월 전",
+      "views": 328,
+      "likes": 0,
+      "comments": 0,
+      "source_page": 17,
+      "blog_id": 1783,
+      "blog_name": "인사이트 브리지",
+      "blog_slug": "insightbridge",
+      "daily_views": 2
+    },
+    {
       "id": 19947,
       "title": "구글 클라우드 무료, 90일 크레딧 끝나도 0원으로 평생 쓰는 항목 정리",
       "url": "https://wikidocs.net/blog/@insightbridge/19947/",
@@ -31976,47 +32176,15 @@
       "blog_name": "테크 인사이트",
       "blog_slug": "techinsight",
       "daily_views": 2
-    },
-    {
-      "id": 21580,
-      "title": "미국 독립 250주년 뜻과 7월 4일 기념 행사 일정, 250주년 주화 수집 방법 정리",
-      "url": "https://wikidocs.net/blog/@infoplant/21580/",
-      "excerpt": "내일 2026년 7월 4일은 미국이 독립선언문에 서명한 지 정확히 250년이 되는 날입니다. 50년에 한 번 돌아오는 이 역사적인 기념일을 미국에서는 '세미퀸센테니얼'이라 부르며, 1976년 200주년 이후 반세기 만에 열리는 전국적 축제가 필라델피아와 뉴욕을 중심으…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/21580/pixabay_2460544_20260703_095529_642987.jpg",
-      "published_label": "2개월 전",
-      "views": 229,
-      "likes": 0,
-      "comments": 0,
-      "source_page": 7,
-      "blog_id": 1724,
-      "blog_name": "지식 발전소",
-      "blog_slug": "infoplant",
-      "daily_views": 2
-    },
-    {
-      "id": 18416,
-      "title": "오래된 성당의 유리창은 정말 천천히 흘러내린 것일까 — 유리는 액체라는 오해의 해부",
-      "url": "https://wikidocs.net/blog/@studylibrary/18416/",
-      "excerpt": "유럽의 오래된 성당에 들어가 본 적이 있으신가요? 천 년 가까운 세월을 견딘 스테인드글라스가 햇빛을 받아 영롱하게 빛나는 그 장면 앞에서, 안내자나 다큐멘터리가 으레 이런 설명을 덧붙이곤 합니다. \"이 유리창의 아래쪽이 위쪽보다 두껍지요? 유리는 사실 아주 느리게 흐…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/18416/아름다운,_일몰,_설산,_초푸구,_티베트,_5K벽지_3840x2160[10wallpaper.com].jpg",
-      "published_label": "3개월 전",
-      "views": 206,
-      "likes": 0,
-      "comments": 0,
-      "source_page": 13,
-      "blog_id": 1800,
-      "blog_name": "학문의 서재",
-      "blog_slug": "studylibrary",
-      "daily_views": 2
     }
   ],
   "job": {
     "running": false,
     "started_at": null,
-    "finished_at": "2026-09-21T04:31:58+09:00",
+    "finished_at": "2026-09-21T05:01:58+09:00",
     "message": "GitHub Actions 자동 갱신 완료",
     "progress": [],
     "error": null
   },
-  "static_generated_at": "2026-09-21T04:31:58+09:00"
+  "static_generated_at": "2026-09-21T05:01:58+09:00"
 }
