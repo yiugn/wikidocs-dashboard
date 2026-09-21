@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-21T21:31:59+09:00",
+  "latest_snapshot_at": "2026-09-21T22:02:00+09:00",
   "latest_snapshot_date": "2026-09-21",
   "catalog_updated_at": "2026-09-21T00:00:31+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 754,
-    "total_views": 320870,
-    "daily_views": 174,
+    "total_views": 320872,
+    "daily_views": 176,
     "previous_day_views": 268,
     "previous_day_date": "2026-09-20",
-    "current_month_views": 8796,
+    "current_month_views": 8798,
     "days_recorded": 84
   },
   "blogs": [
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 37247,
-      "daily_views": 46,
+      "total_views": 37249,
+      "daily_views": 48,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1768,8 +1768,8 @@
       "excerpt": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준) AWS S3에 1TB 이상의 데이터를 저장할 때 예상치 못한 과금 폭탄을 피하기 위해서는 스토리지 클래스 선택, 수명 주기 관리, S3 Intelligent-Tier…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25344/15_9_img1.jpg",
       "published_label": "2개월 전",
-      "views": 174,
-      "daily_views": 0,
+      "views": 175,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1843,8 +1843,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 코엑스 케이펫페어, 유모차 없이는 입장이 안 됩니다 2026 케이펫페어 서울이 7월 17일부터 19일까지 코엑스에서 열립니다. 반가운 소식이지만, 막상 티켓만 끊어놓고 정작 현…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22344/5_1.jpg",
       "published_label": "2개월 전",
-      "views": 164,
-      "daily_views": 3,
+      "views": 165,
+      "daily_views": 4,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -11801,6 +11801,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 22344,
+      "title": "이번 주말 케이펫페어 방문 예정이신 분이라면, 가기 전에 챙겨야 할 강아지 유모차 TOP3",
+      "url": "https://wikidocs.net/blog/@petpicknote/22344/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 코엑스 케이펫페어, 유모차 없이는 입장이 안 됩니다 2026 케이펫페어 서울이 7월 17일부터 19일까지 코엑스에서 열립니다. 반가운 소식이지만, 막상 티켓만 끊어놓고 정작 현…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22344/5_1.jpg",
+      "published_label": "2개월 전",
+      "views": 165,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22943,
       "title": "내비 보느라 자꾸 고개 숙이던 분들, HUD 달고 시선 덜 뺏겨 운전이 편해졌다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22943/",
@@ -11829,21 +11844,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 22344,
-      "title": "이번 주말 케이펫페어 방문 예정이신 분이라면, 가기 전에 챙겨야 할 강아지 유모차 TOP3",
-      "url": "https://wikidocs.net/blog/@petpicknote/22344/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 코엑스 케이펫페어, 유모차 없이는 입장이 안 됩니다 2026 케이펫페어 서울이 7월 17일부터 19일까지 코엑스에서 열립니다. 반가운 소식이지만, 막상 티켓만 끊어놓고 정작 현…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22344/5_1.jpg",
-      "published_label": "2개월 전",
-      "views": 164,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 22289,
@@ -12286,8 +12286,8 @@
     },
     {
       "date": "2026-09-21",
-      "views": 174
+      "views": 176
     }
   ],
-  "static_generated_at": "2026-09-21T21:32:00+09:00"
+  "static_generated_at": "2026-09-21T22:02:01+09:00"
 }
