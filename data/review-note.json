@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-21T16:01:59+09:00",
+  "latest_snapshot_at": "2026-09-21T16:31:57+09:00",
   "latest_snapshot_date": "2026-09-21",
   "catalog_updated_at": "2026-09-21T00:00:31+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 754,
-    "total_views": 320813,
-    "daily_views": 117,
+    "total_views": 320822,
+    "daily_views": 126,
     "previous_day_views": 268,
     "previous_day_date": "2026-09-20",
-    "current_month_views": 8739,
+    "current_month_views": 8748,
     "days_recorded": 84
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 161813,
-      "daily_views": 37,
+      "total_views": 161815,
+      "daily_views": 39,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 486,
       "captured_posts": 486,
-      "total_views": 121769,
-      "daily_views": 50,
+      "total_views": 121771,
+      "daily_views": 52,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 37231,
-      "daily_views": 30,
+      "total_views": 37236,
+      "daily_views": 35,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1588,8 +1588,8 @@
       "excerpt": "✈️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여행 중 배터리 걱정 많으셨다면, 여행 사진과 지도 앱을 하루 종일 켜두다 보니 오후만 되면 스마트폰이 20% 밑으로 떨어져 마음이 조급해졌던 경험이 있으실 겁니다. 특히 항…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24011/10_8_img1.png",
       "published_label": "2개월 전",
-      "views": 218,
-      "daily_views": 3,
+      "views": 219,
+      "daily_views": 4,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -1798,8 +1798,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 노트북 배터리가 떨어지거나 전기밥솥을 쓰고 싶은데 220V 콘센트가 없어 난감했던 경험 있으실 겁니다. 차량 배터리는 12V·24V인데 우리가 평소 쓰는 가전제품…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24667/pb_16_1_thumb.jpg",
       "published_label": "2개월 전",
-      "views": 171,
-      "daily_views": 2,
+      "views": 172,
+      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1837,6 +1837,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 22344,
+      "title": "이번 주말 케이펫페어 방문 예정이신 분이라면, 가기 전에 챙겨야 할 강아지 유모차 TOP3",
+      "url": "https://wikidocs.net/blog/@petpicknote/22344/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 코엑스 케이펫페어, 유모차 없이는 입장이 안 됩니다 2026 케이펫페어 서울이 7월 17일부터 19일까지 코엑스에서 열립니다. 반가운 소식이지만, 막상 티켓만 끊어놓고 정작 현…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22344/5_1.jpg",
+      "published_label": "2개월 전",
+      "views": 164,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 22282,
       "title": "폭염에 에어컨만으론 뒷좌석까지 시원하지 않던 분들, 차량용 선풍기 하나로 온도 걱정 던다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22282/",
@@ -1859,21 +1874,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/25345/15_10_img1.jpg",
       "published_label": "2개월 전",
       "views": 163,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 22344,
-      "title": "이번 주말 케이펫페어 방문 예정이신 분이라면, 가기 전에 챙겨야 할 강아지 유모차 TOP3",
-      "url": "https://wikidocs.net/blog/@petpicknote/22344/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 코엑스 케이펫페어, 유모차 없이는 입장이 안 됩니다 2026 케이펫페어 서울이 7월 17일부터 19일까지 코엑스에서 열립니다. 반가운 소식이지만, 막상 티켓만 끊어놓고 정작 현…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/22344/5_1.jpg",
-      "published_label": "2개월 전",
-      "views": 161,
       "daily_views": 0,
       "likes": 0,
       "comments": 0,
@@ -2497,6 +2497,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 24009,
+      "title": "두 번 잘못 사고 나서야 알게 된 요가매트 두께 고르는 법",
+      "url": "https://wikidocs.net/blog/@petpicknote/24009/",
+      "excerpt": "🧘 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 처음 홈트레이닝을 시작할 때 가장 저렴한 3~4mm짜리 얇은 매트를 고른 적이 있습니다. 플랭크 자세를 잡을 때마다 팔꿈치가 바닥에 배기고, 무릎을 대는 동작에서는 통증 때문에…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24009/10_6_img1.jpg",
+      "published_label": "2개월 전",
+      "views": 112,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 21674,
       "title": "출퇴근길 직장인을 위한, 지하철 더위 확 잡아주는 휴대용 손선풍기 이렇게 골랐습니다",
       "url": "https://wikidocs.net/blog/@smartliving/21674/",
@@ -2510,21 +2525,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24009,
-      "title": "두 번 잘못 사고 나서야 알게 된 요가매트 두께 고르는 법",
-      "url": "https://wikidocs.net/blog/@petpicknote/24009/",
-      "excerpt": "🧘 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 처음 홈트레이닝을 시작할 때 가장 저렴한 3~4mm짜리 얇은 매트를 고른 적이 있습니다. 플랭크 자세를 잡을 때마다 팔꿈치가 바닥에 배기고, 무릎을 대는 동작에서는 통증 때문에…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24009/10_6_img1.jpg",
-      "published_label": "2개월 전",
-      "views": 111,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 27304,
@@ -5857,6 +5857,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 30512,
+      "title": "자취방 허전한 벽 신경쓰이는 1인가구, 단돈 1800원부터 바꿔주는 마크라메 벽장식",
+      "url": "https://wikidocs.net/blog/@smartliving/30512/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 혼자 사는 자취방에 들어설 때마다 뭔가 허전하다는 느낌, 그런데 막상 큰 가구나 액자를 들이자니 부담스럽고 이사할 때 짐만 늘어난다는 생각이 드셨을 겁니다. 흰 벽만 덩그러니 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30512/48_6_product1.jpg",
+      "published_label": "14일 전",
+      "views": 58,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 28827,
       "title": "폭염 탈수 걱정되는 야외근무자, 10포 1.5만원대로 채워주는 이온음료 파우더",
       "url": "https://wikidocs.net/blog/@smartliving/28827/",
@@ -5992,21 +6007,6 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 30512,
-      "title": "자취방 허전한 벽 신경쓰이는 1인가구, 단돈 1800원부터 바꿔주는 마크라메 벽장식",
-      "url": "https://wikidocs.net/blog/@smartliving/30512/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 혼자 사는 자취방에 들어설 때마다 뭔가 허전하다는 느낌, 그런데 막상 큰 가구나 액자를 들이자니 부담스럽고 이사할 때 짐만 늘어난다는 생각이 드셨을 겁니다. 흰 벽만 덩그러니 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30512/48_6_product1.jpg",
-      "published_label": "14일 전",
-      "views": 57,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
       "id": 28824,
       "title": "여름밤 홈시네마 즐기려는 신혼부부, 2만원대로 150인치 열어주는 미니 빔프로젝터",
       "url": "https://wikidocs.net/blog/@smartliving/28824/",
@@ -6127,6 +6127,21 @@
       "blog_name": "카템랩"
     },
     {
+      "id": 23767,
+      "title": "차박 다니시는 분들을 위한, 무릎 위에 음식 올려놓고 불편하게 먹던 차박이 이렇게 바뀌기까지 접이식 테이블 TOP3",
+      "url": "https://wikidocs.net/blog/@cartemlab/23767/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박하면서 무릎에 그릇을 올려놓고 먹다가 흔들려서 국물을 쏟았던 경험 있으실 겁니다. 한 손엔 컵을 들고 노트북은 무릎 위에 올려놓은 채 낑낑댔던 순간도 있으셨을 겁니다. 테이…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23767/10_9_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 56,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22938,
       "title": "한여름 등에 땀 차는 통근족이라면, 대자리 방석 깔고 시트가 뽀송해졌다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22938/",
@@ -6170,21 +6185,6 @@
       "blog_id": 1977,
       "blog_slug": "smartliving",
       "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 23767,
-      "title": "차박 다니시는 분들을 위한, 무릎 위에 음식 올려놓고 불편하게 먹던 차박이 이렇게 바뀌기까지 접이식 테이블 TOP3",
-      "url": "https://wikidocs.net/blog/@cartemlab/23767/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박하면서 무릎에 그릇을 올려놓고 먹다가 흔들려서 국물을 쏟았던 경험 있으실 겁니다. 한 손엔 컵을 들고 노트북은 무릎 위에 올려놓은 채 낑낑댔던 순간도 있으셨을 겁니다. 테이…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23767/10_9_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 55,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
     },
     {
       "id": 24225,
@@ -8602,6 +8602,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24476,
+      "title": "재택근무 프리랜서를 위한, 화상회의 배경 걱정 끝내는 접이식 파티션",
+      "url": "https://wikidocs.net/blog/@smartliving/24476/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 화상회의 알림이 뜨는 순간, 등 뒤로 널브러진 빨래 건조대나 어질러진 침대가 화면에 잡힐까 봐 서둘러 카메라 각도부터 조절해보신 적 있으실 겁니다. 재택근무를 하다 보면 업무 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24476/15_9_product1.jpg",
+      "published_label": "2개월 전",
+      "views": 39,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 24469,
       "title": "열대야 오기 전에 챙겨야 할 대용량 스탠드 선풍기 3가지",
       "url": "https://wikidocs.net/blog/@smartliving/24469/",
@@ -8713,21 +8728,6 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 샤워할 때마다 답답하셨던 이유 퇴근하고 지친 몸으로 샤워기를 틀었는데 물줄기가 힘없이 졸졸 흐르기만 하면, 씻는 내내 개운함보다 답답함이 먼저 느껴지실 겁니다. 특히 오래된 원…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/29600/38_6_product1.jpg",
       "published_label": "25일 전",
-      "views": 38,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24476,
-      "title": "재택근무 프리랜서를 위한, 화상회의 배경 걱정 끝내는 접이식 파티션",
-      "url": "https://wikidocs.net/blog/@smartliving/24476/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 화상회의 알림이 뜨는 순간, 등 뒤로 널브러진 빨래 건조대나 어질러진 침대가 화면에 잡힐까 봐 서둘러 카메라 각도부터 조절해보신 적 있으실 겁니다. 재택근무를 하다 보면 업무 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24476/15_9_product1.jpg",
-      "published_label": "2개월 전",
       "views": 38,
       "daily_views": 0,
       "likes": 0,
@@ -11732,7 +11732,37 @@
       "excerpt": "✈️ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 여행 중 배터리 걱정 많으셨다면, 여행 사진과 지도 앱을 하루 종일 켜두다 보니 오후만 되면 스마트폰이 20% 밑으로 떨어져 마음이 조급해졌던 경험이 있으실 겁니다. 특히 항…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24011/10_8_img1.png",
       "published_label": "2개월 전",
-      "views": 218,
+      "views": 219,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 24667,
+      "title": "차박 다니시는 분이라면, 파워 인버터 하나로 220V 가전 걱정 덜었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24667/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 노트북 배터리가 떨어지거나 전기밥솥을 쓰고 싶은데 220V 콘센트가 없어 난감했던 경험 있으실 겁니다. 차량 배터리는 12V·24V인데 우리가 평소 쓰는 가전제품…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24667/pb_16_1_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 172,
+      "daily_views": 3,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
+      "id": 22344,
+      "title": "이번 주말 케이펫페어 방문 예정이신 분이라면, 가기 전에 챙겨야 할 강아지 유모차 TOP3",
+      "url": "https://wikidocs.net/blog/@petpicknote/22344/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 코엑스 케이펫페어, 유모차 없이는 입장이 안 됩니다 2026 케이펫페어 서울이 7월 17일부터 19일까지 코엑스에서 열립니다. 반가운 소식이지만, 막상 티켓만 끊어놓고 정작 현…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/22344/5_1.jpg",
+      "published_label": "2개월 전",
+      "views": 164,
       "daily_views": 3,
       "likes": 0,
       "comments": 0,
@@ -11846,21 +11876,6 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 24667,
-      "title": "차박 다니시는 분이라면, 파워 인버터 하나로 220V 가전 걱정 덜었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24667/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 노트북 배터리가 떨어지거나 전기밥솥을 쓰고 싶은데 220V 콘센트가 없어 난감했던 경험 있으실 겁니다. 차량 배터리는 12V·24V인데 우리가 평소 쓰는 가전제품…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24667/pb_16_1_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 171,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
       "id": 22289,
       "title": "다들 여름엔 세차만 자주 하면 된다지만, 사실 먼저 챙길 건 유리막코팅입니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22289/",
@@ -11934,21 +11949,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 28479,
-      "title": "욕실 바닥 어수선한 자취생, 못질없이 5분만에 공간 확보해주는 코너선반",
-      "url": "https://wikidocs.net/blog/@smartliving/28479/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 원룸이나 오피스텔 욕실은 대부분 좁아서, 샴푸·바디워시·클렌저를 바닥에 늘어놓고 쓰시는 분들 많으실 겁니다. 발밑에 물건이 쌓이면 청소할 때마다 하나씩 치워야 하고, 미끄러져 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/28479/32_6_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 53,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     }
   ],
   "daily_totals": [
@@ -12286,8 +12286,8 @@
     },
     {
       "date": "2026-09-21",
-      "views": 117
+      "views": 126
     }
   ],
-  "static_generated_at": "2026-09-21T16:02:00+09:00"
+  "static_generated_at": "2026-09-21T16:31:59+09:00"
 }
