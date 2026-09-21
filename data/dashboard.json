@@ -5,7 +5,7 @@
     "max_pages": 0
   },
   "catalog_updated_at": "2026-09-22T00:00:32+09:00",
-  "latest_snapshot_at": "2026-09-22T07:01:57+09:00",
+  "latest_snapshot_at": "2026-09-22T07:31:57+09:00",
   "latest_snapshot_date": "2026-09-22",
   "snapshot_count": 85,
   "daily_snapshot_count": 85,
@@ -13,43 +13,43 @@
     "blogs": 14,
     "posts": 3811,
     "captured_posts": 3811,
-    "total_views": 1230750,
-    "daily_views": 360,
+    "total_views": 1230777,
+    "daily_views": 387,
     "previous_day_views": 1796,
     "previous_day_date": "2026-09-21",
-    "current_month_views": 67496
+    "current_month_views": 67523
   },
   "month_summary": {
     "current_month": "2026-09",
-    "current_month_views": 67496,
+    "current_month_views": 67523,
     "current_month_blog_views": [
       {
         "blog_id": 1725,
         "blog_name": "지식 저장소",
         "blog_slug": "knarchive",
-        "views": 26044,
-        "total_views": 470435
+        "views": 26050,
+        "total_views": 470441
       },
       {
         "blog_id": 1724,
         "blog_name": "지식 발전소",
         "blog_slug": "infoplant",
-        "views": 8411,
-        "total_views": 157847
+        "views": 8415,
+        "total_views": 157851
       },
       {
         "blog_id": 1783,
         "blog_name": "인사이트 브리지",
         "blog_slug": "insightbridge",
-        "views": 7152,
-        "total_views": 74790
+        "views": 7154,
+        "total_views": 74792
       },
       {
         "blog_id": 1977,
         "blog_name": "스마트 리빙",
         "blog_slug": "smartliving",
-        "views": 5329,
-        "total_views": 121833
+        "views": 5338,
+        "total_views": 121842
       },
       {
         "blog_id": 1799,
@@ -62,8 +62,8 @@
         "blog_id": 1795,
         "blog_name": "AI 테크 최신 정보 매거진",
         "blog_slug": "aitechnote",
-        "views": 3920,
-        "total_views": 30097
+        "views": 3923,
+        "total_views": 30100
       },
       {
         "blog_id": 1800,
@@ -76,15 +76,15 @@
         "blog_id": 1978,
         "blog_name": "카템 연구소",
         "blog_slug": "cartemlab",
-        "views": 2033,
-        "total_views": 161848
+        "views": 2034,
+        "total_views": 161849
       },
       {
         "blog_id": 2211,
         "blog_name": "테크 인사이트",
         "blog_slug": "techinsight",
-        "views": 1647,
-        "total_views": 13690
+        "views": 1648,
+        "total_views": 13691
       },
       {
         "blog_id": 84,
@@ -104,8 +104,8 @@
         "blog_id": 2213,
         "blog_name": "SoloBiz Stack",
         "blog_slug": "solobizstack",
-        "views": 1442,
-        "total_views": 9644
+        "views": 1443,
+        "total_views": 9645
       },
       {
         "blog_id": 2210,
@@ -140,7 +140,7 @@
       },
       {
         "month": "2026-09",
-        "views": 67496,
+        "views": 67523,
         "is_current_month": true
       }
     ],
@@ -153,8 +153,8 @@
       "slug": "knarchive",
       "post_count": 1618,
       "captured_posts": 1618,
-      "total_views": 470435,
-      "daily_views": 130,
+      "total_views": 470441,
+      "daily_views": 136,
       "top_post": {
         "id": 15722,
         "title": "넷플릭스 영화 추천, 주말 킬링타임 보장하는 평점 9점 이상 명작 5편",
@@ -1796,8 +1796,8 @@
       "slug": "cartemlab",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 161848,
-      "daily_views": 15,
+      "total_views": 161849,
+      "daily_views": 16,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -2734,14 +2734,14 @@
           "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 블랙박스 영상을 확인하려는데 '카드 오류'나 '포맷 필요' 메시지가 떠서 정작 필요한 순간 녹화가 안 돼 있었던 경험 있으실 겁니다. 블랙박스는 24시간 반복 녹화라는 특수한 …",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/24675/pb_16_9_thumb.jpg",
           "published_label": "2개월 전",
-          "views": 86,
+          "views": 87,
           "likes": 0,
           "comments": 0,
           "source_page": 1,
           "blog_id": 1978,
           "blog_name": "카템 연구소",
           "blog_slug": "cartemlab",
-          "daily_views": 0
+          "daily_views": 1
         },
         {
           "id": 21907,
@@ -3439,8 +3439,8 @@
       "slug": "infoplant",
       "post_count": 346,
       "captured_posts": 346,
-      "total_views": 157847,
-      "daily_views": 44,
+      "total_views": 157851,
+      "daily_views": 48,
       "top_post": {
         "id": 20376,
         "title": "민생회복 소비쿠폰 2026 신청 방법과 지급일, 최대 60만원 받는 조건 정리",
@@ -3458,16 +3458,16 @@
         "daily_views": 0
       },
       "top_daily_post": {
-        "id": 14059,
-        "title": "전자책 부업 주제 선정 및 판매 플랫폼 2026년 크몽 재능 마켓 판매 수익 및 수수료 분석과 얼마 벌까",
-        "url": "https://wikidocs.net/blog/@infoplant/14059/",
-        "excerpt": "2026년, 디지털 콘텐츠 시장의 파고 속에서 전자책 부업은 개인의 지식과 경험을 자산화하는 매력적인 기회로 부상하고 있습니다. 특히 국내 최대 재능 거래 플랫폼인 크몽(Cmong)은 이러한 흐름 속에서 전자책 판매를 위한 주요 통로로 자리매김하고 있으며, 그 판매 …",
-        "thumbnail_url": "https://static.wikidocs.net/images/blog/14059/디지털_우주_갤럭시_2017_4K_HD벽지_3840x2160[10wallpaper.com].jpg",
-        "published_label": "4개월 전",
-        "views": 1210,
+        "id": 20383,
+        "title": "2026 주택담보대출 규제 내용과 6월 부동산 대책, 내 집 마련 대응법 정리",
+        "url": "https://wikidocs.net/blog/@infoplant/20383/",
+        "excerpt": "2026년 6월 현재, 부동산 대출의 문은 1년 전과 비교하기 어려울 만큼 좁아졌습니다. 정부가 \"빚으로 자산 가격을 부풀리는 시대를 끝내겠다\"는 기조를 분명히 하면서, 주택담보대출은 물론이고 개인사업자대출까지 자금 사용처를 촘촘히 들여다보는 단계로 들어섰습니다. 이…",
+        "thumbnail_url": "https://static.wikidocs.net/images/blog/20383/696364.jpg",
+        "published_label": "3개월 전",
+        "views": 1769,
         "likes": 0,
         "comments": 0,
-        "source_page": 34,
+        "source_page": 18,
         "blog_id": 1724,
         "blog_name": "지식 발전소",
         "blog_slug": "infoplant",
@@ -3545,14 +3545,14 @@
           "excerpt": "2026년 6월 현재, 부동산 대출의 문은 1년 전과 비교하기 어려울 만큼 좁아졌습니다. 정부가 \"빚으로 자산 가격을 부풀리는 시대를 끝내겠다\"는 기조를 분명히 하면서, 주택담보대출은 물론이고 개인사업자대출까지 자금 사용처를 촘촘히 들여다보는 단계로 들어섰습니다. 이…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/20383/696364.jpg",
           "published_label": "3개월 전",
-          "views": 1768,
+          "views": 1769,
           "likes": 0,
           "comments": 0,
           "source_page": 18,
           "blog_id": 1724,
           "blog_name": "지식 발전소",
           "blog_slug": "infoplant",
-          "daily_views": 2
+          "daily_views": 3
         },
         {
           "id": 20764,
@@ -4521,14 +4521,14 @@
           "excerpt": "인생의 황혼기에 접어드는 50대 은퇴자들에게는 안정적인 자산 관리와 꾸준한 소득 창출이 무엇보다 중요합니다. 특히 예측 불가능한 시장 상황 속에서 원금 보존과 정기적인 현금 흐름을 제공하는 채권 투자는 은퇴 포트폴리오의 핵심적인 역할을 수행할 수 있습니다. 2026년…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/14198/뉴질랜드,_와나카_호수,_가을,_2021,_여행,_5K,_사진벽지_3840x2160[10wallpaper.com].jpg",
           "published_label": "4개월 전",
-          "views": 582,
+          "views": 584,
           "likes": 0,
           "comments": 0,
           "source_page": 32,
           "blog_id": 1724,
           "blog_name": "지식 발전소",
           "blog_slug": "infoplant",
-          "daily_views": 0
+          "daily_views": 2
         },
         {
           "id": 20446,
@@ -4665,14 +4665,14 @@
           "excerpt": "2026년 6월 22일, 한국 증시 역사에 기록될 만한 사건이 벌어졌습니다. SK하이닉스가 삼성전자를 보통주 시가총액 기준으로 추월하며 코스피 대장주 자리에 올라선 것인데요, 삼성전자가 2000년 11월 한국통신(현 KT)을 제치고 1위에 오른 이후 무려 25년 7개…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/20567/864884.jpg",
           "published_label": "3개월 전",
-          "views": 510,
+          "views": 511,
           "likes": 0,
           "comments": 0,
           "source_page": 16,
           "blog_id": 1724,
           "blog_name": "지식 발전소",
           "blog_slug": "infoplant",
-          "daily_views": 1
+          "daily_views": 2
         },
         {
           "id": 18239,
@@ -5082,8 +5082,8 @@
       "slug": "smartliving",
       "post_count": 486,
       "captured_posts": 486,
-      "total_views": 121833,
-      "daily_views": 30,
+      "total_views": 121842,
+      "daily_views": 39,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -6725,8 +6725,8 @@
       "slug": "insightbridge",
       "post_count": 242,
       "captured_posts": 242,
-      "total_views": 74790,
-      "daily_views": 37,
+      "total_views": 74792,
+      "daily_views": 39,
       "top_post": {
         "id": 18164,
         "title": "클로드 오퍼스 4.8 코딩, GPT-5.5보다 진짜 나은가 따져봤습니다 2026",
@@ -6744,16 +6744,16 @@
         "daily_views": 0
       },
       "top_daily_post": {
-        "id": 20121,
-        "title": "해외 주식 수수료 비교, 0.07%만 보면 매년 20만원 샌다",
-        "url": "https://wikidocs.net/blog/@insightbridge/20121/",
-        "excerpt": "해외 주식 수수료 비교를 한다면서 다들 똑같은 걸 본다. \"키움 0.07%, 미래에셋 0.07%, 토스 0.1%\"라고 적힌 표를 띄워놓고 \"어디가 제일 싸지?\"를 따진다. 결론부터 단정하자. 그 표만 보고 증권사를 고르면 십중팔구 손해다. 매매수수료 0.07%는 미국…",
-        "thumbnail_url": "https://static.wikidocs.net/images/blog/20121/458791.jpg",
+        "id": 17301,
+        "title": "SCHD 슈드, 무조건 사두면 되는 안전템? 2026년 꼭 알아야 할 단점 4가지",
+        "url": "https://wikidocs.net/blog/@insightbridge/17301/",
+        "excerpt": "배당 투자에 관심 있는 분들이라면 SCHD, 일명 '슈드'를 한 번쯤 들어보셨을 겁니다. 그리고 이렇게 생각하실지도 모르겠습니다. \"슈드는 미국 우량 배당주 100개에 분산하니까, 그냥 적금처럼 사서 묻어두면 되는 안전한 ETF 아닌가?\" 결론부터 단정해서 말씀드리면…",
+        "thumbnail_url": "https://static.wikidocs.net/images/blog/17301/빙하_호수,_통나무_오두막,_2022,_햄비이,_노르웨이,_4K,_사진벽지_3840x2160[10wallpaper.com].jpg",
         "published_label": "3개월 전",
-        "views": 542,
+        "views": 806,
         "likes": 0,
         "comments": 0,
-        "source_page": 12,
+        "source_page": 24,
         "blog_id": 1783,
         "blog_name": "인사이트 브리지",
         "blog_slug": "insightbridge",
@@ -6943,14 +6943,14 @@
           "excerpt": "배당 투자에 관심 있는 분들이라면 SCHD, 일명 '슈드'를 한 번쯤 들어보셨을 겁니다. 그리고 이렇게 생각하실지도 모르겠습니다. \"슈드는 미국 우량 배당주 100개에 분산하니까, 그냥 적금처럼 사서 묻어두면 되는 안전한 ETF 아닌가?\" 결론부터 단정해서 말씀드리면…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/17301/빙하_호수,_통나무_오두막,_2022,_햄비이,_노르웨이,_4K,_사진벽지_3840x2160[10wallpaper.com].jpg",
           "published_label": "3개월 전",
-          "views": 805,
+          "views": 806,
           "likes": 0,
           "comments": 0,
           "source_page": 24,
           "blog_id": 1783,
           "blog_name": "인사이트 브리지",
           "blog_slug": "insightbridge",
-          "daily_views": 2
+          "daily_views": 3
         },
         {
           "id": 19875,
@@ -7999,14 +7999,14 @@
           "excerpt": "오피스텔에 살면서 천장에 박힌 시스템 에어컨이 영 시원하지 않으면 대부분 \"고장났나 보다, 수리비 깨지겠네\"부터 생각하십니다. 결론부터 말씀드리면 그 판단은 절반 이상 틀렸습니다. 오피스텔 시스템 에어컨이 안 시원한 원인의 상당수는 고장이 아니라 필터 막힘과 실외기 …",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/18977/아이슬란드,_산,_가을,_협곡,_강,_5K벽지_3840x2160[10wallpaper.com].jpg",
           "published_label": "3개월 전",
-          "views": 280,
+          "views": 281,
           "likes": 0,
           "comments": 0,
           "source_page": 19,
           "blog_id": 1783,
           "blog_name": "인사이트 브리지",
           "blog_slug": "insightbridge",
-          "daily_views": 0
+          "daily_views": 1
         },
         {
           "id": 25689,
@@ -14572,8 +14572,8 @@
       "slug": "aitechnote",
       "post_count": 150,
       "captured_posts": 150,
-      "total_views": 30097,
-      "daily_views": 24,
+      "total_views": 30100,
+      "daily_views": 27,
       "top_post": {
         "id": 18993,
         "title": "제미나이 3.5 플래시를 코딩 보조로 쓸 만한가, 클로드·GPT 대비 가성비 실전 리뷰",
@@ -14581,14 +14581,14 @@
         "excerpt": "코딩에 AI를 쓰는 개발자들 사이에서 요즘 이런 말이 자주 들립니다. 코딩 AI는 결국 제일 똑똑한 비싼 모델이 정답 아냐? 싼 모델은 못 미덥잖아. 결론부터 말씀드리면, 2026년 5월 구글이 내놓은 제미나이 3.5 플래시(Gemini 3.5 Flash)는 그 통념…",
         "thumbnail_url": "https://static.wikidocs.net/images/blog/18993/밸리,_호수,_정글,_일출,_eibsee,_바바리아,_5K벽지_3840x2160[10wallpaper.com].jpg",
         "published_label": "3개월 전",
-        "views": 2285,
+        "views": 2286,
         "likes": 0,
         "comments": 0,
         "source_page": 11,
         "blog_id": 1795,
         "blog_name": "AI 테크 최신 정보 매거진",
         "blog_slug": "aitechnote",
-        "daily_views": 0
+        "daily_views": 1
       },
       "top_daily_post": {
         "id": 18301,
@@ -14597,14 +14597,14 @@
         "excerpt": "요즘은 ChatGPT 같은 클라우드 AI 말고, 내 컴퓨터 안에서 직접 AI 모델을 돌리는 사람들이 늘고 있습니다. 이렇게 인터넷에 보내지 않고 내 기기에서 모델을 실행하는 것을 로컬 LLM이라고 부릅니다. 그리고 이 로컬 LLM을 손쉽게 다루게 해 주는 대표 도구가…",
         "thumbnail_url": "https://static.wikidocs.net/images/blog/18301/양,_봄,_남부_다운스_국립_공원,_2022,_빙,_5k,_사진벽지_3840x2160[10wallpaper.com].jpg",
         "published_label": "3개월 전",
-        "views": 1488,
+        "views": 1489,
         "likes": 0,
         "comments": 0,
         "source_page": 15,
         "blog_id": 1795,
         "blog_name": "AI 테크 최신 정보 매거진",
         "blog_slug": "aitechnote",
-        "daily_views": 3
+        "daily_views": 4
       },
       "posts": [
         {
@@ -14614,14 +14614,14 @@
           "excerpt": "코딩에 AI를 쓰는 개발자들 사이에서 요즘 이런 말이 자주 들립니다. 코딩 AI는 결국 제일 똑똑한 비싼 모델이 정답 아냐? 싼 모델은 못 미덥잖아. 결론부터 말씀드리면, 2026년 5월 구글이 내놓은 제미나이 3.5 플래시(Gemini 3.5 Flash)는 그 통념…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/18993/밸리,_호수,_정글,_일출,_eibsee,_바바리아,_5K벽지_3840x2160[10wallpaper.com].jpg",
           "published_label": "3개월 전",
-          "views": 2285,
+          "views": 2286,
           "likes": 0,
           "comments": 0,
           "source_page": 11,
           "blog_id": 1795,
           "blog_name": "AI 테크 최신 정보 매거진",
           "blog_slug": "aitechnote",
-          "daily_views": 0
+          "daily_views": 1
         },
         {
           "id": 18301,
@@ -14630,14 +14630,14 @@
           "excerpt": "요즘은 ChatGPT 같은 클라우드 AI 말고, 내 컴퓨터 안에서 직접 AI 모델을 돌리는 사람들이 늘고 있습니다. 이렇게 인터넷에 보내지 않고 내 기기에서 모델을 실행하는 것을 로컬 LLM이라고 부릅니다. 그리고 이 로컬 LLM을 손쉽게 다루게 해 주는 대표 도구가…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/18301/양,_봄,_남부_다운스_국립_공원,_2022,_빙,_5k,_사진벽지_3840x2160[10wallpaper.com].jpg",
           "published_label": "3개월 전",
-          "views": 1488,
+          "views": 1489,
           "likes": 0,
           "comments": 0,
           "source_page": 15,
           "blog_id": 1795,
           "blog_name": "AI 테크 최신 정보 매거진",
           "blog_slug": "aitechnote",
-          "daily_views": 3
+          "daily_views": 4
         },
         {
           "id": 18333,
@@ -15030,14 +15030,14 @@
           "excerpt": "개인 정보 를 보호 하는 방법, 2026년 디지털 환경에서 내가 지킬 권리 7가지 디지털 환경에서 개인 정보를 보호하는 것은 2026년 현재 더욱 중요해졌으며, 정보 주체로서 자신의 권리를 명확히 인지하고 적극적으로 행사하는 것이 필수적입니다. 개인정보보호위원회는 2…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/25807/temp_thumb_1784849414257.jpg",
           "published_label": "1개월 전",
-          "views": 295,
+          "views": 296,
           "likes": 0,
           "comments": 0,
           "source_page": 2,
           "blog_id": 1795,
           "blog_name": "AI 테크 최신 정보 매거진",
           "blog_slug": "aitechnote",
-          "daily_views": 0
+          "daily_views": 1
         },
         {
           "id": 18986,
@@ -17314,8 +17314,8 @@
       "slug": "techinsight",
       "post_count": 67,
       "captured_posts": 67,
-      "total_views": 13690,
-      "daily_views": 5,
+      "total_views": 13691,
+      "daily_views": 6,
       "top_post": {
         "id": 26999,
         "title": "구글, 제미나이 3.5 프로 정식 출시 — 3차례 연기 끝에 GPT-5.6 넘어선 벤치마크",
@@ -18044,14 +18044,14 @@
           "excerpt": "물류센터에서 일하는 관리자가 뉴스에서 \"휴머노이드 로봇 10만 대 양산 계약\"이라는 제목을 보고 잠시 멈칫합니다. \"우리 현장에도 저런 로봇이 들어오면 사람 일자리는 어떻게 되는 거지\" 하는 생각과 함께, 정확히 어떤 작업을 대체하는지 궁금해집니다. 결론부터 말하면,…",
           "thumbnail_url": "https://static.wikidocs.net/images/blog/26664/thumb.jpg",
           "published_label": "1개월 전",
-          "views": 108,
+          "views": 109,
           "likes": 0,
           "comments": 0,
           "source_page": 3,
           "blog_id": 2211,
           "blog_name": "테크 인사이트",
           "blog_slug": "techinsight",
-          "daily_views": 0
+          "daily_views": 1
         },
         {
           "id": 26851,
@@ -18429,8 +18429,8 @@
       "slug": "solobizstack",
       "post_count": 109,
       "captured_posts": 109,
-      "total_views": 9644,
-      "daily_views": 11,
+      "total_views": 9645,
+      "daily_views": 12,
       "top_post": {
         "id": 26420,
         "title": "맥북 생산성 4.9점의 비밀, 31000명이 매일 쓰는 Raycast 완전 정리",
@@ -19409,6 +19409,22 @@
           "daily_views": 0
         },
         {
+          "id": 25547,
+          "title": "Zoho CRM vs Pipedrive: Which One Actually Closes More Deals?",
+          "url": "https://wikidocs.net/blog/@solobizstack/25547/",
+          "excerpt": "Zoho CRM vs Pipedrive: Which One Actually Closes More Deals? Photo by Andrew Neel on Unsplash Table of Contents Why Solopreneurs Keep Comparing Zoho …",
+          "thumbnail_url": "https://static.wikidocs.net/images/blog/25547/batch3_seq1.jpg",
+          "published_label": "2개월 전",
+          "views": 57,
+          "likes": 0,
+          "comments": 0,
+          "source_page": 9,
+          "blog_id": 2213,
+          "blog_name": "SoloBiz Stack",
+          "blog_slug": "solobizstack",
+          "daily_views": 1
+        },
+        {
           "id": 26984,
           "title": "Vela vs Metaview, AI 채용 코디네이터는 뭘 골라야 할까",
           "url": "https://wikidocs.net/blog/@solobizstack/26984/",
@@ -19419,22 +19435,6 @@
           "likes": 0,
           "comments": 0,
           "source_page": 2,
-          "blog_id": 2213,
-          "blog_name": "SoloBiz Stack",
-          "blog_slug": "solobizstack",
-          "daily_views": 0
-        },
-        {
-          "id": 25547,
-          "title": "Zoho CRM vs Pipedrive: Which One Actually Closes More Deals?",
-          "url": "https://wikidocs.net/blog/@solobizstack/25547/",
-          "excerpt": "Zoho CRM vs Pipedrive: Which One Actually Closes More Deals? Photo by Andrew Neel on Unsplash Table of Contents Why Solopreneurs Keep Comparing Zoho …",
-          "thumbnail_url": "https://static.wikidocs.net/images/blog/25547/batch3_seq1.jpg",
-          "published_label": "2개월 전",
-          "views": 56,
-          "likes": 0,
-          "comments": 0,
-          "source_page": 9,
           "blog_id": 2213,
           "blog_name": "SoloBiz Stack",
           "blog_slug": "solobizstack",
@@ -30697,8 +30697,8 @@
       "blog_id": 1795,
       "blog_name": "AI 테크 최신 정보 매거진",
       "blog_slug": "aitechnote",
-      "total_views": 30097,
-      "daily_views": 24,
+      "total_views": 30100,
+      "daily_views": 27,
       "is_realtime_today": true
     },
     {
@@ -30706,8 +30706,8 @@
       "blog_id": 1783,
       "blog_name": "인사이트 브리지",
       "blog_slug": "insightbridge",
-      "total_views": 74790,
-      "daily_views": 37,
+      "total_views": 74792,
+      "daily_views": 39,
       "is_realtime_today": true
     },
     {
@@ -30742,8 +30742,8 @@
       "blog_id": 1724,
       "blog_name": "지식 발전소",
       "blog_slug": "infoplant",
-      "total_views": 157847,
-      "daily_views": 44,
+      "total_views": 157851,
+      "daily_views": 48,
       "is_realtime_today": true
     },
     {
@@ -30751,8 +30751,8 @@
       "blog_id": 1725,
       "blog_name": "지식 저장소",
       "blog_slug": "knarchive",
-      "total_views": 470435,
-      "daily_views": 130,
+      "total_views": 470441,
+      "daily_views": 136,
       "is_realtime_today": true
     },
     {
@@ -30760,8 +30760,8 @@
       "blog_id": 1978,
       "blog_name": "카템 연구소",
       "blog_slug": "cartemlab",
-      "total_views": 161848,
-      "daily_views": 15,
+      "total_views": 161849,
+      "daily_views": 16,
       "is_realtime_today": true
     },
     {
@@ -30778,8 +30778,8 @@
       "blog_id": 1977,
       "blog_name": "스마트 리빙",
       "blog_slug": "smartliving",
-      "total_views": 121833,
-      "daily_views": 30,
+      "total_views": 121842,
+      "daily_views": 39,
       "is_realtime_today": true
     },
     {
@@ -30796,8 +30796,8 @@
       "blog_id": 2211,
       "blog_name": "테크 인사이트",
       "blog_slug": "techinsight",
-      "total_views": 13690,
-      "daily_views": 5,
+      "total_views": 13691,
+      "daily_views": 6,
       "is_realtime_today": true
     },
     {
@@ -30814,8 +30814,8 @@
       "blog_id": 2213,
       "blog_name": "SoloBiz Stack",
       "blog_slug": "solobizstack",
-      "total_views": 9644,
-      "daily_views": 11,
+      "total_views": 9645,
+      "daily_views": 12,
       "is_realtime_today": true
     }
   ],
@@ -30998,7 +30998,7 @@
       "total_views": 30097,
       "daily_views": 24,
       "interval_views": 9,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -31010,7 +31010,7 @@
       "total_views": 74790,
       "daily_views": 37,
       "interval_views": 19,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -31022,7 +31022,7 @@
       "total_views": 44120,
       "daily_views": 9,
       "interval_views": 4,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -31034,7 +31034,7 @@
       "total_views": 45541,
       "daily_views": 21,
       "interval_views": 8,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -31046,7 +31046,7 @@
       "total_views": 42634,
       "daily_views": 13,
       "interval_views": 6,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -31058,7 +31058,7 @@
       "total_views": 157847,
       "daily_views": 44,
       "interval_views": 29,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -31070,7 +31070,7 @@
       "total_views": 470435,
       "daily_views": 130,
       "interval_views": 77,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -31082,7 +31082,7 @@
       "total_views": 161848,
       "daily_views": 15,
       "interval_views": 6,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -31094,7 +31094,7 @@
       "total_views": 37260,
       "daily_views": 8,
       "interval_views": 4,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -31106,7 +31106,7 @@
       "total_views": 121833,
       "daily_views": 30,
       "interval_views": 27,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -31118,7 +31118,7 @@
       "total_views": 13886,
       "daily_views": 4,
       "interval_views": 2,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -31130,7 +31130,7 @@
       "total_views": 13690,
       "daily_views": 5,
       "interval_views": 3,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -31142,7 +31142,7 @@
       "total_views": 7125,
       "daily_views": 9,
       "interval_views": 3,
-      "is_realtime_today": true
+      "is_realtime_today": false
     },
     {
       "date": "07:01",
@@ -31154,15 +31154,183 @@
       "total_views": 9644,
       "daily_views": 11,
       "interval_views": 6,
+      "is_realtime_today": false
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-22",
+      "collected_at": "2026-09-22T07:31:57+09:00",
+      "blog_id": 1795,
+      "blog_name": "AI 테크 최신 정보 매거진",
+      "blog_slug": "aitechnote",
+      "total_views": 30100,
+      "daily_views": 27,
+      "interval_views": 3,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-22",
+      "collected_at": "2026-09-22T07:31:57+09:00",
+      "blog_id": 1783,
+      "blog_name": "인사이트 브리지",
+      "blog_slug": "insightbridge",
+      "total_views": 74792,
+      "daily_views": 39,
+      "interval_views": 2,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-22",
+      "collected_at": "2026-09-22T07:31:57+09:00",
+      "blog_id": 84,
+      "blog_name": "systrader79의 트레이딩 이야기",
+      "blog_slug": "systrader79",
+      "total_views": 44120,
+      "daily_views": 9,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-22",
+      "collected_at": "2026-09-22T07:31:57+09:00",
+      "blog_id": 1799,
+      "blog_name": "모든 것의 역사",
+      "blog_slug": "history",
+      "total_views": 45541,
+      "daily_views": 21,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-22",
+      "collected_at": "2026-09-22T07:31:57+09:00",
+      "blog_id": 1800,
+      "blog_name": "학문의 서재",
+      "blog_slug": "studylibrary",
+      "total_views": 42634,
+      "daily_views": 13,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-22",
+      "collected_at": "2026-09-22T07:31:57+09:00",
+      "blog_id": 1724,
+      "blog_name": "지식 발전소",
+      "blog_slug": "infoplant",
+      "total_views": 157851,
+      "daily_views": 48,
+      "interval_views": 4,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-22",
+      "collected_at": "2026-09-22T07:31:57+09:00",
+      "blog_id": 1725,
+      "blog_name": "지식 저장소",
+      "blog_slug": "knarchive",
+      "total_views": 470441,
+      "daily_views": 136,
+      "interval_views": 6,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-22",
+      "collected_at": "2026-09-22T07:31:57+09:00",
+      "blog_id": 1978,
+      "blog_name": "카템 연구소",
+      "blog_slug": "cartemlab",
+      "total_views": 161849,
+      "daily_views": 16,
+      "interval_views": 1,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-22",
+      "collected_at": "2026-09-22T07:31:57+09:00",
+      "blog_id": 1986,
+      "blog_name": "펫 픽 노트",
+      "blog_slug": "petpicknote",
+      "total_views": 37260,
+      "daily_views": 8,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-22",
+      "collected_at": "2026-09-22T07:31:57+09:00",
+      "blog_id": 1977,
+      "blog_name": "스마트 리빙",
+      "blog_slug": "smartliving",
+      "total_views": 121842,
+      "daily_views": 39,
+      "interval_views": 9,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-22",
+      "collected_at": "2026-09-22T07:31:57+09:00",
+      "blog_id": 2210,
+      "blog_name": "뉴스 시그널",
+      "blog_slug": "newssignal",
+      "total_views": 13886,
+      "daily_views": 4,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-22",
+      "collected_at": "2026-09-22T07:31:57+09:00",
+      "blog_id": 2211,
+      "blog_name": "테크 인사이트",
+      "blog_slug": "techinsight",
+      "total_views": 13691,
+      "daily_views": 6,
+      "interval_views": 1,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-22",
+      "collected_at": "2026-09-22T07:31:57+09:00",
+      "blog_id": 2212,
+      "blog_name": "라이프 솔루션",
+      "blog_slug": "lifesolution",
+      "total_views": 7125,
+      "daily_views": 9,
+      "interval_views": 0,
+      "is_realtime_today": true
+    },
+    {
+      "date": "07:31",
+      "snapshot_date": "2026-09-22",
+      "collected_at": "2026-09-22T07:31:57+09:00",
+      "blog_id": 2213,
+      "blog_name": "SoloBiz Stack",
+      "blog_slug": "solobizstack",
+      "total_views": 9645,
+      "daily_views": 12,
+      "interval_views": 1,
       "is_realtime_today": true
     }
   ],
   "intraday_summary": {
     "date": "2026-09-22",
     "interval_minutes": 30,
-    "snapshot_count": 2,
+    "snapshot_count": 3,
     "first_collected_at": "2026-09-22T02:01:57+09:00",
-    "last_collected_at": "2026-09-22T07:01:57+09:00",
+    "last_collected_at": "2026-09-22T07:31:57+09:00",
     "is_realtime": true
   },
   "observed_start_date": "2026-06-30",
@@ -31656,6 +31824,22 @@
   ],
   "top_daily_posts": [
     {
+      "id": 18301,
+      "title": "올라마와 LM 스튜디오 비교, 내 PC에서 LLM을 직접 돌릴 때 무엇을 고를까",
+      "url": "https://wikidocs.net/blog/@aitechnote/18301/",
+      "excerpt": "요즘은 ChatGPT 같은 클라우드 AI 말고, 내 컴퓨터 안에서 직접 AI 모델을 돌리는 사람들이 늘고 있습니다. 이렇게 인터넷에 보내지 않고 내 기기에서 모델을 실행하는 것을 로컬 LLM이라고 부릅니다. 그리고 이 로컬 LLM을 손쉽게 다루게 해 주는 대표 도구가…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/18301/양,_봄,_남부_다운스_국립_공원,_2022,_빙,_5k,_사진벽지_3840x2160[10wallpaper.com].jpg",
+      "published_label": "3개월 전",
+      "views": 1489,
+      "likes": 0,
+      "comments": 0,
+      "source_page": 15,
+      "blog_id": 1795,
+      "blog_name": "AI 테크 최신 정보 매거진",
+      "blog_slug": "aitechnote",
+      "daily_views": 4
+    },
+    {
       "id": 30369,
       "title": "환절기 건조한 사무직, 물 600ml로 하루 종일 촉촉하게 채워주는 미니 가습기",
       "url": "https://wikidocs.net/blog/@smartliving/30369/",
@@ -31672,19 +31856,19 @@
       "daily_views": 4
     },
     {
-      "id": 18301,
-      "title": "올라마와 LM 스튜디오 비교, 내 PC에서 LLM을 직접 돌릴 때 무엇을 고를까",
-      "url": "https://wikidocs.net/blog/@aitechnote/18301/",
-      "excerpt": "요즘은 ChatGPT 같은 클라우드 AI 말고, 내 컴퓨터 안에서 직접 AI 모델을 돌리는 사람들이 늘고 있습니다. 이렇게 인터넷에 보내지 않고 내 기기에서 모델을 실행하는 것을 로컬 LLM이라고 부릅니다. 그리고 이 로컬 LLM을 손쉽게 다루게 해 주는 대표 도구가…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/18301/양,_봄,_남부_다운스_국립_공원,_2022,_빙,_5k,_사진벽지_3840x2160[10wallpaper.com].jpg",
+      "id": 20383,
+      "title": "2026 주택담보대출 규제 내용과 6월 부동산 대책, 내 집 마련 대응법 정리",
+      "url": "https://wikidocs.net/blog/@infoplant/20383/",
+      "excerpt": "2026년 6월 현재, 부동산 대출의 문은 1년 전과 비교하기 어려울 만큼 좁아졌습니다. 정부가 \"빚으로 자산 가격을 부풀리는 시대를 끝내겠다\"는 기조를 분명히 하면서, 주택담보대출은 물론이고 개인사업자대출까지 자금 사용처를 촘촘히 들여다보는 단계로 들어섰습니다. 이…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/20383/696364.jpg",
       "published_label": "3개월 전",
-      "views": 1488,
+      "views": 1769,
       "likes": 0,
       "comments": 0,
-      "source_page": 15,
-      "blog_id": 1795,
-      "blog_name": "AI 테크 최신 정보 매거진",
-      "blog_slug": "aitechnote",
+      "source_page": 18,
+      "blog_id": 1724,
+      "blog_name": "지식 발전소",
+      "blog_slug": "infoplant",
       "daily_views": 3
     },
     {
@@ -31701,6 +31885,22 @@
       "blog_id": 1724,
       "blog_name": "지식 발전소",
       "blog_slug": "infoplant",
+      "daily_views": 3
+    },
+    {
+      "id": 17301,
+      "title": "SCHD 슈드, 무조건 사두면 되는 안전템? 2026년 꼭 알아야 할 단점 4가지",
+      "url": "https://wikidocs.net/blog/@insightbridge/17301/",
+      "excerpt": "배당 투자에 관심 있는 분들이라면 SCHD, 일명 '슈드'를 한 번쯤 들어보셨을 겁니다. 그리고 이렇게 생각하실지도 모르겠습니다. \"슈드는 미국 우량 배당주 100개에 분산하니까, 그냥 적금처럼 사서 묻어두면 되는 안전한 ETF 아닌가?\" 결론부터 단정해서 말씀드리면…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/17301/빙하_호수,_통나무_오두막,_2022,_햄비이,_노르웨이,_4K,_사진벽지_3840x2160[10wallpaper.com].jpg",
+      "published_label": "3개월 전",
+      "views": 806,
+      "likes": 0,
+      "comments": 0,
+      "source_page": 24,
+      "blog_id": 1783,
+      "blog_name": "인사이트 브리지",
+      "blog_slug": "insightbridge",
       "daily_views": 3
     },
     {
@@ -31896,22 +32096,6 @@
       "daily_views": 2
     },
     {
-      "id": 20383,
-      "title": "2026 주택담보대출 규제 내용과 6월 부동산 대책, 내 집 마련 대응법 정리",
-      "url": "https://wikidocs.net/blog/@infoplant/20383/",
-      "excerpt": "2026년 6월 현재, 부동산 대출의 문은 1년 전과 비교하기 어려울 만큼 좁아졌습니다. 정부가 \"빚으로 자산 가격을 부풀리는 시대를 끝내겠다\"는 기조를 분명히 하면서, 주택담보대출은 물론이고 개인사업자대출까지 자금 사용처를 촘촘히 들여다보는 단계로 들어섰습니다. 이…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/20383/696364.jpg",
-      "published_label": "3개월 전",
-      "views": 1768,
-      "likes": 0,
-      "comments": 0,
-      "source_page": 18,
-      "blog_id": 1724,
-      "blog_name": "지식 발전소",
-      "blog_slug": "infoplant",
-      "daily_views": 2
-    },
-    {
       "id": 14969,
       "title": "디즈니플러스 마블 순서, 2026년 개봉작까지 완벽 정리 (정주행 가이드)",
       "url": "https://wikidocs.net/blog/@knarchive/14969/",
@@ -32005,22 +32189,6 @@
       "blog_id": 1724,
       "blog_name": "지식 발전소",
       "blog_slug": "infoplant",
-      "daily_views": 2
-    },
-    {
-      "id": 17301,
-      "title": "SCHD 슈드, 무조건 사두면 되는 안전템? 2026년 꼭 알아야 할 단점 4가지",
-      "url": "https://wikidocs.net/blog/@insightbridge/17301/",
-      "excerpt": "배당 투자에 관심 있는 분들이라면 SCHD, 일명 '슈드'를 한 번쯤 들어보셨을 겁니다. 그리고 이렇게 생각하실지도 모르겠습니다. \"슈드는 미국 우량 배당주 100개에 분산하니까, 그냥 적금처럼 사서 묻어두면 되는 안전한 ETF 아닌가?\" 결론부터 단정해서 말씀드리면…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/17301/빙하_호수,_통나무_오두막,_2022,_햄비이,_노르웨이,_4K,_사진벽지_3840x2160[10wallpaper.com].jpg",
-      "published_label": "3개월 전",
-      "views": 805,
-      "likes": 0,
-      "comments": 0,
-      "source_page": 24,
-      "blog_id": 1783,
-      "blog_name": "인사이트 브리지",
-      "blog_slug": "insightbridge",
       "daily_views": 2
     },
     {
@@ -32120,16 +32288,16 @@
       "daily_views": 2
     },
     {
-      "id": 14073,
-      "title": "욕실 리모델링 덧방 vs 철거 비용 차이 2026년 주방 싱크대 교체 비용 및 상판 재질과 셀프 시공 팁",
-      "url": "https://wikidocs.net/blog/@infoplant/14073/",
-      "excerpt": "주거 공간의 재탄생: 2026년 욕실 및 주방 리모델링 심층 분석 주거 공간은 단순히 머무는 곳을 넘어 삶의 질을 결정하는 중요한 요소로 인식되고 있습니다. 특히 욕실과 주방은 위생과 편의, 그리고 심미적 만족을 동시에 제공해야 하는 핵심 공간으로, 이 두 공간의 리…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/14073/빙하_호수,_통나무_오두막,_2022,_햄비이,_노르웨이,_4K,_사진벽지_3840x2160[10wallpaper.com].jpg",
+      "id": 14198,
+      "title": "50대 은퇴자를 위한 재테크, 2026년 채권 투자 초보자 가이드",
+      "url": "https://wikidocs.net/blog/@infoplant/14198/",
+      "excerpt": "인생의 황혼기에 접어드는 50대 은퇴자들에게는 안정적인 자산 관리와 꾸준한 소득 창출이 무엇보다 중요합니다. 특히 예측 불가능한 시장 상황 속에서 원금 보존과 정기적인 현금 흐름을 제공하는 채권 투자는 은퇴 포트폴리오의 핵심적인 역할을 수행할 수 있습니다. 2026년…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/14198/뉴질랜드,_와나카_호수,_가을,_2021,_여행,_5K,_사진벽지_3840x2160[10wallpaper.com].jpg",
       "published_label": "4개월 전",
-      "views": 520,
+      "views": 584,
       "likes": 0,
       "comments": 0,
-      "source_page": 33,
+      "source_page": 32,
       "blog_id": 1724,
       "blog_name": "지식 발전소",
       "blog_slug": "infoplant",
@@ -32139,10 +32307,10 @@
   "job": {
     "running": false,
     "started_at": null,
-    "finished_at": "2026-09-22T07:01:58+09:00",
+    "finished_at": "2026-09-22T07:31:58+09:00",
     "message": "GitHub Actions 자동 갱신 완료",
     "progress": [],
     "error": null
   },
-  "static_generated_at": "2026-09-22T07:01:58+09:00"
+  "static_generated_at": "2026-09-22T07:31:58+09:00"
 }
