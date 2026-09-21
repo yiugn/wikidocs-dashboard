@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-21T21:01:57+09:00",
+  "latest_snapshot_at": "2026-09-21T21:31:59+09:00",
   "latest_snapshot_date": "2026-09-21",
   "catalog_updated_at": "2026-09-21T00:00:31+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 754,
-    "total_views": 320867,
-    "daily_views": 171,
+    "total_views": 320870,
+    "daily_views": 174,
     "previous_day_views": 268,
     "previous_day_date": "2026-09-20",
-    "current_month_views": 8793,
+    "current_month_views": 8796,
     "days_recorded": 84
   },
   "blogs": [
@@ -28,8 +28,8 @@
       "name": "카템랩",
       "post_count": 130,
       "captured_posts": 130,
-      "total_views": 161827,
-      "daily_views": 51,
+      "total_views": 161829,
+      "daily_views": 53,
       "top_post": {
         "id": 22692,
         "title": "장마철마다 차 문 열고 우산 펴다 어깨 다 젖던 분들, 혹시 아직도 일반 우산 쓰고 계신가요?",
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 486,
       "captured_posts": 486,
-      "total_views": 121793,
-      "daily_views": 74,
+      "total_views": 121794,
+      "daily_views": 75,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -1693,8 +1693,8 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 반짝이던 크롬몰딩이 어느새 뿌옇게 흐려지고 얼룩진 걸 발견하고 속상했던 경험 있으실 겁니다. 세차를 해도 원래의 광이 좀처럼 살아나지 않아 답답했던 분들도 많으실 겁니다. 세차…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/23969/12_2_thumb.jpg",
       "published_label": "2개월 전",
-      "views": 199,
-      "daily_views": 3,
+      "views": 200,
+      "daily_views": 4,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -1777,6 +1777,21 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 24667,
+      "title": "차박 다니시는 분이라면, 파워 인버터 하나로 220V 가전 걱정 덜었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24667/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 노트북 배터리가 떨어지거나 전기밥솥을 쓰고 싶은데 220V 콘센트가 없어 난감했던 경험 있으실 겁니다. 차량 배터리는 12V·24V인데 우리가 평소 쓰는 가전제품…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24667/pb_16_1_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 173,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 23201,
       "title": "한여름 장거리 앞두신 분이라면, 배터리 보조제 넣고 출발 전 점검했다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/23201/",
@@ -1785,21 +1800,6 @@
       "published_label": "2개월 전",
       "views": 173,
       "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 24667,
-      "title": "차박 다니시는 분이라면, 파워 인버터 하나로 220V 가전 걱정 덜었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24667/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 노트북 배터리가 떨어지거나 전기밥솥을 쓰고 싶은데 220V 콘센트가 없어 난감했던 경험 있으실 겁니다. 차량 배터리는 12V·24V인데 우리가 평소 쓰는 가전제품…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24667/pb_16_1_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 172,
-      "daily_views": 3,
       "likes": 0,
       "comments": 0,
       "blog_id": 1978,
@@ -2512,14 +2512,14 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 21674,
-      "title": "출퇴근길 직장인을 위한, 지하철 더위 확 잡아주는 휴대용 손선풍기 이렇게 골랐습니다",
-      "url": "https://wikidocs.net/blog/@smartliving/21674/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 출퇴근길 직장인을 위한, 지하철 안에서 땀을 뻘뻘 흘리며 서 있다가 사무실에 도착하니 이미 셔츠가 축축해져 있던 경험 있으실 겁니다. 에어컨이 세게 나오는 지하철도 있지만 사람…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/21674/2_5_thumb.jpg",
-      "published_label": "2개월 전",
+      "id": 27304,
+      "title": "곰팡이 실리콘 세 번 뜯어내고 알게 된 욕실 코킹테이프 고르는 법",
+      "url": "https://wikidocs.net/blog/@smartliving/27304/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 욕조나 세면대 가장자리 실리콘 코킹이 까맣게 곰팡이 슬어 있는 걸 보고 스크래퍼로 뜯어내신 적 있으실 겁니다. 그런데 새 실리콘을 다시 짜 넣는 작업이 초보자에게는 생각보다 까…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/27304/20_9_product1.jpg",
+      "published_label": "1개월 전",
       "views": 112,
-      "daily_views": 0,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1977,
@@ -2527,13 +2527,13 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 27304,
-      "title": "곰팡이 실리콘 세 번 뜯어내고 알게 된 욕실 코킹테이프 고르는 법",
-      "url": "https://wikidocs.net/blog/@smartliving/27304/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 욕조나 세면대 가장자리 실리콘 코킹이 까맣게 곰팡이 슬어 있는 걸 보고 스크래퍼로 뜯어내신 적 있으실 겁니다. 그런데 새 실리콘을 다시 짜 넣는 작업이 초보자에게는 생각보다 까…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/27304/20_9_product1.jpg",
-      "published_label": "1개월 전",
-      "views": 111,
+      "id": 21674,
+      "title": "출퇴근길 직장인을 위한, 지하철 더위 확 잡아주는 휴대용 손선풍기 이렇게 골랐습니다",
+      "url": "https://wikidocs.net/blog/@smartliving/21674/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 출퇴근길 직장인을 위한, 지하철 안에서 땀을 뻘뻘 흘리며 서 있다가 사무실에 도착하니 이미 셔츠가 축축해져 있던 경험 있으실 겁니다. 에어컨이 세게 나오는 지하철도 있지만 사람…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/21674/2_5_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 112,
       "daily_views": 0,
       "likes": 0,
       "comments": 0,
@@ -11771,6 +11771,36 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 23969,
+      "title": "뿌옇게 변색된 크롬몰딩 방치했다가 얼룩진 뒤에야 알게 된 광택제 고르는 법",
+      "url": "https://wikidocs.net/blog/@cartemlab/23969/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 반짝이던 크롬몰딩이 어느새 뿌옇게 흐려지고 얼룩진 걸 발견하고 속상했던 경험 있으실 겁니다. 세차를 해도 원래의 광이 좀처럼 살아나지 않아 답답했던 분들도 많으실 겁니다. 세차…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/23969/12_2_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 200,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
+      "id": 24667,
+      "title": "차박 다니시는 분이라면, 파워 인버터 하나로 220V 가전 걱정 덜었다는 후기가 많습니다",
+      "url": "https://wikidocs.net/blog/@cartemlab/24667/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 노트북 배터리가 떨어지거나 전기밥솥을 쓰고 싶은데 220V 콘센트가 없어 난감했던 경험 있으실 겁니다. 차량 배터리는 12V·24V인데 우리가 평소 쓰는 가전제품…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24667/pb_16_1_thumb.jpg",
+      "published_label": "2개월 전",
+      "views": 173,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1978,
+      "blog_slug": "cartemlab",
+      "blog_name": "카템랩"
+    },
+    {
       "id": 22943,
       "title": "내비 보느라 자꾸 고개 숙이던 분들, HUD 달고 시선 덜 뺏겨 운전이 편해졌다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/22943/",
@@ -11793,36 +11823,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/22697/5_6_thumb.jpg",
       "published_label": "2개월 전",
       "views": 1253,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 23969,
-      "title": "뿌옇게 변색된 크롬몰딩 방치했다가 얼룩진 뒤에야 알게 된 광택제 고르는 법",
-      "url": "https://wikidocs.net/blog/@cartemlab/23969/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 반짝이던 크롬몰딩이 어느새 뿌옇게 흐려지고 얼룩진 걸 발견하고 속상했던 경험 있으실 겁니다. 세차를 해도 원래의 광이 좀처럼 살아나지 않아 답답했던 분들도 많으실 겁니다. 세차…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/23969/12_2_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 199,
-      "daily_views": 3,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1978,
-      "blog_slug": "cartemlab",
-      "blog_name": "카템랩"
-    },
-    {
-      "id": 24667,
-      "title": "차박 다니시는 분이라면, 파워 인버터 하나로 220V 가전 걱정 덜었다는 후기가 많습니다",
-      "url": "https://wikidocs.net/blog/@cartemlab/24667/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 차박 나갔다가 노트북 배터리가 떨어지거나 전기밥솥을 쓰고 싶은데 220V 콘센트가 없어 난감했던 경험 있으실 겁니다. 차량 배터리는 12V·24V인데 우리가 평소 쓰는 가전제품…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24667/pb_16_1_thumb.jpg",
-      "published_label": "2개월 전",
-      "views": 172,
       "daily_views": 3,
       "likes": 0,
       "comments": 0,
@@ -12286,8 +12286,8 @@
     },
     {
       "date": "2026-09-21",
-      "views": 171
+      "views": 174
     }
   ],
-  "static_generated_at": "2026-09-21T21:01:58+09:00"
+  "static_generated_at": "2026-09-21T21:32:00+09:00"
 }
