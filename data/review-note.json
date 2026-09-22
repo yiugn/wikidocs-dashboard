@@ -1,7 +1,7 @@
 {
   "title": "에코칩의 리뷰 노트",
   "description": "스마트 리빙, 카템랩, 펫픽 노트의 인기 리뷰 아카이브",
-  "latest_snapshot_at": "2026-09-22T13:31:57+09:00",
+  "latest_snapshot_at": "2026-09-22T14:02:00+09:00",
   "latest_snapshot_date": "2026-09-22",
   "catalog_updated_at": "2026-09-22T00:00:32+09:00",
   "is_today_realtime": true,
@@ -14,11 +14,11 @@
   "totals": {
     "blogs": 3,
     "posts": 754,
-    "total_views": 321005,
-    "daily_views": 117,
+    "total_views": 321012,
+    "daily_views": 124,
     "previous_day_views": 192,
     "previous_day_date": "2026-09-21",
-    "current_month_views": 8931,
+    "current_month_views": 8938,
     "days_recorded": 85
   },
   "blogs": [
@@ -52,8 +52,8 @@
       "name": "스마트 리빙",
       "post_count": 486,
       "captured_posts": 486,
-      "total_views": 121869,
-      "daily_views": 66,
+      "total_views": 121872,
+      "daily_views": 69,
       "top_post": {
         "id": 21796,
         "title": "타일 줄눈에 시커멓게 슬었던 곰팡이가 뽀송해지기까지, 장마철 욕실 곰팡이 제거제 TOP3",
@@ -76,8 +76,8 @@
       "name": "펫픽 노트",
       "post_count": 138,
       "captured_posts": 138,
-      "total_views": 37276,
-      "daily_views": 24,
+      "total_views": 37280,
+      "daily_views": 28,
       "top_post": {
         "id": 22029,
         "title": "산책 나갈 때마다 물통 챙기기 번거로우셨다면, 휴대용 급수기 TOP3로 정리해봤습니다",
@@ -1657,6 +1657,36 @@
       "blog_name": "펫픽 노트"
     },
     {
+      "id": 25223,
+      "title": "EHS, 2026년 중대재해처벌법 대비 기업이 구축할 안전 관리 시스템 5가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/25223/",
+      "excerpt": "EHS, 2026년 중대재해처벌법 대비 기업이 구축할 안전 관리 시스템 5가지 2026년 중대재해처벌법의 강화된 적용과 변화에 앞서 기업들은 법적 의무 이행을 넘어 실질적인 안전 관리 시스템 구축에 총력을 기울여야 합니다. 특히 위험성 평가의 전 과정에 근로자 참여가…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25223/15_4_img1.jpg",
+      "published_label": "2개월 전",
+      "views": 202,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
+      "id": 25222,
+      "title": "## 구글 스프레드시트 프로젝트 관리: 5인 팀 업무 진척도 시각화 노하우 6가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/25222/",
+      "excerpt": "구글 스프레드시트 프로젝트 관리: 5인 팀 업무 진척도 시각화 노하우 6가지 5인 규모의 팀은 구글 스프레드시트를 활용하여 프로젝트 업무 진척도를 효과적으로 시각화하고 관리할 수 있습니다. 특히, 조건부 서식, 데이터 유효성 검사, 간트 차트 시각화, 대시보드 구축 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25222/15_3_img1.jpg",
+      "published_label": "2개월 전",
+      "views": 202,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 23355,
       "title": "멀티비타민 살 때 다들 놓치는 체크포인트 한 가지",
       "url": "https://wikidocs.net/blog/@smartliving/23355/",
@@ -1672,21 +1702,6 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 25223,
-      "title": "EHS, 2026년 중대재해처벌법 대비 기업이 구축할 안전 관리 시스템 5가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/25223/",
-      "excerpt": "EHS, 2026년 중대재해처벌법 대비 기업이 구축할 안전 관리 시스템 5가지 2026년 중대재해처벌법의 강화된 적용과 변화에 앞서 기업들은 법적 의무 이행을 넘어 실질적인 안전 관리 시스템 구축에 총력을 기울여야 합니다. 특히 위험성 평가의 전 과정에 근로자 참여가…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25223/15_4_img1.jpg",
-      "published_label": "2개월 전",
-      "views": 201,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
       "id": 23969,
       "title": "뿌옇게 변색된 크롬몰딩 방치했다가 얼룩진 뒤에야 알게 된 광택제 고르는 법",
       "url": "https://wikidocs.net/blog/@cartemlab/23969/",
@@ -1700,21 +1715,6 @@
       "blog_id": 1978,
       "blog_slug": "cartemlab",
       "blog_name": "카템랩"
-    },
-    {
-      "id": 25222,
-      "title": "## 구글 스프레드시트 프로젝트 관리: 5인 팀 업무 진척도 시각화 노하우 6가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/25222/",
-      "excerpt": "구글 스프레드시트 프로젝트 관리: 5인 팀 업무 진척도 시각화 노하우 6가지 5인 규모의 팀은 구글 스프레드시트를 활용하여 프로젝트 업무 진척도를 효과적으로 시각화하고 관리할 수 있습니다. 특히, 조건부 서식, 데이터 유효성 검사, 간트 차트 시각화, 대시보드 구축 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25222/15_3_img1.jpg",
-      "published_label": "2개월 전",
-      "views": 200,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
     },
     {
       "id": 23351,
@@ -1747,13 +1747,13 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 25344,
-      "title": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준)",
-      "url": "https://wikidocs.net/blog/@petpicknote/25344/",
-      "excerpt": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준) AWS S3에 1TB 이상의 데이터를 저장할 때 예상치 못한 과금 폭탄을 피하기 위해서는 스토리지 클래스 선택, 수명 주기 관리, S3 Intelligent-Tier…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25344/15_9_img1.jpg",
+      "id": 24885,
+      "title": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법",
+      "url": "https://wikidocs.net/blog/@petpicknote/24885/",
+      "excerpt": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법 현대해상 ECO 마일리지 특약은 연간 주행거리에 따라 자동차 보험료를 환급받는 제도입니다. 특히 연 1만km 이하 주행하는 운전자라면 최대 18.8% (커넥티드 방식 기준)…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24885/14_4_img1.jpg",
       "published_label": "2개월 전",
-      "views": 176,
+      "views": 177,
       "daily_views": 1,
       "likes": 0,
       "comments": 0,
@@ -1762,14 +1762,14 @@
       "blog_name": "펫픽 노트"
     },
     {
-      "id": 24885,
-      "title": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법",
-      "url": "https://wikidocs.net/blog/@petpicknote/24885/",
-      "excerpt": "현대해상 ECO 마일리지 특약 (2026년 최신) 연 1만km 주행 시 할인 혜택과 신청 방법 현대해상 ECO 마일리지 특약은 연간 주행거리에 따라 자동차 보험료를 환급받는 제도입니다. 특히 연 1만km 이하 주행하는 운전자라면 최대 18.8% (커넥티드 방식 기준)…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24885/14_4_img1.jpg",
+      "id": 25344,
+      "title": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준)",
+      "url": "https://wikidocs.net/blog/@petpicknote/25344/",
+      "excerpt": "AWS S3 1TB 이상 데이터 저장: 과금 폭탄 피하는 5가지 비용 최적화 전략 (2026년 기준) AWS S3에 1TB 이상의 데이터를 저장할 때 예상치 못한 과금 폭탄을 피하기 위해서는 스토리지 클래스 선택, 수명 주기 관리, S3 Intelligent-Tier…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25344/15_9_img1.jpg",
       "published_label": "2개월 전",
       "views": 176,
-      "daily_views": 0,
+      "daily_views": 1,
       "likes": 0,
       "comments": 0,
       "blog_id": 1986,
@@ -4882,6 +4882,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 24163,
+      "title": "여름 러닝 시작한 직장인을 위한 방수 블루투스 이어폰",
+      "url": "https://wikidocs.net/blog/@smartliving/24163/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근 후 시작한 러닝, 땀에 젖은 이어폰이 자꾸 말썽입니다 퇴근하고 스트레스도 풀 겸 큰맘 먹고 러닝을 시작하셨는데, 뛴 지 얼마 되지도 않아 이어폰이 자꾸 지지직거리거나 한쪽…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/24163/14_8_product1.jpg",
+      "published_label": "2개월 전",
+      "views": 65,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 23977,
       "title": "셀프 정비 즐기시는 분이라면, 유압 잭 하나로 타이어 교체 시간 확 줄었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/23977/",
@@ -5053,21 +5068,6 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 올여름은 유난히 심상치 않습니다. 8월 초 남부지방에서 41.6도까지 치솟으며 역대 최고 기온을 다시 경신했고, 폭염특보 기준도 체감온도로 바뀔 만큼 더위가 예전과는 다른 수준…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27395/21_6_product1.jpg",
       "published_label": "1개월 전",
-      "views": 64,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 24163,
-      "title": "여름 러닝 시작한 직장인을 위한 방수 블루투스 이어폰",
-      "url": "https://wikidocs.net/blog/@smartliving/24163/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 퇴근 후 시작한 러닝, 땀에 젖은 이어폰이 자꾸 말썽입니다 퇴근하고 스트레스도 풀 겸 큰맘 먹고 러닝을 시작하셨는데, 뛴 지 얼마 되지도 않아 이어폰이 자꾸 지지직거리거나 한쪽…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/24163/14_8_product1.jpg",
-      "published_label": "2개월 전",
       "views": 64,
       "daily_views": 0,
       "likes": 0,
@@ -5587,6 +5587,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 25041,
+      "title": "혹시 아직도 욕실 곰팡이 제거업체 부르는 비용 아깝게 쓰고 계신가요?",
+      "url": "https://wikidocs.net/blog/@smartliving/25041/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 혹시 아직도 욕실 타일 사이 거뭇한 자국을 보고도 \"다음에 청소해야지\" 하며 미루고 계신가요? 장마철 습기가 계속되는 요즘, 그 검은 자국은 시간이 지날수록 점점 넓게 번지기만…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25041/18_7_product1.jpg",
+      "published_label": "2개월 전",
+      "views": 61,
+      "daily_views": 1,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 23940,
       "title": "여름 캠핑족을 위한, 아이스박스 미지근해질 때마다 후회했다면 쿨러박스 TOP3",
       "url": "https://wikidocs.net/blog/@smartliving/23940/",
@@ -5713,21 +5728,6 @@
       "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 재택근무 중 서류 파일을 찾다가 라벨 없이 뒤섞인 박스와 폴더를 보고 한숨 쉬어본 적 있으실 겁니다. 손글씨로 붙인 메모는 시간이 지나면 흐려지고 알아보기도 어렵습니다. 휴대용…",
       "thumbnail_url": "https://static.wikidocs.net/images/blog/27620/23_9_product1.jpg",
       "published_label": "1개월 전",
-      "views": 60,
-      "daily_views": 0,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
-    },
-    {
-      "id": 25041,
-      "title": "혹시 아직도 욕실 곰팡이 제거업체 부르는 비용 아깝게 쓰고 계신가요?",
-      "url": "https://wikidocs.net/blog/@smartliving/25041/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 혹시 아직도 욕실 타일 사이 거뭇한 자국을 보고도 \"다음에 청소해야지\" 하며 미루고 계신가요? 장마철 습기가 계속되는 요즘, 그 검은 자국은 시간이 지날수록 점점 넓게 번지기만…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25041/18_7_product1.jpg",
-      "published_label": "2개월 전",
       "views": 60,
       "daily_views": 0,
       "likes": 0,
@@ -7057,6 +7057,21 @@
       "blog_name": "스마트 리빙"
     },
     {
+      "id": 30464,
+      "title": "비염 있는 자취생, 3초 분사로 이불속까지 관리해주는 진드기 퇴치 스프레이",
+      "url": "https://wikidocs.net/blog/@smartliving/30464/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 아침에 눈을 뜨자마자 코가 막히고 재채기부터 나온다면, 이불 속 진드기와 먼지를 의심해봐야 할 때입니다. 비염이나 알레르기가 있는 분이라면 특히 침구 관리에 민감하실 텐데, 이…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30464/47_7_product1.jpg",
+      "published_label": "16일 전",
+      "views": 49,
+      "daily_views": 2,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1977,
+      "blog_slug": "smartliving",
+      "blog_name": "스마트 리빙"
+    },
+    {
       "id": 30071,
       "title": "계량 서툰 요리초보, 1g 오차로 재료비 낭비 막아주는 디지털 주방저울",
       "url": "https://wikidocs.net/blog/@smartliving/30071/",
@@ -7190,21 +7205,6 @@
       "blog_id": 1986,
       "blog_slug": "petpicknote",
       "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 30464,
-      "title": "비염 있는 자취생, 3초 분사로 이불속까지 관리해주는 진드기 퇴치 스프레이",
-      "url": "https://wikidocs.net/blog/@smartliving/30464/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 아침에 눈을 뜨자마자 코가 막히고 재채기부터 나온다면, 이불 속 진드기와 먼지를 의심해봐야 할 때입니다. 비염이나 알레르기가 있는 분이라면 특히 침구 관리에 민감하실 텐데, 이…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/30464/47_7_product1.jpg",
-      "published_label": "16일 전",
-      "views": 48,
-      "daily_views": 1,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1977,
-      "blog_slug": "smartliving",
-      "blog_name": "스마트 리빙"
     },
     {
       "id": 23518,
@@ -11681,6 +11681,21 @@
   ],
   "rising_posts": [
     {
+      "id": 25222,
+      "title": "## 구글 스프레드시트 프로젝트 관리: 5인 팀 업무 진척도 시각화 노하우 6가지",
+      "url": "https://wikidocs.net/blog/@petpicknote/25222/",
+      "excerpt": "구글 스프레드시트 프로젝트 관리: 5인 팀 업무 진척도 시각화 노하우 6가지 5인 규모의 팀은 구글 스프레드시트를 활용하여 프로젝트 업무 진척도를 효과적으로 시각화하고 관리할 수 있습니다. 특히, 조건부 서식, 데이터 유효성 검사, 간트 차트 시각화, 대시보드 구축 …",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/25222/15_3_img1.jpg",
+      "published_label": "2개월 전",
+      "views": 202,
+      "daily_views": 4,
+      "likes": 0,
+      "comments": 0,
+      "blog_id": 1986,
+      "blog_slug": "petpicknote",
+      "blog_name": "펫픽 노트"
+    },
+    {
       "id": 24336,
       "title": "장거리·오지로 자주 떠나는 분이라면, 점프스타터 하나로 방전 걱정 덜었다는 후기가 많습니다",
       "url": "https://wikidocs.net/blog/@cartemlab/24336/",
@@ -11793,21 +11808,6 @@
       "thumbnail_url": "https://static.wikidocs.net/images/blog/24884/14_3_img1.png",
       "published_label": "2개월 전",
       "views": 473,
-      "daily_views": 2,
-      "likes": 0,
-      "comments": 0,
-      "blog_id": 1986,
-      "blog_slug": "petpicknote",
-      "blog_name": "펫픽 노트"
-    },
-    {
-      "id": 25222,
-      "title": "## 구글 스프레드시트 프로젝트 관리: 5인 팀 업무 진척도 시각화 노하우 6가지",
-      "url": "https://wikidocs.net/blog/@petpicknote/25222/",
-      "excerpt": "구글 스프레드시트 프로젝트 관리: 5인 팀 업무 진척도 시각화 노하우 6가지 5인 규모의 팀은 구글 스프레드시트를 활용하여 프로젝트 업무 진척도를 효과적으로 시각화하고 관리할 수 있습니다. 특히, 조건부 서식, 데이터 유효성 검사, 간트 차트 시각화, 대시보드 구축 …",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/25222/15_3_img1.jpg",
-      "published_label": "2개월 전",
-      "views": 200,
       "daily_views": 2,
       "likes": 0,
       "comments": 0,
@@ -11936,13 +11936,13 @@
       "blog_name": "스마트 리빙"
     },
     {
-      "id": 29689,
-      "title": "짐 많은 신혼부부, 정리함 여러 개 안 사도 5만원대로 정리 끝내주는 철제 선반",
-      "url": "https://wikidocs.net/blog/@smartliving/29689/",
-      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 신혼집에 짐을 합치고 보니, 수납장이 턱없이 부족합니다 혼자 살 때는 그럭저럭 맞춰 쓰던 수납공간이, 결혼하면서 두 사람의 짐을 합치고 나면 순식간에 부족해집니다. 옷은 물론이…",
-      "thumbnail_url": "https://static.wikidocs.net/images/blog/29689/39_9_product1.jpg",
-      "published_label": "25일 전",
-      "views": 47,
+      "id": 30464,
+      "title": "비염 있는 자취생, 3초 분사로 이불속까지 관리해주는 진드기 퇴치 스프레이",
+      "url": "https://wikidocs.net/blog/@smartliving/30464/",
+      "excerpt": "🔔 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 아침에 눈을 뜨자마자 코가 막히고 재채기부터 나온다면, 이불 속 진드기와 먼지를 의심해봐야 할 때입니다. 비염이나 알레르기가 있는 분이라면 특히 침구 관리에 민감하실 텐데, 이…",
+      "thumbnail_url": "https://static.wikidocs.net/images/blog/30464/47_7_product1.jpg",
+      "published_label": "16일 전",
+      "views": 49,
       "daily_views": 2,
       "likes": 0,
       "comments": 0,
@@ -12290,8 +12290,8 @@
     },
     {
       "date": "2026-09-22",
-      "views": 117
+      "views": 124
     }
   ],
-  "static_generated_at": "2026-09-22T13:31:58+09:00"
+  "static_generated_at": "2026-09-22T14:02:01+09:00"
 }
