@@ -4,19 +4,19 @@
     "token_count": 14,
     "max_pages": 0
   },
-  "catalog_updated_at": "2026-09-24T00:00:31+09:00",
+  "catalog_updated_at": "2026-09-25T00:00:32+09:00",
   "latest_snapshot_at": "2026-09-22T18:31:57+09:00",
   "latest_snapshot_date": "2026-09-22",
   "snapshot_count": 85,
   "daily_snapshot_count": 85,
   "totals": {
     "blogs": 14,
-    "posts": 3811,
+    "posts": 3821,
     "captured_posts": 3811,
     "total_views": 1231986,
     "daily_views": 1596,
     "previous_day_views": 0,
-    "previous_day_date": "2026-09-23",
+    "previous_day_date": "2026-09-24",
     "current_month_views": 68732
   },
   "month_summary": {
@@ -6723,7 +6723,7 @@
       "id": 1783,
       "name": "인사이트 브리지",
       "slug": "insightbridge",
-      "post_count": 242,
+      "post_count": 252,
       "captured_posts": 242,
       "total_views": 74928,
       "daily_views": 175,
@@ -30821,7 +30821,7 @@
   ],
   "intraday_series": [],
   "intraday_summary": {
-    "date": "2026-09-24",
+    "date": "2026-09-25",
     "interval_minutes": 30,
     "snapshot_count": 0,
     "first_collected_at": null,
@@ -31802,10 +31802,10 @@
   "job": {
     "running": false,
     "started_at": null,
-    "finished_at": "2026-09-24T23:30:28+09:00",
+    "finished_at": "2026-09-25T00:00:53+09:00",
     "message": "GitHub Actions 자동 갱신 완료",
     "progress": [],
     "error": null
   },
-  "static_generated_at": "2026-09-24T23:30:28+09:00"
+  "static_generated_at": "2026-09-25T00:00:53+09:00"
 }
