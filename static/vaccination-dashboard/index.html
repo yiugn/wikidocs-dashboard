@@ -1,0 +1,1369 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>성인 예방접종 문진·판정 대시보드 2026 v3 | 대한민국</title>
+<style>
+:root{
+  --bg:#f4f7fb; --card:#ffffff; --ink:#162033; --muted:#64748b; --line:#d9e1ec;
+  --nav:#0f2e4d; --nav2:#164c7b; --accent:#1463a5; --good:#137a4d; --warn:#a15c00;
+  --bad:#b42318; --info:#2457a6; --purple:#6d42a1; --soft:#eef4fb;
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial,"Noto Sans KR","Apple SD Gothic Neo",sans-serif;background:var(--bg);color:var(--ink);line-height:1.52}
+header{background:linear-gradient(135deg,var(--nav),var(--nav2));color:white;padding:22px 28px}
+header h1{margin:0 0 6px;font-size:26px}
+header p{margin:4px 0;color:#e5eef7}
+.version{display:inline-block;margin-top:8px;padding:4px 9px;border:1px solid #8fb5d6;border-radius:999px;font-size:12px}
+.layout{display:grid;grid-template-columns:245px minmax(0,1fr);min-height:calc(100vh - 145px)}
+aside{background:#fff;border-right:1px solid var(--line);padding:14px;position:sticky;top:0;height:100vh;overflow:auto}
+.tabbtn{width:100%;border:0;background:transparent;text-align:left;padding:11px 12px;margin:2px 0;border-radius:9px;cursor:pointer;font-size:14px;color:#26364a}
+.tabbtn:hover{background:#eef4fb}
+.tabbtn.active{background:#dfeefb;color:#0b4b7d;font-weight:700}
+main{padding:20px;max-width:1500px}
+.tab{display:none}.tab.active{display:block}
+.grid{display:grid;grid-template-columns:repeat(12,1fr);gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;box-shadow:0 1px 2px rgba(15,35,55,.04)}
+.span12{grid-column:span 12}.span8{grid-column:span 8}.span7{grid-column:span 7}.span6{grid-column:span 6}.span5{grid-column:span 5}.span4{grid-column:span 4}.span3{grid-column:span 3}
+h2{margin:0 0 14px;font-size:23px} h3{margin:0 0 9px;font-size:17px;color:#183b5c} h4{margin:12px 0 6px}
+.small{font-size:12.5px;color:var(--muted)} .muted{color:var(--muted)}
+.kpi{font-size:23px;font-weight:800;color:#123f65}.kpiSub{font-size:12px;color:var(--muted)}
+.badge{display:inline-block;font-size:12px;font-weight:700;padding:3px 7px;border-radius:999px;margin-right:4px}
+.b-good{background:#e3f5ed;color:#0e6940}.b-warn{background:#fff2d8;color:#8a5000}.b-bad{background:#fde8e7;color:#9d2118}.b-info{background:#e8efff;color:#294f9a}.b-purple{background:#f0e9fb;color:#62408e}
+.alert{border-left:5px solid var(--info);background:#eff5ff;padding:11px 13px;border-radius:8px;margin:10px 0}
+.alert.warn{border-color:var(--warn);background:#fff7e8}.alert.bad{border-color:var(--bad);background:#fff0ef}.alert.good{border-color:var(--good);background:#edf9f4}
+table{width:100%;border-collapse:collapse;font-size:13.2px}th,td{border-bottom:1px solid var(--line);padding:9px 8px;vertical-align:top;text-align:left}th{background:#f3f6fa;color:#33465a;position:sticky;top:0}
+input,select{width:100%;padding:9px;border:1px solid #c9d4e1;border-radius:8px;background:white;font-size:14px}
+label{display:block;font-weight:700;font-size:13px;margin:8px 0 4px}
+.checkline{display:flex;align-items:flex-start;gap:8px;padding:6px 0;font-size:13.5px}.checkline input{width:auto;margin-top:3px}
+button.action{background:var(--accent);color:#fff;border:0;padding:10px 15px;border-radius:9px;font-weight:700;cursor:pointer;margin-top:12px}
+button.secondary{background:#eef4fb;color:#17466c;border:1px solid #bdd0e3;padding:8px 12px;border-radius:8px;cursor:pointer}
+.result{padding:14px;border-radius:10px;border:1px solid var(--line);background:#fafcfe;min-height:110px}
+.result.good{border-color:#83c9aa;background:#edf9f4}.result.warn{border-color:#e0bb72;background:#fff8eb}.result.bad{border-color:#e3a09b;background:#fff1f0}.result.info{border-color:#9fb9e9;background:#f1f5ff}
+.resultTitle{font-size:19px;font-weight:800;margin-bottom:6px}
+.quick{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.q{background:#f6f9fc;border:1px solid var(--line);border-radius:10px;padding:12px}.q strong{display:block;margin-bottom:3px}
+.accordion{border:1px solid var(--line);border-radius:10px;margin:8px 0;overflow:hidden}.accHead{padding:11px 13px;background:#f6f9fc;font-weight:700;cursor:pointer}.accBody{display:none;padding:11px 13px}.accordion.open .accBody{display:block}
+.source{font-size:12.5px;margin:6px 0}.source a{color:#0a5b9e;text-decoration:none}.source a:hover{text-decoration:underline}
+.searchbox{margin-bottom:12px}
+mark{background:#fff0a6}
+.footer{padding:16px 20px;color:#6b7788;font-size:12px;border-top:1px solid var(--line);background:white}
+@media(max-width:980px){.layout{grid-template-columns:1fr}aside{position:relative;height:auto;display:flex;gap:5px;overflow:auto;border-right:0;border-bottom:1px solid var(--line)}.tabbtn{min-width:160px}.span3,.span4,.span5,.span6,.span7,.span8{grid-column:span 12}.quick{grid-template-columns:1fr}}
+@media print{aside,.noPrint,button{display:none!important}.layout{display:block}main{padding:0}.tab{display:block!important;page-break-after:always}.card{box-shadow:none}}
+
+/* ===== v2 UI/UX upgrade ===== */
+:root{
+  --danger:#c62828; --danger-dark:#8f1717; --danger-bg:#fff3f2;
+  --caution:#b65f00; --caution-bg:#fff8e8; --safe:#157347; --safe-bg:#edf8f2;
+  --shadow:0 6px 22px rgba(22,48,76,.07);
+}
+html{font-size:17px}
+body{font-size:16px;line-height:1.68;letter-spacing:-.01em}
+header{padding:24px 34px}
+header h1{font-size:31px;letter-spacing:-.03em}
+header p{font-size:16px}
+.layout{grid-template-columns:295px minmax(0,1fr)}
+aside{padding:16px 13px;background:#fbfdff;box-shadow:2px 0 14px rgba(18,50,80,.04);z-index:5}
+.tabbtn{
+  min-height:48px;padding:12px 14px 12px 16px;margin:4px 0;border:1px solid transparent;
+  font-size:15.5px;line-height:1.35;border-radius:11px;font-weight:650;color:#26384b;
+  transition:.15s ease;
+}
+.tabbtn:hover{background:#edf5fc;border-color:#d7e5f1;transform:translateX(2px)}
+.tabbtn.active{background:#dceeff;color:#083e69;border-color:#b9d8ef;box-shadow:0 2px 8px rgba(14,74,120,.08)}
+.tabbtn.safetyNav{background:#fff2f1;color:#a51e18;border-color:#ffd4d0;font-weight:800}
+.tabbtn.safetyNav:hover,.tabbtn.safetyNav.active{background:#c9362d;color:#fff;border-color:#c9362d}
+main{padding:25px 28px;max-width:1580px}
+.card{border-radius:14px;padding:19px 20px;box-shadow:var(--shadow);border-color:#dbe4ee}
+h2{font-size:27px;letter-spacing:-.03em;margin-bottom:17px}
+h3{font-size:19.5px;line-height:1.42}
+h4{font-size:16.5px}
+p,li,td,th{font-size:15px}
+.small{font-size:13.5px}
+table{font-size:14.5px}
+th,td{padding:11px 10px}
+th{font-size:14px}
+.alert{padding:13px 15px;font-size:15px}
+.badge{font-size:12.5px;padding:4px 8px}
+input,select{font-size:15px;padding:11px}
+label{font-size:14.5px}
+.checkline{font-size:14.5px;padding:7px 0}
+.result{padding:17px;min-height:125px}
+.resultTitle{font-size:21px}
+.quick{gap:12px}.q{font-size:14.5px;padding:14px}
+.accHead{font-size:15.5px;padding:13px 15px}
+.accBody{font-size:15px;padding:13px 15px}
+.kpi{font-size:27px}
+.kpiSub{font-size:13.5px}
+
+.safetyHero{
+  display:grid;grid-template-columns:1.15fr .85fr;gap:16px;padding:20px;border-radius:16px;
+  background:linear-gradient(135deg,#8d1917 0%,#c43128 64%,#d9483d 100%);
+  color:#fff;box-shadow:0 8px 26px rgba(151,30,27,.17);margin-bottom:16px
+}
+.safetyHero h2{color:#fff;margin:0 0 9px}.safetyHero p{margin:5px 0;color:#fff8f7}
+.heroRule{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.28);border-radius:12px;padding:14px 16px}
+.heroRule strong{font-size:18px}
+.safetyGrid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:14px 0}
+.safetyBox{border-radius:14px;padding:17px 18px;border:1px solid var(--line);background:#fff;box-shadow:var(--shadow)}
+.safetyBox.danger{border-top:6px solid var(--danger);background:linear-gradient(180deg,#fff 0,#fff7f6 100%)}
+.safetyBox.caution{border-top:6px solid var(--caution);background:linear-gradient(180deg,#fff 0,#fffaf0 100%)}
+.safetyBox.safe{border-top:6px solid var(--safe);background:linear-gradient(180deg,#fff 0,#f3fbf7 100%)}
+.safetyBox h3{margin-bottom:10px}
+.safetyBox ul{padding-left:21px;margin:8px 0}
+.safetyBox li{margin:7px 0}
+.dangerText{color:var(--danger-dark);font-weight:800}
+.cautionText{color:#925000;font-weight:800}
+.safeText{color:#09663d;font-weight:800}
+.matrixWrap{overflow:auto;border:1px solid #d6e0ea;border-radius:12px}
+.matrix{min-width:1160px;margin:0}
+.matrix th{top:0;background:#eef4f9}
+.matrix .vaccineName{font-weight:800;color:#153d5d;white-space:nowrap}
+.matrix td:nth-child(2){background:#fff8f7}
+.matrix td:nth-child(3){background:#fffaf1}
+.matrix td:nth-child(4){background:#f7fbff}
+.matrix td:nth-child(5){background:#f3faf6}
+.safetyLegend{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 15px}
+.safetyChip{padding:6px 10px;border-radius:999px;font-size:13px;font-weight:800}
+.safetyChip.red{background:#fde7e5;color:#a7231c}.safetyChip.orange{background:#fff0d4;color:#8c4d00}.safetyChip.green{background:#e3f4ea;color:#0c6840}.safetyChip.blue{background:#e6f0fb;color:#20558a}
+.sectionJump{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 14px}
+.sectionJump a{font-size:13.5px;text-decoration:none;color:#174a71;background:#eef5fb;border:1px solid #d5e4f1;padding:7px 10px;border-radius:999px}
+.stickySafety{position:sticky;top:0;z-index:4;background:rgba(244,247,251,.95);backdrop-filter:blur(7px);padding:8px 0 10px;margin:-8px 0 7px}
+.focusNote{font-size:13.5px;color:#5f6f7f}
+@media(max-width:1100px){.safetyHero,.safetyGrid{grid-template-columns:1fr}.layout{grid-template-columns:250px minmax(0,1fr)}}
+@media(max-width:980px){html{font-size:16px}.layout{grid-template-columns:1fr}main{padding:18px}.safetyHero{grid-template-columns:1fr}}
+
+
+/* ===== v3: information architecture + clinical consultation workflow ===== */
+.navGroup{
+  margin:15px 8px 6px;padding:7px 8px 5px;font-size:11.5px;font-weight:900;
+  letter-spacing:.08em;text-transform:uppercase;color:#7b8998;border-bottom:1px solid #e4ebf2;
+}
+.navGroup:first-child{margin-top:3px}
+.tabbtn.generalTab{border-left:4px solid #4f83ad;background:#f7fbff}
+.tabbtn.generalTab:hover{background:#eaf4fc}
+.tabbtn.generalTab.active{background:#d8ecfb;color:#073f6a;border-color:#b9d8ef;border-left-color:#256a9e}
+.tabbtn.vaccineTab{border-left:4px solid #42a37c;background:#f7fcf9}
+.tabbtn.vaccineTab:hover{background:#eaf8f1}
+.tabbtn.vaccineTab.active{background:#dff3e9;color:#0d5e3f;border-color:#bfe3d1;border-left-color:#17815a}
+.tabbtn.supportTab{border-left:4px solid #9a8bb7;background:#fbf9fd}
+.tabbtn.supportTab:hover{background:#f3eff8}
+.tabbtn.supportTab.active{background:#ece6f4;color:#594171;border-color:#dcd2e8;border-left-color:#7b62a0}
+.tabbtn.safetyNav{border-left:4px solid #c9362d!important}
+
+.vaxIntro{
+  display:grid;grid-template-columns:1.25fr .75fr;gap:14px;margin-bottom:14px
+}
+.vaxIntroMain,.vaxFacts{
+  background:#fff;border:1px solid #dbe4ed;border-radius:14px;padding:18px 20px;box-shadow:var(--shadow)
+}
+.vaxIntroMain{border-top:5px solid #21825e}
+.vaxFacts{border-top:5px solid #4f83ad}
+.vaxIntro h3{font-size:20px;margin-bottom:8px}
+.vaxIntro p{margin:7px 0}
+.factRow{display:grid;grid-template-columns:110px 1fr;gap:9px;padding:7px 0;border-bottom:1px dashed #dfe7ee}
+.factRow:last-child{border-bottom:0}
+.factKey{font-weight:800;color:#536578}
+.patientPhrase{
+  margin-top:11px;padding:11px 13px;border-radius:10px;background:#f0f8f4;border:1px solid #cfe8dc;
+  color:#174f3a;font-size:14px
+}
+.patientPhrase:before{content:"환자 설명 포인트  ";font-weight:900;color:#0b6b48}
+.subVaxGrid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin:12px 0 16px}
+.subVaxCard{background:#fff;border:1px solid #dbe4ed;border-radius:13px;padding:16px;box-shadow:0 3px 13px rgba(20,48,72,.05)}
+.subVaxCard h3{margin-bottom:7px}
+.vaxType{display:inline-block;padding:3px 8px;border-radius:999px;background:#e9f3fb;color:#245a83;font-size:12px;font-weight:800;margin-bottom:6px}
+
+/* Bottom clinical workflow */
+body{padding-bottom:70px}
+.clinicDock{
+  position:fixed;left:295px;right:0;bottom:0;z-index:50;background:#0f2f49;color:white;
+  box-shadow:0 -6px 24px rgba(9,32,51,.18);transition:.2s ease
+}
+.clinicDockBar{
+  min-height:64px;display:flex;align-items:center;justify-content:space-between;gap:16px;
+  padding:10px 24px;cursor:pointer
+}
+.clinicDockTitle{display:flex;align-items:center;gap:13px}
+.clinicIcon{
+  width:38px;height:38px;border-radius:10px;background:#1c6b96;display:flex;align-items:center;justify-content:center;
+  font-weight:900;font-size:18px
+}
+.clinicDockTitle strong{display:block;font-size:16px}
+.clinicDockTitle span{font-size:12.5px;color:#bed5e5}
+.clinicOpenHint{font-size:13px;font-weight:800;background:rgba(255,255,255,.12);padding:7px 11px;border-radius:999px}
+.clinicPanel{
+  display:none;max-height:74vh;overflow:auto;background:#f5f8fb;color:#172435;border-top:1px solid #37566d;padding:18px 24px 24px
+}
+.clinicDock.open .clinicPanel{display:block}
+.clinicWorkflowHeader{
+  display:flex;justify-content:space-between;align-items:flex-start;gap:14px;margin-bottom:14px
+}
+.clinicWorkflowHeader h2{font-size:23px;margin:0 0 4px}
+.clinicWorkflowHeader p{margin:0;color:#637586;font-size:13.5px}
+.workflowGrid{display:grid;grid-template-columns:1fr 1.15fr 1.15fr;gap:13px}
+.workflowStep{background:#fff;border:1px solid #d9e3ec;border-radius:13px;padding:15px 16px;box-shadow:0 3px 12px rgba(20,45,65,.05)}
+.stepNo{
+  display:inline-flex;width:27px;height:27px;align-items:center;justify-content:center;border-radius:50%;
+  background:#1b638d;color:#fff;font-size:13px;font-weight:900;margin-right:6px
+}
+.workflowStep h3{display:flex;align-items:center;font-size:16px;margin-bottom:10px}
+.inline2{display:grid;grid-template-columns:1fr 1fr;gap:9px}
+.clinicChecks{display:grid;grid-template-columns:1fr 1fr;gap:2px 12px}
+.clinicChecks .checkline{padding:4px 0;font-size:13px}
+.vaxCheckGrid{display:grid;grid-template-columns:repeat(2,1fr);gap:3px 10px}
+.clinicActions{display:flex;gap:8px;align-items:center;margin:14px 0}
+.clinicPrimary{
+  background:#0f6d4f;color:white;border:0;border-radius:9px;padding:11px 18px;font-size:14px;font-weight:900;cursor:pointer
+}
+.clinicReset{
+  background:white;color:#43596c;border:1px solid #cbd7e1;border-radius:9px;padding:10px 13px;font-size:13px;font-weight:800;cursor:pointer
+}
+.clinicResults{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+.clinicResultCard{background:#fff;border:1px solid #d8e2eb;border-radius:11px;padding:13px 14px}
+.clinicResultCard.ok{border-left:6px solid #19875e}
+.clinicResultCard.caution{border-left:6px solid #d18419}
+.clinicResultCard.stop{border-left:6px solid #c9332c}
+.clinicResultCard.info{border-left:6px solid #3c78a8}
+.clinicResultCard h4{margin:0 0 5px;font-size:15px}
+.clinicStatus{font-weight:900}
+.workflowSummary{
+  background:#eef5fa;border:1px solid #cbdce9;border-radius:12px;padding:13px 15px;margin-top:10px;font-size:13.5px
+}
+.clinicMiniNote{font-size:11.8px;color:#6b7d8d;margin-top:7px}
+.closeDock{background:transparent;color:#456478;border:0;font-size:24px;cursor:pointer;line-height:1}
+@media(max-width:1100px){
+  .vaxIntro{grid-template-columns:1fr}.workflowGrid{grid-template-columns:1fr}.clinicResults{grid-template-columns:1fr}
+}
+@media(max-width:980px){
+  .clinicDock{left:0}.clinicDockBar{padding:9px 14px}.clinicPanel{padding:14px}.clinicChecks,.vaxCheckGrid{grid-template-columns:1fr}
+}
+@media print{.clinicDock{display:none!important}}
+
+</style>
+</head>
+<body>
+<header>
+  <h1>성인 예방접종 문진·판정 대시보드</h1>
+  <p>대한민국 건강검진센터 · 의사용 진료참고 도구 | 질병관리청 최신 공개 기준 중심</p>
+  <span class="version">Version 4.0 · 2026-10-03 · 좌측 메뉴 번호 제거 · 임상상담 워크플로 + 백신 기본정보 확장</span>
+</header>
+
+<div class="layout">
+<aside class="noPrint">
+  <div class="navGroup">진료 도구 · 공통 원칙</div>
+  <button class="tabbtn safetyNav active" data-tab="safety">금기·접종 안전 ★</button>
+  <button class="tabbtn generalTab" data-tab="home">빠른 참고</button>
+  <button class="tabbtn generalTab" data-tab="decision">단일백신 문진 판정</button>
+  <button class="tabbtn generalTab" data-tab="interval">접종 주기 계산</button>
+  <button class="tabbtn generalTab" data-tab="special">임신 · 면역저하 · 스테로이드</button>
+
+  <div class="navGroup">개별 백신 레퍼런스</div>
+  <button class="tabbtn vaccineTab" data-tab="flu">인플루엔자</button>
+  <button class="tabbtn vaccineTab" data-tab="tdap">Tdap / Td</button>
+  <button class="tabbtn vaccineTab" data-tab="zoster">대상포진</button>
+  <button class="tabbtn vaccineTab" data-tab="pneumo">폐렴구균</button>
+  <button class="tabbtn vaccineTab" data-tab="hepatitis">A형 · B형간염</button>
+  <button class="tabbtn vaccineTab" data-tab="hpvmmrvar">HPV · MMR · 수두</button>
+  <button class="tabbtn vaccineTab" data-tab="covidrsv">COVID-19 · RSV</button>
+  <button class="tabbtn vaccineTab" data-tab="travel">여행 · 기타 성인백신</button>
+
+  <div class="navGroup">보조 자료</div>
+  <button class="tabbtn supportTab" data-tab="faq">FAQ · 흔한 오해</button>
+  <button class="tabbtn supportTab" data-tab="sources">근거 · 업데이트</button>
+</aside>
+
+<main>
+
+
+<section class="tab active" id="safety">
+<div class="safetyHero">
+  <div>
+    <h2>예방접종 금기·접종 안전 센터</h2>
+    <p><strong>예진의 최우선 질문은 “오늘 이 백신을 맞으면 안 되는가?”입니다.</strong></p>
+    <p>아래 순서대로 확인하면 대부분의 성인 예방접종 문진에서 금기와 주의사항을 빠르게 분리할 수 있습니다.</p>
+  </div>
+  <div class="heroRule">
+    <strong>30초 Safety Check</strong><br>
+    ① 동일 백신/성분 아나필락시스? → 해당 백신 금기<br>
+    ② 생백신 + 임신/중증 면역저하? → 생백신 금기<br>
+    ③ 중등도·중증 급성질환? → 회복까지 연기<br>
+    ④ 최근 혈액제제 + MMR/수두? → 간격 확인<br>
+    ⑤ 백신 특이 금기(예: Tdap 후 뇌증)? → 개별 백신 확인
+  </div>
+</div>
+
+<div class="stickySafety">
+  <div class="sectionJump">
+    <a href="#generalContra">공통 절대 금기</a>
+    <a href="#relativeContra">상대적 금기/주의</a>
+    <a href="#notContra">금기가 아닌 경우</a>
+    <a href="#comboMatrix">백신별·조합별 매트릭스</a>
+  </div>
+</div>
+
+<div class="alert bad"><strong>용어 주의:</strong> 질병관리청 공식 문서는 주로 <strong>“영구적인 금기사항 / 생백신의 일시적인 금기사항 / 일시적인 주의사항”</strong>으로 구분합니다. 이 화면에서는 실무 편의를 위해 영구·일시 금기를 “절대적 금기”, 주의사항을 “상대적 금기/주의”로 묶어 표시합니다.</div>
+
+<div id="generalContra" class="safetyGrid">
+  <div class="safetyBox danger">
+    <h3>① 절대적 금기 — 접종하지 않음</h3>
+    <ul>
+      <li><span class="dangerText">동일 백신 또는 백신 성분에 아나필락시스</span> 병력 → 해당 백신 접종 금기.</li>
+      <li><span class="dangerText">백일해 함유 백신 후 7일 이내 원인불명 뇌증</span> → 이후 백일해 성분 백신(DTaP/Tdap) 금기.</li>
+      <li><span class="dangerText">임신 + 약독화 생백신</span> → MMR, 수두, 대상포진 생백신 등 금기.</li>
+      <li><span class="dangerText">중증 면역저하 + 약독화 생백신</span> → 원칙적으로 금기.</li>
+    </ul>
+    <div class="focusNote">※ “절대적 금기”라도 일부는 상태가 해소되면 접종 가능한 <strong>일시적 금기</strong>입니다. 예: 임신 종료, 면역회복 후 생백신.</div>
+  </div>
+
+  <div id="relativeContra" class="safetyBox caution">
+    <h3>② 상대적 금기 / 주의 — 오늘은 연기하거나 추가 판단</h3>
+    <ul>
+      <li><span class="cautionText">중등도 또는 중증 급성질환</span> → 모든 백신에서 회복 시까지 연기 고려.</li>
+      <li><span class="cautionText">최근 면역글로불린·수혈 등 항체 함유 혈액제제</span> → MMR·수두 등 주사용 생백신의 접종 간격 확인.</li>
+      <li><span class="cautionText">고용량 전신 스테로이드</span> → 생백신은 중단 후 통상 4주 뒤 고려.</li>
+      <li><span class="cautionText">인플루엔자 백신 후 6주 이내 GBS</span> → 재접종 시 위험-편익 개별 판단.</li>
+      <li><span class="cautionText">COVID-19 백신 후 확인된 심근염/심낭염</span> → 최신 절기 지침에 따라 추가접종 연기/재평가.</li>
+    </ul>
+  </div>
+
+  <div id="notContra" class="safetyBox safe">
+    <h3>③ 일반적으로 금기가 아님 — 불필요하게 미루지 않음</h3>
+    <ul>
+      <li><span class="safeText">경미한 감기, 상기도감염, 미열, 경미한 설사</span></li>
+      <li>항생제 또는 대부분의 항바이러스제 치료 중</li>
+      <li>질환 회복기 또는 감염원에 노출된 상태</li>
+      <li>모유수유</li>
+      <li>가족 중 임신부 또는 면역저하자가 있음</li>
+      <li>백신 성분이 아닌 다른 물질에 대한 알레르기</li>
+      <li>동시에 여러 백신을 접종하는 것 자체</li>
+    </ul>
+  </div>
+</div>
+
+<div class="card" id="comboMatrix">
+  <h3>백신별·접종 조합별 금기/주의 매트릭스</h3>
+  <div class="safetyLegend">
+    <span class="safetyChip red">절대 금기 / 접종하지 않음</span>
+    <span class="safetyChip orange">상대적 금기·주의 / 연기·추가판단</span>
+    <span class="safetyChip blue">조합·간격 확인</span>
+    <span class="safetyChip green">일반적으로 가능</span>
+  </div>
+  <div class="matrixWrap">
+  <table class="matrix">
+    <tr>
+      <th>백신</th><th>절대적 금기</th><th>상대적 금기·주의</th><th>다른 백신/제제와 조합 시 핵심</th><th>임신·면역저하 핵심</th>
+    </tr>
+    <tr>
+      <td class="vaccineName">인플루엔자 IIV</td>
+      <td>동일 백신/성분 아나필락시스</td>
+      <td>중등도·중증 급성질환, 과거 접종 후 6주 이내 GBS</td>
+      <td>COVID-19, Tdap, RZV 등과 <strong>동시접종 가능</strong>; 부위 분리</td>
+      <td>임신 주수 무관 가능·권장. 면역저하에서도 불활성화 백신 접종 가능</td>
+    </tr>
+    <tr>
+      <td class="vaccineName">Tdap / Td</td>
+      <td>성분 아나필락시스. <strong>Tdap:</strong> 백일해 함유 백신 후 7일 이내 원인불명 뇌증이면 백일해 성분 금기</td>
+      <td>중등도·중증 급성질환, 일부 중증 신경학적 이상반응/Arthus 반응 과거력은 개별 판단</td>
+      <td>대부분 다른 백신과 동시접종 가능</td>
+      <td><strong>임신 27–36주 Tdap 권장, 매 임신 반복</strong></td>
+    </tr>
+    <tr>
+      <td class="vaccineName">대상포진 RZV</td>
+      <td>성분 아나필락시스</td>
+      <td>급성 대상포진 진행 중, 중등도·중증 급성질환, 임신 중은 보통 연기</td>
+      <td>IIV, COVID-19 등 비생백신과 동시접종 가능</td>
+      <td>면역저하자 사용 가능. 임신은 안전성 자료 부족으로 연기</td>
+    </tr>
+    <tr>
+      <td class="vaccineName">대상포진 생백신</td>
+      <td>성분 아나필락시스, <strong>임신, 중증 면역저하</strong></td>
+      <td>중등도·중증 급성질환, 고용량 전신 스테로이드</td>
+      <td>다른 <strong>주사용 생백신과 같은 날 또는 ≥4주 간격</strong></td>
+      <td>임신·중증 면역저하 금기</td>
+    </tr>
+    <tr>
+      <td class="vaccineName">MMR</td>
+      <td>성분 아나필락시스, <strong>임신, 중증 면역저하</strong></td>
+      <td>중등도·중증 급성질환, 최근 항체 함유 혈액제제</td>
+      <td>수두 등 다른 주사용 생백신과 <strong>같은 날 또는 ≥4주 간격</strong>. 면역글로불린/수혈 후 제품·용량별 간격 확인</td>
+      <td>임신·중증 면역저하 금기</td>
+    </tr>
+    <tr>
+      <td class="vaccineName">수두(VAR)</td>
+      <td>성분 아나필락시스, <strong>임신, 중증 면역저하</strong></td>
+      <td>중등도·중증 급성질환, 최근 항체 함유 혈액제제</td>
+      <td>MMR 등 주사용 생백신과 <strong>같은 날 또는 ≥4주 간격</strong>. 항체 함유 혈액제제와 간격 확인</td>
+      <td>임신·중증 면역저하 금기</td>
+    </tr>
+    <tr>
+      <td class="vaccineName">폐렴구균 PCV / PPSV23</td>
+      <td>동일 백신 또는 성분에 아나필락시스</td>
+      <td>중등도·중증 급성질환</td>
+      <td>PCV와 PPSV23은 <strong>접종 순서·최소간격</strong>이 중요. 단순 동시접종 대상으로 처리하지 않음</td>
+      <td>면역저하에서도 접종 가능하며 오히려 적응증이 확대될 수 있음</td>
+    </tr>
+    <tr>
+      <td class="vaccineName">A형간염</td>
+      <td>성분 아나필락시스</td>
+      <td>중등도·중증 급성질환</td>
+      <td>다른 불활성화 백신과 동시접종 가능</td>
+      <td>불활성화 백신. 임신은 절대 금기 아님; 노출위험/필요성에 따라 판단</td>
+    </tr>
+    <tr>
+      <td class="vaccineName">B형간염</td>
+      <td>성분 아나필락시스(제품 성분 확인)</td>
+      <td>중등도·중증 급성질환</td>
+      <td>다른 불활성화 백신과 동시접종 가능</td>
+      <td>임신 자체는 절대 금기 아님. 면역저하자는 면역반응 저하 가능</td>
+    </tr>
+    <tr>
+      <td class="vaccineName">HPV</td>
+      <td>동일 백신/성분 아나필락시스</td>
+      <td><strong>임신 중 남은 차수 연기</strong>, 중등도·중증 급성질환</td>
+      <td>다른 백신과 동시접종 가능</td>
+      <td>임신 중 추가접종 연기. 수유는 일반적으로 가능</td>
+    </tr>
+    <tr>
+      <td class="vaccineName">COVID-19</td>
+      <td>동일 종류 백신 또는 구성성분에 아나필락시스. 제품별 PEG/관련 성분 등 확인</td>
+      <td>중등도·중증 급성질환, 이전 COVID-19 백신 후 확인된 심근염·심낭염 등은 최신 지침에 따라 재평가</td>
+      <td>인플루엔자 등 다른 백신과 동시접종 가능</td>
+      <td>면역저하자는 접종 가능하나 면역반응 저하 및 추가접종 일정 고려</td>
+    </tr>
+    <tr>
+      <td class="vaccineName">일본뇌염 불활성화</td>
+      <td>성분 아나필락시스</td>
+      <td>중등도·중증 급성질환</td>
+      <td>다른 불활성화 백신과 동시접종 가능</td>
+      <td>임신은 노출위험과 필요성을 개별 판단</td>
+    </tr>
+    <tr>
+      <td class="vaccineName">일본뇌염 생백신</td>
+      <td>성분 아나필락시스, <strong>임신, 중증 면역저하</strong></td>
+      <td>중등도·중증 급성질환, 고용량 전신 스테로이드</td>
+      <td>다른 주사용 생백신과 같은 날 또는 ≥4주 간격</td>
+      <td>임신·중증 면역저하 금기</td>
+    </tr>
+    <tr>
+      <td class="vaccineName">장티푸스 주사용 Vi</td>
+      <td>성분 아나필락시스</td>
+      <td>중등도·중증 급성질환</td>
+      <td>다른 불활성화 백신과 동시접종 가능</td>
+      <td>임신 중은 여행위험과 필요성 개별 판단</td>
+    </tr>
+    <tr>
+      <td class="vaccineName">장티푸스 경구 Ty21a</td>
+      <td>성분 아나필락시스, <strong>임신·면역저하에서는 피함</strong></td>
+      <td>급성 위장관질환, 일부 항균제 투여는 백신 효과에 영향 가능</td>
+      <td>생백신 특성 및 항균제와의 간격 확인</td>
+      <td>임신·면역저하에서는 주사용 비생백신 대안 우선 고려</td>
+    </tr>
+    <tr>
+      <td class="vaccineName">RSV 성인백신</td>
+      <td>동일 백신/성분 아나필락시스</td>
+      <td>중등도·중증 급성질환, 제품별 허가사항 확인</td>
+      <td>동시접종 가능 여부와 이상반응 자료는 제품별 최신 허가·지침 확인</td>
+      <td>연령·고위험 적응증 및 임신 관련 허가가 제품마다 다르므로 제품명 확인 필수</td>
+    </tr>
+  </table>
+  </div>
+</div>
+
+<div class="grid" style="margin-top:14px">
+  <div class="card span6">
+    <h3>“생백신” 조합 규칙 — 가장 자주 틀리는 부분</h3>
+    <p><strong>주사용 생백신끼리:</strong> 같은 날 접종하거나, 같은 날이 아니면 <strong>최소 4주(28일)</strong> 간격을 둡니다.</p>
+    <p>대표 예: MMR ↔ 수두, MMR ↔ 대상포진 생백신, 수두 ↔ 일부 생백신.</p>
+    <p><strong>생백신 + 불활성화/재조합 백신:</strong> 원칙적으로 특별한 최소간격 없이 동시 또는 어느 간격으로도 가능.</p>
+  </div>
+  <div class="card span6">
+    <h3>혈액제제·면역글로불린과 생백신</h3>
+    <p><strong>MMR·수두는 항체 함유 혈액제제의 영향을 받을 수 있습니다.</strong> 수혈, IVIG, 특정 면역글로불린의 종류·용량에 따라 필요한 대기기간이 다르므로 “최근 수혈”만으로 일률적으로 접종하거나 일률적으로 금기 처리하면 안 됩니다.</p>
+    <p>예진 시 <strong>제제명, 용량, 투여일</strong>을 확인한 뒤 질병관리청 세부 간격표를 적용하십시오.</p>
+  </div>
+</div>
+</section>
+
+<section class="tab" id="home">
+<h2>빠른 참고</h2>
+<div class="alert bad"><strong>예진 우선순위:</strong> 접종 주기보다 먼저 <strong>금기·주의사항</strong>을 확인하십시오. 좌측 <strong>“01. 금기·접종 안전 ★”</strong> 탭에 모든 공통 및 백신별 금기를 한 곳에 모았습니다.</div>
+<div class="alert bad"><strong>핵심 원칙:</strong> “접종하면 안 되는 경우(금기)”와 “오늘만 미루는 경우(주의/연기)”를 구분합니다. 이전 동일 백신/성분에 대한 아나필락시스는 대표적 영구 금기이고, 중등도·중증 급성질환은 대개 회복 시까지 일시 연기입니다. 경미한 감기·미열·항생제 복용은 일반적으로 금기가 아닙니다.</div>
+<div class="grid">
+ <div class="card span4"><div class="kpi">매년 1회</div><div class="kpiSub">인플루엔자(IIV), 성인</div><p>임신부는 임신 주수와 관계없이 접종 가능. 2026–2027절기 국가사업: 임신부, 65세 이상, 생후 6개월~14세.</p></div>
+ <div class="card span4"><div class="kpi">매 10년</div><div class="kpiSub">Tdap 또는 Td</div><p>성인 기초접종 완료 후. Tdap을 한 번도 안 맞았다면 Tdap 1회 포함. 임신부는 <strong>매 임신 27–36주</strong> Tdap.</p></div>
+ <div class="card span4"><div class="kpi">2회</div><div class="kpiSub">재조합 대상포진 백신(RZV)</div><p>50세 이상, 또는 18세 이상 면역저하 위험군. 2–6개월 간격; 면역저하자는 1–2개월 간격 가능.</p></div>
+
+ <div class="card span4"><h3>생백신을 먼저 확인</h3><p><span class="badge b-bad">임신</span><span class="badge b-bad">중증 면역저하</span>에서는 MMR, 수두, 대상포진 생백신, 경구 장티푸스 생백신, 일본뇌염 생백신 등을 피합니다. 서로 다른 주사용 생백신은 같은 날 또는 최소 4주 간격.</p></div>
+ <div class="card span4"><h3>고용량 전신 스테로이드</h3><p>프레드니손 기준 <strong>≥20 mg/day 또는 ≥2 mg/kg/day를 14일 이상</strong> 투여했다면 약독화 생백신은 중단 후 4주 뒤 접종이 원칙. 국소·흡입 스테로이드는 일반적으로 금기가 아닙니다.</p></div>
+ <div class="card span4"><h3>지연됐다고 리셋하지 않음</h3><p>대부분의 백신은 권장 간격보다 늦어졌더라도 처음부터 다시 시작하지 않고 <strong>남은 차수만 이어서</strong> 접종합니다. A형간염 1차 후 수년 경과도 같은 원칙.</p></div>
+
+ <div class="card span12">
+   <h3>검진센터에서 자주 묻는 12문 12답</h3>
+   <div class="quick">
+     <div class="q"><strong>감기인데 맞아도 되나?</strong>경미한 상기도감염·미열은 대개 가능. 중등도/중증 급성질환은 회복 후.</div>
+     <div class="q"><strong>항생제 복용 중?</strong>대부분 가능. 질환 자체가 중등도 이상 급성인지가 더 중요.</div>
+     <div class="q"><strong>독감 + 코로나 동시접종?</strong>가능. 서로 다른 부위에 접종.</div>
+     <div class="q"><strong>독감 + 대상포진 동시접종?</strong>불활성/재조합 백신 조합은 일반적으로 동시접종 가능.</div>
+     <div class="q"><strong>임신 중 독감?</strong>주수 무관 접종 권장.</div>
+     <div class="q"><strong>임신 중 Tdap?</strong>매 임신 27–36주 권장.</div>
+     <div class="q"><strong>임신 중 MMR/수두?</strong>생백신이므로 접종하지 않음.</div>
+     <div class="q"><strong>대상포진을 이미 앓았음?</strong>회복 후에도 RZV 권장 대상. 일반적으로 회복 후 6–12개월 고려.</div>
+     <div class="q"><strong>A형간염 1차가 2년 전?</strong>처음부터 다시 안 맞고 2차를 지금 접종.</div>
+     <div class="q"><strong>백신 기록이 없음?</strong>대개 재접종이 가능하며 일정은 백신별로 판단. 필요한 경우 항체검사 활용.</div>
+     <div class="q"><strong>모유수유 중?</strong>대부분의 일반 성인백신 접종 가능.</div>
+     <div class="q"><strong>접종 후 운동/음주?</strong>접종 당일 과격한 운동·과음은 피하고 이상반응 관찰.</div>
+   </div>
+ </div>
+</div>
+</section>
+
+<section class="tab" id="decision">
+<h2>문진 판정 도우미</h2>
+<div class="alert warn"><strong>의사용 보조 판정:</strong> 아래 로직은 일반적인 금기/주의사항과 질병관리청 공개기준을 빠르게 확인하기 위한 것입니다. 제품별 허가사항, 실제 면역저하 정도, 최근 면역글로불린·혈액제제 종류, 과거 중증 이상반응의 정확한 진단은 최종 예진에서 별도 확인하십시오.</div>
+<div class="grid">
+<div class="card span6">
+  <h3>1) 피접종자·문진</h3>
+  <label>접종하려는 백신</label>
+  <select id="vacSel">
+    <option value="flu">인플루엔자 불활성화(IIV)</option>
+    <option value="tdap">Tdap</option>
+    <option value="rzv">대상포진 재조합(RZV, 싱그릭스)</option>
+    <option value="zvl">대상포진 생백신</option>
+    <option value="ppsv23">폐렴구균 PPSV23</option>
+    <option value="pcv">폐렴구균 PCV 계열</option>
+    <option value="hepa">A형간염</option>
+    <option value="hepb">B형간염</option>
+    <option value="hpv">HPV</option>
+    <option value="mmr">MMR</option>
+    <option value="var">수두(VAR)</option>
+    <option value="covid">COVID-19</option>
+    <option value="jei">일본뇌염 불활성화</option>
+    <option value="jel">일본뇌염 생백신</option>
+    <option value="tyi">장티푸스 주사용 불활성화</option>
+    <option value="tyl">장티푸스 경구 생백신</option>
+    <option value="men">수막구균</option>
+    <option value="rsv">RSV 성인백신</option>
+  </select>
+  <label>나이(만)</label><input id="age" type="number" value="50" min="18" max="110"/>
+  <label>성별</label><select id="sex"><option>여성</option><option>남성</option></select>
+  <div class="checkline"><input type="checkbox" id="preg"><span>현재 임신 중</span></div>
+  <label>임신 주수(해당 시)</label><input id="gw" type="number" min="1" max="42" placeholder="예: 30"/>
+  <div class="checkline"><input type="checkbox" id="immune"><span>중증 면역저하/면역억제 상태(항암·이식·중증 면역결핍 등)</span></div>
+  <div class="checkline"><input type="checkbox" id="steroid"><span>고용량 전신 스테로이드(프레드니손 ≥20 mg/day 또는 ≥2 mg/kg/day)를 14일 이상 사용 중/최근 사용</span></div>
+  <div class="checkline"><input type="checkbox" id="acute"><span>현재 중등도 또는 중증 급성질환/고열</span></div>
+  <div class="checkline"><input type="checkbox" id="anaphylaxis"><span>동일 백신 또는 백신 성분에 아나필락시스 병력</span></div>
+  <div class="checkline"><input type="checkbox" id="recentLive"><span>최근 28일 이내 다른 주사용 생백신 접종(같은 날 접종은 제외)</span></div>
+  <div class="checkline"><input type="checkbox" id="blood"><span>최근 면역글로불린/수혈 등 항체 함유 혈액제제 투여</span></div>
+  <div class="checkline"><input type="checkbox" id="gbs"><span>인플루엔자 백신 접종 후 6주 이내 GBS 병력</span></div>
+  <div class="checkline"><input type="checkbox" id="enceph"><span>백일해 함유 백신 후 7일 이내 원인불명 뇌증 병력</span></div>
+  <button class="action" onclick="assess()">판정 보기</button>
+</div>
+
+<div class="card span6">
+  <h3>2) 판정 결과</h3>
+  <div id="decisionResult" class="result info">
+    <div class="resultTitle">문진 정보를 입력하세요.</div>
+    <div>금기·연기 조건, 적응증, 특별 주의사항을 통합하여 표시합니다.</div>
+  </div>
+  <div class="alert">
+    <strong>판정 색상 의미</strong><br/>
+    <span class="badge b-good">접종 가능/권장</span>
+    <span class="badge b-warn">주의·추가 확인</span>
+    <span class="badge b-bad">금기/오늘 연기</span>
+    <span class="badge b-info">국가사업/허가사항 확인</span>
+  </div>
+</div>
+</div>
+</section>
+
+<section class="tab" id="interval">
+<h2>접종 주기 계산</h2>
+<div class="grid">
+<div class="card span5">
+ <label>백신/상황</label>
+ <select id="intervalVac">
+  <option value="hepa2">A형간염 2차</option>
+  <option value="hepb2">B형간염 2차</option>
+  <option value="hepb3">B형간염 3차(1차 기준)</option>
+  <option value="rzv2">대상포진 RZV 2차</option>
+  <option value="rzv2im">대상포진 RZV 2차 - 면역저하 단축 일정</option>
+  <option value="tdboost">Tdap/Td 정기 추가접종</option>
+  <option value="mmr2">MMR 2차(고위험 성인)</option>
+  <option value="var2">수두 2차(13세 이상)</option>
+  <option value="hpv2">HPV 2회 일정(첫 접종 9–14세)</option>
+  <option value="hpv3_2">HPV 3회 일정 중 2차</option>
+  <option value="hpv3_3">HPV 3회 일정 중 3차(1차 기준)</option>
+  <option value="je2">일본뇌염 불활성화 2차</option>
+  <option value="je3">일본뇌염 불활성화 3차(2차 기준)</option>
+ </select>
+ <label>기준 접종일</label><input type="date" id="baseDate"/>
+ <button class="action" onclick="calcInterval()">다음 접종일 계산</button>
+</div>
+<div class="card span7">
+ <h3>결과</h3><div id="intervalResult" class="result info">기준 접종일을 입력하세요.</div>
+ <div class="alert good"><strong>지연 접종 원칙:</strong> 권장 간격보다 늦어진 경우 대개 처음부터 다시 시작하지 않습니다. “최소간격보다 너무 일찍 맞은 경우”와 “늦게 맞은 경우”는 전혀 다르게 판단합니다.</div>
+</div>
+</div>
+</section>
+
+<section class="tab" id="flu">
+<h2>인플루엔자</h2>
+
+<div class="vaxIntro">
+ <div class="vaxIntroMain">
+  <h3>이 백신은 무엇을 예방하나?</h3>
+  <p><strong>인플루엔자 바이러스 감염과 그로 인한 폐렴·입원·중증 합병증 위험을 줄이기 위한 백신</strong>입니다. 흔히 “독감”이라고 부르지만 일반 감기와는 다른 질환이며, 특히 고령자·임신부·만성질환자에서는 중증화 위험이 커집니다.</p>
+  <p>바이러스 항원이 계절마다 변하므로 <strong>이전에 접종했더라도 매 절기 새 백신을 접종</strong>하는 것이 핵심입니다. 성인 검진센터에서는 대부분 불활성화 인플루엔자 백신(IIV)을 사용합니다.</p>
+  <div class="patientPhrase">“독감 백신은 감기를 막는 주사가 아니라, 매년 변하는 인플루엔자 바이러스에 대비해 중증 독감과 합병증 위험을 낮추는 백신입니다.”</div>
+ </div>
+ <div class="vaxFacts">
+  <h3>기본 상식</h3>
+  <div class="factRow"><div class="factKey">백신 유형</div><div>주로 불활성화 백신(IIV)</div></div>
+  <div class="factRow"><div class="factKey">핵심 목적</div><div>감염 자체뿐 아니라 중증화·폐렴·입원 위험 감소</div></div>
+  <div class="factRow"><div class="factKey">주기</div><div><strong>매년 1회</strong></div></div>
+  <div class="factRow"><div class="factKey">임신</div><div>주수와 관계없이 접종 가능·권장</div></div>
+  <div class="factRow"><div class="factKey">중요 오해</div><div>불활성화 독감백신이 독감을 “일으키는” 것은 아님</div></div>
+ </div>
+</div>
+<div class="grid">
+<div class="card span8">
+<h3>성인 핵심 기준</h3>
+<table><tr><th>항목</th><th>실무 기준</th></tr>
+<tr><td>백신</td><td>성인에서는 주로 불활성화 인플루엔자 백신(IIV). 2026–2027 국가사업은 3가 백신.</td></tr>
+<tr><td>주기</td><td><strong>매년 1회.</strong> 이전 절기 접종력과 무관.</td></tr>
+<tr><td>임신</td><td><strong>임신 주수와 관계없이 접종 가능·권장.</strong></td></tr>
+<tr><td>2026–2027 국가사업</td><td>65세 이상, 임신부, 생후 6개월~14세. 고령층은 연령별 시작일이 다름.</td></tr>
+<tr><td>계란 알레르기</td><td>두드러기만 있는 경우 접종 가능. 중증 알레르기 병력은 의료진 감독하 평가; 질병관리청 공개 페이지는 심한 계란 아나필락시스에서 접종 금지를 명시하므로 세포배양 백신/제품 허가사항 포함 개별 판단.</td></tr>
+<tr><td>GBS</td><td>과거 인플루엔자 백신 후 6주 이내 GBS는 <strong>주의사항</strong>.</td></tr>
+<tr><td>급성질환</td><td>중등도·중증 급성질환은 회복 시까지 연기. 경미한 감기는 금기 아님.</td></tr></table>
+</div>
+<div class="card span4"><h3>2026–2027 어르신 일정</h3>
+<p><strong>75세 이상:</strong> 2026-10-06 ~ 2027-04-30<br>
+<strong>70–74세:</strong> 2026-10-12 ~ 2027-04-30<br>
+<strong>65–69세:</strong> 2026-10-15 ~ 2027-04-30</p>
+<p><strong>임신부:</strong> 2026-09-21 ~ 2027-04-30</p>
+<div class="small">국가사업 일정은 사업연도마다 변경되므로 매 절기 업데이트 필요.</div></div>
+</div>
+</section>
+
+<section class="tab" id="tdap">
+<h2>Tdap / Td — 백일해·파상풍·디프테리아</h2>
+
+<div class="vaxIntro">
+ <div class="vaxIntroMain">
+  <h3>이 백신은 무엇을 예방하나?</h3>
+  <p><strong>Tdap은 파상풍(T), 디프테리아(d), 백일해(ap)를 동시에 예방</strong>합니다. 파상풍은 상처를 통해 들어온 균의 독소가 신경계에 작용하는 질환이고 사람 간 전파가 핵심이 아닙니다. 반면 백일해는 기침 비말로 매우 잘 전파되며 특히 어린 영아에게 위험합니다.</p>
+  <p>성인에게 Tdap이 중요한 이유는 본인 보호뿐 아니라 <strong>임신 중 접종을 통해 태아에게 항체를 전달하고, 영아 주변 성인의 전파원을 줄이는 것</strong>입니다.</p>
+  <div class="patientPhrase">“성인 백일해 접종은 본인뿐 아니라 아직 백신을 충분히 맞지 못한 신생아를 보호하는 의미가 큽니다. 임신 때는 이전 접종 여부와 별개로 매 임신 27–36주에 다시 맞습니다.”</div>
+ </div>
+ <div class="vaxFacts">
+  <h3>기본 상식</h3>
+  <div class="factRow"><div class="factKey">백신 유형</div><div>톡소이드 + 무세포 백일해 항원, 생백신 아님</div></div>
+  <div class="factRow"><div class="factKey">성인 원칙</div><div>기초접종 완료 후 10년마다 Tdap 또는 Td</div></div>
+  <div class="factRow"><div class="factKey">임신</div><div><strong>매 임신 27–36주 Tdap</strong></div></div>
+  <div class="factRow"><div class="factKey">상처</div><div>상처 종류와 마지막 파상풍 백신 시점을 함께 판단</div></div>
+ </div>
+</div>
+<div class="grid">
+<div class="card span7">
+<h3>성인 일정</h3>
+<table><tr><th>상황</th><th>권장</th></tr>
+<tr><td>소아기 기초접종 완료</td><td>매 10년마다 Tdap 또는 Td 1회. Tdap 접종력이 없다면 Tdap 1회 포함.</td></tr>
+<tr><td>DTaP/Td 기초접종을 하지 않았거나 불명확</td><td><strong>3회 기초접종: 0, 1, 6–12개월</strong>. 3회 중 적어도 1회는 Tdap, 가능하면 첫 회 Tdap.</td></tr>
+<tr><td>임신</td><td><strong>매 임신 27–36주 Tdap</strong>. 임신 중 접종하지 못했다면 분만 직후 접종. 이전 Tdap을 맞았더라도 태아 수동면역 목적상 매 임신 접종을 임상적으로 적용.</td></tr>
+<tr><td>영아 밀접접촉자</td><td>12개월 미만 영아의 가족·보호자·의료인·산후조리 종사자 등은 Tdap 접종력 확인.</td></tr>
+<tr><td>상처 관리</td><td>상처의 오염 정도와 마지막 파상풍 톡소이드 접종 시점을 함께 판단. 필요 시 Tdap/Td 및 TIG 별도 고려.</td></tr></table>
+</div>
+<div class="card span5">
+<h3>금기·주의</h3>
+<p><span class="badge b-bad">금기</span> 백신 성분/이전 접종 후 아나필락시스. 백일해 함유 백신 후 7일 이내 다른 원인으로 설명되지 않는 뇌증이면 백일해 성분 금기.</p>
+<p><span class="badge b-warn">주의</span> 중등도·중증 급성질환. 과거 Arthus reaction이 명확하면 파상풍 톡소이드 포함 백신은 10년 이내 피함.</p>
+<p class="small">Tdap 흔한 국소반응: 통증, 발적, 종창. 국소반응만으로 다음 접종이 금기가 되지는 않음.</p>
+</div>
+</div>
+</section>
+
+<section class="tab" id="zoster">
+<h2>대상포진</h2>
+
+<div class="vaxIntro">
+ <div class="vaxIntroMain">
+  <h3>이 백신은 무엇을 예방하나?</h3>
+  <p>대상포진은 새로 외부에서 감염되는 병이라기보다 <strong>어릴 때 수두를 일으킨 수두-대상포진바이러스(VZV)가 신경절에 잠복했다가 다시 활성화</strong>되면서 생기는 질환입니다. 나이가 들거나 면역이 저하될수록 위험이 증가합니다.</p>
+  <p>백신의 중요한 목적은 대상포진 발생 자체뿐 아니라 <strong>오랫동안 지속될 수 있는 대상포진 후 신경통(PHN)과 합병증 위험을 줄이는 것</strong>입니다. 현재 실무에서는 재조합 백신(RZV)이 핵심 선택지입니다.</p>
+  <div class="patientPhrase">“예전에 대상포진을 앓았어도 다시 생길 수 있기 때문에 회복 후 예방접종을 고려합니다. 이 백신은 현재 생긴 대상포진을 치료하는 주사는 아닙니다.”</div>
+ </div>
+ <div class="vaxFacts">
+  <h3>기본 상식</h3>
+  <div class="factRow"><div class="factKey">RZV</div><div>재조합 비생백신, 2회</div></div>
+  <div class="factRow"><div class="factKey">ZVL</div><div>약독화 생백신, 면역저하·임신에서 제한</div></div>
+  <div class="factRow"><div class="factKey">일반 대상</div><div>50세 이상; RZV는 18세 이상 특정 면역저하 위험군도 대상</div></div>
+  <div class="factRow"><div class="factKey">치료 여부</div><div>현재 발생한 대상포진의 치료제가 아니라 예방백신</div></div>
+ </div>
+</div>
+<div class="grid">
+<div class="card span7">
+<h3>재조합 백신(RZV, 싱그릭스)</h3>
+<table><tr><th>항목</th><th>기준</th></tr>
+<tr><td>대상</td><td><strong>50세 이상 성인</strong>; 또는 <strong>18세 이상 면역저하/면역억제로 대상포진 위험이 높은 사람</strong>.</td></tr>
+<tr><td>일정</td><td>2회, 1차 후 <strong>2–6개월</strong>. 면역저하자는 상황에 따라 <strong>1–2개월</strong>로 단축 가능.</td></tr>
+<tr><td>과거 대상포진</td><td>앓았더라도 접종 권장 대상. 국내 건강정보포털은 일반적으로 회복 후 6–12개월 접종을 제시.</td></tr>
+<tr><td>과거 생백신 접종</td><td>과거 ZVL 접종력이 있어도 RZV 고려 가능.</td></tr>
+<tr><td>면역저하</td><td>생백신과 달리 재조합 사백신으로 접종 가능.</td></tr>
+<tr><td>임신</td><td>안전성 자료가 충분하지 않아 임신 중에는 연기 권장.</td></tr></table>
+</div>
+<div class="card span5">
+<h3>약독화 생백신(ZVL)</h3>
+<p><strong>50세 이상 성인, 1회.</strong></p>
+<p><span class="badge b-bad">금기/피해야 함</span> 임신, 중증 면역저하, 백신 성분에 중증 알레르기.</p>
+<p>현재는 면역저하자에서도 사용할 수 있고 예방효과가 더 높은 RZV가 실무상 우선 고려되는 경우가 많음.</p>
+<div class="alert warn">대상포진 자체가 급성으로 진행 중이면 급성기 치료·회복 후 접종 시점을 잡습니다.</div>
+</div>
+</div>
+</section>
+
+<section class="tab" id="pneumo">
+<h2>폐렴구균</h2>
+
+<div class="vaxIntro">
+ <div class="vaxIntroMain">
+  <h3>이 백신은 무엇을 예방하나?</h3>
+  <p><strong>폐렴구균(Streptococcus pneumoniae)</strong>은 폐렴뿐 아니라 균혈증·패혈증·수막염 같은 침습성 감염을 일으킬 수 있습니다. 고령, 만성 심폐질환, 당뇨, 면역저하, 무비증 등이 있으면 중증 위험이 높아집니다.</p>
+  <p>성인 폐렴구균 백신은 크게 <strong>단백결합백신(PCV)과 다당질백신(PPSV23)</strong>으로 나뉘며, 서로 완전히 같은 백신이 아닙니다. 따라서 “폐렴주사를 맞았다”는 말만으로 끝내지 말고 <strong>무슨 제품을 언제 맞았는지</strong> 확인해야 합니다.</p>
+  <div class="patientPhrase">“폐렴의 모든 원인을 막는 백신은 아니고, 폐렴구균에 의한 폐렴과 특히 혈액·뇌수막까지 침범하는 중증 감염 위험을 낮추기 위한 백신입니다.”</div>
+ </div>
+ <div class="vaxFacts">
+  <h3>기본 상식</h3>
+  <div class="factRow"><div class="factKey">PCV</div><div>단백결합백신, 면역기억 형성에 유리</div></div>
+  <div class="factRow"><div class="factKey">PPSV23</div><div>23개 혈청형 다당질백신, 국내 65세 이상 국가사업의 핵심</div></div>
+  <div class="factRow"><div class="factKey">실무 핵심</div><div>과거 백신 종류·접종 시점·위험질환 확인</div></div>
+  <div class="factRow"><div class="factKey">오해</div><div>“폐렴 백신”이 모든 바이러스·세균성 폐렴을 예방하는 것은 아님</div></div>
+ </div>
+</div>
+<div class="alert warn"><strong>중요:</strong> “국가사업”과 “개별 임상에서의 백신 선택”을 분리하십시오. 2026년 국내 65세 이상 국가예방접종 사업은 PPSV23 1회 지원이 핵심입니다. PCV15/PCV20 등 단백결합백신은 기저질환·면역저하·과거 접종력에 따라 별도 판단이 필요합니다.</div>
+<div class="grid">
+<div class="card span7">
+<h3>65세 이상 국가사업(PPSV23)</h3>
+<table><tr><th>상황</th><th>실무</th></tr>
+<tr><td>65세 이상, 이전 폐렴구균 접종 없음</td><td>PPSV23 1회 국가 지원.</td></tr>
+<tr><td>65세 이후 PPSV23 접종 완료</td><td>국가사업상 더 이상 추가 PPSV23 접종 필요 없음.</td></tr>
+<tr><td>65세 이전 PPSV23 접종</td><td>65세 이후 추가 여부를 확인. 통상 이전 PPSV23로부터 5년 이상 간격 여부가 중요.</td></tr>
+<tr><td>과거 PCV 접종</td><td>PPSV23과의 간격을 확인. 2026 지침 표준은 이전 PCV 후 1년 이상, 이전 PPSV23 후 5년 이상 등의 조건을 제시.</td></tr></table>
+</div>
+<div class="card span5">
+<h3>PCV 계열을 적극 확인할 고위험군</h3>
+<p>면역저하, 기능적/해부학적 무비증, 뇌척수액 누출, 인공와우 등은 단순 “65세 PPSV23 1회”로 끝내기보다 PCV 포함 전략을 검토해야 합니다.</p>
+<p class="small">현재 국내 성인 PCV 선택은 국가사업 기준, 제품 허가사항, 최신 전문학회 권고가 완전히 동일하지 않을 수 있으므로 고위험군에서는 최신 제품별 지침을 재확인하는 것이 안전합니다.</p>
+</div>
+</div>
+</section>
+
+<section class="tab" id="hepatitis">
+<h2>A형·B형간염</h2>
+
+<div class="subVaxGrid">
+ <div class="subVaxCard">
+  <span class="vaxType">A형간염 · 불활성화 백신</span>
+  <h3>무엇을 예방하나?</h3>
+  <p>A형간염은 주로 <strong>분변-경구 경로, 오염된 음식·물</strong>을 통해 전파되는 급성 바이러스성 간염입니다. B형간염과 달리 만성 감염으로 지속되는 것이 전형적이지 않지만, 성인에서는 증상이 심하고 드물게 전격성 간염으로 진행할 수 있습니다.</p>
+  <div class="patientPhrase">“A형간염은 음식·물과 관련된 급성 간염입니다. 1차를 오래전에 맞았어도 보통 처음부터 다시 시작하지 않고 남은 2차를 이어 맞습니다.”</div>
+ </div>
+ <div class="subVaxCard">
+  <span class="vaxType">B형간염 · 재조합 비생백신</span>
+  <h3>무엇을 예방하나?</h3>
+  <p>B형간염 바이러스는 <strong>혈액·체액을 통해 전파</strong>되고 만성감염으로 지속되면 간경변과 간세포암 위험을 높일 수 있습니다. 의료종사자는 직업적 혈액노출 때문에 접종력과 anti-HBs 면역 여부 확인이 특히 중요합니다.</p>
+  <div class="patientPhrase">“B형간염은 만성화될 수 있고 간경변·간암과도 연결되는 감염입니다. 의료종사자는 접종 완료뿐 아니라 필요할 때 항체가 형성됐는지도 확인합니다.”</div>
+ </div>
+</div>
+<div class="grid">
+<div class="card span6">
+<h3>A형간염</h3>
+<p><strong>일반적 성인 일정: 2회, 1차 후 6–12개월</strong> (제품에 따라 6–18개월).</p>
+<p><span class="badge b-good">핵심</span> 2차가 수개월~수년 늦어져도 <strong>1차부터 다시 시작하지 않고 2차만 접종</strong>.</p>
+<p>질병관리청 건강정보포털은 백신 접종력/감염력이 없는 성인에서 만 40세 미만은 검사 없이 접종, 40세 이상은 항체검사 후 음성일 때 접종을 권고하는 접근을 제시합니다.</p>
+<h4>특히 권장되는 위험군</h4>
+<p>유행지역 여행/장기체류, 직업적 노출, 만성간질환, HIV/면역저하, 투석·이식 등.</p>
+</div>
+<div class="card span6">
+<h3>B형간염</h3>
+<p><strong>성인 기본 일정: 0, 1, 6개월 총 3회.</strong></p>
+<p>과거 감염력과 완전접종력이 없는 모든 소아·청소년·성인이 대상이며, 혈액/체액 노출 위험이 큰 의료종사자 등은 면역 확인이 특히 중요합니다.</p>
+<p><strong>의료종사자:</strong> 완전접종 후 anti-HBs 확인이 필요한 상황에서는 마지막 접종 1–2개월 후 정량검사를 활용. 무반응자 관리에는 별도 재접종 알고리즘 적용.</p>
+<p>임신 자체가 불활성화 B형간염 백신의 절대 금기는 아니며 노출위험·적응증이 있으면 접종 가능.</p>
+</div>
+</div>
+</section>
+
+<section class="tab" id="hpvmmrvar">
+<h2>HPV · MMR · 수두</h2>
+
+<div class="subVaxGrid">
+ <div class="subVaxCard">
+  <span class="vaxType">HPV · 비생백신</span>
+  <h3>사람유두종바이러스(HPV)</h3>
+  <p>지속적인 고위험 HPV 감염은 <strong>자궁경부암뿐 아니라 항문암·외음부암·질암·음경암 및 일부 구인두암</strong>과 관련됩니다. HPV 백신은 이미 생긴 감염을 치료하는 백신이 아니라 <strong>향후 감염을 예방하는 예방백신</strong>이므로 노출 전 접종 효과가 가장 좋습니다.</p>
+ </div>
+ <div class="subVaxCard">
+  <span class="vaxType">MMR · 약독화 생백신</span>
+  <h3>홍역·유행성이하선염·풍진</h3>
+  <p>MMR은 세 질환을 한 번에 예방합니다. 특히 <strong>홍역은 전염력이 매우 높은 호흡기 감염</strong>이므로 해외여행자·의료종사자·집단생활 성인에서 면역의 증거가 중요합니다. 생백신이므로 임신·중증 면역저하 여부를 먼저 확인합니다.</p>
+ </div>
+ <div class="subVaxCard">
+  <span class="vaxType">수두(VAR) · 약독화 생백신</span>
+  <h3>수두</h3>
+  <p>수두는 VZV의 <strong>일차 감염</strong>이고 대상포진은 같은 바이러스의 재활성화입니다. 성인 수두는 소아보다 합병증이 더 심할 수 있어 면역의 증거가 없는 성인은 예방접종 여부를 확인합니다.</p>
+ </div>
+ <div class="subVaxCard">
+  <h3>이 탭의 핵심 구분</h3>
+  <p><strong>HPV는 비생백신, MMR·수두는 생백신</strong>입니다. 따라서 임신·중증 면역저하 문진에서 처리 방식이 완전히 다릅니다.</p>
+  <div class="patientPhrase">“MMR과 수두는 생백신이라 임신이나 심한 면역저하에서는 피하지만, HPV는 생백신이 아닙니다.”</div>
+ </div>
+</div>
+<div class="grid">
+<div class="card span4">
+<h3>HPV</h3>
+<p><strong>첫 접종 9–14세:</strong> 2회, 0·6–12개월. 1–2차 최소 간격 5개월.</p>
+<p><strong>첫 접종 15세 이상:</strong> 3회, 0·2·6개월.</p>
+<p><strong>임신:</strong> 임신 중 추가 접종은 분만 후로 연기. 임신 중 우연히 맞았더라도 특별한 조치가 필요하다는 근거는 없음. 수유 중 가능.</p>
+<p><strong>2026 국가사업:</strong> 12세 남성, 12–17세 여성, 18–26세 저소득층 여성; 지원백신 HPV4.</p>
+</div>
+<div class="card span4">
+<h3>MMR</h3>
+<p>면역의 증거가 없는 청소년·성인: 최소 1회.</p>
+<p><strong>청소년, 대학생/직업교육원생, 의료종사자, 해외여행자:</strong> 최소 4주 간격 2회.</p>
+<p><span class="badge b-bad">금기</span> 임신, 중증 면역저하, 성분 아나필락시스.</p>
+<p>혈액제제/면역글로불린 후에는 제품·용량에 따라 일정 기간 연기해야 하므로 표 확인 필요.</p>
+</div>
+<div class="card span4">
+<h3>수두(VAR)</h3>
+<p>면역이 없는 13세 이상: <strong>4–8주 간격 2회</strong>.</p>
+<p><span class="badge b-bad">금기</span> 임신, 중증 면역저하, 성분 아나필락시스.</p>
+<p>MMR과 수두처럼 서로 다른 주사용 생백신을 같은 날 맞지 않았다면 <strong>최소 4주 간격</strong>.</p>
+</div>
+</div>
+</section>
+
+<section class="tab" id="covidrsv">
+<h2>COVID-19 · RSV</h2>
+
+<div class="subVaxGrid">
+ <div class="subVaxCard">
+  <span class="vaxType">COVID-19 · 절기 업데이트 백신</span>
+  <h3>왜 다시 접종하나?</h3>
+  <p>SARS-CoV-2는 유행 변이가 바뀌고 시간이 지나면서 면역이 감소하기 때문에 고위험군에서는 <strong>최신 유행주에 맞춘 절기 백신으로 중증화·입원 위험을 낮추는 것</strong>이 핵심입니다. 과거 접종 횟수만 세기보다 해당 절기의 권고 대상과 백신을 확인합니다.</p>
+ </div>
+ <div class="subVaxCard">
+  <span class="vaxType">RSV · 성인 고위험군 예방</span>
+  <h3>RSV는 소아 질환만이 아님</h3>
+  <p>RSV는 영유아에서 유명하지만, <strong>고령자와 만성 심폐질환·면역저하자에서도 하기도 감염과 입원</strong>을 일으킬 수 있습니다. 성인 RSV 백신은 국가사업보다는 제품별 허가연령과 환자 위험도에 따라 판단하는 영역입니다.</p>
+  <div class="patientPhrase">“RSV는 아기에게만 위험한 바이러스가 아니라 고령자나 심폐질환이 있는 성인에서도 폐렴·입원을 일으킬 수 있습니다.”</div>
+ </div>
+</div>
+<div class="grid">
+<div class="card span7">
+<h3>2026–2027 코로나19 국가예방접종</h3>
+<p><strong>대상:</strong> 65세 이상, 면역저하자, 감염취약시설 입원·입소자.</p>
+<p><strong>백신:</strong> 2026–2027절기 XFG 백신(화이자·모더나).</p>
+<p>65세 이상 일반 고위험군은 절기 접종을 시행하고, 면역저하자는 추가 접종 횟수/간격이 별도로 적용될 수 있습니다. 조혈모세포이식자는 이식 후 면역 소실을 고려한 재접종 체계가 따로 존재합니다.</p>
+<p><strong>사업기간:</strong> 70세 이상 및 고위험군 2026-10-12 시작, 65–69세 2026-10-15 시작, 2027-06-30 종료.</p>
+<p>인플루엔자와 동시접종 가능.</p>
+</div>
+<div class="card span5">
+<h3>RSV 성인백신</h3>
+<p>질병관리청 2026 호흡기감염병 지침 기준 국내 허가 성인 RSV 백신으로 <strong>Arexvy(GSK), mRESVIA(Moderna)</strong>가 안내되어 있습니다.</p>
+<p>공통적으로 60세 이상 성인 대상 허가가 있으며, 60세 미만 고위험 성인의 허가 연령은 제품별로 다릅니다.</p>
+<p><strong>국가예방접종 사업이 아닌 제품별 허가 기반 접종 영역</strong>이므로, 실제 접종 전 최신 식약처 허가사항과 환자의 심폐질환·면역저하 등 위험도를 확인하십시오.</p>
+</div>
+</div>
+</section>
+
+<section class="tab" id="special">
+<h2>임신 · 면역저하 · 스테로이드</h2>
+<div class="grid">
+<div class="card span6">
+<h3>임신 중</h3>
+<table><tr><th>백신</th><th>판정</th></tr>
+<tr><td>인플루엔자 IIV</td><td><span class="badge b-good">가능/권장</span> 임신 주수 무관.</td></tr>
+<tr><td>Tdap</td><td><span class="badge b-good">권장</span> 매 임신 27–36주.</td></tr>
+<tr><td>MMR, 수두</td><td><span class="badge b-bad">금기</span> 생백신. 산후 접종 고려.</td></tr>
+<tr><td>대상포진 생백신</td><td><span class="badge b-bad">금기/피함</span></td></tr>
+<tr><td>대상포진 RZV</td><td><span class="badge b-warn">연기</span> 임신 중 자료 부족.</td></tr>
+<tr><td>HPV</td><td><span class="badge b-warn">연기</span> 남은 차수는 분만 후.</td></tr>
+<tr><td>A형/B형간염</td><td><span class="badge b-info">적응증 시 가능</span> 불활성화 백신. 노출 위험과 필요성 평가.</td></tr></table>
+</div>
+<div class="card span6">
+<h3>면역저하·스테로이드</h3>
+<p><strong>불활성화·재조합 백신:</strong> 대체로 접종 가능하지만 면역반응이 낮을 수 있어 시점 최적화가 중요.</p>
+<p><strong>약독화 생백신:</strong> 중증 면역저하에서는 대개 금기.</p>
+<p><strong>고용량 전신 스테로이드:</strong> prednisone ≥20 mg/day 또는 ≥2 mg/kg/day를 14일 이상 사용한 경우, 약독화 생백신은 중단 후 4주 이상 경과 후.</p>
+<p><strong>국소·흡입·관절강 내 스테로이드, 짧은 기간의 전신 스테로이드:</strong> 일반적으로 생백신의 절대 금기가 아님.</p>
+<p><strong>항암/방사선치료:</strong> 치료 중 면역저하 상태에서 접종한 불활성화 백신은 면역 회복 후 재접종이 필요할 수 있고, 생백신은 회복 후 일정 간격 필요.</p>
+</div>
+</div>
+</section>
+
+<section class="tab" id="travel">
+<h2>여행·직업·기타 성인백신</h2>
+
+<div class="vaxIntro">
+ <div class="vaxIntroMain">
+  <h3>여행·직업 백신의 기본 원칙</h3>
+  <p>여행백신은 “모든 여행자에게 같은 백신”을 적용하는 것이 아니라 <strong>목적지, 체류기간, 여행 형태, 계절, 직업적 노출, 기저질환, 출국까지 남은 시간</strong>에 따라 달라집니다. 일부는 감염 예방 목적이고, 일부는 입국·비자 서류와 연결될 수 있습니다.</p>
+  <p>검진센터에서는 최소한 <strong>일본뇌염·장티푸스·수막구균·광견병 위험</strong>을 목적지와 활동에 맞춰 확인하는 접근이 실용적입니다.</p>
+  <div class="patientPhrase">“여행백신은 나라 이름 하나만 보고 정하는 것이 아니라, 어느 지역에서 얼마나 오래 어떤 활동을 하는지를 같이 봐야 합니다.”</div>
+ </div>
+ <div class="vaxFacts">
+  <h3>대표 감염병</h3>
+  <div class="factRow"><div class="factKey">일본뇌염</div><div>모기가 전파; 드물지만 뇌염 발생 시 중증</div></div>
+  <div class="factRow"><div class="factKey">장티푸스</div><div>오염된 음식·물을 통한 Salmonella Typhi 감염</div></div>
+  <div class="factRow"><div class="factKey">수막구균</div><div>수막염·패혈증을 일으키는 침습성 감염</div></div>
+  <div class="factRow"><div class="factKey">광견병</div><div>감염 동물 노출 후 발생, 발병 전 예방조치가 매우 중요</div></div>
+ </div>
+</div>
+<div class="grid">
+<div class="card span12">
+<table><tr><th>백신</th><th>성인 대상/일정 핵심</th><th>특이사항</th></tr>
+<tr><td>일본뇌염</td><td>면역 없는 18세 이상 중 위험지역 거주·활동, 유행국 여행자, 실험실 노출자. 불활성화: 1개월 간격 2회 + 2차 11개월 후 3차. 성인 키메라 생백신: 1회.</td><td>생백신은 임신/중증 면역저하 주의. 불활성화와 생백신 교차접종 권장하지 않음.</td></tr>
+<tr><td>장티푸스</td><td>유행지역 여행·체류, 보균자 밀접접촉, 실험실 요원. Vi 주사백신 1회, 지속노출 시 3년마다 추가. Ty21a 경구 생백신은 2일 간격 3회(1,3,5일).</td><td>경구 Ty21a는 생백신.</td></tr>
+<tr><td>수막구균</td><td>보체결핍, 무비증, HIV, 신입훈련병, 실험실, 유행지역 여행/체류, 증명서 필요 상황 등.</td><td>백신 종류(MenACWY/MenB), 연령·질환별 일정이 달라 제품 확인.</td></tr>
+<tr><td>신증후군출혈열</td><td>19세 이상 중 군인·농부, 바이러스/쥐 실험실 요원, 야외 노출 위험이 큰 사람 등 제한적 접종.</td><td>일반 성인 모두에게 일률적으로 권장하는 백신은 아님.</td></tr>
+<tr><td>광견병</td><td>동물·바이러스 고위험 직업, 유행지역 장기체류 및 노출 가능 여행자 등에서 사전접종 고려.</td><td>실제 동물교상 후에는 노출후 예방요법이 별도이며 시간 민감.</td></tr>
+</table>
+</div>
+</div>
+</section>
+
+<section class="tab" id="faq">
+<h2>일반 금기·FAQ</h2>
+<div class="searchbox"><input id="faqSearch" placeholder="예: 감기, 스테로이드, 임신, 항생제, 동시접종, 수혈" oninput="filterFaq()"/></div>
+<div id="faqList">
+<div class="accordion"><div class="accHead">이전 백신 후 아나필락시스가 있었습니다.</div><div class="accBody"><strong>해당 백신 또는 원인 성분은 금기.</strong> 원인 성분 확인이 불명확하면 알레르기 전문 평가 및 제품 성분표 확인이 필요합니다.</div></div>
+<div class="accordion"><div class="accHead">감기, 콧물, 가벼운 미열이 있습니다.</div><div class="accBody">경미한 급성질환은 일반적으로 금기가 아닙니다. 반면 중등도 또는 중증 급성질환은 회복될 때까지 접종 연기를 고려합니다.</div></div>
+<div class="accordion"><div class="accHead">항생제 또는 항바이러스제를 복용하고 있습니다.</div><div class="accBody">대부분의 일반 백신에서 항생제 복용 자체는 금기가 아닙니다. 다만 특정 생백신과 특정 항바이러스제/항균제 조합은 제품별 영향을 받을 수 있으므로 예외는 허가사항을 확인합니다.</div></div>
+<div class="accordion"><div class="accHead">여러 백신을 같은 날 맞아도 됩니까?</div><div class="accBody">대부분 가능합니다. 서로 다른 주사기를 사용하고 부위를 분리합니다. 주사용 생백신끼리는 같은 날 투여하거나, 같은 날이 아니라면 최소 4주 간격을 둡니다.</div></div>
+<div class="accordion"><div class="accHead">최근 수혈 또는 면역글로불린을 맞았습니다.</div><div class="accBody">MMR·수두 등 주사용 생백신은 항체 함유 혈액제제의 종류와 용량에 따라 효과가 떨어질 수 있어 일정 기간 간격을 둬야 합니다. 정확한 제제·용량·날짜를 확인하여 질병관리청 간격표를 적용합니다.</div></div>
+<div class="accordion"><div class="accHead">스테로이드 복용 중인데 접종할 수 있습니까?</div><div class="accBody">불활성화 백신은 대개 접종 가능합니다. 생백신은 고용량 전신 스테로이드(프레드니손 ≥20 mg/day 또는 ≥2 mg/kg/day) 14일 이상 사용 시 중단 후 4주 이상 뒤로 연기합니다. 국소·흡입 제제는 대개 금기가 아닙니다.</div></div>
+<div class="accordion"><div class="accHead">임신을 모르고 MMR/수두 생백신을 맞았습니다.</div><div class="accBody">임신 중 생백신은 권장되지 않지만, 우발적 접종만으로 임신중절을 권고할 근거는 없습니다. 산부인과 추적과 상담을 시행합니다.</div></div>
+<div class="accordion"><div class="accHead">모유수유 중입니다.</div><div class="accBody">모유수유는 대부분의 성인 예방접종 금기가 아닙니다. 개별 생백신·여행백신은 별도 확인합니다.</div></div>
+<div class="accordion"><div class="accHead">예방접종 기록이 불확실합니다.</div><div class="accBody">기록을 확인할 수 없다면 백신별로 재접종 또는 항체검사를 고려합니다. 일반적으로 재접종이 면역형성에 문제를 만들지는 않지만, 백신별 필요한 횟수와 최소간격을 준수합니다.</div></div>
+<div class="accordion"><div class="accHead">예정일보다 너무 늦었습니다. 처음부터 다시 맞나요?</div><div class="accBody"><strong>대부분 아니오.</strong> 늦어진 차수부터 이어서 맞습니다. 단, 최소연령/최소간격보다 너무 일찍 접종한 경우는 무효 처리와 재접종이 필요할 수 있습니다.</div></div>
+<div class="accordion"><div class="accHead">접종 후 관찰은 얼마나 하나요?</div><div class="accBody">질병관리청 국가사업 안내는 접종 후 현장에서 약 20–30분 이상반응 관찰을 안내합니다. 과거 알레르기 병력 등 위험도에 따라 더 면밀한 관찰이 필요할 수 있습니다.</div></div>
+<div class="accordion"><div class="accHead">접종 당일 음주·운동·샤워는?</div><div class="accBody">과음·격한 운동은 피하고 충분히 휴식합니다. 접종 부위는 청결히 유지합니다. 일상적인 가벼운 활동 자체가 백신의 효능을 없애는 것은 아닙니다.</div></div>
+</div>
+</section>
+
+<section class="tab" id="sources">
+<h2>근거·업데이트</h2>
+<div class="card">
+<h3>우선 적용한 국내 공식 근거</h3>
+<div class="source">1. <a href="https://kdca.go.kr/bbs/kdca/55/309600/download.do" target="_blank">질병관리청 「예방접종의 실시기준 및 방법」, 고시 제2026-11호 (2026-07-27 시행)</a></div>
+<div class="source">2. <a href="https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuCd=162&menuLv=1" target="_blank">질병관리청 예방접종도우미 — 2026 국가예방접종 지침(의료기관용), 2026-10-02 수정본</a></div>
+<div class="source">3. <a href="https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuCd=114&menuLv=1" target="_blank">예방접종 일반 금기·주의사항</a></div>
+<div class="source">4. <a href="https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuCd=134&menuLv=1" target="_blank">2026–2027 인플루엔자 국가예방접종</a></div>
+<div class="source">5. <a href="https://nip.kdca.go.kr/irhp/covd/goCov19Vcnt.do?menuCd=47&menuLv=4" target="_blank">2026–2027 코로나19 국가예방접종</a></div>
+<div class="source">6. <a href="https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuCd=1117&menuLv=1" target="_blank">대상포진 예방접종 실시기준</a></div>
+<div class="source">7. <a href="https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuCd=135&menuLv=1" target="_blank">65세 이상 폐렴구균 국가예방접종</a></div>
+<div class="source">8. <a href="https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuCd=1109&menuLv=1" target="_blank">A형간염 예방접종</a></div>
+<div class="source">9. <a href="https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuCd=1102&menuLv=1" target="_blank">B형간염 예방접종</a></div>
+<div class="source">10. <a href="https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuCd=132&menuLv=1" target="_blank">HPV 국가예방접종</a></div>
+<div class="source">11. <a href="https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuCd=1107&menuLv=1" target="_blank">홍역/MMR 예방접종</a></div>
+<div class="source">12. <a href="https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuCd=1108&menuLv=1" target="_blank">수두 예방접종</a></div>
+<div class="source">13. <a href="https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuCd=1110&menuLv=1" target="_blank">일본뇌염 예방접종</a></div>
+<div class="source">14. <a href="https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuCd=1113&menuLv=1" target="_blank">장티푸스 예방접종</a></div>
+<div class="source">15. <a href="https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuCd=1116&menuLv=1" target="_blank">수막구균 예방접종</a></div>
+<div class="source">16. <a href="https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuCd=1114&menuLv=1" target="_blank">신증후군출혈열 예방접종</a></div>
+</div>
+<div class="alert warn"><strong>업데이트 원칙:</strong> 인플루엔자·COVID-19 국가사업 일정, 국가 무료지원 연령, 유통 백신, 신규 허가 백신은 매 절기/매년 변경될 수 있습니다. 이 파일은 2026-10-03 기준 스냅샷입니다.</div>
+<div class="alert"><strong>범위:</strong> 건강검진센터 성인 문진에 초점을 둔 의사용 레퍼런스입니다. 소아 catch-up, 장기이식 세부 재접종, 조혈모세포이식 후 전 백신 재접종, 면역글로불린 제제별 생백신 간격, 광견병 노출후 예방 등은 별도 상세 프로토콜을 적용하십시오.</div>
+</section>
+
+</main>
+</div>
+
+<div class="clinicDock noPrint" id="clinicDock">
+  <div class="clinicDockBar" onclick="toggleClinicDock(event)">
+    <div class="clinicDockTitle">
+      <div class="clinicIcon">✓</div>
+      <div>
+        <strong>예방접종 예진 알고리즘</strong>
+        <span>환자 상담 중 구조화 문진 · 접종 대상/금기/동시접종 판정</span>
+      </div>
+    </div>
+    <div class="clinicOpenHint" id="clinicOpenHint">임상 워크플로 열기 ▲</div>
+  </div>
+
+  <div class="clinicPanel" onclick="event.stopPropagation()">
+    <div class="clinicWorkflowHeader">
+      <div>
+        <h2>PRE-VACCINATION CLINICAL WORKFLOW</h2>
+        <p>환자에게 질문하면서 체크하는 예진 기록형 인터페이스입니다. 검색창 대신 임상 알고리즘 입력 방식으로 구성했습니다.</p>      </div>
+      <button class="closeDock" onclick="closeClinicDock()" aria-label="닫기">×</button>
+    </div>
+
+    <div class="workflowGrid">
+      <div class="workflowStep">
+        <h3><span class="stepNo">1</span> 환자 프로파일</h3>
+        <div class="inline2">
+          <div><label>만 나이</label><input type="number" id="cAge" min="18" max="110" value="50"></div>
+          <div><label>임신 주수</label><input type="number" id="cGw" min="1" max="42" placeholder="해당 시"></div>
+        </div>
+        <div class="clinicChecks">
+          <label class="checkline"><input type="checkbox" id="cPreg"> 현재 임신 중</label>
+          <label class="checkline"><input type="checkbox" id="cImmune"> 중증 면역저하/면역억제</label>
+          <label class="checkline"><input type="checkbox" id="cSteroid"> 고용량 전신 스테로이드 ≥14일</label>
+          <label class="checkline"><input type="checkbox" id="cRisk"> 만성질환/고위험군</label>
+          <label class="checkline"><input type="checkbox" id="cHealthcare"> 의료종사자/혈액노출 직업</label>
+          <label class="checkline"><input type="checkbox" id="cTravel"> 해외여행/집단생활 고위험</label>
+        </div>
+      </div>
+
+      <div class="workflowStep">
+        <h3><span class="stepNo">2</span> 오늘 검토할 백신</h3>
+        <div class="vaxCheckGrid">
+          <label class="checkline"><input type="checkbox" name="cVax" value="flu"> 인플루엔자</label>
+          <label class="checkline"><input type="checkbox" name="cVax" value="tdap"> Tdap</label>
+          <label class="checkline"><input type="checkbox" name="cVax" value="rzv"> 대상포진 RZV</label>
+          <label class="checkline"><input type="checkbox" name="cVax" value="ppsv"> 폐렴구균 PPSV23</label>
+          <label class="checkline"><input type="checkbox" name="cVax" value="pcv"> 폐렴구균 PCV</label>
+          <label class="checkline"><input type="checkbox" name="cVax" value="hepa"> A형간염</label>
+          <label class="checkline"><input type="checkbox" name="cVax" value="hepb"> B형간염</label>
+          <label class="checkline"><input type="checkbox" name="cVax" value="hpv"> HPV</label>
+          <label class="checkline"><input type="checkbox" name="cVax" value="mmr"> MMR</label>
+          <label class="checkline"><input type="checkbox" name="cVax" value="var"> 수두</label>
+          <label class="checkline"><input type="checkbox" name="cVax" value="covid"> COVID-19</label>
+          <label class="checkline"><input type="checkbox" name="cVax" value="rsv"> RSV</label>
+        </div>
+        <hr style="border:0;border-top:1px solid #e2e9ef;margin:8px 0">
+        <div class="clinicChecks">
+          <label class="checkline"><input type="checkbox" id="cNoTdap"> 성인 Tdap 접종력 없음/불명</label>
+          <label class="checkline"><input type="checkbox" id="cTd10"> 마지막 Td/Tdap ≥10년</label>
+          <label class="checkline"><input type="checkbox" id="cNoHepB"> B형간염 완전접종/면역 불명</label>
+          <label class="checkline"><input type="checkbox" id="cNoMMR"> MMR 면역의 증거 불명/없음</label>
+          <label class="checkline"><input type="checkbox" id="cNoVar"> 수두 면역의 증거 불명/없음</label>
+          <label class="checkline"><input type="checkbox" id="cHepARisk"> A형간염 위험요인 있음</label>
+        </div>
+      </div>
+
+      <div class="workflowStep">
+        <h3><span class="stepNo">3</span> 금기·주의 Safety Screen</h3>
+        <div class="clinicChecks" style="grid-template-columns:1fr">
+          <label class="checkline"><input type="checkbox" id="cAna"> 선택한 백신/성분에 아나필락시스 병력</label>
+          <label class="checkline"><input type="checkbox" id="cAcute"> 현재 중등도·중증 급성질환/고열</label>
+          <label class="checkline"><input type="checkbox" id="cRecentLive"> 최근 28일 이내 다른 주사용 생백신 접종</label>
+          <label class="checkline"><input type="checkbox" id="cBlood"> 최근 수혈·IVIG·항체 함유 혈액제제</label>
+          <label class="checkline"><input type="checkbox" id="cGBS"> 독감백신 후 6주 이내 GBS 병력</label>
+          <label class="checkline"><input type="checkbox" id="cEnceph"> 백일해 백신 후 7일 이내 원인불명 뇌증</label>
+          <label class="checkline"><input type="checkbox" id="cMyocard"> COVID-19 백신 후 심근염/심낭염 진단</label>
+        </div>
+        <div class="clinicMiniNote">“선택한 백신/성분 아나필락시스”는 모든 선택 백신에 공통으로 적용하지 말고 실제 원인 백신을 확인하여 최종 판단하십시오. 이 화면은 상담 중 구조화된 안전 점검을 위한 보조도구입니다.</div>
+      </div>
+    </div>
+
+    <div class="clinicActions">
+      <button class="clinicPrimary" onclick="runClinicalWorkflow()">예진 알고리즘 실행</button>
+      <button class="clinicReset" onclick="resetClinicalWorkflow()">입력 초기화</button>
+      <span class="small">결과는 ‘접종 대상 여부’와 ‘오늘의 안전성’을 분리하여 표시합니다.</span>
+    </div>
+
+    <div id="clinicSummary" class="workflowSummary">
+      백신을 선택하고 환자 프로파일과 Safety Screen을 입력한 뒤 <strong>예진 알고리즘 실행</strong>을 누르십시오.
+    </div>
+    <div id="clinicResults" class="clinicResults" style="margin-top:10px"></div>
+  </div>
+</div>
+
+<div class="footer">임상 의사결정 지원용 · 최종 접종 여부는 예진의사가 환자 상태와 제품별 허가사항을 확인하여 판단 · 대한민국 질병관리청 공개자료 기반</div>
+
+<script>
+const liveVaccines = new Set(["zvl","mmr","var","jel","tyl"]);
+
+document.querySelectorAll(".tabbtn").forEach(b=>{
+ b.addEventListener("click",()=>{
+  document.querySelectorAll(".tabbtn").forEach(x=>x.classList.remove("active"));
+  document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active"));
+  b.classList.add("active"); document.getElementById(b.dataset.tab).classList.add("active");
+  window.scrollTo({top:0,behavior:"smooth"});
+ });
+});
+document.querySelectorAll(".accHead").forEach(h=>h.addEventListener("click",()=>h.parentElement.classList.toggle("open")));
+
+function assess(){
+ const v=document.getElementById("vacSel").value;
+ const age=+document.getElementById("age").value||0;
+ const preg=document.getElementById("preg").checked;
+ const gw=+document.getElementById("gw").value||0;
+ const immune=document.getElementById("immune").checked;
+ const steroid=document.getElementById("steroid").checked;
+ const acute=document.getElementById("acute").checked;
+ const an=document.getElementById("anaphylaxis").checked;
+ const recentLive=document.getElementById("recentLive").checked;
+ const blood=document.getElementById("blood").checked;
+ const gbs=document.getElementById("gbs").checked;
+ const enceph=document.getElementById("enceph").checked;
+ let severity=0; // 0 good,1 info,2 warn,3 bad
+ let title="접종 가능 범위"; let msgs=[];
+
+ if(an){severity=3; title="금기: 동일 백신/성분 아나필락시스"; msgs.push("이전 동일 백신 또는 원인 성분에 중증 알레르기(아나필락시스)가 있었다면 해당 백신은 접종하지 않습니다.");}
+ if(acute && severity<3){severity=3; title="오늘은 연기 권장"; msgs.push("중등도 또는 중증 급성질환은 모든 백신에서 일반적인 일시적 주의사항입니다. 회복 후 접종하십시오.");}
+ if(liveVaccines.has(v) && preg){severity=3; title="생백신: 임신 중 접종하지 않음"; msgs.push("임신은 MMR·수두·대상포진 생백신 등 약독화 생백신의 일시적 금기입니다.");}
+ if(liveVaccines.has(v) && immune){severity=3; title="생백신: 중증 면역저하에서 금기"; msgs.push("중증 면역저하/면역억제 상태에서는 약독화 생백신을 접종하지 않습니다.");}
+ if(liveVaccines.has(v) && steroid && severity<3){severity=3; title="생백신 연기"; msgs.push("고용량 전신 스테로이드를 14일 이상 사용했다면 중단 후 최소 4주가 지난 뒤 생백신 접종을 고려합니다.");}
+ if(liveVaccines.has(v) && recentLive && severity<3){severity=Math.max(severity,2); title="생백신 간격 확인"; msgs.push("다른 주사용 생백신과 같은 날 접종하지 않았다면 최소 4주(28일) 간격을 두어야 합니다.");}
+ if((v==="mmr"||v==="var") && blood && severity<3){severity=Math.max(severity,2); title="혈액제제-생백신 간격 확인 필요"; msgs.push("면역글로불린·수혈 등 항체 함유 제제는 MMR/수두 백신 면역반응을 방해할 수 있습니다. 제제 종류·용량·날짜에 따른 간격표를 확인하십시오.");}
+
+ if(v==="flu"){
+  msgs.push("성인 불활성화 인플루엔자 백신은 매년 1회가 기본입니다.");
+  if(preg) msgs.push("임신부는 임신 주수와 관계없이 접종 가능하며 2026–2027 국가사업 대상입니다.");
+  if(age>=65) msgs.push("2026–2027 국가사업상 65세 이상 무료접종 대상입니다.");
+  if(gbs && severity<3){severity=Math.max(severity,2); title="주의: 과거 백신 후 GBS"; msgs.push("인플루엔자 백신 접종 후 6주 이내 GBS 과거력은 주의사항입니다. 감염 위험과 재발 위험을 개별 평가하십시오.");}
+ }
+ if(v==="tdap"){
+  msgs.push("성인 기초접종 완료자는 매 10년마다 Tdap 또는 Td. Tdap 접종력이 없다면 Tdap 1회를 포함합니다.");
+  if(preg){
+   if(gw>=27 && gw<=36){msgs.push("현재 27–36주로, 매 임신 Tdap 권장 시기에 해당합니다.");}
+   else {severity=Math.max(severity,1); msgs.push("임신 중 Tdap의 권장 시기는 27–36주입니다. 현재 주수를 확인하십시오.");}
+  }
+  if(enceph){severity=3; title="백일해 성분 금기"; msgs.push("백일해 함유 백신 후 7일 이내 원인불명 뇌증 병력이 있으면 백일해 성분 백신은 금기입니다. Td 대체 가능성을 검토하십시오.");}
+ }
+ if(v==="rzv"){
+  if(preg){severity=Math.max(severity,2); title="임신 중 RZV는 연기 권장"; msgs.push("재조합 대상포진 백신은 생백신은 아니지만 임신 중 안전성 자료가 충분하지 않아 연기 권장입니다.");}
+  if(age>=50 || (age>=18 && immune)){msgs.push("KDCA 접종대상에 해당: 50세 이상 또는 18세 이상 면역저하 위험군.");}
+  else {severity=Math.max(severity,2); title="표준 접종대상 여부 확인"; msgs.push("KDCA 기준 일반 접종대상은 50세 이상이며, 18세 이상은 면역저하/면역억제 고위험군에서 대상입니다.");}
+  msgs.push("2회 접종: 보통 2–6개월 간격. 면역저하자는 1–2개월 간격으로 단축 가능.");
+ }
+ if(v==="zvl"){
+  if(age<50){severity=Math.max(severity,2); msgs.push("약독화 대상포진 생백신의 KDCA 접종대상은 50세 이상입니다.");}
+  msgs.push("1회 접종 생백신. 면역저하·임신에서는 사용하지 않습니다.");
+ }
+ if(v==="ppsv23"){
+  if(age>=65){msgs.push("2026 국가사업상 65세 이상은 PPSV23 1회 지원 대상. 과거 65세 이상에서 이미 접종했다면 국가사업상 추가접종 불필요.");}
+  else {severity=Math.max(severity,1); msgs.push("65세 미만은 국가 노인사업 대상이 아니며, 만성질환/면역저하 등 위험군 여부에 따라 별도 판단합니다.");}
+ }
+ if(v==="pcv"){
+  severity=Math.max(severity,1); msgs.push("PCV 계열의 성인 사용은 기저질환·면역저하·과거 PPSV23/PCV 이력과 제품 허가사항을 함께 확인하십시오. 국가 65세 사업은 PPSV23 중심입니다.");
+ }
+ if(v==="hepa"){
+  msgs.push("성인 기본은 2회, 1차 후 6–12개월(제품별 6–18개월). 지연되어도 처음부터 다시 시작하지 않습니다.");
+  if(age>=40) msgs.push("KDCA 건강정보포털은 40세 이상에서 접종 전 항체검사 후 음성 시 접종하는 접근을 권고합니다.");
+ }
+ if(v==="hepb"){
+  msgs.push("성인 기본 일정은 0, 1, 6개월 총 3회. 불완전 접종은 남은 차수부터 이어서 접종합니다.");
+  msgs.push("의료종사자·혈액/체액 노출 고위험군은 접종 완료 후 anti-HBs 확인이 필요한지 검토하십시오.");
+ }
+ if(v==="hpv"){
+  if(preg){severity=Math.max(severity,2); title="임신 중 HPV 추가접종 연기"; msgs.push("임신 중에는 HPV 추가 접종을 분만 후로 연기합니다.");}
+  msgs.push("첫 접종 9–14세는 2회(0, 6–12개월), 15세 이상 시작은 3회(0, 2, 6개월).");
+  if(age>26) msgs.push("27세 이상은 2026 국내 국가사업 대상이 아닙니다. 제품 허가연령 및 개인 위험도를 기준으로 상담하십시오.");
+ }
+ if(v==="mmr"){
+  msgs.push("면역의 증거가 없는 성인은 최소 1회. 의료종사자·해외여행자·대학생 등 고위험 성인은 최소 4주 간격 2회.");
+ }
+ if(v==="var"){
+  msgs.push("면역이 없는 13세 이상은 4–8주 간격 2회.");
+ }
+ if(v==="covid"){
+  if(age>=65 || immune){msgs.push("2026–2027 국가예방접종 고위험군 범주에 해당할 가능성이 높습니다. XFG 절기 백신 적용.");}
+  else {severity=Math.max(severity,1); msgs.push("2026–2027 국가사업은 65세 이상, 면역저하자, 감염취약시설 입원·입소자를 중심으로 시행됩니다.");}
+ }
+ if(v==="jei"){
+  msgs.push("면역 없는 성인 중 위험지역 활동/거주, 유행국 여행, 실험실 노출 등이 대상. 불활성화 백신: 1개월 간격 2회 후 2차 11개월 뒤 3차.");
+ }
+ if(v==="jel"){
+  msgs.push("성인 키메라 생백신은 1회. 생백신 금기사항을 반드시 확인.");
+ }
+ if(v==="tyi"){
+  msgs.push("유행지역 여행/체류, 보균자 접촉, 실험실 요원 등이 대상. 주사용 Vi 백신 1회, 지속 위험 시 3년마다 추가.");
+ }
+ if(v==="tyl"){
+  msgs.push("경구 Ty21a 생백신은 2일 간격 3회(1,3,5일). 생백신 금기사항 확인.");
+ }
+ if(v==="men"){
+  severity=Math.max(severity,1); msgs.push("보체결핍, 무비증, HIV, 신입훈련병, 실험실, 유행지역 여행/체류 등 위험기반 접종. MenACWY/MenB 및 제품별 연령·횟수 확인.");
+ }
+ if(v==="rsv"){
+  severity=Math.max(severity,1); msgs.push("국내 허가 성인 RSV 백신은 제품별 적응 연령이 다릅니다. 60세 이상 공통 허가 범위가 있으며, 60세 미만 고위험군은 제품별 허가사항을 확인하십시오.");
+ }
+
+ if(msgs.length===0) msgs.push("선택한 조건에서 일반적인 절대 금기는 확인되지 않았습니다.");
+ const classes=["good","info","warn","bad"];
+ const labels=["접종 가능 범위","추가 확인 필요","주의/조건부","금기 또는 오늘 연기"];
+ if(severity===0) title=title==="접종 가능 범위"?labels[0]:title;
+ if(severity===1 && title==="접종 가능 범위") title=labels[1];
+ if(severity===2 && title==="접종 가능 범위") title=labels[2];
+ if(severity===3 && title==="접종 가능 범위") title=labels[3];
+ const el=document.getElementById("decisionResult"); el.className="result "+classes[severity];
+ el.innerHTML='<div class="resultTitle">'+title+'</div><ul>'+msgs.map(x=>'<li>'+x+'</li>').join("")+'</ul>';
+}
+
+function addMonths(d,m){const x=new Date(d);const day=x.getDate();x.setMonth(x.getMonth()+m);if(x.getDate()<day)x.setDate(0);return x}
+function addYears(d,y){const x=new Date(d);x.setFullYear(x.getFullYear()+y);return x}
+function fmt(d){return d.toISOString().slice(0,10)}
+function calcInterval(){
+ const val=document.getElementById("intervalVac").value;
+ const ds=document.getElementById("baseDate").value;
+ const el=document.getElementById("intervalResult");
+ if(!ds){el.className="result warn";el.innerHTML="기준 접종일을 먼저 입력하십시오.";return}
+ const d=new Date(ds+"T12:00:00"); let txt="";
+ if(val==="hepa2") txt=`권장 2차: <strong>${fmt(addMonths(d,6))} ~ ${fmt(addMonths(d,12))}</strong>. 제품에 따라 상한이 18개월일 수 있음. 이미 지연됐다면 가능한 시점에 2차만 접종하고 처음부터 리셋하지 않음.`;
+ if(val==="hepb2") txt=`2차 표준일: <strong>${fmt(addMonths(d,1))}</strong>.`;
+ if(val==="hepb3") txt=`3차 표준일(1차 기준): <strong>${fmt(addMonths(d,6))}</strong>. 최소간격은 1–2차 4주, 2–3차 8주, 1–3차 16주 원칙을 함께 확인.`;
+ if(val==="rzv2") txt=`2차 권장창: <strong>${fmt(addMonths(d,2))} ~ ${fmt(addMonths(d,6))}</strong>. 늦어진 경우 가능한 빨리 2차 접종.`;
+ if(val==="rzv2im") txt=`면역저하자의 단축 2차 가능 시기: <strong>${fmt(addMonths(d,1))} ~ ${fmt(addMonths(d,2))}</strong>. 면역억제 치료 일정 등을 고려해 최적화.`;
+ if(val==="tdboost") txt=`정기 추가접종 기준: <strong>${fmt(addYears(d,10))}</strong>. 단, 상처 처치나 임신 Tdap은 별도 규칙.`;
+ if(val==="mmr2") txt=`2차 최소 가능일: <strong>${fmt(new Date(d.getTime()+28*86400000))}</strong> (최소 4주).`;
+ if(val==="var2") txt=`2차 권장창(13세 이상): <strong>${fmt(new Date(d.getTime()+28*86400000))} ~ ${fmt(new Date(d.getTime()+56*86400000))}</strong> (4–8주).`;
+ if(val==="hpv2") txt=`2차 권장창: <strong>${fmt(addMonths(d,6))} ~ ${fmt(addMonths(d,12))}</strong>. 1–2차가 5개월 미만이면 3회 일정이 필요할 수 있음.`;
+ if(val==="hpv3_2") txt=`2차 표준일: <strong>${fmt(addMonths(d,2))}</strong>. 최소간격은 4주.`;
+ if(val==="hpv3_3") txt=`3차 표준일(1차 기준): <strong>${fmt(addMonths(d,6))}</strong>. 2–3차 최소 12주, 1–3차 최소 5개월 조건도 확인.`;
+ if(val==="je2") txt=`일본뇌염 불활성화 2차 표준일: <strong>${fmt(addMonths(d,1))}</strong>.`;
+ if(val==="je3") txt=`일본뇌염 불활성화 3차 표준일(2차 기준): <strong>${fmt(addMonths(d,11))}</strong>.`;
+ el.className="result good";el.innerHTML=txt;
+}
+function filterFaq(){
+ const q=document.getElementById("faqSearch").value.trim().toLowerCase();
+ document.querySelectorAll("#faqList .accordion").forEach(a=>{
+  a.style.display=a.innerText.toLowerCase().includes(q)?"block":"none";
+ });
+}
+
+function toggleClinicDock(ev){
+  const d=document.getElementById("clinicDock");
+  d.classList.toggle("open");
+  document.getElementById("clinicOpenHint").textContent=d.classList.contains("open")?"임상 워크플로 닫기 ▼":"임상 워크플로 열기 ▲";
+}
+function closeClinicDock(){
+  const d=document.getElementById("clinicDock"); d.classList.remove("open");
+  document.getElementById("clinicOpenHint").textContent="임상 워크플로 열기 ▲";
+}
+function cv(id){return document.getElementById(id).checked}
+function selectedCVax(){return [...document.querySelectorAll('input[name="cVax"]:checked')].map(x=>x.value)}
+const cNames={
+  flu:"인플루엔자",tdap:"Tdap",rzv:"대상포진 RZV",ppsv:"폐렴구균 PPSV23",pcv:"폐렴구균 PCV",
+  hepa:"A형간염",hepb:"B형간염",hpv:"HPV",mmr:"MMR",var:"수두",covid:"COVID-19",rsv:"RSV"
+};
+function runClinicalWorkflow(){
+  const age=+document.getElementById("cAge").value||0;
+  const gw=+document.getElementById("cGw").value||0;
+  const preg=cv("cPreg"), immune=cv("cImmune"), steroid=cv("cSteroid"), risk=cv("cRisk"),
+        healthcare=cv("cHealthcare"), travel=cv("cTravel"), ana=cv("cAna"), acute=cv("cAcute"),
+        recentLive=cv("cRecentLive"), blood=cv("cBlood"), gbs=cv("cGBS"), enceph=cv("cEnceph"),
+        myocard=cv("cMyocard");
+  const vs=selectedCVax();
+  const out=document.getElementById("clinicResults"), sum=document.getElementById("clinicSummary");
+  if(!vs.length){
+    sum.innerHTML="<strong>검토할 백신이 선택되지 않았습니다.</strong> Step 2에서 오늘 상담할 백신을 선택하십시오.";
+    out.innerHTML=""; return;
+  }
+  let cards=[], overallStop=0, overallCaution=0;
+
+  for(const v of vs){
+    let target="적응증/접종력 확인", tReason=[];
+    let level="ok", safety="오늘 접종 가능 범위", reasons=[];
+
+    // Target / indication logic
+    if(v==="flu"){target="접종 대상"; tReason.push("성인 계절 인플루엔자 예방접종 대상으로 검토");}
+    if(v==="tdap"){
+      if(preg && gw>=27 && gw<=36){target="접종 대상";tReason.push("임신 27–36주: 매 임신 Tdap 권장 시기");}
+      else if(cv("cNoTdap")||cv("cTd10")){target="접종 대상";tReason.push(cv("cNoTdap")?"성인 Tdap 접종력 없음/불명":"마지막 Td/Tdap 후 10년 이상");}
+      else {target="접종력 확인";tReason.push("마지막 Tdap/Td 날짜에 따라 필요성 결정");}
+    }
+    if(v==="rzv"){
+      if(age>=50 || (age>=18 && immune)){target="접종 대상";tReason.push(age>=50?"50세 이상":"18세 이상 면역저하 고위험군");}
+      else {target="일반 표준대상 아님";tReason.push("일반 대상은 50세 이상; 18세 이상은 면역저하 고위험군 중심");}
+    }
+    if(v==="ppsv"){
+      if(age>=65){target="국가사업 대상 가능";tReason.push("65세 이상 PPSV23 국가사업 대상 범주");}
+      else if(risk||immune){target="위험기반 접종 검토";tReason.push("기저질환/면역저하 위험에 따라 접종전략 확인");}
+      else {target="위험요인 확인";tReason.push("65세 미만에서는 위험질환과 과거 PCV/PPSV 이력 확인");}
+    }
+    if(v==="pcv"){
+      if(risk||immune||age>=65){target="접종전략 검토";tReason.push("연령·기저질환·과거 폐렴구균 접종력에 따라 PCV 선택");}
+      else {target="개별 적응증 확인";tReason.push("제품 허가와 위험군 기준 확인");}
+    }
+    if(v==="hepa"){
+      if(cv("cHepARisk")||travel||healthcare){target="위험기반 접종 대상 가능";tReason.push("여행/직업/기저질환 등 위험요인 있음");}
+      else {target="면역·위험요인 확인";tReason.push(age>=40?"40세 이상은 과거 면역 여부/항체검사 활용 고려":"과거 접종·감염력 확인 후 접종 가능");}
+    }
+    if(v==="hepb"){
+      if(cv("cNoHepB")||healthcare){target="접종 대상 가능";tReason.push(healthcare?"의료종사자/혈액노출 위험":"완전접종 또는 면역 여부 불명");}
+      else {target="접종력·면역 확인";tReason.push("완전접종 여부와 필요 시 anti-HBs 확인");}
+    }
+    if(v==="hpv"){
+      if(age<=26){target="접종 대상 가능";tReason.push("연령 및 기존 접종 완료 여부 확인");}
+      else {target="개별 상담";tReason.push("국가사업 대상과 제품 허가연령은 다를 수 있어 접종력·연령·위험도를 함께 확인");}
+    }
+    if(v==="mmr"){
+      if(cv("cNoMMR") && (healthcare||travel)){target="접종 대상 가능";tReason.push("면역의 증거 불명 + 의료/여행 고위험");}
+      else if(cv("cNoMMR")){target="면역 보완 검토";tReason.push("면역의 증거가 없어 접종 필요성 확인");}
+      else {target="면역의 증거 확인";tReason.push("접종기록/검사/과거력에 따라 필요성 판단");}
+    }
+    if(v==="var"){
+      if(cv("cNoVar")){target="접종 대상 가능";tReason.push("수두 면역의 증거 없음/불명");}
+      else {target="면역의 증거 확인";tReason.push("과거 수두 또는 접종력 확인");}
+    }
+    if(v==="covid"){
+      if(age>=65||immune||risk){target="2026–2027 고위험 접종 대상 가능";tReason.push(age>=65?"65세 이상":immune?"면역저하":"고위험 기저질환 확인 필요");}
+      else {target="절기 지침 대상 확인";tReason.push("국가사업 지원대상과 의학적 접종 필요성을 구분");}
+    }
+    if(v==="rsv"){
+      if(age>=60){target="접종 상담 대상 가능";tReason.push("60세 이상: 제품별 허가와 위험도 확인");}
+      else if(risk||immune){target="제품별 허가 적응증 확인";tReason.push("60세 미만 고위험 적응증은 제품마다 다름");}
+      else {target="일반 표준대상 여부 확인";tReason.push("연령·제품별 허가사항 확인");}
+    }
+
+    // Universal safety
+    if(ana){level="stop"; safety="해당 백신 성분 확인 전 접종 금기"; reasons.push("선택 백신 또는 성분에 아나필락시스 병력 체크됨");}
+    else if(acute){level="caution"; safety="오늘은 연기 권장"; reasons.push("중등도·중증 급성질환/고열: 회복 후 접종");}
+
+    // Specific safety
+    if((v==="mmr"||v==="var") && preg){level="stop"; safety="접종 금기"; reasons.push("임신 중 약독화 생백신 금기");}
+    if((v==="mmr"||v==="var") && immune){level="stop"; safety="접종 금기"; reasons.push("중증 면역저하에서 약독화 생백신 금기");}
+    if((v==="mmr"||v==="var") && steroid){level="stop"; safety="생백신 연기"; reasons.push("고용량 전신 스테로이드 ≥14일: 중단 후 통상 4주 뒤 고려");}
+    if((v==="mmr"||v==="var") && recentLive && level!=="stop"){level="caution"; safety="접종 간격 확인"; reasons.push("최근 28일 이내 다른 주사용 생백신: 최소 4주 간격 필요");}
+    if((v==="mmr"||v==="var") && blood && level!=="stop"){level="caution"; safety="혈액제제 간격 확인"; reasons.push("수혈/IVIG 종류·용량·투여일에 따라 생백신 대기기간 적용");}
+    if(v==="flu" && gbs && level!=="stop"){level="caution"; safety="주의 후 개별 판단"; reasons.push("과거 독감백신 후 6주 이내 GBS");}
+    if(v==="tdap" && enceph){level="stop"; safety="백일해 성분 접종 금기"; reasons.push("백일해 함유 백신 후 7일 이내 원인불명 뇌증");}
+    if(v==="rzv" && preg && level!=="stop"){level="caution"; safety="임신 중 연기"; reasons.push("RZV는 생백신은 아니지만 임신 중 접종은 보통 연기");}
+    if(v==="hpv" && preg && level!=="stop"){level="caution"; safety="남은 차수 연기"; reasons.push("임신 중 HPV 접종은 분만 후로 연기");}
+    if(v==="covid" && myocard && level!=="stop"){level="caution"; safety="추가접종 재평가"; reasons.push("이전 COVID-19 백신 후 심근염/심낭염: 최신 절기 지침에 따른 재평가 필요");}
+
+    if(reasons.length===0) reasons.push("입력된 공통 Safety Screen에서 즉시 금기/연기 조건이 확인되지 않음");
+    if(level==="stop") overallStop++;
+    if(level==="caution") overallCaution++;
+
+    cards.push(`<div class="clinicResultCard ${level}">
+      <h4>${cNames[v]}</h4>
+      <div><span class="clinicStatus">대상 판정:</span> ${target}</div>
+      <div class="small">${tReason.join(" · ")}</div>
+      <div style="margin-top:7px"><span class="clinicStatus">안전 판정:</span> ${safety}</div>
+      <div class="small">${reasons.join(" · ")}</div>
+    </div>`);
+  }
+
+  // Combination logic
+  let combos=[];
+  if(vs.includes("pcv") && vs.includes("ppsv")) combos.push("<strong>PCV + PPSV23:</strong> 같은 날 단순 동시접종으로 처리하지 말고 과거 접종력에 따른 순서·간격 확인.");
+  if(vs.includes("mmr") && vs.includes("var")) combos.push("<strong>MMR + 수두:</strong> 오늘 같은 날 함께 접종하는 것은 가능. 다른 날 접종한다면 주사용 생백신 간 최소 4주.");
+  const nonLive = ["flu","tdap","rzv","ppsv","pcv","hepa","hepb","hpv","covid","rsv"];
+  if(vs.length>=2 && vs.every(x=>nonLive.includes(x))) combos.push("<strong>선택 백신이 모두 비생백신:</strong> 일반적으로 같은 날 서로 다른 부위에 동시접종 가능. 제품별 특이사항은 최종 확인.");
+  if(vs.includes("mmr")||vs.includes("var")){
+    if(vs.some(x=>nonLive.includes(x))) combos.push("<strong>생백신 + 비생백신:</strong> 일반적으로 특별한 최소간격 없이 동시접종 가능.");
+  }
+
+  let headline=overallStop?`<strong style="color:#a8221b">금기/접종 중단 조건 ${overallStop}건 확인</strong>`:
+               overallCaution?`<strong style="color:#925000">주의·연기 조건 ${overallCaution}건 확인</strong>`:
+               `<strong style="color:#0b6a45">입력된 항목에서 즉시 중단할 공통 금기 없음</strong>`;
+  sum.innerHTML=headline+` · 선택 백신 ${vs.length}종 평가 완료.`+(combos.length?`<br>${combos.join("<br>")}`:"");
+  out.innerHTML=cards.join("");
+}
+function resetClinicalWorkflow(){
+  document.querySelectorAll('#clinicDock input[type="checkbox"]').forEach(x=>x.checked=false);
+  document.getElementById("cAge").value=50; document.getElementById("cGw").value="";
+  document.getElementById("clinicResults").innerHTML="";
+  document.getElementById("clinicSummary").innerHTML='백신을 선택하고 환자 프로파일과 Safety Screen을 입력한 뒤 <strong>예진 알고리즘 실행</strong>을 누르십시오.';
+}
+
+</script>
+</body>
+</html>
