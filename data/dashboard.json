@@ -4,124 +4,25 @@
     "token_count": 14,
     "max_pages": 0
   },
-  "catalog_updated_at": "2026-10-31T00:00:30+09:00",
+  "catalog_updated_at": "2026-11-01T00:00:30+09:00",
   "latest_snapshot_at": "2026-10-28T17:07:09+09:00",
   "latest_snapshot_date": "2026-10-28",
   "snapshot_count": 86,
   "daily_snapshot_count": 86,
   "totals": {
     "blogs": 14,
-    "posts": 4111,
+    "posts": 4121,
     "captured_posts": 4091,
     "total_views": 1361078,
     "daily_views": 129092,
     "previous_day_views": 0,
-    "previous_day_date": "2026-10-30",
-    "current_month_views": 129092
+    "previous_day_date": "2026-10-31",
+    "current_month_views": 0
   },
   "month_summary": {
-    "current_month": "2026-10",
-    "current_month_views": 129092,
-    "current_month_blog_views": [
-      {
-        "blog_id": 1725,
-        "blog_name": "지식 저장소",
-        "blog_slug": "knarchive",
-        "views": 38854,
-        "total_views": 509789
-      },
-      {
-        "blog_id": 1783,
-        "blog_name": "AI 인사이트 브리지",
-        "blog_slug": "insightbridge",
-        "views": 38567,
-        "total_views": 113495
-      },
-      {
-        "blog_id": 1724,
-        "blog_name": "지식 발전소",
-        "blog_slug": "infoplant",
-        "views": 10723,
-        "total_views": 168710
-      },
-      {
-        "blog_id": 1977,
-        "blog_name": "스마트 리빙",
-        "blog_slug": "smartliving",
-        "views": 7294,
-        "total_views": 129179
-      },
-      {
-        "blog_id": 1799,
-        "blog_name": "모든 것의 역사",
-        "blog_slug": "history",
-        "views": 6840,
-        "total_views": 52469
-      },
-      {
-        "blog_id": 1795,
-        "blog_name": "AI 테크 최신 정보 매거진",
-        "blog_slug": "aitechnote",
-        "views": 5905,
-        "total_views": 36095
-      },
-      {
-        "blog_id": 1800,
-        "blog_name": "학문의 서재",
-        "blog_slug": "studylibrary",
-        "views": 3837,
-        "total_views": 46511
-      },
-      {
-        "blog_id": 1978,
-        "blog_name": "카템 연구소",
-        "blog_slug": "cartemlab",
-        "views": 3304,
-        "total_views": 165177
-      },
-      {
-        "blog_id": 2213,
-        "blog_name": "SoloBiz Stack",
-        "blog_slug": "solobizstack",
-        "views": 2847,
-        "total_views": 12532
-      },
-      {
-        "blog_id": 1986,
-        "blog_name": "펫 픽 노트",
-        "blog_slug": "petpicknote",
-        "views": 2704,
-        "total_views": 39991
-      },
-      {
-        "blog_id": 84,
-        "blog_name": "systrader79의 트레이딩 이야기",
-        "blog_slug": "systrader79",
-        "views": 2545,
-        "total_views": 46685
-      },
-      {
-        "blog_id": 2211,
-        "blog_name": "테크 인사이트",
-        "blog_slug": "techinsight",
-        "views": 2498,
-        "total_views": 16225
-      },
-      {
-        "blog_id": 2210,
-        "blog_name": "뉴스 시그널",
-        "blog_slug": "newssignal",
-        "views": 2037,
-        "total_views": 15940
-      },
-      {
-        "blog_id": 2212,
-        "blog_name": "라이프 솔루션",
-        "blog_slug": "lifesolution",
-        "views": 1137,
-        "total_views": 8280
-      }
-    ],
+    "current_month": "2026-11",
+    "current_month_views": 0,
+    "current_month_blog_views": [],
     "monthly_series": [
       {
         "month": "2026-06",
@@ -146,7 +47,7 @@
       {
         "month": "2026-10",
         "views": 129092,
-        "is_current_month": true
+        "is_current_month": false
       }
     ],
     "is_realtime": false
@@ -6728,7 +6629,7 @@
       "id": 1783,
       "name": "AI 인사이트 브리지",
       "slug": "insightbridge",
-      "post_count": 542,
+      "post_count": 552,
       "captured_posts": 522,
       "total_views": 113495,
       "daily_views": 38567,
@@ -30952,7 +30853,7 @@
   ],
   "intraday_series": [],
   "intraday_summary": {
-    "date": "2026-10-31",
+    "date": "2026-11-01",
     "interval_minutes": 30,
     "snapshot_count": 0,
     "first_collected_at": null,
@@ -31933,10 +31834,10 @@
   "job": {
     "running": false,
     "started_at": null,
-    "finished_at": "2026-10-31T23:30:34+09:00",
+    "finished_at": "2026-11-01T00:00:56+09:00",
     "message": "GitHub Actions 자동 갱신 완료",
     "progress": [],
     "error": null
   },
-  "static_generated_at": "2026-10-31T23:30:34+09:00"
+  "static_generated_at": "2026-11-01T00:00:56+09:00"
 }
