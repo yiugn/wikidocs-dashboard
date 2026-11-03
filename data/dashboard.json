@@ -4,19 +4,19 @@
     "token_count": 14,
     "max_pages": 0
   },
-  "catalog_updated_at": "2026-11-03T00:00:30+09:00",
+  "catalog_updated_at": "2026-11-04T00:00:31+09:00",
   "latest_snapshot_at": "2026-11-02T09:07:07+09:00",
   "latest_snapshot_date": "2026-11-02",
   "snapshot_count": 87,
   "daily_snapshot_count": 87,
   "totals": {
     "blogs": 14,
-    "posts": 4141,
+    "posts": 4151,
     "captured_posts": 4135,
     "total_views": 1385472,
     "daily_views": 24394,
-    "previous_day_views": 24394,
-    "previous_day_date": "2026-11-02",
+    "previous_day_views": 0,
+    "previous_day_date": "2026-11-03",
     "current_month_views": 24394
   },
   "month_summary": {
@@ -6733,7 +6733,7 @@
       "id": 1783,
       "name": "AI 인사이트 브리지",
       "slug": "insightbridge",
-      "post_count": 572,
+      "post_count": 582,
       "captured_posts": 566,
       "total_views": 125410,
       "daily_views": 11915,
@@ -31083,7 +31083,7 @@
   ],
   "intraday_series": [],
   "intraday_summary": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "interval_minutes": 30,
     "snapshot_count": 0,
     "first_collected_at": null,
@@ -32064,10 +32064,10 @@
   "job": {
     "running": false,
     "started_at": null,
-    "finished_at": "2026-11-03T23:30:13+09:00",
+    "finished_at": "2026-11-04T00:00:37+09:00",
     "message": "GitHub Actions 자동 갱신 완료",
     "progress": [],
     "error": null
   },
-  "static_generated_at": "2026-11-03T23:30:13+09:00"
+  "static_generated_at": "2026-11-04T00:00:37+09:00"
 }
